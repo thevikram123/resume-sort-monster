@@ -1,0 +1,2000 @@
+{
+  "job": {
+    "id": "pjb-hbfl0n2kf4r5c7wrb7c32rlps78m",
+    "project_id": "949fd88b-381a-4ae5-b3b9-bf7fcc9b74b8",
+    "status": "COMPLETED",
+    "created_at": "2026-05-12T14:42:31.204906Z",
+    "error_message": null,
+    "name": "Resume suraj.pdf",
+    "tier": "agentic",
+    "updated_at": "2026-05-12T14:42:54.882347Z"
+  },
+  "images_content_metadata": null,
+  "items": {
+    "pages": [
+      {
+        "items": [
+          {
+            "caption": "Suraj Barhath profile picture",
+            "md": "![Suraj Barhath profile picture](page_1_image_1_v2.jpg)",
+            "url": "page_1_image_1_v2.jpg",
+            "bbox": [
+              {
+                "h": 109.798174286633,
+                "w": 94.44690153808597,
+                "x": 42.82214223632813,
+                "y": 24.335211531774007,
+                "confidence": 0.99,
+                "end_index": 54,
+                "label": "image",
+                "start_index": 0
+              }
+            ],
+            "type": "image"
+          },
+          {
+            "level": 1,
+            "md": "# Suraj Barhath (Prince2®)",
+            "value": "Suraj Barhath (Prince2®)",
+            "bbox": [
+              {
+                "h": 28.043198823361276,
+                "w": 296.83286337890627,
+                "x": 199.1211331054688,
+                "y": 31.001457021722562,
+                "confidence": 0.94,
+                "end_index": 25,
+                "label": "paragraph_title",
+                "start_index": 0
+              }
+            ],
+            "type": "heading"
+          },
+          {
+            "md": "IT Consultant & ICT Infrastructure Specialist with strong expertise in Data Center Design, Implementation & O&M, Smart City/SAFE City Systems, ICCC Operations, and ITMS/ATMS/ELV/CCTV integration. Proven experience delivering large-scale tech projects across Rajasthan and Madhya Pradesh Smart City Programs and leading engagements with KPMG India, aligned with high-demand Smart City and ICT leadership roles requiring IoT, surveillance, and urban tech integration. Adept at SLA-driven service delivery, vendor/OEM management, quality & compliance, and leading cross-functional technical teams, matching the core expectations of ICT/Smart City/Data Center Service Delivery Manager roles in current market demand. Seeking to drive scalable innovations across Data Center Infrastructure, ICCC operations, and Smart/SAFE City digital ecosystems ..",
+            "value": "IT Consultant & ICT Infrastructure Specialist with strong expertise in Data Center Design, Implementation & O&M, Smart City/SAFE City Systems, ICCC Operations, and ITMS/ATMS/ELV/CCTV integration. Proven experience delivering large-scale tech projects across Rajasthan and Madhya Pradesh Smart City Programs and leading engagements with KPMG India, aligned with high-demand Smart City and ICT leadership roles requiring IoT, surveillance, and urban tech integration. Adept at SLA-driven service delivery, vendor/OEM management, quality & compliance, and leading cross-functional technical teams, matching the core expectations of ICT/Smart City/Data Center Service Delivery Manager roles in current market demand. Seeking to drive scalable innovations across Data Center Infrastructure, ICCC operations, and Smart/SAFE City digital ecosystems ..",
+            "bbox": [
+              {
+                "h": 156.77369103229802,
+                "w": 367.2636547851563,
+                "x": 198.23451269531253,
+                "y": 72.62559534346418,
+                "confidence": 0.99,
+                "end_index": 843,
+                "label": "text",
+                "start_index": 0
+              },
+              {
+                "h": 11.0,
+                "w": 205.85,
+                "x": 356.59,
+                "y": 322.62,
+                "confidence": 1.0,
+                "end_index": 797,
+                "label": "text",
+                "start_index": 758
+              }
+            ],
+            "type": "text"
+          },
+          {
+            "level": 2,
+            "md": "## CONTACT",
+            "value": "CONTACT",
+            "bbox": [
+              {
+                "h": 9.618002015053367,
+                "w": 58.57347971191407,
+                "x": 29.55138156738282,
+                "y": 183.43658618997713,
+                "confidence": 0.96,
+                "end_index": 9,
+                "label": "paragraph_title",
+                "start_index": 0
+              }
+            ],
+            "type": "heading"
+          },
+          {
+            "caption": "Location icon",
+            "md": "![Location icon](page_1_image_2_v2.jpg)",
+            "url": "page_1_image_2_v2.jpg",
+            "bbox": [
+              {
+                "h": 23.57376,
+                "w": 118.46868000000002,
+                "x": 28.575360000000003,
+                "y": 202.06079999999997,
+                "confidence": 0.79,
+                "end_index": 38,
+                "label": "image",
+                "start_index": 0
+              }
+            ],
+            "type": "image"
+          },
+          {
+            "md": " Ajmer(Rajasthan), India 305802",
+            "value": " Ajmer(Rajasthan), India 305802",
+            "bbox": [
+              {
+                "h": 26.04,
+                "w": 89.7,
+                "x": 54.96,
+                "y": 201.09,
+                "confidence": 1.0,
+                "end_index": 30,
+                "label": "text",
+                "start_index": 1
+              }
+            ],
+            "type": "text"
+          },
+          {
+            "caption": "Phone icon",
+            "md": "![Phone icon](page_1_image_3_v2.jpg)",
+            "url": "page_1_image_3_v2.jpg",
+            "bbox": [
+              {
+                "h": 16.8384,
+                "w": 85.72608,
+                "x": 28.575360000000003,
+                "y": 236.57952,
+                "confidence": 0.85,
+                "end_index": 35,
+                "label": "image",
+                "start_index": 0
+              }
+            ],
+            "type": "image"
+          },
+          {
+            "md": " 8003624634",
+            "value": " 8003624634",
+            "bbox": [
+              {
+                "h": 9.420940215320112,
+                "w": 60.21615662841798,
+                "x": 54.3741076538086,
+                "y": 239.95710134336892,
+                "confidence": 0.92,
+                "end_index": 10,
+                "label": "text",
+                "start_index": 0
+              }
+            ],
+            "type": "text"
+          },
+          {
+            "caption": "Email icon",
+            "md": "![Email icon](page_1_image_4_v2.jpg)",
+            "url": "page_1_image_4_v2.jpg",
+            "bbox": [
+              {
+                "h": 23.57376,
+                "w": 142.8768,
+                "x": 28.575360000000003,
+                "y": 269.4144,
+                "confidence": 0.79,
+                "end_index": 35,
+                "label": "image",
+                "start_index": 0
+              }
+            ],
+            "type": "image"
+          },
+          {
+            "md": "<barhathsuraj@gmail.com>",
+            "text": "barhathsuraj@gmail.com",
+            "url": "mailto:barhathsuraj@gmail.com",
+            "bbox": [
+              {
+                "h": 23.367421017530503,
+                "w": 117.07188240966799,
+                "x": 54.21468365478517,
+                "y": 269.4240506764482,
+                "confidence": 0.87,
+                "end_index": 23,
+                "label": "text",
+                "start_index": 0
+              }
+            ],
+            "type": "link"
+          },
+          {
+            "level": 2,
+            "md": "## SKILLS",
+            "value": "SKILLS",
+            "bbox": [
+              {
+                "h": 9.499022961128045,
+                "w": 44.426558367919924,
+                "x": 29.54122315063477,
+                "y": 324.0433700362043,
+                "confidence": 0.96,
+                "end_index": 8,
+                "label": "paragraph_title",
+                "start_index": 0
+              }
+            ],
+            "type": "heading"
+          },
+          {
+            "items": [
+              {
+                "md": "Project management",
+                "value": "Project management",
+                "bbox": [
+                  {
+                    "h": 10.960060175304859,
+                    "w": 114.71867686157228,
+                    "x": 29.747311614990238,
+                    "y": 343.8446029058689,
+                    "confidence": 0.95,
+                    "end_index": 17,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "System integration",
+                "value": "System integration",
+                "bbox": [
+                  {
+                    "h": 10.737793816692097,
+                    "w": 105.07117197875978,
+                    "x": 29.7348600769043,
+                    "y": 357.8700939214939,
+                    "confidence": 0.94,
+                    "end_index": 17,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Vendor management",
+                "value": "Vendor management",
+                "bbox": [
+                  {
+                    "h": 11.000317282774356,
+                    "w": 115.575719329834,
+                    "x": 29.810247271728517,
+                    "y": 371.47000263910064,
+                    "confidence": 0.92,
+                    "end_index": 16,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Quality control",
+                "value": "Quality control",
+                "bbox": [
+                  {
+                    "h": 10.637301448170726,
+                    "w": 83.15742429199221,
+                    "x": 30.026117504882816,
+                    "y": 385.65195994664634,
+                    "confidence": 0.94,
+                    "end_index": 14,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Technical documentation",
+                "value": "Technical documentation",
+                "bbox": [
+                  {
+                    "h": 9.634909498856674,
+                    "w": 134.67587138671877,
+                    "x": 29.799960351562504,
+                    "y": 399.71830967035066,
+                    "confidence": 0.93,
+                    "end_index": 22,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Process improvement",
+                "value": "Process improvement",
+                "bbox": [
+                  {
+                    "h": 10.961037776295726,
+                    "w": 118.75645365600587,
+                    "x": 29.842727618408208,
+                    "y": 413.7075291825457,
+                    "confidence": 0.93,
+                    "end_index": 18,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Compliance auditing",
+                "value": "Compliance auditing",
+                "bbox": [
+                  {
+                    "h": 11.1322683498476,
+                    "w": 111.43188511962892,
+                    "x": 29.818221130371096,
+                    "y": 427.4968418254573,
+                    "confidence": 0.94,
+                    "end_index": 18,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Leadership proficiency",
+                "value": "Leadership proficiency",
+                "bbox": [
+                  {
+                    "h": 10.919702801067036,
+                    "w": 121.75440516357422,
+                    "x": 29.917097863769538,
+                    "y": 441.98594131097565,
+                    "confidence": 0.94,
+                    "end_index": 21,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              }
+            ],
+            "md": "* Project management\n* System integration\n* Vendor management\n* Quality control\n* Technical documentation\n* Process improvement\n* Compliance auditing\n* Leadership proficiency",
+            "ordered": false,
+            "bbox": [
+              {
+                "h": 109.06,
+                "w": 134.74,
+                "x": 29.73,
+                "y": 343.84,
+                "confidence": 0.94,
+                "end_index": 173,
+                "label": "list",
+                "start_index": 0
+              }
+            ],
+            "type": "list"
+          },
+          {
+            "level": 2,
+            "md": "## CERTIFICATIONS",
+            "value": "CERTIFICATIONS",
+            "bbox": [
+              {
+                "h": 9.639797503811007,
+                "w": 107.26257843017581,
+                "x": 29.795941296386722,
+                "y": 481.31954171112807,
+                "confidence": 0.96,
+                "end_index": 16,
+                "label": "paragraph_title",
+                "start_index": 0
+              }
+            ],
+            "type": "heading"
+          },
+          {
+            "items": [
+              {
+                "md": "Prince2 Foundation",
+                "value": "Prince2 Foundation",
+                "bbox": [
+                  {
+                    "h": 9.455356783536592,
+                    "w": 106.16893458251954,
+                    "x": 29.827517687988284,
+                    "y": 500.7420168635671,
+                    "confidence": 0.95,
+                    "end_index": 17,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Data Center Design",
+                "value": "Data Center Design",
+                "bbox": [
+                  {
+                    "h": 10.888971036585364,
+                    "w": 107.93862383422852,
+                    "x": 29.793200628662113,
+                    "y": 515.1705050876525,
+                    "confidence": 0.95,
+                    "end_index": 17,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              }
+            ],
+            "md": "* Prince2 Foundation\n* Data Center Design",
+            "ordered": false,
+            "bbox": [
+              {
+                "h": 25.32,
+                "w": 107.94,
+                "x": 29.79,
+                "y": 500.74,
+                "confidence": 0.95,
+                "end_index": 40,
+                "label": "list",
+                "start_index": 0
+              }
+            ],
+            "type": "list"
+          },
+          {
+            "level": 2,
+            "md": "## EDUCATION",
+            "value": "EDUCATION",
+            "bbox": [
+              {
+                "h": 9.868255335365927,
+                "w": 73.72627485351563,
+                "x": 29.946932812500005,
+                "y": 554.4789886623475,
+                "confidence": 0.96,
+                "end_index": 11,
+                "label": "paragraph_title",
+                "start_index": 0
+              }
+            ],
+            "type": "heading"
+          },
+          {
+            "level": 3,
+            "md": "### B. Tech (ECE)",
+            "value": "B. Tech (ECE)",
+            "bbox": [
+              {
+                "h": 11.171773456554918,
+                "w": 75.19438209228518,
+                "x": 44.66386651611329,
+                "y": 574.1257104420732,
+                "confidence": 0.84,
+                "end_index": 16,
+                "label": "paragraph_title",
+                "start_index": 0
+              }
+            ],
+            "type": "heading"
+          },
+          {
+            "md": "Rajasthan Technical University - Kota (2014)\n**GPA**: 65%",
+            "value": "Rajasthan Technical University - Kota (2014)\nGPA: 65%",
+            "bbox": [
+              {
+                "h": 36.934818235518264,
+                "w": 117.01351527099611,
+                "x": 44.49876177978516,
+                "y": 588.5932525724086,
+                "confidence": 0.87,
+                "end_index": 56,
+                "label": "text",
+                "start_index": 0
+              }
+            ],
+            "type": "text"
+          },
+          {
+            "level": 3,
+            "md": "### PGDMM (Post Graduation Diploma in Marketing Management )",
+            "value": "PGDMM (Post Graduation Diploma in Marketing Management )",
+            "bbox": [
+              {
+                "h": 40.08,
+                "w": 129.5,
+                "x": 45.0,
+                "y": 628.97,
+                "confidence": 1.0,
+                "end_index": 46,
+                "label": "text",
+                "start_index": 4
+              },
+              {
+                "h": 12.0,
+                "w": 76.0,
+                "x": 45.0,
+                "y": 670.97,
+                "confidence": 1.0,
+                "end_index": 59,
+                "label": "text",
+                "start_index": 48
+              }
+            ],
+            "type": "heading"
+          },
+          {
+            "md": "Ignou-Delhi-2020",
+            "value": "Ignou-Delhi-2020",
+            "bbox": [
+              {
+                "h": 12.0,
+                "w": 88.86,
+                "x": 40.44,
+                "y": 682.61,
+                "confidence": 1.0,
+                "end_index": 15,
+                "label": "text",
+                "start_index": 0
+              }
+            ],
+            "type": "text"
+          },
+          {
+            "level": 2,
+            "md": "## PERSONAL INFORMATION",
+            "value": "PERSONAL INFORMATION",
+            "bbox": [
+              {
+                "h": 23.036089481707258,
+                "w": 91.55410570678713,
+                "x": 29.498170074462895,
+                "y": 723.8935305068599,
+                "confidence": 0.91,
+                "end_index": 22,
+                "label": "paragraph_title",
+                "start_index": 0
+              }
+            ],
+            "type": "heading"
+          },
+          {
+            "md": "**Date of birth**: 1992-11-03",
+            "value": "Date of birth: 1992-11-03",
+            "bbox": [
+              {
+                "h": 9.261120000000005,
+                "w": 131.56572,
+                "x": 29.766000000000005,
+                "y": 756.88608,
+                "confidence": 0.94,
+                "end_index": 28,
+                "label": "key-value-region",
+                "start_index": 0
+              },
+              {
+                "h": 12.0,
+                "w": 72.05,
+                "x": 30.0,
+                "y": 755.81,
+                "confidence": 1.0,
+                "end_index": 17,
+                "label": "text",
+                "start_index": 0
+              }
+            ],
+            "type": "text"
+          },
+          {
+            "level": 2,
+            "md": "## Experience",
+            "value": "Experience",
+            "bbox": [
+              {
+                "h": 11.74692870617377,
+                "w": 68.30020473632815,
+                "x": 198.85778085937503,
+                "y": 250.64177883955793,
+                "confidence": 0.85,
+                "end_index": 12,
+                "label": "paragraph_title",
+                "start_index": 0
+              }
+            ],
+            "type": "heading"
+          },
+          {
+            "level": 3,
+            "md": "### Consultant",
+            "value": "Consultant",
+            "bbox": [
+              {
+                "h": 13.0,
+                "w": 57.0,
+                "x": 214.01,
+                "y": 263.32,
+                "confidence": 1.0,
+                "end_index": 13,
+                "label": "text",
+                "start_index": 4
+              }
+            ],
+            "type": "heading"
+          },
+          {
+            "level": 3,
+            "md": "### KPMG India",
+            "value": "KPMG India",
+            "bbox": [
+              {
+                "h": 13.0,
+                "w": 67.29600000000005,
+                "x": 214.01,
+                "y": 277.358,
+                "confidence": 0.54,
+                "end_index": 13,
+                "label": "paragraph_title",
+                "start_index": 0
+              }
+            ],
+            "type": "heading"
+          },
+          {
+            "csv": "\"08/2025 - Current\",\"Assisting MP police for their exiting and futuristic project i.e. Safe city and police station CCTV\"\n,\"Lead design & implementation of Data Center infrastructure of State Data Center, including compute, storage, networking, virtualization, and disaster recovery, Cooling and Electrical Infrastructure systems\"\n,\"Architect ICT/ELV solutions for Smart City, SAFE City, ICCC, ITS, and surveillance ecosystems of MP state Governments\"\n,\"Ensured alignment of project deliverables with MeitY guidelines, e-Governance standards, cybersecurity policies, and national digital frameworks.\"\n,\"Contributed to bid process management, including preparation of RFPs, BOQ , DPR, evaluation of technical bids, vendor assessment, and compliance verification.\"\n,\"Translate functional and operational requirements into technical specifications, solution architectures, and implementation roadmaps—consistent with industry expectations of converting client goals into technical requirements\"\n,\"Draft all supporting documentation: SRS, functional specs, design documents, SOPs, audit checklists, and compliance reports\"\n,\"Preparing Project for SAFEGAURD CITY project for MP Police Conduct baseline assessments, feasibility studies, business requirement workshops, and system audits to understand client needs—aligning with standard IT consultant responsibilities of analyzing requirements and designing IT solutions\"\n,\"SLA, Security, Audit activities of MSI as per RFP, supporting for the daily Reports, Billing and Payments, SLA Measurement, Solutioning of network, CCTV Surveillance and all the related components, Review of Project execution, Go-Live and O&M. Also supporting in various Draft RFP, DPR and Prebid queries and meetings. Supporting in sizing, costing and procurement.\"\n,\"Coordinate with OEMs, system integrators, state IT departments, and Smart City SPVs throughout the project lifecycle.\"\n,\"Conduct FAT (Factory Acceptance Testing), UAT (User Acceptance Testing), SIT (System Integration Testing) with government stakeholders to confirm that deployed systems meet functional and operational expectations.\"\n,\"Oversee end-to-end Go-Live activities including system cutover, data migration, configuration validation, and final readiness checks.\"\n,\"Ensure successful handover to O&M teams with training, documentation, and stabilization support\"\n,\"Ensure alignment with government standards, cybersecurity guidelines, and ITIL-based O&M processes.\"",
+            "html": "<table>\n    <tr>\n        <td rowspan=\"14\">08/2025 - Current</td>\n        <td>Assisting MP police for their exiting and futuristic project i.e. Safe city and police station CCTV</td>\n    </tr>\n    <tr>\n        <td>Lead design &#x26; implementation of Data Center infrastructure of State Data Center, including compute, storage, networking, virtualization, and disaster recovery, Cooling and Electrical Infrastructure systems</td>\n    </tr>\n    <tr>\n        <td>Architect ICT/ELV solutions for Smart City, SAFE City, ICCC, ITS, and surveillance ecosystems of MP state Governments</td>\n    </tr>\n    <tr>\n        <td>Ensured alignment of project deliverables with MeitY guidelines, e-Governance standards, cybersecurity policies, and national digital frameworks.</td>\n    </tr>\n    <tr>\n        <td>Contributed to bid process management, including preparation of RFPs, BOQ , DPR, evaluation of technical bids, vendor assessment, and compliance verification.</td>\n    </tr>\n    <tr>\n        <td>Translate functional and operational requirements into technical specifications, solution architectures, and implementation roadmaps—consistent with industry expectations of converting client goals into technical requirements</td>\n    </tr>\n    <tr>\n        <td>Draft all supporting documentation: SRS, functional specs, design documents, SOPs, audit checklists, and compliance reports</td>\n    </tr>\n    <tr>\n        <td>Preparing Project for SAFEGAURD CITY project for MP Police Conduct baseline assessments, feasibility studies, business requirement workshops, and system audits to understand client needs—aligning with standard IT consultant responsibilities of analyzing requirements and designing IT solutions</td>\n    </tr>\n    <tr>\n        <td>SLA, Security, Audit activities of MSI as per RFP, supporting for the daily Reports, Billing and Payments, SLA Measurement, Solutioning of network, CCTV Surveillance and all the related components, Review of Project execution, Go-Live and O&#x26;M. Also supporting in various Draft RFP, DPR and Prebid queries and meetings. Supporting in sizing, costing and procurement.</td>\n    </tr>\n    <tr>\n        <td>Coordinate with OEMs, system integrators, state IT departments, and Smart City SPVs throughout the project lifecycle.</td>\n    </tr>\n    <tr>\n        <td>Conduct FAT (Factory Acceptance Testing), UAT (User Acceptance Testing), SIT (System Integration Testing) with government stakeholders to confirm that deployed systems meet functional and operational expectations.</td>\n    </tr>\n    <tr>\n        <td>Oversee end-to-end Go-Live activities including system cutover, data migration, configuration validation, and final readiness checks.</td>\n    </tr>\n    <tr>\n        <td>Ensure successful handover to O&#x26;M teams with training, documentation, and stabilization support</td>\n    </tr>\n    <tr>\n        <td>Ensure alignment with government standards, cybersecurity guidelines, and ITIL-based O&#x26;M processes.</td>\n    </tr>\n</table>",
+            "md": "| 08/2025 - Current | Assisting MP police for their exiting and futuristic project i.e. Safe city and police station CCTV                                                                                                                                                                                                                                                                            |\n| ----------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |\n|                   | Lead design & implementation of Data Center infrastructure of State Data Center, including compute, storage, networking, virtualization, and disaster recovery, Cooling and Electrical Infrastructure systems                                                                                                                                                                  |\n|                   | Architect ICT/ELV solutions for Smart City, SAFE City, ICCC, ITS, and surveillance ecosystems of MP state Governments                                                                                                                                                                                                                                                          |\n|                   | Ensured alignment of project deliverables with MeitY guidelines, e-Governance standards, cybersecurity policies, and national digital frameworks.                                                                                                                                                                                                                              |\n|                   | Contributed to bid process management, including preparation of RFPs, BOQ , DPR, evaluation of technical bids, vendor assessment, and compliance verification.                                                                                                                                                                                                                 |\n|                   | Translate functional and operational requirements into technical specifications, solution architectures, and implementation roadmaps—consistent with industry expectations of converting client goals into technical requirements                                                                                                                                              |\n|                   | Draft all supporting documentation: SRS, functional specs, design documents, SOPs, audit checklists, and compliance reports                                                                                                                                                                                                                                                    |\n|                   | Preparing Project for SAFEGAURD CITY project for MP Police Conduct baseline assessments, feasibility studies, business requirement workshops, and system audits to understand client needs—aligning with standard IT consultant responsibilities of analyzing requirements and designing IT solutions                                                                          |\n|                   | SLA, Security, Audit activities of MSI as per RFP, supporting for the daily Reports, Billing and Payments, SLA Measurement, Solutioning of network, CCTV Surveillance and all the related components, Review of Project execution, Go-Live and O\\&M. Also supporting in various Draft RFP, DPR and Prebid queries and meetings. Supporting in sizing, costing and procurement. |\n|                   | Coordinate with OEMs, system integrators, state IT departments, and Smart City SPVs throughout the project lifecycle.                                                                                                                                                                                                                                                          |\n|                   | Conduct FAT (Factory Acceptance Testing), UAT (User Acceptance Testing), SIT (System Integration Testing) with government stakeholders to confirm that deployed systems meet functional and operational expectations.                                                                                                                                                          |\n|                   | Oversee end-to-end Go-Live activities including system cutover, data migration, configuration validation, and final readiness checks.                                                                                                                                                                                                                                          |\n|                   | Ensure successful handover to O\\&M teams with training, documentation, and stabilization support                                                                                                                                                                                                                                                                               |\n|                   | Ensure alignment with government standards, cybersecurity guidelines, and ITIL-based O\\&M processes.                                                                                                                                                                                                                                                                           |",
+            "rows": [
+              [
+                "08/2025 - Current",
+                "Assisting MP police for their exiting and futuristic project i.e. Safe city and police station CCTV"
+              ],
+              [
+                "",
+                "Lead design & implementation of Data Center infrastructure of State Data Center, including compute, storage, networking, virtualization, and disaster recovery, Cooling and Electrical Infrastructure systems"
+              ],
+              [
+                "",
+                "Architect ICT/ELV solutions for Smart City, SAFE City, ICCC, ITS, and surveillance ecosystems of MP state Governments"
+              ],
+              [
+                "",
+                "Ensured alignment of project deliverables with MeitY guidelines, e-Governance standards, cybersecurity policies, and national digital frameworks."
+              ],
+              [
+                "",
+                "Contributed to bid process management, including preparation of RFPs, BOQ , DPR, evaluation of technical bids, vendor assessment, and compliance verification."
+              ],
+              [
+                "",
+                "Translate functional and operational requirements into technical specifications, solution architectures, and implementation roadmaps—consistent with industry expectations of converting client goals into technical requirements"
+              ],
+              [
+                "",
+                "Draft all supporting documentation: SRS, functional specs, design documents, SOPs, audit checklists, and compliance reports"
+              ],
+              [
+                "",
+                "Preparing Project for SAFEGAURD CITY project for MP Police Conduct baseline assessments, feasibility studies, business requirement workshops, and system audits to understand client needs—aligning with standard IT consultant responsibilities of analyzing requirements and designing IT solutions"
+              ],
+              [
+                "",
+                "SLA, Security, Audit activities of MSI as per RFP, supporting for the daily Reports, Billing and Payments, SLA Measurement, Solutioning of network, CCTV Surveillance and all the related components, Review of Project execution, Go-Live and O&M. Also supporting in various Draft RFP, DPR and Prebid queries and meetings. Supporting in sizing, costing and procurement."
+              ],
+              [
+                "",
+                "Coordinate with OEMs, system integrators, state IT departments, and Smart City SPVs throughout the project lifecycle."
+              ],
+              [
+                "",
+                "Conduct FAT (Factory Acceptance Testing), UAT (User Acceptance Testing), SIT (System Integration Testing) with government stakeholders to confirm that deployed systems meet functional and operational expectations."
+              ],
+              [
+                "",
+                "Oversee end-to-end Go-Live activities including system cutover, data migration, configuration validation, and final readiness checks."
+              ],
+              [
+                "",
+                "Ensure successful handover to O&M teams with training, documentation, and stabilization support"
+              ],
+              [
+                "",
+                "Ensure alignment with government standards, cybersecurity guidelines, and ITIL-based O&M processes."
+              ]
+            ],
+            "bbox": [
+              {
+                "h": 467.53,
+                "w": 341.93,
+                "x": 220.73,
+                "y": 294.18,
+                "confidence": 1.0,
+                "end_index": 5863,
+                "label": "table",
+                "start_index": 0
+              },
+              {
+                "h": 24.920000000000016,
+                "w": 341.486,
+                "x": 220.73,
+                "y": 294.176,
+                "confidence": 0.73,
+                "end_index": 120,
+                "label": "text",
+                "start_index": 22
+              },
+              {
+                "h": 11.0,
+                "w": 341.711,
+                "x": 220.73,
+                "y": 322.616,
+                "confidence": 0.73,
+                "end_index": 883,
+                "label": "text",
+                "start_index": 804
+              },
+              {
+                "h": 24.920000000000016,
+                "w": 336.203,
+                "x": 220.73,
+                "y": 336.656,
+                "confidence": 0.73,
+                "end_index": 1008,
+                "label": "text",
+                "start_index": 885
+              },
+              {
+                "h": 25.04000000000002,
+                "w": 341.53499999999997,
+                "x": 220.73,
+                "y": 365.096,
+                "confidence": 0.73,
+                "end_index": 1311,
+                "label": "text",
+                "start_index": 1195
+              },
+              {
+                "h": 23.0,
+                "w": 341.93000000000006,
+                "x": 220.73,
+                "y": 391.616,
+                "confidence": 0.73,
+                "end_index": 1730,
+                "label": "text",
+                "start_index": 1586
+              },
+              {
+                "h": 23.0,
+                "w": 336.13,
+                "x": 220.73,
+                "y": 416.096,
+                "confidence": 0.73,
+                "end_index": 2134,
+                "label": "text",
+                "start_index": 1977
+              },
+              {
+                "h": 35.0,
+                "w": 341.23900000000003,
+                "x": 220.73,
+                "y": 440.596,
+                "confidence": 0.73,
+                "end_index": 2592,
+                "label": "text",
+                "start_index": 2368
+              },
+              {
+                "h": 23.0,
+                "w": 341.10900000000004,
+                "x": 220.73,
+                "y": 477.196,
+                "confidence": 0.73,
+                "end_index": 2881,
+                "label": "text",
+                "start_index": 2759
+              },
+              {
+                "h": 53.0,
+                "w": 341.73,
+                "x": 220.73,
+                "y": 503.596,
+                "confidence": 0.73,
+                "end_index": 3442,
+                "label": "text",
+                "start_index": 3150
+              },
+              {
+                "h": 67.07000000000005,
+                "w": 341.80999999999995,
+                "x": 220.73,
+                "y": 560.116,
+                "confidence": 0.73,
+                "end_index": 3906,
+                "label": "text",
+                "start_index": 3541
+              },
+              {
+                "h": 23.0,
+                "w": 341.61799999999994,
+                "x": 220.73,
+                "y": 628.666,
+                "confidence": 0.73,
+                "end_index": 4048,
+                "label": "text",
+                "start_index": 3932
+              },
+              {
+                "h": 35.0,
+                "w": 340.928,
+                "x": 220.73,
+                "y": 653.146,
+                "confidence": 0.73,
+                "end_index": 4535,
+                "label": "text",
+                "start_index": 4323
+              },
+              {
+                "h": 23.0,
+                "w": 341.55499999999995,
+                "x": 220.73,
+                "y": 689.626,
+                "confidence": 0.73,
+                "end_index": 4846,
+                "label": "text",
+                "start_index": 4714
+              },
+              {
+                "h": 23.0,
+                "w": 341.35699999999997,
+                "x": 220.73,
+                "y": 714.226,
+                "confidence": 0.73,
+                "end_index": 5200,
+                "label": "text",
+                "start_index": 5105
+              },
+              {
+                "h": 23.0,
+                "w": 341.22799999999995,
+                "x": 220.73,
+                "y": 738.702,
+                "confidence": 0.73,
+                "end_index": 5595,
+                "label": "text",
+                "start_index": 5496
+              }
+            ],
+            "merged_from_pages": null,
+            "merged_into_page": null,
+            "parse_concerns": [
+              {
+                "details": "layout detected [text, image, paragraph_title, key-value-region] but no table/form",
+                "type": "layout_lvm_disagreement"
+              }
+            ],
+            "type": "table"
+          }
+        ],
+        "page_height": 841.92,
+        "page_number": 1,
+        "page_width": 595.32,
+        "success": true
+      },
+      {
+        "items": [
+          {
+            "level": 2,
+            "md": "## Assistant Manager(Service Delivery Manager)",
+            "value": "Assistant Manager(Service Delivery Manager)",
+            "bbox": [
+              {
+                "h": 12.553060989900912,
+                "w": 238.13010922851566,
+                "x": 213.05474985351566,
+                "y": 26.941235706459604,
+                "confidence": 0.89,
+                "end_index": 45,
+                "label": "paragraph_title",
+                "start_index": 0
+              }
+            ],
+            "type": "heading"
+          },
+          {
+            "level": 2,
+            "md": "## Tata Advance System Limited - Bikaner, India",
+            "value": "Tata Advance System Limited - Bikaner, India",
+            "bbox": [
+              {
+                "h": 12.107033671160444,
+                "w": 234.75316347656252,
+                "x": 213.42244687500005,
+                "y": 40.84845266887386,
+                "confidence": 0.82,
+                "end_index": 46,
+                "label": "paragraph_title",
+                "start_index": 0
+              }
+            ],
+            "type": "heading"
+          },
+          {
+            "md": "09/2023 - 07/2025",
+            "value": "09/2023 - 07/2025",
+            "bbox": [
+              {
+                "h": 86.50731634670352,
+                "w": 9.049370214843762,
+                "x": 200.74463642578127,
+                "y": 56.005764364996196,
+                "confidence": 0.78,
+                "end_index": 16,
+                "label": "header",
+                "start_index": 0
+              }
+            ],
+            "type": "text"
+          },
+          {
+            "items": [
+              {
+                "md": "Managed a large cross-functional workforce of **100+ IT Technical Team , field, and operations engineers** across **Bikaner Zone**, overseeing **ICCC, Smart City operations**, and **Dial-100 / 112 / 1930 (Cyber Fraud)** emergency response systems.",
+                "value": "Managed a large cross-functional workforce of 100+ IT Technical Team , field, and operations engineers across Bikaner Zone, overseeing ICCC, Smart City operations, and Dial-100 / 112 / 1930 (Cyber Fraud) emergency response systems.",
+                "bbox": [
+                  {
+                    "h": 32.976267423304115,
+                    "w": 336.4212038085938,
+                    "x": 219.71418691406254,
+                    "y": 54.63484190882241,
+                    "confidence": 0.92,
+                    "end_index": 246,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Ensured **maximum uptime** of the complete **Data Center, IT infrastructure, ICCC, surveillance systems, ITMS, emergency response, forensic lab**, and command-center applications—maintaining strict **SLA compliance** and service quality",
+                "value": "Ensured maximum uptime of the complete Data Center, IT infrastructure, ICCC, surveillance systems, ITMS, emergency response, forensic lab, and command-center applications—maintaining strict SLA compliance and service quality",
+                "bbox": [
+                  {
+                    "h": 45.2410050543064,
+                    "w": 341.00710971679695,
+                    "x": 219.64185278320315,
+                    "y": 89.00759981421494,
+                    "confidence": 0.94,
+                    "end_index": 235,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Led Tier-2 & 3 Data Center operations & Maintenance consisting of servers, enterprise storage, network switches, database servers, smart racks, and power panel systems",
+                "value": "Led Tier-2 & 3 Data Center operations & Maintenance consisting of servers, enterprise storage, network switches, database servers, smart racks, and power panel systems",
+                "bbox": [
+                  {
+                    "h": 32.610638386051846,
+                    "w": 341.11551342773447,
+                    "x": 219.23766079101566,
+                    "y": 136.50341648723324,
+                    "confidence": 0.75,
+                    "end_index": 166,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Designed and reviewed **ICT & IT infrastructure solutions**, including network topologies, server architectures, cloud readiness, security frameworks, and Smart City integrations.",
+                "value": "Designed and reviewed ICT & IT infrastructure solutions, including network topologies, server architectures, cloud readiness, security frameworks, and Smart City integrations.",
+                "bbox": [
+                  {
+                    "h": 33.049455897484776,
+                    "w": 339.75883637695324,
+                    "x": 220.11602153320314,
+                    "y": 171.15422040777437,
+                    "confidence": 0.96,
+                    "end_index": 178,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "**IT Technical Consultant** for **parallel ICT projects**, providing end-to-end technical guidance, architectural design, and solution engineering.",
+                "value": "IT Technical Consultant for parallel ICT projects, providing end-to-end technical guidance, architectural design, and solution engineering.",
+                "bbox": [
+                  {
+                    "h": 21.21404176829268,
+                    "w": 339.8662652343751,
+                    "x": 220.28215429687504,
+                    "y": 206.19096365282013,
+                    "confidence": 0.94,
+                    "end_index": 146,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Supervised all ICCC operational activities including real-time monitoring, response escalation, coordination with police/departments, and analytics-driven decision support.",
+                "value": "Supervised all ICCC operational activities including real-time monitoring, response escalation, coordination with police/departments, and analytics-driven decision support.",
+                "bbox": [
+                  {
+                    "h": 33.920899447408516,
+                    "w": 340.8914566406251,
+                    "x": 219.79302597656252,
+                    "y": 229.4207183974848,
+                    "confidence": 0.95,
+                    "end_index": 171,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Engaged multiple **State and Central Government bodies** for approvals, technical audits, reviews, and compliance inspections throughout the project lifecycle",
+                "value": "Engaged multiple State and Central Government bodies for approvals, technical audits, reviews, and compliance inspections throughout the project lifecycle",
+                "bbox": [
+                  {
+                    "h": 22.46664943788112,
+                    "w": 340.5849981445313,
+                    "x": 219.9282647460938,
+                    "y": 264.62578447980184,
+                    "confidence": 0.95,
+                    "end_index": 157,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Co-ordination with different stakeholders, i.e., Electrical department, public health department, engineering department, and Protech (system integrator to design and implement the command-and-control center).",
+                "value": "Co-ordination with different stakeholders, i.e., Electrical department, public health department, engineering department, and Protech (system integrator to design and implement the command-and-control center).",
+                "bbox": [
+                  {
+                    "h": 38.747440872713405,
+                    "w": 347.6753736328126,
+                    "x": 212.74327529296878,
+                    "y": 290.78478272675306,
+                    "confidence": 0.95,
+                    "end_index": 208,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Command Control Centre: Designing a Command-and-Control Centre.",
+                "value": "Command Control Centre: Designing a Command-and-Control Centre.",
+                "bbox": [
+                  {
+                    "h": 34.306199571265225,
+                    "w": 348.44128945312514,
+                    "x": 212.74511865234376,
+                    "y": 333.16614194931407,
+                    "confidence": 0.78,
+                    "end_index": 62,
+                    "label": "text",
+                    "start_index": 0
+                  },
+                  {
+                    "h": 11.0,
+                    "w": 284.59,
+                    "x": 220.97,
+                    "y": 332.46,
+                    "confidence": 1.0,
+                    "end_index": 62,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Managed robust power continuity using **DG, UPS, and AMF panel** configurations, ensuring uninterrupted Data Center availability.",
+                "value": "Managed robust power continuity using DG, UPS, and AMF panel configurations, ensuring uninterrupted Data Center availability.",
+                "bbox": [
+                  {
+                    "h": 34.52,
+                    "w": 341.81,
+                    "x": 220.97,
+                    "y": 332.46,
+                    "confidence": 1.0,
+                    "end_index": 128,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Oversaw **PSAP operations using HEXAGON CAD & GIS, AVAYA EPABX**, citywide video surveillance monitoring, and emergency call-center workflows..",
+                "value": "Oversaw PSAP operations using HEXAGON CAD & GIS, AVAYA EPABX, citywide video surveillance monitoring, and emergency call-center workflows..",
+                "bbox": [
+                  {
+                    "h": 22.53658550876522,
+                    "w": 341.4191714355469,
+                    "x": 218.1088513183594,
+                    "y": 368.49303215510673,
+                    "confidence": 0.92,
+                    "end_index": 142,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Activity performed from the Command-and-Control Centre.",
+                "value": "Activity performed from the Command-and-Control Centre.",
+                "bbox": [
+                  {
+                    "h": 10.299327238948186,
+                    "w": 249.07957529296877,
+                    "x": 212.74518955078128,
+                    "y": 394.73460008574693,
+                    "confidence": 0.85,
+                    "end_index": 54,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Oversaw **Fire Alarm, Access Control, Biometrics, WLD**, rodent repellent, and environmental monitoring systems within the ICCC and Data Center ecosystem.",
+                "value": "Oversaw Fire Alarm, Access Control, Biometrics, WLD, rodent repellent, and environmental monitoring systems within the ICCC and Data Center ecosystem.",
+                "bbox": [
+                  {
+                    "h": 21.56993866234754,
+                    "w": 342.8681405273438,
+                    "x": 217.85526533203128,
+                    "y": 407.011939996189,
+                    "confidence": 0.87,
+                    "end_index": 153,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Conducted **technical assessments, gap analysis, feasibility studies, and drafted technical proposals**, architecture diagrams, and solution design documents",
+                "value": "Conducted technical assessments, gap analysis, feasibility studies, and drafted technical proposals, architecture diagrams, and solution design documents",
+                "bbox": [
+                  {
+                    "h": 21.88462591463413,
+                    "w": 341.9425437011719,
+                    "x": 218.92046118164066,
+                    "y": 430.14784504573174,
+                    "confidence": 0.92,
+                    "end_index": 156,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              }
+            ],
+            "md": "* Managed a large cross-functional workforce of **100+ IT Technical Team , field, and operations engineers** across **Bikaner Zone**, overseeing **ICCC, Smart City operations**, and **Dial-100 / 112 / 1930 (Cyber Fraud)** emergency response systems.\n* Ensured **maximum uptime** of the complete **Data Center, IT infrastructure, ICCC, surveillance systems, ITMS, emergency response, forensic lab**, and command-center applications—maintaining strict **SLA compliance** and service quality\n* Led Tier-2 & 3 Data Center operations & Maintenance consisting of servers, enterprise storage, network switches, database servers, smart racks, and power panel systems\n* Designed and reviewed **ICT & IT infrastructure solutions**, including network topologies, server architectures, cloud readiness, security frameworks, and Smart City integrations.\n* **IT Technical Consultant** for **parallel ICT projects**, providing end-to-end technical guidance, architectural design, and solution engineering.\n* Supervised all ICCC operational activities including real-time monitoring, response escalation, coordination with police/departments, and analytics-driven decision support.\n* Engaged multiple **State and Central Government bodies** for approvals, technical audits, reviews, and compliance inspections throughout the project lifecycle\n* Co-ordination with different stakeholders, i.e., Electrical department, public health department, engineering department, and Protech (system integrator to design and implement the command-and-control center).\n* Command Control Centre: Designing a Command-and-Control Centre.\n* Managed robust power continuity using **DG, UPS, and AMF panel** configurations, ensuring uninterrupted Data Center availability.\n* Oversaw **PSAP operations using HEXAGON CAD & GIS, AVAYA EPABX**, citywide video surveillance monitoring, and emergency call-center workflows..\n* Activity performed from the Command-and-Control Centre.\n* Oversaw **Fire Alarm, Access Control, Biometrics, WLD**, rodent repellent, and environmental monitoring systems within the ICCC and Data Center ecosystem.\n* Conducted **technical assessments, gap analysis, feasibility studies, and drafted technical proposals**, architecture diagrams, and solution design documents",
+            "ordered": false,
+            "bbox": [
+              {
+                "h": 397.4,
+                "w": 350.04,
+                "x": 212.74,
+                "y": 54.63,
+                "confidence": 0.91,
+                "end_index": 2256,
+                "label": "list",
+                "start_index": 0
+              }
+            ],
+            "type": "list"
+          },
+          {
+            "level": 2,
+            "md": "## Senior Project Manager",
+            "value": "Senior Project Manager",
+            "bbox": [
+              {
+                "h": 13.0,
+                "w": 126.56,
+                "x": 214.01,
+                "y": 466.26,
+                "confidence": 1.0,
+                "end_index": 24,
+                "label": "paragraph_title",
+                "start_index": 3
+              }
+            ],
+            "type": "heading"
+          },
+          {
+            "level": 2,
+            "md": "## Digitron India.",
+            "value": "Digitron India.",
+            "bbox": [
+              {
+                "h": 13.0,
+                "w": 73.30799999999999,
+                "x": 214.01,
+                "y": 480.178,
+                "confidence": 0.73,
+                "end_index": 17,
+                "label": "paragraph_title",
+                "start_index": 0
+              }
+            ],
+            "type": "heading"
+          },
+          {
+            "md": "04/2023 - 09/2023",
+            "value": "04/2023 - 09/2023",
+            "bbox": [
+              {
+                "h": 85.03392000000002,
+                "w": 11.311080000000004,
+                "x": 199.43220000000002,
+                "y": 498.41664,
+                "confidence": 0.75,
+                "end_index": 16,
+                "label": "text",
+                "start_index": 0
+              }
+            ],
+            "type": "text"
+          },
+          {
+            "items": [
+              {
+                "md": "Schedule assignments, monitor, review, and report project status regularly to manage project risks, P&L, and ensure successful project delivery and implementation, quality control, team building, and new requirements.",
+                "value": "Schedule assignments, monitor, review, and report project status regularly to manage project risks, P&L, and ensure successful project delivery and implementation, quality control, team building, and new requirements.",
+                "bbox": [
+                  {
+                    "h": 38.11240129573167,
+                    "w": 319.81767597656255,
+                    "x": 208.62808183593754,
+                    "y": 497.998617816311,
+                    "confidence": 0.91,
+                    "end_index": 216,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Contributing to strategies and execution roadmaps (for purchases, strict budget controls, IT infrastructure, security, crisis/disaster and business continuity plans, asset management, incident management, audits, compliance and regulations, and vendor management).",
+                "value": "Contributing to strategies and execution roadmaps (for purchases, strict budget controls, IT infrastructure, security, crisis/disaster and business continuity plans, asset management, incident management, audits, compliance and regulations, and vendor management).",
+                "bbox": [
+                  {
+                    "h": 52.19903999999997,
+                    "w": 335.16516,
+                    "x": 211.3386,
+                    "y": 540.51264,
+                    "confidence": 0.86,
+                    "end_index": 263,
+                    "label": "text",
+                    "start_index": 0
+                  },
+                  {
+                    "h": 11.0,
+                    "w": 317.92,
+                    "x": 220.73,
+                    "y": 539.48,
+                    "confidence": 1.0,
+                    "end_index": 78,
+                    "label": "text",
+                    "start_index": 0
+                  },
+                  {
+                    "h": 38.96,
+                    "w": 329.41,
+                    "x": 220.73,
+                    "y": 553.52,
+                    "confidence": 1.0,
+                    "end_index": 263,
+                    "label": "text",
+                    "start_index": 80
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Lead in performing project planning and scheduling, managing tasks, and coordinating project resources to meet objectives and timelines.",
+                "value": "Lead in performing project planning and scheduling, managing tasks, and coordinating project resources to meet objectives and timelines.",
+                "bbox": [
+                  {
+                    "h": 24.389339919969437,
+                    "w": 303.0976442871094,
+                    "x": 212.48976020507814,
+                    "y": 596.9316876905489,
+                    "confidence": 0.93,
+                    "end_index": 135,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Reviewing and preparing standards with knowledge of the latest practices in toll collection systems and ATMS.",
+                "value": "Reviewing and preparing standards with knowledge of the latest practices in toll collection systems and ATMS.",
+                "bbox": [
+                  {
+                    "h": 24.28536328125,
+                    "w": 329.31060454101566,
+                    "x": 212.4473983886719,
+                    "y": 625.4234424352135,
+                    "confidence": 0.94,
+                    "end_index": 108,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Ensure project lifecycles on development and maintenance projects, estimation methodologies, and quality processes as per standard norms.",
+                "value": "Ensure project lifecycles on development and maintenance projects, estimation methodologies, and quality processes as per standard norms.",
+                "bbox": [
+                  {
+                    "h": 23.8863015434452,
+                    "w": 324.5386256835938,
+                    "x": 212.39519941406255,
+                    "y": 653.9446756097561,
+                    "confidence": 0.93,
+                    "end_index": 136,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Led **AMC and project planning**, including task scheduling, effort estimation, resource allocation, and cross-team coordination to ensure all project milestones, KPIs, and deliverables were achieved within defined timelines",
+                "value": "Led AMC and project planning, including task scheduling, effort estimation, resource allocation, and cross-team coordination to ensure all project milestones, KPIs, and deliverables were achieved within defined timelines",
+                "bbox": [
+                  {
+                    "h": 33.608618597561005,
+                    "w": 323.79149794921875,
+                    "x": 220.05868242187503,
+                    "y": 679.509492987805,
+                    "confidence": 0.92,
+                    "end_index": 223,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Prepared and reviewed **technical standards, specifications, and solution frameworks** aligned with the latest industry practices in **Security Automation Project , ATMS, and Intelligent Traffic Management ,CCTV, Access Control, Vehicle management Project Technologies**",
+                "value": "Prepared and reviewed technical standards, specifications, and solution frameworks aligned with the latest industry practices in Security Automation Project , ATMS, and Intelligent Traffic Management ,CCTV, Access Control, Vehicle management Project Technologies",
+                "bbox": [
+                  {
+                    "h": 44.8040550114329,
+                    "w": 318.8953936523438,
+                    "x": 219.3734844726563,
+                    "y": 714.7671991234756,
+                    "confidence": 0.94,
+                    "end_index": 269,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Managed multiple concurrent projects with complete ownership of planning, execution, monitoring, stakeholder communication, vendor/OEM coordination, and performance evaluation.",
+                "value": "Managed multiple concurrent projects with complete ownership of planning, execution, monitoring, stakeholder communication, vendor/OEM coordination, and performance evaluation.",
+                "bbox": [
+                  {
+                    "h": 32.84212928734754,
+                    "w": 335.8827301757813,
+                    "x": 219.66540878906252,
+                    "y": 761.3296324504573,
+                    "confidence": 0.94,
+                    "end_index": 175,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Project Handled:",
+                "value": "Project Handled:",
+                "bbox": [
+                  {
+                    "h": 11.0,
+                    "w": 67.82600000000005,
+                    "x": 220.73,
+                    "y": 798.006,
+                    "confidence": 0.87,
+                    "end_index": 15,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              }
+            ],
+            "md": "* Schedule assignments, monitor, review, and report project status regularly to manage project risks, P&L, and ensure successful project delivery and implementation, quality control, team building, and new requirements.\n* Contributing to strategies and execution roadmaps (for purchases, strict budget controls, IT infrastructure, security, crisis/disaster and business continuity plans, asset management, incident management, audits, compliance and regulations, and vendor management).\n* Lead in performing project planning and scheduling, managing tasks, and coordinating project resources to meet objectives and timelines.\n* Reviewing and preparing standards with knowledge of the latest practices in toll collection systems and ATMS.\n* Ensure project lifecycles on development and maintenance projects, estimation methodologies, and quality processes as per standard norms.\n* Led **AMC and project planning**, including task scheduling, effort estimation, resource allocation, and cross-team coordination to ensure all project milestones, KPIs, and deliverables were achieved within defined timelines\n* Prepared and reviewed **technical standards, specifications, and solution frameworks** aligned with the latest industry practices in **Security Automation Project , ATMS, and Intelligent Traffic Management ,CCTV, Access Control, Vehicle management Project Technologies**\n* Managed multiple concurrent projects with complete ownership of planning, execution, monitoring, stakeholder communication, vendor/OEM coordination, and performance evaluation.\n* Project Handled:",
+            "ordered": false,
+            "bbox": [
+              {
+                "h": 311.01,
+                "w": 346.92,
+                "x": 208.63,
+                "y": 498.0,
+                "confidence": 0.93,
+                "end_index": 1574,
+                "label": "list",
+                "start_index": 0
+              }
+            ],
+            "type": "list"
+          }
+        ],
+        "page_height": 841.92,
+        "page_number": 2,
+        "page_width": 595.32,
+        "success": true
+      },
+      {
+        "items": [
+          {
+            "md": "\\* Adani Power Limited-Godda-Gharkhand\n\\* Adani Solar Limited-Mundra-Gujrat\n\\* Adani India Limited -AMC All Over india\n\\* Jhajjar Power Limited -Haryana",
+            "value": "* Adani Power Limited-Godda-Gharkhand\n* Adani Solar Limited-Mundra-Gujrat\n* Adani India Limited -AMC All Over india\n* Jhajjar Power Limited -Haryana",
+            "bbox": [
+              {
+                "h": 9.120575444216843,
+                "w": 172.37131215820315,
+                "x": 212.7543177246094,
+                "y": 29.385379183736664,
+                "confidence": 0.84,
+                "end_index": 37,
+                "label": "text",
+                "start_index": 1
+              },
+              {
+                "h": 10.195416400295352,
+                "w": 154.06971357421878,
+                "x": 212.48212089843753,
+                "y": 43.91704817906822,
+                "confidence": 0.84,
+                "end_index": 74,
+                "label": "text",
+                "start_index": 40
+              },
+              {
+                "h": 9.405599399771333,
+                "w": 178.7270557617188,
+                "x": 212.56205888671877,
+                "y": 58.31094750142912,
+                "confidence": 0.83,
+                "end_index": 117,
+                "label": "text",
+                "start_index": 77
+              },
+              {
+                "h": 10.548828558498478,
+                "w": 136.88799125976564,
+                "x": 212.2832685058594,
+                "y": 72.82739474799924,
+                "confidence": 0.83,
+                "end_index": 151,
+                "label": "text",
+                "start_index": 120
+              }
+            ],
+            "type": "text"
+          },
+          {
+            "level": 1,
+            "md": "# IT Project Engineer",
+            "value": "IT Project Engineer",
+            "bbox": [
+              {
+                "h": 11.801166761147101,
+                "w": 103.10928149414066,
+                "x": 198.23697641601564,
+                "y": 98.63868037585748,
+                "confidence": 0.92,
+                "end_index": 20,
+                "label": "paragraph_title",
+                "start_index": 0
+              }
+            ],
+            "type": "heading"
+          },
+          {
+            "level": 2,
+            "md": "## Svnt Infotech Pvt Limited",
+            "value": "Svnt Infotech Pvt Limited",
+            "bbox": [
+              {
+                "h": 9.62083455125761,
+                "w": 133.6430938476563,
+                "x": 213.25594189453128,
+                "y": 112.42360008098323,
+                "confidence": 0.89,
+                "end_index": 27,
+                "label": "paragraph_title",
+                "start_index": 0
+              }
+            ],
+            "type": "heading"
+          },
+          {
+            "csv": "\"02/2014 - 03/2023\",\"Manage multiple simultaneous projects for enterprise clients (Vedanta, Birla, ITC, JPL, Adani, etc.) covering IT infrastructure upgrades, CCTV rollouts, automation systems, and control-room deployments.\"\n\"EMPTY\",\"Prepare project charters, execution plans, risk matrices, timelines, resource plans, and stakeholder updates in line with enterprise PMO standards.\"\n\"EMPTY\",\"Lead end-to-end implementation and lifecycle management of enterprise CCTV systems, including camera design, layout planning, bandwidth sizing, storage planning, and smart surveillance integration\"\n\"EMPTY\",\"Manage deployment, configuration & optimization of VMS platforms such as Milestone, Genetec, Bosch, Honeywell, and integrate with video analytics modules (ANPR, face recognition, intrusion detection, perimeter analytics, object tracking)\"\n\"EMPTY\",\"Conduct FAT, SAT, UAT, and Go-Live validation for CCTV and security systems, ensuring compliance with organizational and industry standards.\"\n\"EMPTY\",\"Oversee deployment and integration of Access Control Systems, including biometric, RFID, smart card, turnstiles, boom barriers, and enterprise access-control software.\"\n\"EMPTY\",\"Design and manage Plant Automation and Industrial OT systems such as fire alarm, gas-detection sensors, SCADA-integrated safety systems, WLD, BMS, and facility automation\"\n\"EMPTY\",\"Implement Vehicle Management Systems (VMS) including ANPR gates, RFID-based vehicle tracking, parking management, weighbridge automation, and entry-exit flow optimization\"\n\"EMPTY\",\"Ensure integration between CCTV, ACS, Vehicle Management, and industrial automation platforms\"\n\"EMPTY\",\"Design and manage IT networking architecture, including L2/L3 switching, routing, VLAN segmentation, firewall policies, and network security controls\"\n\"EMPTY\",\"Lead rack re-organization, upgradation, cable management, smart rack planning, and data center physical infrastructure improvements\"\n\"EMPTY\",\"Drive end-to-end Data Center design, covering servers, storage, virtualization, backups, power systems (UPS, DG), cooling, AMC planning, and periodic audits.\"\n\"EMPTY\",\"Maintain documentation of network diagrams, DC layouts, rack elevations, IP schemas, and system integration points.\"\n\"EMPTY\",\"Prepare complete BOQ for CCTV, networking, access control, plant automation, data center equipment, and IT infrastructure components.\"\n\"EMPTY\",\"Evaluate vendor proposals, review technical compliance, perform solution benchmarking, and recommend cost-optimized and scalable solutions\"\n\"EMPTY\",\"Lead material ordering, procurement planning, GRN, asset tagging, and inventory lifecycle management.\"\n\"EMPTY\",\"Conduct site surveys, feasibility studies, technical assessments, and prepare solution proposals for new and brownfield infrastructure projects\"\n\"EMPTY\",\"Develop integration strategies for CCTV, Access Control, Security Systems, VMS, Vehicle Automation, and IT infrastructure with enterprise platforms.\"\n\"EMPTY\",\"Ensure adherence to compliance standards, cybersecurity policies, business continuity strategies, and audit requirements.\"",
+            "html": "<table>\n<thead>\n<tr>\n<th>02/2014 - 03/2023</th>\n<th>Manage multiple simultaneous projects for enterprise clients (<strong>Vedanta, Birla, ITC, JPL, Adani, etc.</strong>) covering IT infrastructure upgrades, CCTV rollouts, automation systems, and control-room deployments.</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>EMPTY</td>\n<td>Prepare <strong>project charters, execution plans, risk matrices, timelines, resource plans</strong>, and stakeholder updates in line with enterprise PMO standards.</td>\n</tr>\n<tr>\n<td>EMPTY</td>\n<td>Lead end-to-end implementation and lifecycle management of <strong>enterprise CCTV systems</strong>, including camera design, layout planning, bandwidth sizing, storage planning, and smart surveillance integration</td>\n</tr>\n<tr>\n<td>EMPTY</td>\n<td>Manage deployment, configuration &#x26; optimization of <strong>VMS platforms</strong> such as Milestone, Genetec, Bosch, Honeywell, and integrate with video analytics modules (ANPR, face recognition, intrusion detection, perimeter analytics, object tracking)</td>\n</tr>\n<tr>\n<td>EMPTY</td>\n<td>Conduct <strong>FAT, SAT, UAT</strong>, and Go-Live validation for CCTV and security systems, ensuring compliance with organizational and industry standards.</td>\n</tr>\n<tr>\n<td>EMPTY</td>\n<td>Oversee deployment and integration of <strong>Access Control Systems</strong>, including <strong>biometric, RFID, smart card, turnstiles, boom barriers</strong>, and enterprise access-control software.</td>\n</tr>\n<tr>\n<td>EMPTY</td>\n<td>Design and manage <strong>Plant Automation and Industrial OT systems</strong> such as fire alarm, gas-detection sensors, SCADA-integrated safety systems, WLD, BMS, and facility automation</td>\n</tr>\n<tr>\n<td>EMPTY</td>\n<td>Implement <strong>Vehicle Management Systems (VMS)</strong> including ANPR gates, RFID-based vehicle tracking, parking management, weighbridge automation, and entry-exit flow optimization</td>\n</tr>\n<tr>\n<td>EMPTY</td>\n<td>Ensure integration between <strong>CCTV, ACS, Vehicle Management, and industrial automation platforms</strong></td>\n</tr>\n<tr>\n<td>EMPTY</td>\n<td>Design and manage IT networking architecture, including <strong>L2/L3 switching, routing, VLAN segmentation, firewall policies</strong>, and network security controls</td>\n</tr>\n<tr>\n<td>EMPTY</td>\n<td>Lead <strong>rack re-organization, upgradation, cable management</strong>, smart rack planning, and data center physical infrastructure improvements</td>\n</tr>\n<tr>\n<td>EMPTY</td>\n<td>Drive end-to-end <strong>Data Center design</strong>, covering servers, storage, virtualization, backups, power systems (UPS, DG), cooling, AMC planning, and periodic audits.</td>\n</tr>\n<tr>\n<td>EMPTY</td>\n<td>Maintain documentation of <strong>network diagrams, DC layouts, rack elevations, IP schemas</strong>, and system integration points.</td>\n</tr>\n<tr>\n<td>EMPTY</td>\n<td>Prepare complete <strong>BOQ</strong> for CCTV, networking, access control, plant automation, data center equipment, and IT infrastructure components.</td>\n</tr>\n<tr>\n<td>EMPTY</td>\n<td>Evaluate vendor proposals, review technical compliance, perform solution benchmarking, and recommend cost-optimized and scalable solutions</td>\n</tr>\n<tr>\n<td>EMPTY</td>\n<td>Lead <strong>material ordering, procurement planning, GRN, asset tagging</strong>, and inventory lifecycle management.</td>\n</tr>\n<tr>\n<td>EMPTY</td>\n<td>Conduct <strong>site surveys, feasibility studies, technical assessments</strong>, and prepare solution proposals for new and brownfield infrastructure projects</td>\n</tr>\n<tr>\n<td>EMPTY</td>\n<td>Develop integration strategies for CCTV, Access Control, Security Systems, VMS, Vehicle Automation, and IT infrastructure with enterprise platforms.</td>\n</tr>\n<tr>\n<td>EMPTY</td>\n<td>Ensure adherence to compliance standards, cybersecurity policies, business continuity strategies, and audit requirements.</td>\n</tr>\n</tbody>\n</table>",
+            "md": "| 02/2014 - 03/2023 | Manage multiple simultaneous projects for enterprise clients (**Vedanta, Birla, ITC, JPL, Adani, etc.**) covering IT infrastructure upgrades, CCTV rollouts, automation systems, and control-room deployments.                                    |\n| ----------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |\n| EMPTY             | Prepare **project charters, execution plans, risk matrices, timelines, resource plans**, and stakeholder updates in line with enterprise PMO standards.                                                                                           |\n| EMPTY             | Lead end-to-end implementation and lifecycle management of **enterprise CCTV systems**, including camera design, layout planning, bandwidth sizing, storage planning, and smart surveillance integration                                          |\n| EMPTY             | Manage deployment, configuration & optimization of **VMS platforms** such as Milestone, Genetec, Bosch, Honeywell, and integrate with video analytics modules (ANPR, face recognition, intrusion detection, perimeter analytics, object tracking) |\n| EMPTY             | Conduct **FAT, SAT, UAT**, and Go-Live validation for CCTV and security systems, ensuring compliance with organizational and industry standards.                                                                                                  |\n| EMPTY             | Oversee deployment and integration of **Access Control Systems**, including **biometric, RFID, smart card, turnstiles, boom barriers**, and enterprise access-control software.                                                                   |\n| EMPTY             | Design and manage **Plant Automation and Industrial OT systems** such as fire alarm, gas-detection sensors, SCADA-integrated safety systems, WLD, BMS, and facility automation                                                                    |\n| EMPTY             | Implement **Vehicle Management Systems (VMS)** including ANPR gates, RFID-based vehicle tracking, parking management, weighbridge automation, and entry-exit flow optimization                                                                    |\n| EMPTY             | Ensure integration between **CCTV, ACS, Vehicle Management, and industrial automation platforms**                                                                                                                                                 |\n| EMPTY             | Design and manage IT networking architecture, including **L2/L3 switching, routing, VLAN segmentation, firewall policies**, and network security controls                                                                                         |\n| EMPTY             | Lead **rack re-organization, upgradation, cable management**, smart rack planning, and data center physical infrastructure improvements                                                                                                           |\n| EMPTY             | Drive end-to-end **Data Center design**, covering servers, storage, virtualization, backups, power systems (UPS, DG), cooling, AMC planning, and periodic audits.                                                                                 |\n| EMPTY             | Maintain documentation of **network diagrams, DC layouts, rack elevations, IP schemas**, and system integration points.                                                                                                                           |\n| EMPTY             | Prepare complete **BOQ** for CCTV, networking, access control, plant automation, data center equipment, and IT infrastructure components.                                                                                                         |\n| EMPTY             | Evaluate vendor proposals, review technical compliance, perform solution benchmarking, and recommend cost-optimized and scalable solutions                                                                                                        |\n| EMPTY             | Lead **material ordering, procurement planning, GRN, asset tagging**, and inventory lifecycle management.                                                                                                                                         |\n| EMPTY             | Conduct **site surveys, feasibility studies, technical assessments**, and prepare solution proposals for new and brownfield infrastructure projects                                                                                               |\n| EMPTY             | Develop integration strategies for CCTV, Access Control, Security Systems, VMS, Vehicle Automation, and IT infrastructure with enterprise platforms.                                                                                              |\n| EMPTY             | Ensure adherence to compliance standards, cybersecurity policies, business continuity strategies, and audit requirements.                                                                                                                         |",
+            "rows": [
+              [
+                "02/2014 - 03/2023",
+                "Manage multiple simultaneous projects for enterprise clients (Vedanta, Birla, ITC, JPL, Adani, etc.) covering IT infrastructure upgrades, CCTV rollouts, automation systems, and control-room deployments."
+              ],
+              [
+                "EMPTY",
+                "Prepare project charters, execution plans, risk matrices, timelines, resource plans, and stakeholder updates in line with enterprise PMO standards."
+              ],
+              [
+                "EMPTY",
+                "Lead end-to-end implementation and lifecycle management of enterprise CCTV systems, including camera design, layout planning, bandwidth sizing, storage planning, and smart surveillance integration"
+              ],
+              [
+                "EMPTY",
+                "Manage deployment, configuration & optimization of VMS platforms such as Milestone, Genetec, Bosch, Honeywell, and integrate with video analytics modules (ANPR, face recognition, intrusion detection, perimeter analytics, object tracking)"
+              ],
+              [
+                "EMPTY",
+                "Conduct FAT, SAT, UAT, and Go-Live validation for CCTV and security systems, ensuring compliance with organizational and industry standards."
+              ],
+              [
+                "EMPTY",
+                "Oversee deployment and integration of Access Control Systems, including biometric, RFID, smart card, turnstiles, boom barriers, and enterprise access-control software."
+              ],
+              [
+                "EMPTY",
+                "Design and manage Plant Automation and Industrial OT systems such as fire alarm, gas-detection sensors, SCADA-integrated safety systems, WLD, BMS, and facility automation"
+              ],
+              [
+                "EMPTY",
+                "Implement Vehicle Management Systems (VMS) including ANPR gates, RFID-based vehicle tracking, parking management, weighbridge automation, and entry-exit flow optimization"
+              ],
+              [
+                "EMPTY",
+                "Ensure integration between CCTV, ACS, Vehicle Management, and industrial automation platforms"
+              ],
+              [
+                "EMPTY",
+                "Design and manage IT networking architecture, including L2/L3 switching, routing, VLAN segmentation, firewall policies, and network security controls"
+              ],
+              [
+                "EMPTY",
+                "Lead rack re-organization, upgradation, cable management, smart rack planning, and data center physical infrastructure improvements"
+              ],
+              [
+                "EMPTY",
+                "Drive end-to-end Data Center design, covering servers, storage, virtualization, backups, power systems (UPS, DG), cooling, AMC planning, and periodic audits."
+              ],
+              [
+                "EMPTY",
+                "Maintain documentation of network diagrams, DC layouts, rack elevations, IP schemas, and system integration points."
+              ],
+              [
+                "EMPTY",
+                "Prepare complete BOQ for CCTV, networking, access control, plant automation, data center equipment, and IT infrastructure components."
+              ],
+              [
+                "EMPTY",
+                "Evaluate vendor proposals, review technical compliance, perform solution benchmarking, and recommend cost-optimized and scalable solutions"
+              ],
+              [
+                "EMPTY",
+                "Lead material ordering, procurement planning, GRN, asset tagging, and inventory lifecycle management."
+              ],
+              [
+                "EMPTY",
+                "Conduct site surveys, feasibility studies, technical assessments, and prepare solution proposals for new and brownfield infrastructure projects"
+              ],
+              [
+                "EMPTY",
+                "Develop integration strategies for CCTV, Access Control, Security Systems, VMS, Vehicle Automation, and IT infrastructure with enterprise platforms."
+              ],
+              [
+                "EMPTY",
+                "Ensure adherence to compliance standards, cybersecurity policies, business continuity strategies, and audit requirements."
+              ]
+            ],
+            "bbox": [
+              {
+                "h": 621.34,
+                "w": 340.83,
+                "x": 219.42,
+                "y": 128.79,
+                "confidence": 1.0,
+                "end_index": 5318,
+                "label": "table",
+                "start_index": 0
+              },
+              {
+                "h": 38.04,
+                "w": 340.52,
+                "x": 219.55,
+                "y": 128.79,
+                "confidence": 1.0,
+                "end_index": 227,
+                "label": "text",
+                "start_index": 22
+              },
+              {
+                "h": 24.14,
+                "w": 339.63,
+                "x": 220.26,
+                "y": 171.38,
+                "confidence": 1.0,
+                "end_index": 704,
+                "label": "text",
+                "start_index": 554
+              },
+              {
+                "h": 38.03,
+                "w": 339.48,
+                "x": 219.97,
+                "y": 199.81,
+                "confidence": 1.0,
+                "end_index": 1019,
+                "label": "text",
+                "start_index": 820
+              },
+              {
+                "h": 38.22,
+                "w": 340.62,
+                "x": 219.63,
+                "y": 242.54,
+                "confidence": 1.0,
+                "end_index": 1326,
+                "label": "text",
+                "start_index": 1086
+              },
+              {
+                "h": 24.53,
+                "w": 340.07,
+                "x": 219.68,
+                "y": 284.41,
+                "confidence": 1.0,
+                "end_index": 1495,
+                "label": "text",
+                "start_index": 1352
+              },
+              {
+                "h": 36.6,
+                "w": 340.12,
+                "x": 219.9,
+                "y": 313.73,
+                "confidence": 1.0,
+                "end_index": 1792,
+                "label": "text",
+                "start_index": 1618
+              },
+              {
+                "h": 37.72,
+                "w": 340.39,
+                "x": 219.7,
+                "y": 355.99,
+                "confidence": 1.0,
+                "end_index": 2057,
+                "label": "text",
+                "start_index": 1884
+              },
+              {
+                "h": 38.07,
+                "w": 340.26,
+                "x": 219.71,
+                "y": 398.72,
+                "confidence": 1.0,
+                "end_index": 2323,
+                "label": "text",
+                "start_index": 2150
+              },
+              {
+                "h": 24.05,
+                "w": 340.25,
+                "x": 219.68,
+                "y": 440.73,
+                "confidence": 1.0,
+                "end_index": 2512,
+                "label": "text",
+                "start_index": 2416
+              },
+              {
+                "h": 24.4,
+                "w": 339.94,
+                "x": 219.89,
+                "y": 469.55,
+                "confidence": 1.0,
+                "end_index": 2834,
+                "label": "text",
+                "start_index": 2682
+              },
+              {
+                "h": 23.97,
+                "w": 339.96,
+                "x": 219.82,
+                "y": 498.29,
+                "confidence": 1.0,
+                "end_index": 3082,
+                "label": "text",
+                "start_index": 2948
+              },
+              {
+                "h": 24.55,
+                "w": 339.84,
+                "x": 219.63,
+                "y": 526.36,
+                "confidence": 1.0,
+                "end_index": 3374,
+                "label": "text",
+                "start_index": 3214
+              },
+              {
+                "h": 24.73,
+                "w": 340.19,
+                "x": 219.71,
+                "y": 554.64,
+                "confidence": 1.0,
+                "end_index": 3598,
+                "label": "text",
+                "start_index": 3480
+              },
+              {
+                "h": 24.01,
+                "w": 340.53,
+                "x": 219.42,
+                "y": 583.6,
+                "confidence": 1.0,
+                "end_index": 3882,
+                "label": "text",
+                "start_index": 3746
+              },
+              {
+                "h": 24.29,
+                "w": 340.11,
+                "x": 219.65,
+                "y": 611.83,
+                "confidence": 1.0,
+                "end_index": 4149,
+                "label": "text",
+                "start_index": 4012
+              },
+              {
+                "h": 23.8,
+                "w": 340.05,
+                "x": 220.01,
+                "y": 640.79,
+                "confidence": 1.0,
+                "end_index": 4382,
+                "label": "text",
+                "start_index": 4278
+              },
+              {
+                "h": 24.32,
+                "w": 340.25,
+                "x": 219.59,
+                "y": 668.94,
+                "confidence": 1.0,
+                "end_index": 4690,
+                "label": "text",
+                "start_index": 4544
+              },
+              {
+                "h": 24.46,
+                "w": 339.35,
+                "x": 219.98,
+                "y": 697.31,
+                "confidence": 1.0,
+                "end_index": 4957,
+                "label": "text",
+                "start_index": 4810
+              },
+              {
+                "h": 24.13,
+                "w": 339.85,
+                "x": 219.76,
+                "y": 726.0,
+                "confidence": 1.0,
+                "end_index": 5196,
+                "label": "text",
+                "start_index": 5076
+              }
+            ],
+            "merged_from_pages": null,
+            "merged_into_page": null,
+            "parse_concerns": [
+              {
+                "details": "layout detected [text, key-value-region, paragraph_title] but no table/form",
+                "type": "layout_lvm_disagreement"
+              }
+            ],
+            "type": "table"
+          },
+          {
+            "md": "**DATE**: -22 FE 2026\nPlace: - Ajmer",
+            "value": "DATE: -22 FE 2026\nPlace: - Ajmer",
+            "bbox": [
+              {
+                "h": 8.44306349085375,
+                "w": 31.106476757812494,
+                "x": 220.19541005859378,
+                "y": 780.8189855373475,
+                "confidence": 0.77,
+                "end_index": 5,
+                "label": "text",
+                "start_index": 0
+              },
+              {
+                "h": 8.447525362042741,
+                "w": 49.99364326171875,
+                "x": 255.4943241210938,
+                "y": 780.5711762195122,
+                "confidence": 0.83,
+                "end_index": 20,
+                "label": "text",
+                "start_index": 6
+              }
+            ],
+            "type": "text"
+          }
+        ],
+        "page_height": 841.92,
+        "page_number": 3,
+        "page_width": 595.32,
+        "success": true
+      },
+      {
+        "items": [
+          {
+            "md": "\\#HRJ#a187a24d-f5f0-41f5-853b-acf03d440a52#",
+            "value": "#HRJ#a187a24d-f5f0-41f5-853b-acf03d440a52#",
+            "bbox": null,
+            "type": "text"
+          }
+        ],
+        "page_height": 841.92,
+        "page_number": 4,
+        "page_width": 595.32,
+        "success": true
+      }
+    ]
+  },
+  "job_metadata": {
+    "state_transitions": {
+      "pending_at": "2026-05-12T14:42:31.201301Z",
+      "throttled_at": "2026-05-12T14:42:31.498637Z",
+      "running_at": "2026-05-12T14:42:31.841333Z",
+      "completed_at": "2026-05-12T14:42:54.883622Z",
+      "failed_at": null,
+      "cancelled_at": null
+    },
+    "pdf-pages": 4,
+    "pdf-real-pages": 4,
+    "pdf-rawTextLength": 13112,
+    "pdf-mdLength": 12031,
+    "pdf-time": 15351,
+    "pdf-ocrTime": 0,
+    "pdf-image-convertTime": 0,
+    "pdf-pdfToHTMLTime": 0,
+    "pdf-llmTime": 12339,
+    "pdf-inputTokens": 35173,
+    "pdf-outputTokens": 3329,
+    "pdf-image-ocr-count": 4,
+    "pdf-image-ocr-failed-count": 0,
+    "pdf-image-ocr-success-count": 12,
+    "pdf-image-ocr-empty-count": 8,
+    "pdf-image-ocr-hadText-count": 4,
+    "pdf-image-ocr-pixels": 29285249,
+    "pdf-multimodal-time": 0,
+    "pdf-multimodal-pdf2Image": 0,
+    "pdf-model": null,
+    "pdf-high-res-ocr": 4,
+    "model_invocations": [
+      {
+        "page_number": 3,
+        "model": "gemini-3.0-flash",
+        "task": "parse_page_with_agent",
+        "reason": "primary",
+        "attempt": 1,
+        "status": "success",
+        "input_tokens": 11248,
+        "output_tokens": 910
+      },
+      {
+        "page_number": 1,
+        "model": "gemini-3.0-flash",
+        "task": "parse_page_with_agent",
+        "reason": "primary",
+        "attempt": 1,
+        "status": "success",
+        "input_tokens": 12443,
+        "output_tokens": 1409
+      },
+      {
+        "page_number": 2,
+        "model": "gemini-3.0-flash",
+        "task": "parse_page_with_agent",
+        "reason": "primary",
+        "attempt": 1,
+        "status": "success",
+        "input_tokens": 11482,
+        "output_tokens": 1010
+      }
+    ]
+  },
+  "markdown": null,
+  "markdown_full": "![Suraj Barhath profile picture](page_1_image_1_v2.jpg)\n\n# Suraj Barhath (Prince2®)\n\nIT Consultant & ICT Infrastructure Specialist with strong expertise in Data Center Design, Implementation & O&M, Smart City/SAFE City Systems, ICCC Operations, and ITMS/ATMS/ELV/CCTV integration. Proven experience delivering large-scale tech projects across Rajasthan and Madhya Pradesh Smart City Programs and leading engagements with KPMG India, aligned with high-demand Smart City and ICT leadership roles requiring IoT, surveillance, and urban tech integration. Adept at SLA-driven service delivery, vendor/OEM management, quality & compliance, and leading cross-functional technical teams, matching the core expectations of ICT/Smart City/Data Center Service Delivery Manager roles in current market demand. Seeking to drive scalable innovations across Data Center Infrastructure, ICCC operations, and Smart/SAFE City digital ecosystems ..\n\n## CONTACT\n\n![Location icon](page_1_image_2_v2.jpg) Ajmer(Rajasthan), India 305802\n\n![Phone icon](page_1_image_3_v2.jpg) 8003624634\n\n![Email icon](page_1_image_4_v2.jpg) barhathsuraj@gmail.com\n\n## SKILLS\n\n* Project management\n* System integration\n* Vendor management\n* Quality control\n* Technical documentation\n* Process improvement\n* Compliance auditing\n* Leadership proficiency\n\n## CERTIFICATIONS\n\n* Prince2 Foundation\n* Data Center Design\n\n## EDUCATION\n\n### B. Tech (ECE)\nRajasthan Technical University - Kota (2014)\n**GPA**: 65%\n\n### PGDMM (Post Graduation Diploma in Marketing Management )\nIgnou-Delhi-2020\n\n## PERSONAL INFORMATION\n\n**Date of birth**: 1992-11-03\n\n## Experience\n\n### Consultant\n### KPMG India\n\n<table>\n  <tbody>\n    <tr>\n        <td rowspan=\"14\">08/2025 - Current</td>\n<td>Assisting MP police for their exiting and futuristic project i.e. Safe city and police station CCTV</td>\n    </tr>\n<tr>\n        <td>Lead design &amp; implementation of Data Center infrastructure of State Data Center, including compute, storage, networking, virtualization, and disaster recovery, Cooling and Electrical Infrastructure systems</td>\n    </tr>\n<tr>\n        <td>Architect ICT/ELV solutions for Smart City, SAFE City, ICCC, ITS, and surveillance ecosystems of MP state Governments</td>\n    </tr>\n<tr>\n        <td>Ensured alignment of project deliverables with MeitY guidelines, e-Governance standards, cybersecurity policies, and national digital frameworks.</td>\n    </tr>\n<tr>\n        <td>Contributed to bid process management, including preparation of RFPs, BOQ , DPR, evaluation of technical bids, vendor assessment, and compliance verification.</td>\n    </tr>\n<tr>\n        <td>Translate functional and operational requirements into technical specifications, solution architectures, and implementation roadmaps—consistent with industry expectations of converting client goals into technical requirements</td>\n    </tr>\n<tr>\n        <td>Draft all supporting documentation: SRS, functional specs, design documents, SOPs, audit checklists, and compliance reports</td>\n    </tr>\n<tr>\n        <td>Preparing Project for SAFEGAURD CITY project for MP Police Conduct baseline assessments, feasibility studies, business requirement workshops, and system audits to understand client needs—aligning with standard IT consultant responsibilities of analyzing requirements and designing IT solutions</td>\n    </tr>\n<tr>\n        <td>SLA, Security, Audit activities of MSI as per RFP, supporting for the daily Reports, Billing and Payments, SLA Measurement, Solutioning of network, CCTV Surveillance and all the related components, Review of Project execution, Go-Live and O&amp;M. Also supporting in various Draft RFP, DPR and Prebid queries and meetings. Supporting in sizing, costing and procurement.</td>\n    </tr>\n<tr>\n        <td>Coordinate with OEMs, system integrators, state IT departments, and Smart City SPVs throughout the project lifecycle.</td>\n    </tr>\n<tr>\n        <td>Conduct FAT (Factory Acceptance Testing), UAT (User Acceptance Testing), SIT (System Integration Testing) with government stakeholders to confirm that deployed systems meet functional and operational expectations.</td>\n    </tr>\n<tr>\n        <td>Oversee end-to-end Go-Live activities including system cutover, data migration, configuration validation, and final readiness checks.</td>\n    </tr>\n<tr>\n        <td>Ensure successful handover to O&amp;M teams with training, documentation, and stabilization support</td>\n    </tr>\n<tr>\n        <td>Ensure alignment with government standards, cybersecurity guidelines, and ITIL-based O&amp;M processes.</td>\n    </tr>\n  </tbody>\n</table>\n\n\n\n---\n\n## Assistant Manager(Service Delivery Manager)\n## Tata Advance System Limited - Bikaner, India\n\n09/2023 - 07/2025\n\n* Managed a large cross-functional workforce of **100+ IT Technical Team , field, and operations engineers** across **Bikaner Zone**, overseeing **ICCC, Smart City operations**, and **Dial-100 / 112 / 1930 (Cyber Fraud)** emergency response systems.\n* Ensured **maximum uptime** of the complete **Data Center, IT infrastructure, ICCC, surveillance systems, ITMS, emergency response, forensic lab**, and command-center applications—maintaining strict **SLA compliance** and service quality\n* Led Tier-2 & 3 Data Center operations & Maintenance consisting of servers, enterprise storage, network switches, database servers, smart racks, and power panel systems\n* Designed and reviewed **ICT & IT infrastructure solutions**, including network topologies, server architectures, cloud readiness, security frameworks, and Smart City integrations.\n* **IT Technical Consultant** for **parallel ICT projects**, providing end-to-end technical guidance, architectural design, and solution engineering.\n* Supervised all ICCC operational activities including real-time monitoring, response escalation, coordination with police/departments, and analytics-driven decision support.\n* Engaged multiple **State and Central Government bodies** for approvals, technical audits, reviews, and compliance inspections throughout the project lifecycle\n* Co-ordination with different stakeholders, i.e., Electrical department, public health department, engineering department, and Protech (system integrator to design and implement the command-and-control center).\n* Command Control Centre: Designing a Command-and-Control Centre.\n* Managed robust power continuity using **DG, UPS, and AMF panel** configurations, ensuring uninterrupted Data Center availability.\n* Oversaw **PSAP operations using HEXAGON CAD & GIS, AVAYA EPABX**, citywide video surveillance monitoring, and emergency call-center workflows..\n* Activity performed from the Command-and-Control Centre.\n* Oversaw **Fire Alarm, Access Control, Biometrics, WLD**, rodent repellent, and environmental monitoring systems within the ICCC and Data Center ecosystem.\n* Conducted **technical assessments, gap analysis, feasibility studies, and drafted technical proposals**, architecture diagrams, and solution design documents\n\n## Senior Project Manager\n## Digitron India.\n\n04/2023 - 09/2023\n\n* Schedule assignments, monitor, review, and report project status regularly to manage project risks, P&L, and ensure successful project delivery and implementation, quality control, team building, and new requirements.\n* Contributing to strategies and execution roadmaps (for purchases, strict budget controls, IT infrastructure, security, crisis/disaster and business continuity plans, asset management, incident management, audits, compliance and regulations, and vendor management).\n* Lead in performing project planning and scheduling, managing tasks, and coordinating project resources to meet objectives and timelines.\n* Reviewing and preparing standards with knowledge of the latest practices in toll collection systems and ATMS.\n* Ensure project lifecycles on development and maintenance projects, estimation methodologies, and quality processes as per standard norms.\n* Led **AMC and project planning**, including task scheduling, effort estimation, resource allocation, and cross-team coordination to ensure all project milestones, KPIs, and deliverables were achieved within defined timelines\n* Prepared and reviewed **technical standards, specifications, and solution frameworks** aligned with the latest industry practices in **Security Automation Project , ATMS, and Intelligent Traffic Management ,CCTV, Access Control, Vehicle management Project Technologies**\n* Managed multiple concurrent projects with complete ownership of planning, execution, monitoring, stakeholder communication, vendor/OEM coordination, and performance evaluation.\n* Project Handled:\n\n---\n\n\\* Adani Power Limited-Godda-Gharkhand\n\\* Adani Solar Limited-Mundra-Gujrat\n\\* Adani India Limited -AMC All Over india\n\\* Jhajjar Power Limited -Haryana\n\n# IT Project Engineer\n## Svnt Infotech Pvt Limited\n\n02/2014 - 03/2023 | Manage multiple simultaneous projects for enterprise clients (**Vedanta, Birla, ITC, JPL, Adani, etc.**) covering IT infrastructure upgrades, CCTV rollouts, automation systems, and control-room deployments.\n---|---\nEMPTY | Prepare **project charters, execution plans, risk matrices, timelines, resource plans**, and stakeholder updates in line with enterprise PMO standards.\nEMPTY | Lead end-to-end implementation and lifecycle management of **enterprise CCTV systems**, including camera design, layout planning, bandwidth sizing, storage planning, and smart surveillance integration\nEMPTY | Manage deployment, configuration & optimization of **VMS platforms** such as Milestone, Genetec, Bosch, Honeywell, and integrate with video analytics modules (ANPR, face recognition, intrusion detection, perimeter analytics, object tracking)\nEMPTY | Conduct **FAT, SAT, UAT**, and Go-Live validation for CCTV and security systems, ensuring compliance with organizational and industry standards.\nEMPTY | Oversee deployment and integration of **Access Control Systems**, including **biometric, RFID, smart card, turnstiles, boom barriers**, and enterprise access-control software.\nEMPTY | Design and manage **Plant Automation and Industrial OT systems** such as fire alarm, gas-detection sensors, SCADA-integrated safety systems, WLD, BMS, and facility automation\nEMPTY | Implement **Vehicle Management Systems (VMS)** including ANPR gates, RFID-based vehicle tracking, parking management, weighbridge automation, and entry-exit flow optimization\nEMPTY | Ensure integration between **CCTV, ACS, Vehicle Management, and industrial automation platforms**\nEMPTY | Design and manage IT networking architecture, including **L2/L3 switching, routing, VLAN segmentation, firewall policies**, and network security controls\nEMPTY | Lead **rack re-organization, upgradation, cable management**, smart rack planning, and data center physical infrastructure improvements\nEMPTY | Drive end-to-end **Data Center design**, covering servers, storage, virtualization, backups, power systems (UPS, DG), cooling, AMC planning, and periodic audits.\nEMPTY | Maintain documentation of **network diagrams, DC layouts, rack elevations, IP schemas**, and system integration points.\nEMPTY | Prepare complete **BOQ** for CCTV, networking, access control, plant automation, data center equipment, and IT infrastructure components.\nEMPTY | Evaluate vendor proposals, review technical compliance, perform solution benchmarking, and recommend cost-optimized and scalable solutions\nEMPTY | Lead **material ordering, procurement planning, GRN, asset tagging**, and inventory lifecycle management.\nEMPTY | Conduct **site surveys, feasibility studies, technical assessments**, and prepare solution proposals for new and brownfield infrastructure projects\nEMPTY | Develop integration strategies for CCTV, Access Control, Security Systems, VMS, Vehicle Automation, and IT infrastructure with enterprise platforms.\nEMPTY | Ensure adherence to compliance standards, cybersecurity policies, business continuity strategies, and audit requirements.\n\n**DATE**: -22 FE 2026\nPlace: - Ajmer\n\n---\n\n#HRJ#a187a24d-f5f0-41f5-853b-acf03d440a52#",
+  "metadata": {
+    "pages": [
+      {
+        "page_number": 1,
+        "confidence": 0.937,
+        "cost_optimized": false,
+        "original_orientation_angle": 0,
+        "printed_page_number": null,
+        "slide_section_name": null,
+        "speaker_notes": null,
+        "triggered_auto_mode": false
+      },
+      {
+        "page_number": 2,
+        "confidence": 0.988,
+        "cost_optimized": false,
+        "original_orientation_angle": 0,
+        "printed_page_number": null,
+        "slide_section_name": null,
+        "speaker_notes": null,
+        "triggered_auto_mode": false
+      },
+      {
+        "page_number": 3,
+        "confidence": 0.95,
+        "cost_optimized": false,
+        "original_orientation_angle": 0,
+        "printed_page_number": null,
+        "slide_section_name": null,
+        "speaker_notes": null,
+        "triggered_auto_mode": false
+      },
+      {
+        "page_number": 4,
+        "confidence": 0.0,
+        "cost_optimized": false,
+        "original_orientation_angle": 0,
+        "printed_page_number": null,
+        "slide_section_name": null,
+        "speaker_notes": null,
+        "triggered_auto_mode": false
+      }
+    ]
+  },
+  "raw_parameters": null,
+  "result_content_metadata": null,
+  "text": null,
+  "text_full": "                             Suraj Barhath (Prince2®)\n\n                             IT Consultant & ICT Infrastructure Specialist with strong expertise in Data\n                             Center Design, Implementation & O&M, Smart City/SAFE City Systems,\n                             ICCC        Operations,          and  ITMS/ATMS/ELV/CCTV            integration.            Proven\n                             experience delivering large-scale tech projects across Rajasthan and\n                             Madhya Pradesh Smart City Programs and leading engagements with\n                             KPMG India, aligned with high-demand Smart City and ICT leadership\n                             roles requiring IoT, surveillance, and urban tech integration. Adept at\n                             SLA-driven           service     delivery,  vendor/OEM            management,  quality           &\n                             compliance, and leading cross-functional technical teams, matching the\nCONTACT                      core expectations of ICT/Smart City/Data Center Service Delivery\n  Ajmer(Rajasthan),          Manager roles in current market demand. Seeking to drive scalable\n  India 305802               innovations across Data Center Infrastructure, ICCC operations, and\n                             Smart/SAFE City digital ecosystems ..\n  8003624634                 Experience\n\n  barhathsuraj@gmail.co                 Consultant\n  m                                     KPMG India\n                             Current     Assisting MP police for their exiting and futuristic project i.e. Safe city and police\n                                         station CCTV\nSKILLS                                   Lead design & implementation of Data Center infrastructure of State Data Center\n• Project management         - , including compute, storage, networking, virtualization, and disaster recovery,\n• System integration         /2025       Cooling and Electrical Infrastructure systems\n• Vendor management          8 Architect ICT/ELV solutions for Smart City, SAFE City, ICCC, ITS, and\n                             0\n• Quality control                        surveillance ecosystems of MP state Governments\n• Technical documentation                Ensured alignment of project deliverables with MeitY guidelines, e-Governance\n• Process improvement                    standards, cybersecurity policies, and national digital frameworks.\n• Compliance auditing                    Contributed to bid process management, including preparation of RFPs, BOQ , DPR,\n                                         evaluation of technical bids, vendor assessment, and compliance verification.\n• Leadership proficiency                 Translate functional and operational requirements into technical specifications,\n                                         solution architectures, and implementation roadmaps—consistent with industry\n                                         expectations of converting client goals into technical requirements\nCERTIFICATIONS                           Draft all supporting documentation: SRS, functional specs, design documents, SOPs,\n• Prince2 Foundation                     audit checklists, and compliance reports\n• Data Center Design                     Preparing Project for SAFEGAURD CITY project for MP Police Conduct baseline\n                                         assessments, feasibility studies, business requirement workshops, and system audits\n                                         to understand client needs—aligning with standard IT consultant responsibilities of\nEDUCATION                                analyzing requirements and designing IT solutions\n                                         SLA, Security, Audit activities of MSI as per RFP, supporting for the daily Reports,\n B. Tech (ECE)                           Billing  and  Payments,   SLA  Measurement,  Solutioning  of       network,     CCTV\n Rajasthan Technical                     Surveillance and all the related components, Review of Project execution, Go-Live\n University - Kota (2014)                and O&M. Also supporting in various Draft RFP, DPR and Prebid queries and\n GPA: 65%                                meetings. Supporting in sizing, costing and procurement.\n PGDMM (Post                             Coordinate with OEMs, system integrators, state IT departments, and Smart City\n Graduation Diploma in                   SPVs throughout the project lifecycle.\n Marketing                               Conduct FAT (Factory Acceptance Testing), UAT (User Acceptance Testing),\n Management )                            SIT (System Integration Testing) with government stakeholders to confirm that\nIgnou-Delhi-2020                         deployed systems meet functional and operational expectations.\n                                         Oversee end-to-end Go-Live activities including system cutover, data migration,\n                                         configuration validation, and final readiness checks.\nPERSONAL                                 Ensure successful handover to O&M teams with training, documentation, and\nINFORMATION                              stabilization support\n                                         Ensure   alignment   with  government   standards,    cybersecurity  guidelines, and\nDate of birth: 1992-11-03               . ITIL-based O&M processes.\n\n---\n\n3\n/202  9\n      0 -\n       3\n-        04/202\n3\n     /202  9\n/2025  7   0\n       0\n\n\n\n\n\n\n\n\n\n\nAssistant Manager(Service Delivery Manager)\nTata Advance System Limited - Bikaner, India\n Managed a large cross-functional workforce of 100+ IT Technical Team , field,\n and operations engineers across Bikaner Zone, overseeing ICCC, Smart City\n operations, and Dial-100 / 112 / 1930 (Cyber Fraud) emergency response systems.\n Ensured maximum uptime of the complete Data Center, IT infrastructure, ICCC,\n surveillance   systems,  ITMS,  emergency       response,    forensic   lab,          and\n command-center applications—maintaining strict SLA compliance           and service\n quality\n Led Tier-2   & 3  Data Center operations & Maintenance consisting of servers,\n enterprise storage, network switches, database servers, smart racks, and power panel\n systems\n Designed and reviewed ICT & IT infrastructure solutions, including network\n topologies, server architectures, cloud readiness, security frameworks, and Smart City\n integrations.\n IT Technical Consultant for parallel ICT projects, providing end-to-end technical\n guidance, architectural design, and solution engineering.\n Supervised all ICCC operational activities including real-time monitoring, response\n escalation, coordination with police/departments, and analytics-driven decision\n support.\n Engaged multiple State and Central Government bodies for approvals, technical\n audits, reviews, and compliance inspections throughout the project lifecycle\n Co-ordination with different stakeholders, i.e., Electrical department, public health\n department, engineering department, and Protech (system integrator to design and\n implement the command-and-control center).\n Command Control Centre: Designing a Command-and-Control Centre.\n Managed robust power continuity using DG, UPS, and AMF panel configurations,\n ensuring uninterrupted Data Center availability.\n Oversaw PSAP operations using HEXAGON CAD & GIS, AVAYA EPABX,\n citywide video surveillance monitoring, and emergency call-center workflows..\n Activity performed from the Command-and-Control Centre.\n Oversaw Fire Alarm, Access Control, Biometrics, WLD, rodent repellent, and\n environmental monitoring systems within the ICCC and Data Center ecosystem.\n Conducted technical assessments, gap analysis, feasibility studies, and drafted\n. technical proposals, architecture diagrams, and solution design documents\nSenior Project Manager\nDigitron India.\n Schedule assignments, monitor, review, and report project status regularly to\n manage project risks, P&L, and ensure successful project delivery and\n implementation, quality control, team building, and new requirements.\n Contributing to strategies and execution roadmaps (for purchases, strict budget\n controls, IT infrastructure, security, crisis/disaster and business continuity plans,\n asset management, incident management, audits, compliance and regulations, and\n vendor management).\n Lead in performing project planning and scheduling, managing tasks, and\n coordinating project resources to meet objectives and timelines.\n Reviewing and preparing standards with knowledge of the latest practices in toll\n collection systems and ATMS.\n Ensure project lifecycles on development and maintenance projects, estimation\n methodologies, and quality processes as per standard norms.\n Led AMC and project planning, including task scheduling, effort estimation,\n resource allocation, and cross-team coordination to ensure all project milestones,\n KPIs, and deliverables were achieved within defined timelines\n Prepared and reviewed technical standards, specifications, and solution\n frameworks aligned with the latest industry practices in Security Automation\n Project , ATMS, and Intelligent Traffic Management ,CCTV, Access Control,\n Vehicle management Project Technologies\n Managed multiple concurrent projects with complete ownership of planning,\n execution, monitoring, stakeholder communication, vendor/OEM coordination, and\n performance evaluation.\n Project Handled:\n\n---\n\n          Adani Power Limited-Godda-Gharkhand\n          Adani Solar Limited-Mundra-Gujrat\n          Adani India Limited -AMC All Over india\n         . Jhajjar Power Limited -Haryana\nIT Project Engineer\n         Svnt Infotech Pvt Limited\n23        Manage multiple simultaneous projects for enterprise clients (Vedanta, Birla, ITC,\n/20       JPL, Adani, etc.) covering IT infrastructure upgrades, CCTV rollouts, automation\n3 systems, and control-room deployments.\n0\n- Prepare project charters, execution plans, risk matrices, timelines, resource\n/2014     plans, and stakeholder updates in line with enterprise PMO standards.\n2 Lead end-to-end implementation and lifecycle management of enterprise CCTV\n0 systems, including camera design, layout planning, bandwidth sizing, storage\n\n          planning, and smart surveillance integration\n          Manage deployment, configuration & optimization of VMS platforms            such as\n          Milestone, Genetec, Bosch, Honeywell, and integrate with video analytics modules\n          (ANPR, face recognition, intrusion detection, perimeter analytics, object tracking)\n          Conduct FAT, SAT, UAT, and Go-Live validation for CCTV and security systems,\n          ensuring compliance with organizational and industry standards.\n          Oversee   deployment and integration of           Access Control Systems, including\n          biometric,  RFID,  smart    card,  turnstiles,  boom  barriers,     and  enterprise\n          access-control software.\n          Design and manage Plant Automation and Industrial OT systems such as fire\n          alarm, gas-detection sensors, SCADA-integrated safety systems, WLD, BMS, and\n          facility automation\n          Implement   Vehicle  Management Systems         (VMS) including      ANPR gates,\n          RFID-based vehicle tracking, parking management, weighbridge automation, and\n          entry-exit flow optimization\n          Ensure integration between CCTV, ACS, Vehicle Management, and industrial\n          automation platforms\n          Design and manage IT networking architecture, including L2/L3 switching, routing,\n          VLAN segmentation, firewall policies, and network security controls\n          Lead rack re-organization, upgradation, cable management, smart rack planning,\n          and data center physical infrastructure improvements\n          Drive end-to-end Data Center design, covering servers, storage, virtualization,\n          backups, power systems (UPS, DG), cooling, AMC planning, and periodic audits.\n          Maintain documentation of network diagrams, DC layouts, rack elevations, IP\n          schemas, and system integration points.\n          Prepare complete BOQ for CCTV, networking, access control, plant automation, data\n          center equipment, and IT infrastructure components.\n          Evaluate  vendor   proposals,  review  technical  compliance,    perform   solution\n          benchmarking, and recommend cost-optimized and scalable solutions\n          Lead material ordering, procurement planning, GRN, asset tagging, and\n          inventory lifecycle management.\n          Conduct site surveys, feasibility studies, technical assessments, and prepare\n          solution proposals for new and brownfield infrastructure projects\n          Develop integration strategies for CCTV, Access Control, Security Systems, VMS,\n          Vehicle Automation, and IT infrastructure with enterprise platforms.\n          Ensure   adherence  to  compliance  standards,  cybersecurity    policies, business\n          continuity strategies, and audit requirements.\n\n\nDATE: -22 FE 2026\n. Place: - Ajmer\n\n---\n\nNO_CONTENT_HERE",
+  "debug": null
+}

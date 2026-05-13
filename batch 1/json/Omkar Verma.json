@@ -1,0 +1,1125 @@
+{
+  "job": {
+    "id": "pjb-huq2avhdc2ws6ud67g1d6s6m9h2y",
+    "project_id": "949fd88b-381a-4ae5-b3b9-bf7fcc9b74b8",
+    "status": "COMPLETED",
+    "created_at": "2026-05-12T14:41:29.568993Z",
+    "error_message": null,
+    "name": "Omkar Resume _2026.pdf",
+    "tier": "agentic",
+    "updated_at": "2026-05-12T14:41:39.592363Z"
+  },
+  "images_content_metadata": null,
+  "items": {
+    "pages": [
+      {
+        "items": [
+          {
+            "level": 1,
+            "md": "# OMKAR VERMA",
+            "value": "OMKAR VERMA",
+            "bbox": [
+              {
+                "h": 17.88968011623475,
+                "w": 128.5658992711509,
+                "x": 241.41185392054118,
+                "y": 70.96043236709222,
+                "confidence": 0.91,
+                "end_index": 12,
+                "label": "doc_title",
+                "start_index": 0
+              }
+            ],
+            "type": "heading"
+          },
+          {
+            "md": "Assistant Manager",
+            "value": "Assistant Manager",
+            "bbox": [
+              {
+                "h": 11.608789896150906,
+                "w": 95.01963617092221,
+                "x": 257.8951039681784,
+                "y": 105.90209258288873,
+                "confidence": 0.77,
+                "end_index": 16,
+                "label": "paragraph_title",
+                "start_index": 0
+              }
+            ],
+            "type": "text"
+          },
+          {
+            "md": "<vermaomkar20@gmail.com>",
+            "text": "vermaomkar20@gmail.com",
+            "url": "mailto:vermaomkar20@gmail.com",
+            "bbox": [
+              {
+                "h": 101.30971310499237,
+                "w": 321.27004430259143,
+                "x": 144.66896341463413,
+                "y": 106.10002655773629,
+                "confidence": 0.77,
+                "end_index": 23,
+                "label": "text",
+                "start_index": 0
+              }
+            ],
+            "type": "link"
+          },
+          {
+            "md": "+91 7771886697",
+            "value": "+91 7771886697",
+            "bbox": [
+              {
+                "h": 10.028088795731724,
+                "w": 66.30739174447406,
+                "x": 272.69566013243144,
+                "y": 153.0407383765244,
+                "confidence": 0.81,
+                "end_index": 13,
+                "label": "text",
+                "start_index": 0
+              }
+            ],
+            "type": "text"
+          },
+          {
+            "md": "Permanent Address: Village-Gujara Block- Tilda, Raipur, Chhattisgarh, India 493221",
+            "value": "Permanent Address: Village-Gujara Block- Tilda, Raipur, Chhattisgarh, India 493221",
+            "bbox": [
+              {
+                "h": 10.028088795731724,
+                "w": 66.30739174447406,
+                "x": 272.69566013243144,
+                "y": 153.0407383765244,
+                "confidence": 0.66,
+                "end_index": 81,
+                "label": "text",
+                "start_index": 0
+              }
+            ],
+            "type": "text"
+          },
+          {
+            "md": "https://linkedin.com/in/omkar-verma-ba4391154/",
+            "text": "https://linkedin.com/in/omkar-verma-ba4391154/",
+            "url": "https://linkedin.com/in/omkar-verma-ba4391154/",
+            "bbox": [
+              {
+                "h": 11.0,
+                "w": 17.0,
+                "x": 272.64,
+                "y": 154.546,
+                "confidence": 0.57,
+                "end_index": 45,
+                "label": "text",
+                "start_index": 0
+              }
+            ],
+            "type": "link"
+          },
+          {
+            "level": 2,
+            "md": "## EXPERIENCE",
+            "value": "EXPERIENCE",
+            "bbox": [
+              {
+                "h": 11.139174209222544,
+                "w": 64.05831834746569,
+                "x": 89.60608225752668,
+                "y": 244.754296875,
+                "confidence": 0.86,
+                "end_index": 12,
+                "label": "paragraph_title",
+                "start_index": 0
+              }
+            ],
+            "type": "heading"
+          },
+          {
+            "md": "**Project Lead - L&T Technology Services**",
+            "value": "Project Lead - L&T Technology Services",
+            "bbox": [
+              {
+                "h": 12.0,
+                "w": 179.99599999999998,
+                "x": 90.0,
+                "y": 270.636,
+                "confidence": 0.85,
+                "end_index": 41,
+                "label": "paragraph_title",
+                "start_index": 0
+              }
+            ],
+            "type": "text"
+          },
+          {
+            "md": "Jan 2025 – Ongoing. | Lucknow, U.P., India (Smart Metering Project-EESL)",
+            "value": "Jan 2025 – Ongoing. | Lucknow, U.P., India (Smart Metering Project-EESL)",
+            "bbox": [
+              {
+                "h": 9.952537157012221,
+                "w": 281.6755819478849,
+                "x": 89.4437675662157,
+                "y": 292.80403082126526,
+                "confidence": 0.93,
+                "end_index": 71,
+                "label": "text",
+                "start_index": 0
+              }
+            ],
+            "type": "text"
+          },
+          {
+            "items": [
+              {
+                "md": "• Leading Operations and MIS activities for the Smart Meter Project.",
+                "value": "• Leading Operations and MIS activities for the Smart Meter Project.",
+                "bbox": [
+                  {
+                    "h": 11.060722179878013,
+                    "w": 335.28600353706173,
+                    "x": 89.71460788633766,
+                    "y": 316.1054389767531,
+                    "confidence": 0.97,
+                    "end_index": 67,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "• Ensuring smooth O&M of 1.2 millions smart meters deployed across 12 cities in Uttar Pradesh.",
+                "value": "• Ensuring smooth O&M of 1.2 millions smart meters deployed across 12 cities in Uttar Pradesh.",
+                "bbox": [
+                  {
+                    "h": 25.927299209222543,
+                    "w": 424.4505216868331,
+                    "x": 89.81077952315168,
+                    "y": 331.6936001810214,
+                    "confidence": 0.99,
+                    "end_index": 93,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "• Designing and maintaining consumer billing and reading dashboards for 1.2 million consumers.",
+                "value": "• Designing and maintaining consumer billing and reading dashboards for 1.2 million consumers.",
+                "bbox": [
+                  {
+                    "h": 26.01975800304877,
+                    "w": 418.7701816763529,
+                    "x": 89.82369837318979,
+                    "y": 361.8899914253049,
+                    "confidence": 0.99,
+                    "end_index": 93,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "• Acting as MIS/Data Analyst: developing and managing smart meter data systems to support business decision-making and ensure SLA compliance as per RFP.",
+                "value": "• Acting as MIS/Data Analyst: developing and managing smart meter data systems to support business decision-making and ensure SLA compliance as per RFP.",
+                "bbox": [
+                  {
+                    "h": 25.55357326600614,
+                    "w": 414.56042224418826,
+                    "x": 89.80890273675685,
+                    "y": 392.2503844321646,
+                    "confidence": 0.99,
+                    "end_index": 151,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              }
+            ],
+            "md": "* • Leading Operations and MIS activities for the Smart Meter Project.\n* • Ensuring smooth O&M of 1.2 millions smart meters deployed across 12 cities in Uttar Pradesh.\n* • Designing and maintaining consumer billing and reading dashboards for 1.2 million consumers.\n* • Acting as MIS/Data Analyst: developing and managing smart meter data systems to support business decision-making and ensure SLA compliance as per RFP.",
+            "ordered": false,
+            "bbox": [
+              {
+                "h": 101.7,
+                "w": 424.55,
+                "x": 89.71,
+                "y": 316.11,
+                "confidence": 0.99,
+                "end_index": 418,
+                "label": "list",
+                "start_index": 0
+              }
+            ],
+            "type": "list"
+          },
+          {
+            "md": "**Project Lead - L&T Technology Services**",
+            "value": "Project Lead - L&T Technology Services",
+            "bbox": [
+              {
+                "h": 10.368825743140235,
+                "w": 180.2185684427401,
+                "x": 89.81077952315168,
+                "y": 431.631699695122,
+                "confidence": 0.93,
+                "end_index": 41,
+                "label": "paragraph_title",
+                "start_index": 0
+              }
+            ],
+            "type": "text"
+          },
+          {
+            "md": "Apr 2023 – Dec 2024 | Panaji, India (Panaji Smart City Project)",
+            "value": "Apr 2023 – Dec 2024 | Panaji, India (Panaji Smart City Project)",
+            "bbox": [
+              {
+                "h": 9.907026962652456,
+                "w": 239.48825719321647,
+                "x": 89.62489567454267,
+                "y": 454.7261661585366,
+                "confidence": 0.91,
+                "end_index": 62,
+                "label": "text",
+                "start_index": 0
+              }
+            ],
+            "type": "text"
+          },
+          {
+            "items": [
+              {
+                "md": "• Ensure smooth Operation and Maintenance at site level, maintaining SLA as per RFP.",
+                "value": "• Ensure smooth Operation and Maintenance at site level, maintaining SLA as per RFP.",
+                "bbox": [
+                  {
+                    "h": 11.217579077743917,
+                    "w": 421.0931603706174,
+                    "x": 89.50341475323934,
+                    "y": 477.87430163871954,
+                    "confidence": 0.97,
+                    "end_index": 83,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "• Coordinate with OEM for Operation and Maintenance.",
+                "value": "• Coordinate with OEM for Operation and Maintenance.",
+                "bbox": [
+                  {
+                    "h": 11.065013814786607,
+                    "w": 277.31308307926827,
+                    "x": 89.85564929496951,
+                    "y": 493.68831602515246,
+                    "confidence": 0.97,
+                    "end_index": 51,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "• Coordinate with Traffic dept., RTO dept. and Police dept. (Law & order).",
+                "value": "• Coordinate with Traffic dept., RTO dept. and Police dept. (Law & order).",
+                "bbox": [
+                  {
+                    "h": 11.084444073933037,
+                    "w": 360.5703067239901,
+                    "x": 89.81101639910442,
+                    "y": 508.95252953506093,
+                    "confidence": 0.97,
+                    "end_index": 73,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "• Coordinate with client to fulfill their requirements.",
+                "value": "• Coordinate with client to fulfill their requirements.",
+                "bbox": [
+                  {
+                    "h": 11.05407250381105,
+                    "w": 263.2486007169398,
+                    "x": 89.7925947384718,
+                    "y": 524.3039434070122,
+                    "confidence": 0.97,
+                    "end_index": 54,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              }
+            ],
+            "md": "* • Ensure smooth Operation and Maintenance at site level, maintaining SLA as per RFP.\n* • Coordinate with OEM for Operation and Maintenance.\n* • Coordinate with Traffic dept., RTO dept. and Police dept. (Law & order).\n* • Coordinate with client to fulfill their requirements.",
+            "ordered": false,
+            "bbox": [
+              {
+                "h": 57.48,
+                "w": 421.09,
+                "x": 89.5,
+                "y": 477.87,
+                "confidence": 0.97,
+                "end_index": 275,
+                "label": "list",
+                "start_index": 0
+              }
+            ],
+            "type": "list"
+          },
+          {
+            "md": "**Project Execution In-charge - L&T Smart World & Communication**",
+            "value": "Project Execution In-charge - L&T Smart World & Communication",
+            "bbox": [
+              {
+                "h": 10.423579458841518,
+                "w": 299.6869552091273,
+                "x": 89.74443603515624,
+                "y": 548.9591973132622,
+                "confidence": 0.94,
+                "end_index": 64,
+                "label": "paragraph_title",
+                "start_index": 0
+              }
+            ],
+            "type": "text"
+          },
+          {
+            "md": "Apr 2021 – Mar 2023 | Panaji, India (Panaji Smart City Project)",
+            "value": "Apr 2021 – Mar 2023 | Panaji, India (Panaji Smart City Project)",
+            "bbox": [
+              {
+                "h": 10.006253334603683,
+                "w": 240.9679939381669,
+                "x": 89.61200415634526,
+                "y": 572.0662557164634,
+                "confidence": 0.91,
+                "end_index": 62,
+                "label": "text",
+                "start_index": 0
+              }
+            ],
+            "type": "text"
+          },
+          {
+            "items": [
+              {
+                "md": "• Implemented Panaji Smart City Project (CAPEX) including Site Survey, Execution Plan, Vendor & Client Management.",
+                "value": "• Implemented Panaji Smart City Project (CAPEX) including Site Survey, Execution Plan, Vendor & Client Management.",
+                "bbox": [
+                  {
+                    "h": 26.37638814786596,
+                    "w": 428.1455041206174,
+                    "x": 89.53788931497714,
+                    "y": 595.1836895007622,
+                    "confidence": 0.99,
+                    "end_index": 113,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "• Implemented CCTV, ATCS, and ITMS as an expert.",
+                "value": "• Implemented CCTV, ATCS, and ITMS as an expert.",
+                "bbox": [
+                  {
+                    "h": 11.162070788871986,
+                    "w": 257.0236100061928,
+                    "x": 89.62240847703887,
+                    "y": 625.7304149199696,
+                    "confidence": 0.97,
+                    "end_index": 47,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "• Completed UAT/FAT inspection of all sites and ICT applications.",
+                "value": "• Completed UAT/FAT inspection of all sites and ICT applications.",
+                "bbox": [
+                  {
+                    "h": 11.430132907774329,
+                    "w": 325.64372189405486,
+                    "x": 89.64657893483232,
+                    "y": 640.9906197599086,
+                    "confidence": 0.97,
+                    "end_index": 64,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "• Conducted training for stakeholders on ATCS, ITMS, CCTV, FRS, and PAS.",
+                "value": "• Conducted training for stakeholders on ATCS, ITMS, CCTV, FRS, and PAS.",
+                "bbox": [
+                  {
+                    "h": 11.390093368902455,
+                    "w": 364.0154579125381,
+                    "x": 89.71849811833079,
+                    "y": 656.3603791920732,
+                    "confidence": 0.97,
+                    "end_index": 71,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              }
+            ],
+            "md": "* • Implemented Panaji Smart City Project (CAPEX) including Site Survey, Execution Plan, Vendor & Client Management.\n* • Implemented CCTV, ATCS, and ITMS as an expert.\n* • Completed UAT/FAT inspection of all sites and ICT applications.\n* • Conducted training for stakeholders on ATCS, ITMS, CCTV, FRS, and PAS.",
+            "ordered": false,
+            "bbox": [
+              {
+                "h": 72.57,
+                "w": 428.15,
+                "x": 89.54,
+                "y": 595.18,
+                "confidence": 0.97,
+                "end_index": 309,
+                "label": "list",
+                "start_index": 0
+              }
+            ],
+            "type": "list"
+          }
+        ],
+        "page_height": 792.0,
+        "page_number": 1,
+        "page_width": 612.0,
+        "success": true
+      },
+      {
+        "items": [
+          {
+            "md": "**Site Engineer - L&T Smart World & Communication**",
+            "value": "Site Engineer - L&T Smart World & Communication",
+            "bbox": [
+              {
+                "h": 10.53350544254954,
+                "w": 233.5383614591273,
+                "x": 89.42800620474466,
+                "y": 70.81832501667301,
+                "confidence": 0.94,
+                "end_index": 50,
+                "label": "paragraph_title",
+                "start_index": 0
+              }
+            ],
+            "type": "text"
+          },
+          {
+            "md": "Jul 2018 – Mar 2021 | Raipur, India (Raipur Smart City Project)",
+            "value": "Jul 2018 – Mar 2021 | Raipur, India (Raipur Smart City Project)",
+            "bbox": [
+              {
+                "h": 9.974107338509905,
+                "w": 241.15655630716464,
+                "x": 89.33579768483231,
+                "y": 94.0044131693026,
+                "confidence": 0.93,
+                "end_index": 62,
+                "label": "text",
+                "start_index": 0
+              }
+            ],
+            "type": "text"
+          },
+          {
+            "items": [
+              {
+                "md": "• Implemented Raipur Smart City Project including Site Survey, AutoCAD drawings, Execution Plan, Vendor Management.",
+                "value": "• Implemented Raipur Smart City Project including Site Survey, AutoCAD drawings, Execution Plan, Vendor Management.",
+                "bbox": [
+                  {
+                    "h": 25.92885551638719,
+                    "w": 407.8581902629573,
+                    "x": 89.50226681592987,
+                    "y": 117.42256204744665,
+                    "confidence": 0.98,
+                    "end_index": 114,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "• Worked as CCTV, ATCS and ITMS Expert.",
+                "value": "• Worked as CCTV, ATCS and ITMS Expert.",
+                "bbox": [
+                  {
+                    "h": 10.96377131764481,
+                    "w": 216.53313702839176,
+                    "x": 89.60086187595275,
+                    "y": 147.74562726276676,
+                    "confidence": 0.96,
+                    "end_index": 38,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "• Successfully completed UAT/FAT inspection of all sites.",
+                "value": "• Successfully completed UAT/FAT inspection of all sites.",
+                "bbox": [
+                  {
+                    "h": 11.021342892530496,
+                    "w": 284.99237370188644,
+                    "x": 89.67745480421112,
+                    "y": 162.99391220464938,
+                    "confidence": 0.96,
+                    "end_index": 56,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "• Prepared survey report for Phase-2 of Raipur Smart City Project.",
+                "value": "• Prepared survey report for Phase-2 of Raipur Smart City Project.",
+                "bbox": [
+                  {
+                    "h": 11.014516363376535,
+                    "w": 327.5801645865091,
+                    "x": 89.60802281821645,
+                    "y": 178.76035311070885,
+                    "confidence": 0.97,
+                    "end_index": 65,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              }
+            ],
+            "md": "* • Implemented Raipur Smart City Project including Site Survey, AutoCAD drawings, Execution Plan, Vendor Management.\n* • Worked as CCTV, ATCS and ITMS Expert.\n* • Successfully completed UAT/FAT inspection of all sites.\n* • Prepared survey report for Phase-2 of Raipur Smart City Project.",
+            "ordered": false,
+            "bbox": [
+              {
+                "h": 72.35,
+                "w": 407.86,
+                "x": 89.5,
+                "y": 117.42,
+                "confidence": 0.97,
+                "end_index": 287,
+                "label": "list",
+                "start_index": 0
+              }
+            ],
+            "type": "list"
+          },
+          {
+            "level": 2,
+            "md": "## EDUCATION",
+            "value": "EDUCATION",
+            "bbox": [
+              {
+                "h": 11.459985708841462,
+                "w": 60.80607529058689,
+                "x": 89.66156589415016,
+                "y": 203.08124857088416,
+                "confidence": 0.91,
+                "end_index": 11,
+                "label": "paragraph_title",
+                "start_index": 0
+              }
+            ],
+            "type": "heading"
+          },
+          {
+            "md": "**B.Tech. in Electrical Engineering - National Institute of Technology Raipur**",
+            "value": "B.Tech. in Electrical Engineering - National Institute of Technology Raipur",
+            "bbox": [
+              {
+                "h": 11.309542682926814,
+                "w": 374.0271658250762,
+                "x": 89.55543635670732,
+                "y": 228.20794564596036,
+                "confidence": 0.89,
+                "end_index": 78,
+                "label": "paragraph_title",
+                "start_index": 0
+              }
+            ],
+            "type": "text"
+          },
+          {
+            "md": "2014 – 2018 | Chhattisgarh, India\nCGPA - 8.39/10",
+            "value": "2014 – 2018 | Chhattisgarh, India\nCGPA - 8.39/10",
+            "bbox": [
+              {
+                "h": 36.25978753810976,
+                "w": 156.71886135194362,
+                "x": 89.53101991234755,
+                "y": 252.82429187309452,
+                "confidence": 0.93,
+                "end_index": 47,
+                "label": "text",
+                "start_index": 0
+              }
+            ],
+            "type": "text"
+          },
+          {
+            "level": 2,
+            "md": "## ACHIEVEMENTS",
+            "value": "ACHIEVEMENTS",
+            "bbox": [
+              {
+                "h": 11.12453077362807,
+                "w": 81.04951243330794,
+                "x": 89.59528618044969,
+                "y": 302.67780940358233,
+                "confidence": 0.93,
+                "end_index": 14,
+                "label": "paragraph_title",
+                "start_index": 0
+              }
+            ],
+            "type": "heading"
+          },
+          {
+            "items": [
+              {
+                "md": "• Successfully Completed Panaji Smart City Project as Project Execution In-Charge",
+                "value": "• Successfully Completed Panaji Smart City Project as Project Execution In-Charge",
+                "bbox": [
+                  {
+                    "h": 11.305958460365849,
+                    "w": 400.8042703768103,
+                    "x": 89.61983928401295,
+                    "y": 328.12675638338413,
+                    "confidence": 0.96,
+                    "end_index": 80,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "• Annual Award 2025 - Top Performer",
+                "value": "• Annual Award 2025 - Top Performer",
+                "bbox": [
+                  {
+                    "h": 11.408203125,
+                    "w": 197.76387915634527,
+                    "x": 89.72566817120808,
+                    "y": 343.8068340320122,
+                    "confidence": 0.96,
+                    "end_index": 34,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "• Annual Award 2024 - Top Performer",
+                "value": "• Annual Award 2024 - Top Performer",
+                "bbox": [
+                  {
+                    "h": 11.290607612423772,
+                    "w": 197.6230017387576,
+                    "x": 89.77944812309451,
+                    "y": 359.19750928925305,
+                    "confidence": 0.96,
+                    "end_index": 34,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "• Annual Award 2023 - Top Performer",
+                "value": "• Annual Award 2023 - Top Performer",
+                "bbox": [
+                  {
+                    "h": 11.28020865091462,
+                    "w": 197.77566829030107,
+                    "x": 89.88012951362423,
+                    "y": 374.7196689214939,
+                    "confidence": 0.96,
+                    "end_index": 34,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "• Annual Award 2022 - Top Performer",
+                "value": "• Annual Award 2022 - Top Performer",
+                "bbox": [
+                  {
+                    "h": 11.276742330411608,
+                    "w": 197.74232344464556,
+                    "x": 89.77047416873094,
+                    "y": 389.93872594321647,
+                    "confidence": 0.96,
+                    "end_index": 34,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "• Annual Award 2021 - Top Performer",
+                "value": "• Annual Award 2021 - Top Performer",
+                "bbox": [
+                  {
+                    "h": 11.240310594512222,
+                    "w": 198.01056723990092,
+                    "x": 89.80355480659298,
+                    "y": 405.4655544969512,
+                    "confidence": 0.96,
+                    "end_index": 34,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "• Annual Award 2020 - Top Performer and Successfully Completed Raipur Smart City Project",
+                "value": "• Annual Award 2020 - Top Performer and Successfully Completed Raipur Smart City Project",
+                "bbox": [
+                  {
+                    "h": 26.16322122713415,
+                    "w": 416.4641396127096,
+                    "x": 89.5633534798971,
+                    "y": 420.90860184832314,
+                    "confidence": 0.98,
+                    "end_index": 87,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              }
+            ],
+            "md": "* • Successfully Completed Panaji Smart City Project as Project Execution In-Charge\n* • Annual Award 2025 - Top Performer\n* • Annual Award 2024 - Top Performer\n* • Annual Award 2023 - Top Performer\n* • Annual Award 2022 - Top Performer\n* • Annual Award 2021 - Top Performer\n* • Annual Award 2020 - Top Performer and Successfully Completed Raipur Smart City Project",
+            "ordered": false,
+            "bbox": [
+              {
+                "h": 118.95,
+                "w": 416.46,
+                "x": 89.56,
+                "y": 328.13,
+                "confidence": 0.96,
+                "end_index": 363,
+                "label": "list",
+                "start_index": 0
+              }
+            ],
+            "type": "list"
+          },
+          {
+            "level": 2,
+            "md": "## CORE SKILLS",
+            "value": "CORE SKILLS",
+            "bbox": [
+              {
+                "h": 11.351185689786607,
+                "w": 65.01505120998475,
+                "x": 89.76463426543444,
+                "y": 460.3633465129573,
+                "confidence": 0.94,
+                "end_index": 13,
+                "label": "paragraph_title",
+                "start_index": 0
+              }
+            ],
+            "type": "heading"
+          },
+          {
+            "md": "Project Management, CCTV expert, ITMS expert, ATCS expert, Project Execution, Site Management, Vendor Management, Stakeholder Management, Client Management, Resource Management, Project Coordination, MIS, Data Analytics, Process Improvement.",
+            "value": "Project Management, CCTV expert, ITMS expert, ATCS expert, Project Execution, Site Management, Vendor Management, Stakeholder Management, Client Management, Resource Management, Project Coordination, MIS, Data Analytics, Process Improvement.",
+            "bbox": [
+              {
+                "h": 40.4592230373476,
+                "w": 414.02501881669207,
+                "x": 89.80102205602134,
+                "y": 485.573447503811,
+                "confidence": 0.97,
+                "end_index": 240,
+                "label": "text",
+                "start_index": 0
+              }
+            ],
+            "type": "text"
+          },
+          {
+            "level": 2,
+            "md": "## COURSES & CERTIFICATIONS",
+            "value": "COURSES & CERTIFICATIONS",
+            "bbox": [
+              {
+                "h": 11.180369188262278,
+                "w": 145.10415009289255,
+                "x": 89.57313827886814,
+                "y": 539.7389734184451,
+                "confidence": 0.95,
+                "end_index": 26,
+                "label": "paragraph_title",
+                "start_index": 0
+              }
+            ],
+            "type": "heading"
+          },
+          {
+            "items": [
+              {
+                "md": "• Google Project Management – Coursera (6-month professional certificate)",
+                "value": "• Google Project Management – Coursera (6-month professional certificate)",
+                "bbox": [
+                  {
+                    "h": 11.228284584603571,
+                    "w": 371.2286586556783,
+                    "x": 89.68300316787348,
+                    "y": 565.3034879954268,
+                    "confidence": 0.97,
+                    "end_index": 72,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "• Principles of Project Management - (L&T Institute of Project Management)",
+                "value": "• Principles of Project Management - (L&T Institute of Project Management)",
+                "bbox": [
+                  {
+                    "h": 11.168201695884152,
+                    "w": 373.21031732326605,
+                    "x": 89.73038746903582,
+                    "y": 580.7864805640245,
+                    "confidence": 0.97,
+                    "end_index": 73,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "• Quality Management System - (ATL NEXT)",
+                "value": "• Quality Management System - (ATL NEXT)",
+                "bbox": [
+                  {
+                    "h": 11.289829458841519,
+                    "w": 223.8730937380907,
+                    "x": 89.62377506907393,
+                    "y": 596.10181640625,
+                    "confidence": 0.97,
+                    "end_index": 39,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              }
+            ],
+            "md": "* • Google Project Management – Coursera (6-month professional certificate)\n* • Principles of Project Management - (L&T Institute of Project Management)\n* • Quality Management System - (ATL NEXT)",
+            "ordered": false,
+            "bbox": [
+              {
+                "h": 42.09,
+                "w": 373.32,
+                "x": 89.62,
+                "y": 565.3,
+                "confidence": 0.97,
+                "end_index": 194,
+                "label": "list",
+                "start_index": 0
+              }
+            ],
+            "type": "list"
+          },
+          {
+            "level": 2,
+            "md": "## STRENGTHS",
+            "value": "STRENGTHS",
+            "bbox": [
+              {
+                "h": 11.268937214176786,
+                "w": 61.7138203839558,
+                "x": 89.5042529296875,
+                "y": 620.9677377096036,
+                "confidence": 0.92,
+                "end_index": 11,
+                "label": "paragraph_title",
+                "start_index": 0
+              }
+            ],
+            "type": "heading"
+          },
+          {
+            "md": "Problem Solving, Quick Learning, Deliver Results, Ownership",
+            "value": "Problem Solving, Quick Learning, Deliver Results, Ownership",
+            "bbox": [
+              {
+                "h": 11.481868330792633,
+                "w": 284.7992651367187,
+                "x": 89.74261391244283,
+                "y": 645.8394597942074,
+                "confidence": 0.94,
+                "end_index": 58,
+                "label": "text",
+                "start_index": 0
+              }
+            ],
+            "type": "text"
+          },
+          {
+            "level": 2,
+            "md": "## INTERESTS",
+            "value": "INTERESTS",
+            "bbox": [
+              {
+                "h": 11.222766768292747,
+                "w": 57.0417793087843,
+                "x": 89.55884372618141,
+                "y": 670.6827910632621,
+                "confidence": 0.93,
+                "end_index": 11,
+                "label": "paragraph_title",
+                "start_index": 0
+              }
+            ],
+            "type": "heading"
+          },
+          {
+            "md": "Cricket, Chess",
+            "value": "Cricket, Chess",
+            "bbox": [
+              {
+                "h": 11.452298494664621,
+                "w": 65.2562364829459,
+                "x": 89.71178359613185,
+                "y": 695.2145779344512,
+                "confidence": 0.94,
+                "end_index": 13,
+                "label": "text",
+                "start_index": 0
+              }
+            ],
+            "type": "text"
+          }
+        ],
+        "page_height": 792.0,
+        "page_number": 2,
+        "page_width": 612.0,
+        "success": true
+      }
+    ]
+  },
+  "job_metadata": {
+    "state_transitions": {
+      "pending_at": "2026-05-12T14:41:29.565141Z",
+      "throttled_at": "2026-05-12T14:41:29.746883Z",
+      "running_at": "2026-05-12T14:41:29.865751Z",
+      "completed_at": "2026-05-12T14:41:39.594129Z",
+      "failed_at": null,
+      "cancelled_at": null
+    },
+    "pdf-pages": 2,
+    "pdf-real-pages": 2,
+    "pdf-rawTextLength": 3431,
+    "pdf-mdLength": 3120,
+    "pdf-time": 6782,
+    "pdf-ocrTime": 0,
+    "pdf-image-convertTime": 0,
+    "pdf-pdfToHTMLTime": 0,
+    "pdf-llmTime": 5312,
+    "pdf-inputTokens": 21173,
+    "pdf-outputTokens": 1234,
+    "pdf-image-ocr-count": 0,
+    "pdf-image-ocr-failed-count": 0,
+    "pdf-image-ocr-success-count": 2,
+    "pdf-image-ocr-empty-count": 2,
+    "pdf-image-ocr-hadText-count": 0,
+    "pdf-image-ocr-pixels": 15827200,
+    "pdf-multimodal-time": 0,
+    "pdf-multimodal-pdf2Image": 0,
+    "pdf-model": null,
+    "pdf-high-res-ocr": 2,
+    "model_invocations": [
+      {
+        "page_number": 2,
+        "model": "gemini-3.0-flash",
+        "task": "parse_page_with_agent",
+        "reason": "primary",
+        "attempt": 1,
+        "status": "success",
+        "input_tokens": 10549,
+        "output_tokens": 598
+      },
+      {
+        "page_number": 1,
+        "model": "gemini-3.0-flash",
+        "task": "parse_page_with_agent",
+        "reason": "primary",
+        "attempt": 1,
+        "status": "success",
+        "input_tokens": 10624,
+        "output_tokens": 636
+      }
+    ]
+  },
+  "markdown": null,
+  "markdown_full": "# OMKAR VERMA\n\nAssistant Manager\n\nvermaomkar20@gmail.com\n\n+91 7771886697\n\nPermanent Address: Village-Gujara Block- Tilda, Raipur, Chhattisgarh, India 493221\n\nhttps://linkedin.com/in/omkar-verma-ba4391154/\n\n## EXPERIENCE\n\n**Project Lead - L&T Technology Services**\n\nJan 2025 – Ongoing. | Lucknow, U.P., India (Smart Metering Project-EESL)\n\n* • Leading Operations and MIS activities for the Smart Meter Project.\n* • Ensuring smooth O&M of 1.2 millions smart meters deployed across 12 cities in Uttar Pradesh.\n* • Designing and maintaining consumer billing and reading dashboards for 1.2 million consumers.\n* • Acting as MIS/Data Analyst: developing and managing smart meter data systems to support business decision-making and ensure SLA compliance as per RFP.\n\n**Project Lead - L&T Technology Services**\n\nApr 2023 – Dec 2024 | Panaji, India (Panaji Smart City Project)\n\n* • Ensure smooth Operation and Maintenance at site level, maintaining SLA as per RFP.\n* • Coordinate with OEM for Operation and Maintenance.\n* • Coordinate with Traffic dept., RTO dept. and Police dept. (Law & order).\n* • Coordinate with client to fulfill their requirements.\n\n**Project Execution In-charge - L&T Smart World & Communication**\n\nApr 2021 – Mar 2023 | Panaji, India (Panaji Smart City Project)\n\n* • Implemented Panaji Smart City Project (CAPEX) including Site Survey, Execution Plan, Vendor & Client Management.\n* • Implemented CCTV, ATCS, and ITMS as an expert.\n* • Completed UAT/FAT inspection of all sites and ICT applications.\n* • Conducted training for stakeholders on ATCS, ITMS, CCTV, FRS, and PAS.\n\n---\n\n**Site Engineer - L&T Smart World & Communication**\n\nJul 2018 – Mar 2021 | Raipur, India (Raipur Smart City Project)\n\n* • Implemented Raipur Smart City Project including Site Survey, AutoCAD drawings, Execution Plan, Vendor Management.\n* • Worked as CCTV, ATCS and ITMS Expert.\n* • Successfully completed UAT/FAT inspection of all sites.\n* • Prepared survey report for Phase-2 of Raipur Smart City Project.\n\n## EDUCATION\n\n**B.Tech. in Electrical Engineering - National Institute of Technology Raipur**\n\n2014 – 2018 | Chhattisgarh, India\nCGPA - 8.39/10\n\n## ACHIEVEMENTS\n\n* • Successfully Completed Panaji Smart City Project as Project Execution In-Charge\n* • Annual Award 2025 - Top Performer\n* • Annual Award 2024 - Top Performer\n* • Annual Award 2023 - Top Performer\n* • Annual Award 2022 - Top Performer\n* • Annual Award 2021 - Top Performer\n* • Annual Award 2020 - Top Performer and Successfully Completed Raipur Smart City Project\n\n## CORE SKILLS\n\nProject Management, CCTV expert, ITMS expert, ATCS expert, Project Execution, Site Management, Vendor Management, Stakeholder Management, Client Management, Resource Management, Project Coordination, MIS, Data Analytics, Process Improvement.\n\n## COURSES & CERTIFICATIONS\n\n* • Google Project Management – Coursera (6-month professional certificate)\n* • Principles of Project Management - (L&T Institute of Project Management)\n* • Quality Management System - (ATL NEXT)\n\n## STRENGTHS\n\nProblem Solving, Quick Learning, Deliver Results, Ownership\n\n## INTERESTS\n\nCricket, Chess",
+  "metadata": {
+    "pages": [
+      {
+        "page_number": 1,
+        "confidence": 1.0,
+        "cost_optimized": false,
+        "original_orientation_angle": 0,
+        "printed_page_number": null,
+        "slide_section_name": null,
+        "speaker_notes": null,
+        "triggered_auto_mode": false
+      },
+      {
+        "page_number": 2,
+        "confidence": 0.995,
+        "cost_optimized": false,
+        "original_orientation_angle": 0,
+        "printed_page_number": null,
+        "slide_section_name": null,
+        "speaker_notes": null,
+        "triggered_auto_mode": false
+      }
+    ]
+  },
+  "raw_parameters": null,
+  "result_content_metadata": null,
+  "text": null,
+  "text_full": "                                   OMKAR VERMA\n\n                                Assistant Manager\n                              vermaomkar20@gmail.com\n                                  +91 7771886697\nPermanent Address: Village-Gujara Block- Tilda, Raipur, Chhattisgarh, India 493221\n                  https://linkedin.com/in/omkar-verma-ba4391154/\n\n\n    EXPERIENCE\n    Project Lead - L&T Technology Services\n    Jan 2025 – Ongoing. | Lucknow, U.P., India (Smart Metering Project-EESL)\n    x     • Leading Operations and MIS activities for the Smart Meter Project.\n    x     • Ensuring smooth O&M of 1.2 millions smart meters deployed across 12 cities in Uttar\n          Pradesh.\n    x     • Designing and maintaining consumer billing and reading dashboards for 1.2 million\n          consumers.\n    x     • Acting as MIS/Data Analyst: developing and managing smart meter data systems to\n          support business decision-making and ensure SLA compliance as per RFP.\n    Project Lead - L&T Technology Services\n    Apr 2023 – Dec 2024 | Panaji, India (Panaji Smart City Project)\n    x     • Ensure smooth Operation and Maintenance at site level, maintaining SLA as per RFP.\n    x     • Coordinate with OEM for Operation and Maintenance.\n    x     • Coordinate with Traffic dept., RTO dept. and Police dept. (Law & order).\n    x     • Coordinate with client to fulfill their requirements.\n    Project Execution In-charge - L&T Smart World & Communication\n    Apr 2021 – Mar 2023 | Panaji, India (Panaji Smart City Project)\n    x     • Implemented Panaji Smart City Project (CAPEX) including Site Survey, Execution Plan,\n          Vendor & Client Management.\n    x     • Implemented CCTV, ATCS, and ITMS as an expert.\n    x     • Completed UAT/FAT inspection of all sites and ICT applications.\n    x     • Conducted training for stakeholders on ATCS, ITMS, CCTV, FRS, and PAS.\n\n---\n\nSite Engineer - L&T Smart World & Communication\nJul 2018 – Mar 2021 | Raipur, India (Raipur Smart City Project)\nx     • Implemented Raipur Smart City Project including Site Survey, AutoCAD drawings,\n      Execution Plan, Vendor Management.\nx     • Worked as CCTV, ATCS and ITMS Expert.\nx     • Successfully completed UAT/FAT inspection of all sites.\nx     • Prepared survey report for Phase-2 of Raipur Smart City Project.\nEDUCATION\nB.Tech. in Electrical Engineering - National Institute of Technology Raipur\n2014 – 2018 | Chhattisgarh, India\nCGPA - 8.39/10\nACHIEVEMENTS\nx     • Successfully Completed Panaji Smart City Project as Project Execution In-Charge\nx     • Annual Award 2025 - Top Performer\nx     • Annual Award 2024 - Top Performer\nx     • Annual Award 2023 - Top Performer\nx     • Annual Award 2022 - Top Performer\nx     • Annual Award 2021 - Top Performer\nx     • Annual Award 2020 - Top Performer and Successfully Completed Raipur Smart City\n      Project\nCORE SKILLS\nProject Management, CCTV expert, ITMS expert, ATCS expert, Project Execution, Site\nManagement, Vendor Management, Stakeholder Management, Client Management,\nResource Management, Project Coordination, MIS, Data Analytics, Process Improvement.\nCOURSES & CERTIFICATIONS\nx     • Google Project Management – Coursera (6-month professional certificate)\nx     • Principles of Project Management - (L&T Institute of Project Management)\nx     • Quality Management System - (ATL NEXT)\nSTRENGTHS\nProblem Solving, Quick Learning, Deliver Results, Ownership\nINTERESTS\nCricket, Chess",
+  "debug": null
+}

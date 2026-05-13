@@ -1,0 +1,2073 @@
+{
+  "job": {
+    "id": "pjb-6ign7o3vh4rwmonmvi8o6lnpofhx",
+    "project_id": "949fd88b-381a-4ae5-b3b9-bf7fcc9b74b8",
+    "status": "COMPLETED",
+    "created_at": "2026-05-12T14:43:47.365016Z",
+    "error_message": null,
+    "name": "Sunil _ Sahu_CV.pdf",
+    "tier": "agentic",
+    "updated_at": "2026-05-12T14:44:01.897392Z"
+  },
+  "images_content_metadata": null,
+  "items": {
+    "pages": [
+      {
+        "items": [
+          {
+            "level": 1,
+            "md": "# SUNIL SAHU",
+            "value": "SUNIL SAHU",
+            "bbox": [
+              {
+                "h": 11.307234750142912,
+                "w": 80.48727369354994,
+                "x": 71.75229983446074,
+                "y": 47.41030097775343,
+                "confidence": 0.9,
+                "end_index": 11,
+                "label": "paragraph_title",
+                "start_index": 0
+              }
+            ],
+            "type": "heading"
+          },
+          {
+            "md": "Mobile No: +91-9930009524",
+            "value": "Mobile No: +91-9930009524",
+            "bbox": [
+              {
+                "h": 15.000000000000007,
+                "w": 142.161,
+                "x": 72.0,
+                "y": 62.758,
+                "confidence": 0.8,
+                "end_index": 24,
+                "label": "text",
+                "start_index": 0
+              },
+              {
+                "h": 15.0,
+                "w": 85.0,
+                "x": 129.16,
+                "y": 62.76,
+                "confidence": 1.0,
+                "end_index": 24,
+                "label": "text",
+                "start_index": 11
+              }
+            ],
+            "type": "text"
+          },
+          {
+            "md": "G/1106, Asha Jyoti, Samarth Garden, Datta Mandir Road, Bhandup (West) Mumbai – 400078.",
+            "value": "G/1106, Asha Jyoti, Samarth Garden, Datta Mandir Road, Bhandup (West) Mumbai – 400078.",
+            "bbox": [
+              {
+                "h": 15.0,
+                "w": 462.01,
+                "x": 72.0,
+                "y": 77.4,
+                "confidence": 1.0,
+                "end_index": 85,
+                "label": "text",
+                "start_index": 0
+              }
+            ],
+            "type": "text"
+          },
+          {
+            "md": "E-mail: <u>",
+            "value": "E-mail: <u>",
+            "bbox": [
+              {
+                "h": 15.0,
+                "w": 36.0,
+                "x": 72.0,
+                "y": 92.038,
+                "confidence": 0.82,
+                "end_index": 10,
+                "label": "text",
+                "start_index": 0
+              }
+            ],
+            "type": "text"
+          },
+          {
+            "md": "<sunilsahupm@gmail.com>",
+            "text": "sunilsahupm@gmail.com",
+            "url": "mailto:sunilsahupm@gmail.com",
+            "bbox": [
+              {
+                "h": 11.550440167682924,
+                "w": 122.9439218511814,
+                "x": 108.53402879668444,
+                "y": 94.47648711413872,
+                "confidence": 0.7,
+                "end_index": 22,
+                "label": "text",
+                "start_index": 0
+              }
+            ],
+            "type": "link"
+          },
+          {
+            "md": "</u>",
+            "value": "</u>",
+            "bbox": null,
+            "type": "text"
+          },
+          {
+            "level": 2,
+            "md": "## Profile Summary",
+            "value": "Profile Summary",
+            "bbox": [
+              {
+                "h": 12.572085080030497,
+                "w": 96.78637546446265,
+                "x": 72.12387165348703,
+                "y": 124.40331888338415,
+                "confidence": 0.93,
+                "end_index": 17,
+                "label": "paragraph_title",
+                "start_index": 0
+              }
+            ],
+            "type": "heading"
+          },
+          {
+            "md": "Dynamic Pre-Sales Consultant with 18+ years of experience in solution design, bid management, and technical consultation, specializing in electronic security, ELV systems, and integrated technology solutions. Proven ability to collaborate with sales and technical teams to create winning proposals, manage complex bids, and deliver customized solutions aligned with client needs and industry standards. Skilled in product design, estimation, competitive analysis, and developing pre-sales strategies to drive customer satisfaction and revenue growth. Adept at building client relationships, coordinating with vendors and OEMs, and ensuring compliance with regulatory standards. Expert in preparing presentations, RFP responses, and technical proposals to secure high-value contracts across both public and private sectors.",
+            "value": "Dynamic Pre-Sales Consultant with 18+ years of experience in solution design, bid management, and technical consultation, specializing in electronic security, ELV systems, and integrated technology solutions. Proven ability to collaborate with sales and technical teams to create winning proposals, manage complex bids, and deliver customized solutions aligned with client needs and industry standards. Skilled in product design, estimation, competitive analysis, and developing pre-sales strategies to drive customer satisfaction and revenue growth. Adept at building client relationships, coordinating with vendors and OEMs, and ensuring compliance with regulatory standards. Expert in preparing presentations, RFP responses, and technical proposals to secure high-value contracts across both public and private sectors.",
+            "bbox": [
+              {
+                "h": 128.4977861804497,
+                "w": 468.7947978694264,
+                "x": 71.19957713057354,
+                "y": 159.27276998380336,
+                "confidence": 0.98,
+                "end_index": 821,
+                "label": "text",
+                "start_index": 0
+              }
+            ],
+            "type": "text"
+          },
+          {
+            "level": 2,
+            "md": "## Organizational Experience **Mar’ 2024 to Till Date – CMS Computers India Pvt. Ltd**",
+            "value": "Organizational Experience Mar’ 2024 to Till Date – CMS Computers India Pvt. Ltd",
+            "bbox": [
+              {
+                "h": 15.0,
+                "w": 132.6,
+                "x": 72.0,
+                "y": 303.2,
+                "confidence": 1.0,
+                "end_index": 27,
+                "label": "paragraph_title",
+                "start_index": 3
+              },
+              {
+                "h": 15.0,
+                "w": 269.78,
+                "x": 269.83,
+                "y": 303.2,
+                "confidence": 1.0,
+                "end_index": 85,
+                "label": "text",
+                "start_index": 29
+              }
+            ],
+            "type": "heading"
+          },
+          {
+            "md": "**Company Profile:** Established in 1976 a leading player in India's Information and Communication Technology (ICT) sector. With a workforce exceeding 4,000 employees across more than 100 locations nationwide, the company offers a diverse range of products and services. These include governance services, transportation and traffic solutions, energy management, surveillance and workforce management, broadcasting solutions, and software services.",
+            "value": "Company Profile: Established in 1976 a leading player in India's Information and Communication Technology (ICT) sector. With a workforce exceeding 4,000 employees across more than 100 locations nationwide, the company offers a diverse range of products and services. These include governance services, transportation and traffic solutions, energy management, surveillance and workforce management, broadcasting solutions, and software services.",
+            "bbox": [
+              {
+                "h": 70.39592320884147,
+                "w": 470.61569520531634,
+                "x": 71.4283856350038,
+                "y": 334.4562104611281,
+                "confidence": 0.97,
+                "end_index": 447,
+                "label": "text",
+                "start_index": 0
+              },
+              {
+                "h": 15.0,
+                "w": 85.71,
+                "x": 72.0,
+                "y": 332.48,
+                "confidence": 1.0,
+                "end_index": 19,
+                "label": "paragraph_title",
+                "start_index": 0
+              },
+              {
+                "h": 15.0,
+                "w": 63.0,
+                "x": 72.0,
+                "y": 420.32,
+                "confidence": 1.0,
+                "end_index": 203,
+                "label": "text",
+                "start_index": 198
+              }
+            ],
+            "type": "text"
+          },
+          {
+            "md": "**Designation:** Pre-Sales Consultant (National Role)",
+            "value": "Designation: Pre-Sales Consultant (National Role)",
+            "bbox": [
+              {
+                "h": 15.0,
+                "w": 63.0,
+                "x": 72.0,
+                "y": 420.32,
+                "confidence": 1.0,
+                "end_index": 15,
+                "label": "text",
+                "start_index": 0
+              },
+              {
+                "h": 15.0,
+                "w": 178.58,
+                "x": 137.47,
+                "y": 420.32,
+                "confidence": 1.0,
+                "end_index": 52,
+                "label": "text",
+                "start_index": 17
+              }
+            ],
+            "type": "text"
+          },
+          {
+            "md": "**Roles & Responsibilities:**",
+            "value": "Roles & Responsibilities:",
+            "bbox": [
+              {
+                "h": 11.349959508384151,
+                "w": 121.33460940477325,
+                "x": 71.96491422327553,
+                "y": 452.2228696646342,
+                "confidence": 0.94,
+                "end_index": 28,
+                "label": "paragraph_title",
+                "start_index": 0
+              }
+            ],
+            "type": "text"
+          },
+          {
+            "items": [
+              {
+                "md": "Engage with clients to understand business and technical needs and document requirements.",
+                "value": "Engage with clients to understand business and technical needs and document requirements.",
+                "bbox": [
+                  {
+                    "h": 26.264569836128068,
+                    "w": 401.86943776200457,
+                    "x": 89.53202207983995,
+                    "y": 480.29629287347564,
+                    "confidence": 0.97,
+                    "end_index": 88,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Design tailored technical solutions, identify integration points, and develop comprehensive proposals with technical documentation.",
+                "value": "Design tailored technical solutions, identify integration points, and develop comprehensive proposals with technical documentation.",
+                "bbox": [
+                  {
+                    "h": 25.952883955792746,
+                    "w": 383.47201136147106,
+                    "x": 89.66456328601372,
+                    "y": 510.3500462080792,
+                    "confidence": 0.97,
+                    "end_index": 130,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Evaluate vendors, products, and technologies, conduct cost-benefit analysis, and stay updated on industry trends.",
+                "value": "Evaluate vendors, products, and technologies, conduct cost-benefit analysis, and stay updated on industry trends.",
+                "bbox": [
+                  {
+                    "h": 26.008439405487835,
+                    "w": 433.85180026915015,
+                    "x": 89.65845006431022,
+                    "y": 540.114609375,
+                    "confidence": 0.97,
+                    "end_index": 112,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Create detailed cost estimates, allocate resources, and conduct risk assessments for project delivery.",
+                "value": "Create detailed cost estimates, allocate resources, and conduct risk assessments for project delivery.",
+                "bbox": [
+                  {
+                    "h": 26.7029296875,
+                    "w": 426.27915848894816,
+                    "x": 89.76261170922255,
+                    "y": 569.7634398818598,
+                    "confidence": 0.97,
+                    "end_index": 101,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Lead bid responses for RFPs, RFIs, and RFQs, ensuring technical compliance, writing proposals, and coordinating with teams for accurate documentation.",
+                "value": "Lead bid responses for RFPs, RFIs, and RFQs, ensuring technical compliance, writing proposals, and coordinating with teams for accurate documentation.",
+                "bbox": [
+                  {
+                    "h": 26.114268292682922,
+                    "w": 423.6353404273056,
+                    "x": 89.78840385623094,
+                    "y": 599.999658441311,
+                    "confidence": 0.97,
+                    "end_index": 149,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Organize product demos, conduct workshops, and present solutions to clients to highlight value propositions.",
+                "value": "Organize product demos, conduct workshops, and present solutions to clients to highlight value propositions.",
+                "bbox": [
+                  {
+                    "h": 26.275699790396317,
+                    "w": 410.114980349657,
+                    "x": 89.80133181688262,
+                    "y": 629.7570060022866,
+                    "confidence": 0.97,
+                    "end_index": 107,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Align technical solutions with sales strategies, train sales teams, and provide documentation to support sales efforts.",
+                "value": "Align technical solutions with sales strategies, train sales teams, and provide documentation to support sales efforts.",
+                "bbox": [
+                  {
+                    "h": 26.08974466463415,
+                    "w": 389.07642351848324,
+                    "x": 89.74196705887957,
+                    "y": 659.7928853849086,
+                    "confidence": 0.98,
+                    "end_index": 118,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Address client queries, assist in negotiations, and ensure smooth handover of project details to implementation teams.",
+                "value": "Address client queries, assist in negotiations, and ensure smooth handover of project details to implementation teams.",
+                "bbox": [
+                  {
+                    "h": 25.710194359756137,
+                    "w": 432.6821796994093,
+                    "x": 89.61818115234375,
+                    "y": 689.9095040967987,
+                    "confidence": 0.97,
+                    "end_index": 117,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Track bid success rates, identify process improvements, and report on bid status and pre-sales performance.",
+                "value": "Track bid success rates, identify process improvements, and report on bid status and pre-sales performance.",
+                "bbox": [
+                  {
+                    "h": 26.372143673780467,
+                    "w": 453.1025358469893,
+                    "x": 89.5595361328125,
+                    "y": 719.8818578506098,
+                    "confidence": 0.98,
+                    "end_index": 106,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              }
+            ],
+            "md": "* Engage with clients to understand business and technical needs and document requirements.\n* Design tailored technical solutions, identify integration points, and develop comprehensive proposals with technical documentation.\n* Evaluate vendors, products, and technologies, conduct cost-benefit analysis, and stay updated on industry trends.\n* Create detailed cost estimates, allocate resources, and conduct risk assessments for project delivery.\n* Lead bid responses for RFPs, RFIs, and RFQs, ensuring technical compliance, writing proposals, and coordinating with teams for accurate documentation.\n* Organize product demos, conduct workshops, and present solutions to clients to highlight value propositions.\n* Align technical solutions with sales strategies, train sales teams, and provide documentation to support sales efforts.\n* Address client queries, assist in negotiations, and ensure smooth handover of project details to implementation teams.\n* Track bid success rates, identify process improvements, and report on bid status and pre-sales performance.",
+            "ordered": false,
+            "bbox": [
+              {
+                "h": 265.96,
+                "w": 453.13,
+                "x": 89.53,
+                "y": 480.3,
+                "confidence": 0.97,
+                "end_index": 1062,
+                "label": "list",
+                "start_index": 0
+              }
+            ],
+            "type": "list"
+          }
+        ],
+        "page_height": 792.0,
+        "page_number": 1,
+        "page_width": 612.0,
+        "success": true
+      },
+      {
+        "items": [
+          {
+            "level": 1,
+            "md": "# Organizational Experience Aug’ 2021 to Mar’24 - Supertron Electronics Pvt. Ltd",
+            "value": "Organizational Experience Aug’ 2021 to Mar’24 - Supertron Electronics Pvt. Ltd",
+            "bbox": [
+              {
+                "h": 11.679094893292676,
+                "w": 466.6383429699409,
+                "x": 71.52563687952554,
+                "y": 57.61844095369665,
+                "confidence": 0.89,
+                "end_index": 79,
+                "label": "paragraph_title",
+                "start_index": 0
+              }
+            ],
+            "type": "heading"
+          },
+          {
+            "md": "**Company Profile:** Established in 1993 a prominent IT and telecom distribution company in India. Headquartered in Kolkata, it has expanded its reach across the nation, boasting over 55 locations and a network of more than 9,000 retail points. The company offers a comprehensive range of products, including servers, laptops, components, and accessories, catering to diverse customer needs. SEPL's strategic partnerships with over 31 multinational corporations have significantly contributed to its growth and market presence.",
+            "value": "Company Profile: Established in 1993 a prominent IT and telecom distribution company in India. Headquartered in Kolkata, it has expanded its reach across the nation, boasting over 55 locations and a network of more than 9,000 retail points. The company offers a comprehensive range of products, including servers, laptops, components, and accessories, catering to diverse customer needs. SEPL's strategic partnerships with over 31 multinational corporations have significantly contributed to its growth and market presence.",
+            "bbox": [
+              {
+                "h": 84.93393078315549,
+                "w": 468.86986932521916,
+                "x": 71.72485866639673,
+                "y": 86.92739519817073,
+                "confidence": 0.97,
+                "end_index": 526,
+                "label": "text",
+                "start_index": 0
+              },
+              {
+                "h": 15.0,
+                "w": 85.71,
+                "x": 72.0,
+                "y": 87.12,
+                "confidence": 1.0,
+                "end_index": 19,
+                "label": "paragraph_title",
+                "start_index": 0
+              },
+              {
+                "h": 15.0,
+                "w": 63.0,
+                "x": 72.0,
+                "y": 189.72,
+                "confidence": 1.0,
+                "end_index": 168,
+                "label": "paragraph_title",
+                "start_index": 162
+              }
+            ],
+            "type": "text"
+          },
+          {
+            "md": "**Designation:** Product Manager (National Role)",
+            "value": "Designation: Product Manager (National Role)",
+            "bbox": [
+              {
+                "h": 15.0,
+                "w": 63.0,
+                "x": 72.0,
+                "y": 189.72,
+                "confidence": 1.0,
+                "end_index": 15,
+                "label": "paragraph_title",
+                "start_index": 0
+              },
+              {
+                "h": 15.0,
+                "w": 163.3,
+                "x": 137.47,
+                "y": 189.72,
+                "confidence": 1.0,
+                "end_index": 47,
+                "label": "text",
+                "start_index": 17
+              }
+            ],
+            "type": "text"
+          },
+          {
+            "md": "**Roles & Responsibilities:**",
+            "value": "Roles & Responsibilities:",
+            "bbox": [
+              {
+                "h": 11.36568764291158,
+                "w": 121.51294511004191,
+                "x": 71.96585717177973,
+                "y": 219.1830147198933,
+                "confidence": 0.94,
+                "end_index": 28,
+                "label": "paragraph_title",
+                "start_index": 0
+              }
+            ],
+            "type": "text"
+          },
+          {
+            "items": [
+              {
+                "md": "Select and manage product portfolio, oversee product lifecycle, and define the product roadmap aligned with market opportunities.",
+                "value": "Select and manage product portfolio, oversee product lifecycle, and define the product roadmap aligned with market opportunities.",
+                "bbox": [
+                  {
+                    "h": 26.108090224847572,
+                    "w": 441.65985119331174,
+                    "x": 89.95720530440167,
+                    "y": 248.98794755144817,
+                    "confidence": 0.98,
+                    "end_index": 128,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Maintain vendor relationships, negotiate pricing, ensure timely availability, and collaborate on marketing and product launches.",
+                "value": "Maintain vendor relationships, negotiate pricing, ensure timely availability, and collaborate on marketing and product launches.",
+                "bbox": [
+                  {
+                    "h": 26.204156821646315,
+                    "w": 403.37265255811735,
+                    "x": 89.96576017054116,
+                    "y": 278.8290763147866,
+                    "confidence": 0.98,
+                    "end_index": 127,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Conduct market research, track competitors, and analyze customer feedback to refine product offerings.",
+                "value": "Conduct market research, track competitors, and analyze customer feedback to refine product offerings.",
+                "bbox": [
+                  {
+                    "h": 26.102949695121985,
+                    "w": 437.15468011623483,
+                    "x": 89.9823232660061,
+                    "y": 308.9372768197409,
+                    "confidence": 0.98,
+                    "end_index": 101,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Develop pricing models, optimize margins, and implement incentive programs for distribution channels.",
+                "value": "Develop pricing models, optimize margins, and implement incentive programs for distribution channels.",
+                "bbox": [
+                  {
+                    "h": 26.177628858612835,
+                    "w": 414.9964744307355,
+                    "x": 90.06573093321266,
+                    "y": 338.71674280678354,
+                    "confidence": 0.98,
+                    "end_index": 100,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Train sales teams, develop sales tools, and collaborate with cross-functional teams to align product strategies.",
+                "value": "Train sales teams, develop sales tools, and collaborate with cross-functional teams to align product strategies.",
+                "bbox": [
+                  {
+                    "h": 25.94529106326222,
+                    "w": 432.30243110470656,
+                    "x": 89.97362263004953,
+                    "y": 368.8403884813262,
+                    "confidence": 0.98,
+                    "end_index": 111,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Collaborate on demand forecasting, monitor inventory, and ensure efficient supply chain coordination.",
+                "value": "Collaborate on demand forecasting, monitor inventory, and ensure efficient supply chain coordination.",
+                "bbox": [
+                  {
+                    "h": 26.22047446646345,
+                    "w": 450.2295129692264,
+                    "x": 90.04576046827363,
+                    "y": 398.54135527820125,
+                    "confidence": 0.98,
+                    "end_index": 100,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Plan marketing campaigns, develop promotions, and align brand messaging to boost product sales and visibility.",
+                "value": "Plan marketing campaigns, develop promotions, and align brand messaging to boost product sales and visibility.",
+                "bbox": [
+                  {
+                    "h": 26.081208555640234,
+                    "w": 428.39856963367,
+                    "x": 90.06622290634526,
+                    "y": 428.61727419969515,
+                    "confidence": 0.98,
+                    "end_index": 109,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Engage key accounts, address customer concerns, and integrate feedback for product improvement.",
+                "value": "Engage key accounts, address customer concerns, and integrate feedback for product improvement.",
+                "bbox": [
+                  {
+                    "h": 26.02126714939029,
+                    "w": 434.34620593559447,
+                    "x": 90.11209484565548,
+                    "y": 458.5328934832317,
+                    "confidence": 0.98,
+                    "end_index": 94,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Track product performance and adjust strategies based on sales data and market insights.",
+                "value": "Track product performance and adjust strategies based on sales data and market insights.",
+                "bbox": [
+                  {
+                    "h": 26.169352134146315,
+                    "w": 412.2273763219322,
+                    "x": 90.01305336556784,
+                    "y": 488.4840720274391,
+                    "confidence": 0.98,
+                    "end_index": 87,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Ensure regulatory compliance, maintain product quality standards, and manage documentation.",
+                "value": "Ensure regulatory compliance, maintain product quality standards, and manage documentation.",
+                "bbox": [
+                  {
+                    "h": 25.99495141006094,
+                    "w": 405.2520901414825,
+                    "x": 90.04707239662729,
+                    "y": 518.545654058689,
+                    "confidence": 0.98,
+                    "end_index": 90,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Lead cross-functional teams, oversee product-related projects, and communicate product vision to stakeholders.",
+                "value": "Lead cross-functional teams, oversee product-related projects, and communicate product vision to stakeholders.",
+                "bbox": [
+                  {
+                    "h": 25.99075409679877,
+                    "w": 413.36751494616993,
+                    "x": 89.90172166777819,
+                    "y": 548.3975590701219,
+                    "confidence": 0.98,
+                    "end_index": 109,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              }
+            ],
+            "md": "* Select and manage product portfolio, oversee product lifecycle, and define the product roadmap aligned with market opportunities.\n* Maintain vendor relationships, negotiate pricing, ensure timely availability, and collaborate on marketing and product launches.\n* Conduct market research, track competitors, and analyze customer feedback to refine product offerings.\n* Develop pricing models, optimize margins, and implement incentive programs for distribution channels.\n* Train sales teams, develop sales tools, and collaborate with cross-functional teams to align product strategies.\n* Collaborate on demand forecasting, monitor inventory, and ensure efficient supply chain coordination.\n* Plan marketing campaigns, develop promotions, and align brand messaging to boost product sales and visibility.\n* Engage key accounts, address customer concerns, and integrate feedback for product improvement.\n* Track product performance and adjust strategies based on sales data and market insights.\n* Ensure regulatory compliance, maintain product quality standards, and manage documentation.\n* Lead cross-functional teams, oversee product-related projects, and communicate product vision to stakeholders.",
+            "ordered": false,
+            "bbox": [
+              {
+                "h": 325.4,
+                "w": 450.37,
+                "x": 89.9,
+                "y": 248.99,
+                "confidence": 0.98,
+                "end_index": 1198,
+                "label": "list",
+                "start_index": 0
+              }
+            ],
+            "type": "list"
+          },
+          {
+            "level": 1,
+            "md": "# Organizational Experience Jan’ 2018 to July 2021 - Neural Integrated Systems Pvt. Ltd",
+            "value": "Organizational Experience Jan’ 2018 to July 2021 - Neural Integrated Systems Pvt. Ltd",
+            "bbox": [
+              {
+                "h": 11.45729754192076,
+                "w": 463.6857753251238,
+                "x": 71.5450971501048,
+                "y": 592.4050209603658,
+                "confidence": 0.91,
+                "end_index": 86,
+                "label": "paragraph_title",
+                "start_index": 0
+              }
+            ],
+            "type": "heading"
+          },
+          {
+            "md": "**Company Profile:** Established in 2003, specializes in integrated security solutions, offering services such as video surveillance, access control, fire alarm systems, and perimeter protection. The company serves a diverse clientele across industrial, infrastructure and corporate. With a commitment to high-quality products and exceptional service it has expanded its reach throughout India and internationally.",
+            "value": "Company Profile: Established in 2003, specializes in integrated security solutions, offering services such as video surveillance, access control, fire alarm systems, and perimeter protection. The company serves a diverse clientele across industrial, infrastructure and corporate. With a commitment to high-quality products and exceptional service it has expanded its reach throughout India and internationally.",
+            "bbox": [
+              {
+                "h": 70.27085270579263,
+                "w": 469.14695041563454,
+                "x": 71.47168382598132,
+                "y": 621.4318002096037,
+                "confidence": 0.97,
+                "end_index": 413,
+                "label": "text",
+                "start_index": 0
+              },
+              {
+                "h": 15.0,
+                "w": 85.71,
+                "x": 72.0,
+                "y": 621.48,
+                "confidence": 1.0,
+                "end_index": 19,
+                "label": "paragraph_title",
+                "start_index": 0
+              },
+              {
+                "h": 15.0,
+                "w": 63.0,
+                "x": 72.0,
+                "y": 709.44,
+                "confidence": 1.0,
+                "end_index": 408,
+                "label": "paragraph_title",
+                "start_index": 403
+              }
+            ],
+            "type": "text"
+          },
+          {
+            "md": "**Designation:** Sr. Manager Pre-Sales/ D&E",
+            "value": "Designation: Sr. Manager Pre-Sales/ D&E",
+            "bbox": [
+              {
+                "h": 15.0,
+                "w": 63.0,
+                "x": 72.0,
+                "y": 709.44,
+                "confidence": 1.0,
+                "end_index": 15,
+                "label": "paragraph_title",
+                "start_index": 0
+              },
+              {
+                "h": 15.0,
+                "w": 138.03,
+                "x": 137.47,
+                "y": 709.44,
+                "confidence": 1.0,
+                "end_index": 42,
+                "label": "text",
+                "start_index": 17
+              }
+            ],
+            "type": "text"
+          }
+        ],
+        "page_height": 792.0,
+        "page_number": 2,
+        "page_width": 612.0,
+        "success": true
+      },
+      {
+        "items": [
+          {
+            "md": "**Roles & Responsibilities:**",
+            "value": "Roles & Responsibilities:",
+            "bbox": [
+              {
+                "h": 11.26951198670922,
+                "w": 121.4877724847561,
+                "x": 71.86996796398628,
+                "y": 45.517318591606326,
+                "confidence": 0.91,
+                "end_index": 28,
+                "label": "paragraph_title",
+                "start_index": 0
+              }
+            ],
+            "type": "text"
+          },
+          {
+            "items": [
+              {
+                "md": "Engage with clients to understand their needs and design tailored solutions with technical teams.",
+                "value": "Engage with clients to understand their needs and design tailored solutions with technical teams.",
+                "bbox": [
+                  {
+                    "h": 25.55557170588796,
+                    "w": 408.8377087700076,
+                    "x": 89.68420576886433,
+                    "y": 74.09495289872332,
+                    "confidence": 0.96,
+                    "end_index": 96,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Oversee solution design, prepare accurate cost estimates, conduct cost-benefit analysis, and allocate resources for successful delivery.",
+                "value": "Oversee solution design, prepare accurate cost estimates, conduct cost-benefit analysis, and allocate resources for successful delivery.",
+                "bbox": [
+                  {
+                    "h": 26.257814048208843,
+                    "w": 447.03462122475236,
+                    "x": 89.71130984422638,
+                    "y": 103.95269995712654,
+                    "confidence": 0.96,
+                    "end_index": 135,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Lead bid strategy, prepare RFP responses, write detailed proposals, and coordinate with internal teams for timely tender submissions.",
+                "value": "Lead bid strategy, prepare RFP responses, write detailed proposals, and coordinate with internal teams for timely tender submissions.",
+                "bbox": [
+                  {
+                    "h": 25.927440691692077,
+                    "w": 446.20181092797253,
+                    "x": 89.79814310213413,
+                    "y": 133.61659834698935,
+                    "confidence": 0.97,
+                    "end_index": 132,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Select vendors, negotiate terms, and ensure product quality, pricing, and delivery alignment with client requirements.",
+                "value": "Select vendors, negotiate terms, and ensure product quality, pricing, and delivery alignment with client requirements.",
+                "bbox": [
+                  {
+                    "h": 26.082293254573187,
+                    "w": 414.3426148056402,
+                    "x": 89.91388433689025,
+                    "y": 163.5725401343369,
+                    "confidence": 0.97,
+                    "end_index": 117,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Deliver technical presentations, product demos, and client workshops to showcase solution feasibility.",
+                "value": "Deliver technical presentations, product demos, and client workshops to showcase solution feasibility.",
+                "bbox": [
+                  {
+                    "h": 26.061589653201228,
+                    "w": 420.7972476419588,
+                    "x": 89.94509729897104,
+                    "y": 193.50220155297256,
+                    "confidence": 0.97,
+                    "end_index": 101,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Collaborate with sales teams, provide training, and share market insights to align solutions with customer needs and sales goals.",
+                "value": "Collaborate with sales teams, provide training, and share market insights to align solutions with customer needs and sales goals.",
+                "bbox": [
+                  {
+                    "h": 26.261410060975614,
+                    "w": 411.4359282107469,
+                    "x": 89.92397889672255,
+                    "y": 223.51287347560975,
+                    "confidence": 0.96,
+                    "end_index": 128,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Ensure smooth project transition post-bid, address client queries, and participate in contract negotiations.",
+                "value": "Ensure smooth project transition post-bid, address client queries, and participate in contract negotiations.",
+                "bbox": [
+                  {
+                    "h": 26.200383955792688,
+                    "w": 424.31865466606325,
+                    "x": 89.94038711175685,
+                    "y": 253.43863233612808,
+                    "confidence": 0.96,
+                    "end_index": 107,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Monitor bid success rates, track performance, and report on progress, identifying areas for continuous improvement.",
+                "value": "Monitor bid success rates, track performance, and report on progress, identifying areas for continuous improvement.",
+                "bbox": [
+                  {
+                    "h": 26.624100371570087,
+                    "w": 442.95739388814786,
+                    "x": 89.93281619188262,
+                    "y": 283.24552234184455,
+                    "confidence": 0.96,
+                    "end_index": 114,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Ensure proposals and designs meet industry standards, client specifications, and regulatory compliance.",
+                "value": "Ensure proposals and designs meet industry standards, client specifications, and regulatory compliance.",
+                "bbox": [
+                  {
+                    "h": 26.41336223323175,
+                    "w": 408.1971050876524,
+                    "x": 89.80073051638719,
+                    "y": 313.4261147103658,
+                    "confidence": 0.96,
+                    "end_index": 102,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Lead cross-functional teams, mentor junior consultants, and ensure cohesive execution of pre-sales strategies.",
+                "value": "Lead cross-functional teams, mentor junior consultants, and ensure cohesive execution of pre-sales strategies.",
+                "bbox": [
+                  {
+                    "h": 26.94642101753047,
+                    "w": 442.2907247403773,
+                    "x": 89.76998219559832,
+                    "y": 343.5177617663872,
+                    "confidence": 0.96,
+                    "end_index": 109,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              }
+            ],
+            "md": "* Engage with clients to understand their needs and design tailored solutions with technical teams.\n* Oversee solution design, prepare accurate cost estimates, conduct cost-benefit analysis, and allocate resources for successful delivery.\n* Lead bid strategy, prepare RFP responses, write detailed proposals, and coordinate with internal teams for timely tender submissions.\n* Select vendors, negotiate terms, and ensure product quality, pricing, and delivery alignment with client requirements.\n* Deliver technical presentations, product demos, and client workshops to showcase solution feasibility.\n* Collaborate with sales teams, provide training, and share market insights to align solutions with customer needs and sales goals.\n* Ensure smooth project transition post-bid, address client queries, and participate in contract negotiations.\n* Monitor bid success rates, track performance, and report on progress, identifying areas for continuous improvement.\n* Ensure proposals and designs meet industry standards, client specifications, and regulatory compliance.\n* Lead cross-functional teams, mentor junior consultants, and ensure cohesive execution of pre-sales strategies.",
+            "ordered": false,
+            "bbox": [
+              {
+                "h": 296.37,
+                "w": 447.06,
+                "x": 89.68,
+                "y": 74.09,
+                "confidence": 0.96,
+                "end_index": 1179,
+                "label": "list",
+                "start_index": 0
+              }
+            ],
+            "type": "list"
+          },
+          {
+            "md": "**Organizational Experience** **Sep’2010 to Jan’2017 – Crompton Greaves Limited**",
+            "value": "Organizational Experience Sep’2010 to Jan’2017 – Crompton Greaves Limited",
+            "bbox": [
+              {
+                "h": 15.0,
+                "w": 132.6,
+                "x": 72.0,
+                "y": 386.52,
+                "confidence": 1.0,
+                "end_index": 28,
+                "label": "paragraph_title",
+                "start_index": 0
+              },
+              {
+                "h": 15.0,
+                "w": 252.55,
+                "x": 288.96,
+                "y": 386.52,
+                "confidence": 1.0,
+                "end_index": 80,
+                "label": "paragraph_title",
+                "start_index": 0
+              }
+            ],
+            "type": "text"
+          },
+          {
+            "md": "**Company Profile:** Established in 1937 a leading engineering conglomerate headquartered in Mumbai, India. The company specializes in electrical engineering, offering a diverse portfolio of products, solutions, and services for power and industrial equipment. CG's offerings include power and distribution transformers, switchgear, circuit breakers, vacuum interrupters, and network protection and control gear.",
+            "value": "Company Profile: Established in 1937 a leading engineering conglomerate headquartered in Mumbai, India. The company specializes in electrical engineering, offering a diverse portfolio of products, solutions, and services for power and industrial equipment. CG's offerings include power and distribution transformers, switchgear, circuit breakers, vacuum interrupters, and network protection and control gear.",
+            "bbox": [
+              {
+                "h": 71.01311690167684,
+                "w": 464.48191540229607,
+                "x": 71.54569845060023,
+                "y": 417.53547113185977,
+                "confidence": 0.96,
+                "end_index": 411,
+                "label": "text",
+                "start_index": 0
+              },
+              {
+                "h": 15.0,
+                "w": 88.71,
+                "x": 72.0,
+                "y": 415.8,
+                "confidence": 1.0,
+                "end_index": 19,
+                "label": "paragraph_title",
+                "start_index": 0
+              }
+            ],
+            "type": "text"
+          },
+          {
+            "md": "**Designation:** Manager Pre-Sales/ D&E",
+            "value": "Designation: Manager Pre-Sales/ D&E",
+            "bbox": [
+              {
+                "h": 15.0,
+                "w": 63.0,
+                "x": 72.0,
+                "y": 503.64,
+                "confidence": 1.0,
+                "end_index": 15,
+                "label": "text",
+                "start_index": 0
+              },
+              {
+                "h": 15.0,
+                "w": 122.52,
+                "x": 137.47,
+                "y": 503.64,
+                "confidence": 1.0,
+                "end_index": 38,
+                "label": "text",
+                "start_index": 17
+              }
+            ],
+            "type": "text"
+          },
+          {
+            "md": "**Roles & Responsibilities:**",
+            "value": "Roles & Responsibilities:",
+            "bbox": [
+              {
+                "h": 11.494696074695202,
+                "w": 121.66220884741806,
+                "x": 71.86482502262766,
+                "y": 535.2175238185976,
+                "confidence": 0.9,
+                "end_index": 28,
+                "label": "paragraph_title",
+                "start_index": 0
+              }
+            ],
+            "type": "text"
+          },
+          {
+            "items": [
+              {
+                "md": "Engage with clients to understand their business needs, technical requirements, and project objectives.",
+                "value": "Engage with clients to understand their business needs, technical requirements, and project objectives.",
+                "bbox": [
+                  {
+                    "h": 26.644969035823216,
+                    "w": 428.2595325600228,
+                    "x": 89.70060487328506,
+                    "y": 563.2612828696646,
+                    "confidence": 0.96,
+                    "end_index": 102,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Analyze and document customer requirements, translating them into technical and functional requirements.",
+                "value": "Analyze and document customer requirements, translating them into technical and functional requirements.",
+                "bbox": [
+                  {
+                    "h": 25.726229039634152,
+                    "w": 423.1491252024581,
+                    "x": 89.84069877810595,
+                    "y": 592.5792802019816,
+                    "confidence": 0.96,
+                    "end_index": 103,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Design technical solutions tailored to client specifications, which may include hardware, software, and integrated systems.",
+                "value": "Design technical solutions tailored to client specifications, which may include hardware, software, and integrated systems.",
+                "bbox": [
+                  {
+                    "h": 26.26013671875,
+                    "w": 445.5380571765434,
+                    "x": 89.7144256740663,
+                    "y": 621.8015882240853,
+                    "confidence": 0.96,
+                    "end_index": 122,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Identify integration points with existing systems and propose interoperability with third-party solutions.",
+                "value": "Identify integration points with existing systems and propose interoperability with third-party solutions.",
+                "bbox": [
+                  {
+                    "h": 26.105402057926785,
+                    "w": 448.1059838271723,
+                    "x": 89.7186074456936,
+                    "y": 651.0992120807928,
+                    "confidence": 0.96,
+                    "end_index": 105,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Evaluate different products, vendors, and technologies to recommend the most suitable solutions.",
+                "value": "Evaluate different products, vendors, and technologies to recommend the most suitable solutions.",
+                "bbox": [
+                  {
+                    "h": 25.10408346036585,
+                    "w": 447.52464468607087,
+                    "x": 89.72827380668826,
+                    "y": 680.4542306592988,
+                    "confidence": 0.96,
+                    "end_index": 95,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Conduct cost-benefit analysis of potential solutions to ensure alignment with budgetary constraints and ROI expectations.",
+                "value": "Conduct cost-benefit analysis of potential solutions to ensure alignment with budgetary constraints and ROI expectations.",
+                "bbox": [
+                  {
+                    "h": 26.027728182164733,
+                    "w": 445.75877090081934,
+                    "x": 89.52483380573551,
+                    "y": 710.0864133955793,
+                    "confidence": 0.96,
+                    "end_index": 120,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              }
+            ],
+            "md": "* Engage with clients to understand their business needs, technical requirements, and project objectives.\n* Analyze and document customer requirements, translating them into technical and functional requirements.\n* Design technical solutions tailored to client specifications, which may include hardware, software, and integrated systems.\n* Identify integration points with existing systems and propose interoperability with third-party solutions.\n* Evaluate different products, vendors, and technologies to recommend the most suitable solutions.\n* Conduct cost-benefit analysis of potential solutions to ensure alignment with budgetary constraints and ROI expectations.",
+            "ordered": false,
+            "bbox": [
+              {
+                "h": 172.85,
+                "w": 448.3,
+                "x": 89.52,
+                "y": 563.26,
+                "confidence": 0.96,
+                "end_index": 669,
+                "label": "list",
+                "start_index": 0
+              }
+            ],
+            "type": "list"
+          }
+        ],
+        "page_height": 792.0,
+        "page_number": 3,
+        "page_width": 612.0,
+        "success": true
+      },
+      {
+        "items": [
+          {
+            "items": [
+              {
+                "md": "Stay updated on new technologies, tools, and industry trends to enhance solution offerings.",
+                "value": "Stay updated on new technologies, tools, and industry trends to enhance solution offerings.",
+                "bbox": [
+                  {
+                    "h": 26.0447679770865,
+                    "w": 416.36361310261054,
+                    "x": 89.62011260241997,
+                    "y": 43.26152799280678,
+                    "confidence": 0.99,
+                    "end_index": 90,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Develop detailed cost estimates, including hardware, software, labour, and service costs.",
+                "value": "Develop detailed cost estimates, including hardware, software, labour, and service costs.",
+                "bbox": [
+                  {
+                    "h": 11.249630752191308,
+                    "w": 450.61232273008767,
+                    "x": 89.75478569216844,
+                    "y": 72.58018262909681,
+                    "confidence": 0.97,
+                    "end_index": 88,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Lead and coordinate bid responses for RFPs, RFIs, and RFQs from clients.",
+                "value": "Lead and coordinate bid responses for RFPs, RFIs, and RFQs from clients.",
+                "bbox": [
+                  {
+                    "h": 11.630843476086119,
+                    "w": 370.7619856969322,
+                    "x": 89.93685219369283,
+                    "y": 86.90287157012196,
+                    "confidence": 0.97,
+                    "end_index": 71,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Review tender documents to ensure technical compliance with client specifications.",
+                "value": "Review tender documents to ensure technical compliance with client specifications.",
+                "bbox": [
+                  {
+                    "h": 11.480854373094518,
+                    "w": 425.7216253810975,
+                    "x": 89.98727943978659,
+                    "y": 101.56286061356707,
+                    "confidence": 0.97,
+                    "end_index": 81,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Collaborate with sales, engineering, and project teams to gather inputs for bid documents and ensure alignment with client expectations.",
+                "value": "Collaborate with sales, engineering, and project teams to gather inputs for bid documents and ensure alignment with client expectations.",
+                "bbox": [
+                  {
+                    "h": 26.235035370617368,
+                    "w": 398.40745927019816,
+                    "x": 89.84923542301829,
+                    "y": 116.17456876429117,
+                    "confidence": 0.99,
+                    "end_index": 135,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Use effective communication and presentation skills to illustrate the solution's value proposition to decision-makers.",
+                "value": "Use effective communication and presentation skills to illustrate the solution's value proposition to decision-makers.",
+                "bbox": [
+                  {
+                    "h": 25.973092368521346,
+                    "w": 428.5763359255907,
+                    "x": 89.78393965558308,
+                    "y": 145.68816561070884,
+                    "confidence": 0.99,
+                    "end_index": 117,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Support the sales team by aligning solution proposals with strategic goals.",
+                "value": "Support the sales team by aligning solution proposals with strategic goals.",
+                "bbox": [
+                  {
+                    "h": 11.386273342225614,
+                    "w": 377.27522711032765,
+                    "x": 89.91306438166922,
+                    "y": 175.0587236804497,
+                    "confidence": 0.97,
+                    "end_index": 74,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Educate and equip the sales team with technical knowledge to effectively sell and position the proposed solutions.",
+                "value": "Educate and equip the sales team with technical knowledge to effectively sell and position the proposed solutions.",
+                "bbox": [
+                  {
+                    "h": 26.088223728086884,
+                    "w": 415.1466811166158,
+                    "x": 89.86869569359756,
+                    "y": 189.86321348608996,
+                    "confidence": 0.99,
+                    "end_index": 113,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Provide relevant technical documentation, brochures, and case studies to support the sales team’s efforts.",
+                "value": "Provide relevant technical documentation, brochures, and case studies to support the sales team’s efforts.",
+                "bbox": [
+                  {
+                    "h": 25.996649199695145,
+                    "w": 435.85167105325837,
+                    "x": 89.73025992044589,
+                    "y": 218.94084389291157,
+                    "confidence": 0.99,
+                    "end_index": 105,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Address client queries, make adjustments to proposals, and update bid documents as needed during the evaluation phase.",
+                "value": "Address client queries, make adjustments to proposals, and update bid documents as needed during the evaluation phase.",
+                "bbox": [
+                  {
+                    "h": 25.877332317073186,
+                    "w": 434.3026389815168,
+                    "x": 89.6105555687881,
+                    "y": 248.34085389672256,
+                    "confidence": 0.99,
+                    "end_index": 117,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Participate in pre-contract negotiations to ensure client satisfaction and clarity on project scope, timelines, and deliverables.",
+                "value": "Participate in pre-contract negotiations to ensure client satisfaction and clarity on project scope, timelines, and deliverables.",
+                "bbox": [
+                  {
+                    "h": 25.929374285442076,
+                    "w": 453.63749285442066,
+                    "x": 89.71968249809451,
+                    "y": 277.7637840605945,
+                    "confidence": 0.99,
+                    "end_index": 128,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              }
+            ],
+            "md": "* Stay updated on new technologies, tools, and industry trends to enhance solution offerings.\n* Develop detailed cost estimates, including hardware, software, labour, and service costs.\n* Lead and coordinate bid responses for RFPs, RFIs, and RFQs from clients.\n* Review tender documents to ensure technical compliance with client specifications.\n* Collaborate with sales, engineering, and project teams to gather inputs for bid documents and ensure alignment with client expectations.\n* Use effective communication and presentation skills to illustrate the solution's value proposition to decision-makers.\n* Support the sales team by aligning solution proposals with strategic goals.\n* Educate and equip the sales team with technical knowledge to effectively sell and position the proposed solutions.\n* Provide relevant technical documentation, brochures, and case studies to support the sales team’s efforts.\n* Address client queries, make adjustments to proposals, and update bid documents as needed during the evaluation phase.\n* Participate in pre-contract negotiations to ensure client satisfaction and clarity on project scope, timelines, and deliverables.",
+            "ordered": false,
+            "bbox": [
+              {
+                "h": 260.43,
+                "w": 453.75,
+                "x": 89.61,
+                "y": 43.26,
+                "confidence": 0.98,
+                "end_index": 1161,
+                "label": "list",
+                "start_index": 0
+              }
+            ],
+            "type": "list"
+          },
+          {
+            "md": "**Organizational Experience** **Apr’2007 to Sep’2010 - Neural Integrated Systems Pvt. Ltd**",
+            "value": "Organizational Experience Apr’2007 to Sep’2010 - Neural Integrated Systems Pvt. Ltd",
+            "bbox": [
+              {
+                "h": 11.742762004573159,
+                "w": 459.5069874237805,
+                "x": 71.51532822027438,
+                "y": 321.24394078696645,
+                "confidence": 0.88,
+                "end_index": 90,
+                "label": "paragraph_title",
+                "start_index": 0
+              }
+            ],
+            "type": "text"
+          },
+          {
+            "md": "**Designation:** Sr. Executive Pre-Sales/D & E",
+            "value": "Designation: Sr. Executive Pre-Sales/D & E",
+            "bbox": [
+              {
+                "h": 15.0,
+                "w": 63.0,
+                "x": 72.0,
+                "y": 350.76,
+                "confidence": 1.0,
+                "end_index": 15,
+                "label": "paragraph_title",
+                "start_index": 0
+              },
+              {
+                "h": 15.0,
+                "w": 143.89,
+                "x": 137.47,
+                "y": 350.76,
+                "confidence": 1.0,
+                "end_index": 45,
+                "label": "text",
+                "start_index": 17
+              }
+            ],
+            "type": "text"
+          },
+          {
+            "md": "**Roles & Responsibilities:**",
+            "value": "Roles & Responsibilities:",
+            "bbox": [
+              {
+                "h": 11.693384622713392,
+                "w": 121.44585910704077,
+                "x": 71.99936145317264,
+                "y": 379.99852134146346,
+                "confidence": 0.91,
+                "end_index": 28,
+                "label": "paragraph_title",
+                "start_index": 0
+              }
+            ],
+            "type": "text"
+          },
+          {
+            "items": [
+              {
+                "md": "Interact with clients to understand their requirements, conduct discovery sessions, and collaborate with technical teams to design solutions.",
+                "value": "Interact with clients to understand their requirements, conduct discovery sessions, and collaborate with technical teams to design solutions.",
+                "bbox": [
+                  {
+                    "h": 26.22066310975608,
+                    "w": 441.98174739186356,
+                    "x": 89.83009402391387,
+                    "y": 410.0478415586891,
+                    "confidence": 0.99,
+                    "end_index": 140,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Assist in designing scalable solutions, prepare cost estimates, and conduct cost-benefit analysis to align with project specifications.",
+                "value": "Assist in designing scalable solutions, prepare cost estimates, and conduct cost-benefit analysis to align with project specifications.",
+                "bbox": [
+                  {
+                    "h": 26.080265339176783,
+                    "w": 439.6964046422446,
+                    "x": 89.87932777963033,
+                    "y": 440.07461890243906,
+                    "confidence": 0.99,
+                    "end_index": 134,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Support bid strategies, manage RFP responses, prepare proposals, and ensure timely submission of tender documents.",
+                "value": "Support bid strategies, manage RFP responses, prepare proposals, and ensure timely submission of tender documents.",
+                "bbox": [
+                  {
+                    "h": 26.019946646341463,
+                    "w": 430.73764678210745,
+                    "x": 89.97837837033155,
+                    "y": 470.0654596989329,
+                    "confidence": 0.99,
+                    "end_index": 113,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Evaluate vendors, coordinate with OEMs for pricing, and recommend products based on client needs.",
+                "value": "Evaluate vendors, coordinate with OEMs for pricing, and recommend products based on client needs.",
+                "bbox": [
+                  {
+                    "h": 26.2647113185976,
+                    "w": 447.26275098847185,
+                    "x": 90.06968493950076,
+                    "y": 499.6029906631098,
+                    "confidence": 0.99,
+                    "end_index": 96,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Help prepare client presentations, conduct product demos, and support client workshops to demonstrate solution capabilities.",
+                "value": "Help prepare client presentations, conduct product demos, and support client workshops to demonstrate solution capabilities.",
+                "bbox": [
+                  {
+                    "h": 26.103044016768305,
+                    "w": 452.78971381955023,
+                    "x": 90.0929443359375,
+                    "y": 529.8178453696646,
+                    "confidence": 0.99,
+                    "end_index": 123,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Collaborate with sales teams to align solutions with customer needs and provide technical documentation and support for sales efforts.",
+                "value": "Collaborate with sales teams to align solutions with customer needs and provide technical documentation and support for sales efforts.",
+                "bbox": [
+                  {
+                    "h": 26.42850085746953,
+                    "w": 409.66208263862427,
+                    "x": 89.97854236137576,
+                    "y": 559.6277300876525,
+                    "confidence": 0.99,
+                    "end_index": 133,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Assist with post-bid clarifications, contract negotiations, and project handover to ensure smooth transition to the implementation phase.",
+                "value": "Assist with post-bid clarifications, contract negotiations, and project handover to ensure smooth transition to the implementation phase.",
+                "bbox": [
+                  {
+                    "h": 26.205288681402454,
+                    "w": 447.3975880692645,
+                    "x": 90.03116526533917,
+                    "y": 589.7291158536586,
+                    "confidence": 0.99,
+                    "end_index": 136,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Monitor bid performance, track success rates, and provide regular updates to senior management.",
+                "value": "Monitor bid performance, track success rates, and provide regular updates to senior management.",
+                "bbox": [
+                  {
+                    "h": 25.899780868902344,
+                    "w": 427.957333508003,
+                    "x": 90.09660680259147,
+                    "y": 619.7042992568598,
+                    "confidence": 0.99,
+                    "end_index": 94,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Ensure proposals and designs meet industry standards and client specifications, maintaining high-quality output.",
+                "value": "Ensure proposals and designs meet industry standards and client specifications, maintaining high-quality output.",
+                "bbox": [
+                  {
+                    "h": 26.190715987042747,
+                    "w": 405.32004620807925,
+                    "x": 89.98618616615853,
+                    "y": 649.5727105564024,
+                    "confidence": 0.99,
+                    "end_index": 111,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Work closely with cross-functional teams and support senior team members in project execution and delivery.",
+                "value": "Work closely with cross-functional teams and support senior team members in project execution and delivery.",
+                "bbox": [
+                  {
+                    "h": 25.996083269817074,
+                    "w": 438.61844595560217,
+                    "x": 89.83908619950456,
+                    "y": 679.5326138528964,
+                    "confidence": 0.99,
+                    "end_index": 106,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              }
+            ],
+            "md": "* Interact with clients to understand their requirements, conduct discovery sessions, and collaborate with technical teams to design solutions.\n* Assist in designing scalable solutions, prepare cost estimates, and conduct cost-benefit analysis to align with project specifications.\n* Support bid strategies, manage RFP responses, prepare proposals, and ensure timely submission of tender documents.\n* Evaluate vendors, coordinate with OEMs for pricing, and recommend products based on client needs.\n* Help prepare client presentations, conduct product demos, and support client workshops to demonstrate solution capabilities.\n* Collaborate with sales teams to align solutions with customer needs and provide technical documentation and support for sales efforts.\n* Assist with post-bid clarifications, contract negotiations, and project handover to ensure smooth transition to the implementation phase.\n* Monitor bid performance, track success rates, and provide regular updates to senior management.\n* Ensure proposals and designs meet industry standards and client specifications, maintaining high-quality output.\n* Work closely with cross-functional teams and support senior team members in project execution and delivery.",
+            "ordered": false,
+            "bbox": [
+              {
+                "h": 295.48,
+                "w": 453.05,
+                "x": 89.83,
+                "y": 410.05,
+                "confidence": 0.99,
+                "end_index": 1224,
+                "label": "list",
+                "start_index": 0
+              }
+            ],
+            "type": "list"
+          }
+        ],
+        "page_height": 792.0,
+        "page_number": 4,
+        "page_width": 612.0,
+        "success": true
+      },
+      {
+        "items": [
+          {
+            "md": "**Academic Details**",
+            "value": "Academic Details",
+            "bbox": [
+              {
+                "h": 11.196872528820508,
+                "w": 85.68346203315548,
+                "x": 71.39435749333079,
+                "y": 43.36960880930831,
+                "confidence": 0.91,
+                "end_index": 19,
+                "label": "paragraph_title",
+                "start_index": 0
+              }
+            ],
+            "type": "text"
+          },
+          {
+            "md": "B.E – Electrical Engineering from Mumbai University, Mumbai in 2006\nHSC (Physics /Chemistry /Mathematics /Biology) from St. Xavier’s, Mumbai in 2002\nSSC (Mathematics /Science /Social Studies) from St. Xavier’s, Mumbai in 2000.",
+            "value": "B.E – Electrical Engineering from Mumbai University, Mumbai in 2006\nHSC (Physics /Chemistry /Mathematics /Biology) from St. Xavier’s, Mumbai in 2002\nSSC (Mathematics /Science /Social Studies) from St. Xavier’s, Mumbai in 2000.",
+            "bbox": [
+              {
+                "h": 40.69110690977515,
+                "w": 403.54681104706555,
+                "x": 71.62434582221798,
+                "y": 72.2980430044779,
+                "confidence": 0.9,
+                "end_index": 225,
+                "label": "text",
+                "start_index": 0
+              }
+            ],
+            "type": "text"
+          },
+          {
+            "md": "**Personal Details**",
+            "value": "Personal Details",
+            "bbox": [
+              {
+                "h": 11.125627262766768,
+                "w": 79.9611995343464,
+                "x": 71.88112391029915,
+                "y": 131.30703851467226,
+                "confidence": 0.9,
+                "end_index": 19,
+                "label": "paragraph_title",
+                "start_index": 0
+              }
+            ],
+            "type": "text"
+          },
+          {
+            "md": "**Date of Birth**: 15th November 1983\n**Marital Status**: Married\n**Passport Number**: J1680564\n**Driving License Number**: MH03 20160034919\n**Languages Known**: English, Hindi, Marathi and Oriya.\n**Address**: G/1106, Asha – Jyoti, Samarth Garden, Datta Mandir Road, Bhandup (West), Mumbai - 400078.",
+            "value": "Date of Birth: 15th November 1983\nMarital Status: Married\nPassport Number: J1680564\nDriving License Number: MH03 20160034919\nLanguages Known: English, Hindi, Marathi and Oriya.\nAddress: G/1106, Asha – Jyoti, Samarth Garden, Datta Mandir Road, Bhandup (West), Mumbai - 400078.",
+            "bbox": [
+              {
+                "h": 15.0,
+                "w": 68.6,
+                "x": 72.0,
+                "y": 160.45,
+                "confidence": 1.0,
+                "end_index": 17,
+                "label": "text",
+                "start_index": 0
+              },
+              {
+                "h": 15.0,
+                "w": 109.13,
+                "x": 140.19,
+                "y": 160.45,
+                "confidence": 1.0,
+                "end_index": 36,
+                "label": "text",
+                "start_index": 19
+              },
+              {
+                "h": 15.0,
+                "w": 74.13,
+                "x": 72.0,
+                "y": 175.09,
+                "confidence": 1.0,
+                "end_index": 56,
+                "label": "text",
+                "start_index": 38
+              },
+              {
+                "h": 15.0,
+                "w": 116.32,
+                "x": 72.0,
+                "y": 175.09,
+                "confidence": 0.85,
+                "end_index": 64,
+                "label": "text",
+                "start_index": 38
+              },
+              {
+                "h": 15.0,
+                "w": 90.97,
+                "x": 72.0,
+                "y": 189.73,
+                "confidence": 1.0,
+                "end_index": 85,
+                "label": "text",
+                "start_index": 66
+              },
+              {
+                "h": 29.64,
+                "w": 142.54,
+                "x": 72.0,
+                "y": 189.73,
+                "confidence": 0.85,
+                "end_index": 94,
+                "label": "text",
+                "start_index": 66
+              },
+              {
+                "h": 15.0,
+                "w": 121.58,
+                "x": 72.0,
+                "y": 204.37,
+                "confidence": 1.0,
+                "end_index": 122,
+                "label": "text",
+                "start_index": 96
+              },
+              {
+                "h": 15.0,
+                "w": 102.55,
+                "x": 196.27,
+                "y": 204.37,
+                "confidence": 1.0,
+                "end_index": 139,
+                "label": "text",
+                "start_index": 124
+              },
+              {
+                "h": 15.0,
+                "w": 93.83,
+                "x": 72.0,
+                "y": 219.01,
+                "confidence": 1.0,
+                "end_index": 160,
+                "label": "text",
+                "start_index": 141
+              },
+              {
+                "h": 15.0,
+                "w": 166.0,
+                "x": 165.43,
+                "y": 219.01,
+                "confidence": 1.0,
+                "end_index": 195,
+                "label": "text",
+                "start_index": 162
+              },
+              {
+                "h": 44.28,
+                "w": 468.33,
+                "x": 72.0,
+                "y": 219.01,
+                "confidence": 0.85,
+                "end_index": 298,
+                "label": "text",
+                "start_index": 197
+              }
+            ],
+            "type": "text"
+          },
+          {
+            "md": "**Date**: 12/05/2026\n**Place**: Mumbai\nSunil Sahu",
+            "value": "Date: 12/05/2026\nPlace: Mumbai\nSunil Sahu",
+            "bbox": [
+              {
+                "h": 39.98438428925307,
+                "w": 83.55395632860137,
+                "x": 71.71717386385289,
+                "y": 279.67976324314026,
+                "confidence": 0.84,
+                "end_index": 48,
+                "label": "text",
+                "start_index": 0
+              }
+            ],
+            "type": "text"
+          }
+        ],
+        "page_height": 792.0,
+        "page_number": 5,
+        "page_width": 612.0,
+        "success": true
+      }
+    ]
+  },
+  "job_metadata": {
+    "state_transitions": {
+      "pending_at": "2026-05-12T14:43:47.361264Z",
+      "throttled_at": "2026-05-12T14:43:48.582629Z",
+      "running_at": "2026-05-12T14:43:49.162734Z",
+      "completed_at": "2026-05-12T14:44:01.898674Z",
+      "failed_at": null,
+      "cancelled_at": null
+    },
+    "pdf-pages": 5,
+    "pdf-real-pages": 5,
+    "pdf-rawTextLength": 11355,
+    "pdf-mdLength": 10820,
+    "pdf-time": 8170,
+    "pdf-ocrTime": 0,
+    "pdf-image-convertTime": 0,
+    "pdf-pdfToHTMLTime": 0,
+    "pdf-llmTime": 5486,
+    "pdf-inputTokens": 53027,
+    "pdf-outputTokens": 2897,
+    "pdf-image-ocr-count": 0,
+    "pdf-image-ocr-failed-count": 0,
+    "pdf-image-ocr-success-count": 5,
+    "pdf-image-ocr-empty-count": 5,
+    "pdf-image-ocr-hadText-count": 0,
+    "pdf-image-ocr-pixels": 39568000,
+    "pdf-multimodal-time": 0,
+    "pdf-multimodal-pdf2Image": 0,
+    "pdf-model": null,
+    "pdf-high-res-ocr": 5,
+    "model_invocations": [
+      {
+        "page_number": 5,
+        "model": "gemini-3.0-flash",
+        "task": "parse_page_with_agent",
+        "reason": "primary",
+        "attempt": 1,
+        "status": "success",
+        "input_tokens": 10041,
+        "output_tokens": 265
+      },
+      {
+        "page_number": 2,
+        "model": "gemini-3.0-flash",
+        "task": "parse_page_with_agent",
+        "reason": "primary",
+        "attempt": 1,
+        "status": "success",
+        "input_tokens": 10653,
+        "output_tokens": 620
+      },
+      {
+        "page_number": 4,
+        "model": "gemini-3.0-flash",
+        "task": "parse_page_with_agent",
+        "reason": "primary",
+        "attempt": 1,
+        "status": "success",
+        "input_tokens": 10703,
+        "output_tokens": 661
+      },
+      {
+        "page_number": 1,
+        "model": "gemini-3.0-flash",
+        "task": "parse_page_with_agent",
+        "reason": "primary",
+        "attempt": 1,
+        "status": "success",
+        "input_tokens": 10959,
+        "output_tokens": 725
+      },
+      {
+        "page_number": 3,
+        "model": "gemini-3.0-flash",
+        "task": "parse_page_with_agent",
+        "reason": "primary",
+        "attempt": 1,
+        "status": "success",
+        "input_tokens": 10671,
+        "output_tokens": 626
+      }
+    ]
+  },
+  "markdown": null,
+  "markdown_full": "# SUNIL SAHU\n\nMobile No: +91-9930009524\n\nG/1106, Asha Jyoti, Samarth Garden, Datta Mandir Road, Bhandup (West) Mumbai – 400078.\n\nE-mail: <u>sunilsahupm@gmail.com</u>\n\n## Profile Summary\n\nDynamic Pre-Sales Consultant with 18+ years of experience in solution design, bid management, and technical consultation, specializing in electronic security, ELV systems, and integrated technology solutions. Proven ability to collaborate with sales and technical teams to create winning proposals, manage complex bids, and deliver customized solutions aligned with client needs and industry standards. Skilled in product design, estimation, competitive analysis, and developing pre-sales strategies to drive customer satisfaction and revenue growth. Adept at building client relationships, coordinating with vendors and OEMs, and ensuring compliance with regulatory standards. Expert in preparing presentations, RFP responses, and technical proposals to secure high-value contracts across both public and private sectors.\n\n## Organizational Experience **Mar’ 2024 to Till Date – CMS Computers India Pvt. Ltd**\n\n**Company Profile:** Established in 1976 a leading player in India's Information and Communication Technology (ICT) sector. With a workforce exceeding 4,000 employees across more than 100 locations nationwide, the company offers a diverse range of products and services. These include governance services, transportation and traffic solutions, energy management, surveillance and workforce management, broadcasting solutions, and software services.\n\n**Designation:** Pre-Sales Consultant (National Role)\n\n**Roles & Responsibilities:**\n\n*   Engage with clients to understand business and technical needs and document requirements.\n*   Design tailored technical solutions, identify integration points, and develop comprehensive proposals with technical documentation.\n*   Evaluate vendors, products, and technologies, conduct cost-benefit analysis, and stay updated on industry trends.\n*   Create detailed cost estimates, allocate resources, and conduct risk assessments for project delivery.\n*   Lead bid responses for RFPs, RFIs, and RFQs, ensuring technical compliance, writing proposals, and coordinating with teams for accurate documentation.\n*   Organize product demos, conduct workshops, and present solutions to clients to highlight value propositions.\n*   Align technical solutions with sales strategies, train sales teams, and provide documentation to support sales efforts.\n*   Address client queries, assist in negotiations, and ensure smooth handover of project details to implementation teams.\n*   Track bid success rates, identify process improvements, and report on bid status and pre-sales performance.\n\n---\n\n# Organizational Experience Aug’ 2021 to Mar’24 - Supertron Electronics Pvt. Ltd\n\n**Company Profile:** Established in 1993 a prominent IT and telecom distribution company in India. Headquartered in Kolkata, it has expanded its reach across the nation, boasting over 55 locations and a network of more than 9,000 retail points. The company offers a comprehensive range of products, including servers, laptops, components, and accessories, catering to diverse customer needs. SEPL's strategic partnerships with over 31 multinational corporations have significantly contributed to its growth and market presence.\n\n**Designation:** Product Manager (National Role)\n\n**Roles & Responsibilities:**\n\n* Select and manage product portfolio, oversee product lifecycle, and define the product roadmap aligned with market opportunities.\n* Maintain vendor relationships, negotiate pricing, ensure timely availability, and collaborate on marketing and product launches.\n* Conduct market research, track competitors, and analyze customer feedback to refine product offerings.\n* Develop pricing models, optimize margins, and implement incentive programs for distribution channels.\n* Train sales teams, develop sales tools, and collaborate with cross-functional teams to align product strategies.\n* Collaborate on demand forecasting, monitor inventory, and ensure efficient supply chain coordination.\n* Plan marketing campaigns, develop promotions, and align brand messaging to boost product sales and visibility.\n* Engage key accounts, address customer concerns, and integrate feedback for product improvement.\n* Track product performance and adjust strategies based on sales data and market insights.\n* Ensure regulatory compliance, maintain product quality standards, and manage documentation.\n* Lead cross-functional teams, oversee product-related projects, and communicate product vision to stakeholders.\n\n# Organizational Experience Jan’ 2018 to July 2021 - Neural Integrated Systems Pvt. Ltd\n\n**Company Profile:** Established in 2003, specializes in integrated security solutions, offering services such as video surveillance, access control, fire alarm systems, and perimeter protection. The company serves a diverse clientele across industrial, infrastructure and corporate. With a commitment to high-quality products and exceptional service it has expanded its reach throughout India and internationally.\n\n**Designation:** Sr. Manager Pre-Sales/ D&E\n\n---\n\n**Roles & Responsibilities:**\n\n* Engage with clients to understand their needs and design tailored solutions with technical teams.\n* Oversee solution design, prepare accurate cost estimates, conduct cost-benefit analysis, and allocate resources for successful delivery.\n* Lead bid strategy, prepare RFP responses, write detailed proposals, and coordinate with internal teams for timely tender submissions.\n* Select vendors, negotiate terms, and ensure product quality, pricing, and delivery alignment with client requirements.\n* Deliver technical presentations, product demos, and client workshops to showcase solution feasibility.\n* Collaborate with sales teams, provide training, and share market insights to align solutions with customer needs and sales goals.\n* Ensure smooth project transition post-bid, address client queries, and participate in contract negotiations.\n* Monitor bid success rates, track performance, and report on progress, identifying areas for continuous improvement.\n* Ensure proposals and designs meet industry standards, client specifications, and regulatory compliance.\n* Lead cross-functional teams, mentor junior consultants, and ensure cohesive execution of pre-sales strategies.\n\n**Organizational Experience** **Sep’2010 to Jan’2017 – Crompton Greaves Limited**\n\n**Company Profile:** Established in 1937 a leading engineering conglomerate headquartered in Mumbai, India. The company specializes in electrical engineering, offering a diverse portfolio of products, solutions, and services for power and industrial equipment. CG's offerings include power and distribution transformers, switchgear, circuit breakers, vacuum interrupters, and network protection and control gear.\n\n**Designation:** Manager Pre-Sales/ D&E\n\n**Roles & Responsibilities:**\n\n* Engage with clients to understand their business needs, technical requirements, and project objectives.\n* Analyze and document customer requirements, translating them into technical and functional requirements.\n* Design technical solutions tailored to client specifications, which may include hardware, software, and integrated systems.\n* Identify integration points with existing systems and propose interoperability with third-party solutions.\n* Evaluate different products, vendors, and technologies to recommend the most suitable solutions.\n* Conduct cost-benefit analysis of potential solutions to ensure alignment with budgetary constraints and ROI expectations.\n\n---\n\n* Stay updated on new technologies, tools, and industry trends to enhance solution offerings.\n* Develop detailed cost estimates, including hardware, software, labour, and service costs.\n* Lead and coordinate bid responses for RFPs, RFIs, and RFQs from clients.\n* Review tender documents to ensure technical compliance with client specifications.\n* Collaborate with sales, engineering, and project teams to gather inputs for bid documents and ensure alignment with client expectations.\n* Use effective communication and presentation skills to illustrate the solution's value proposition to decision-makers.\n* Support the sales team by aligning solution proposals with strategic goals.\n* Educate and equip the sales team with technical knowledge to effectively sell and position the proposed solutions.\n* Provide relevant technical documentation, brochures, and case studies to support the sales team’s efforts.\n* Address client queries, make adjustments to proposals, and update bid documents as needed during the evaluation phase.\n* Participate in pre-contract negotiations to ensure client satisfaction and clarity on project scope, timelines, and deliverables.\n\n**Organizational Experience** **Apr’2007 to Sep’2010 - Neural Integrated Systems Pvt. Ltd**\n\n**Designation:** Sr. Executive Pre-Sales/D & E\n\n**Roles & Responsibilities:**\n\n* Interact with clients to understand their requirements, conduct discovery sessions, and collaborate with technical teams to design solutions.\n* Assist in designing scalable solutions, prepare cost estimates, and conduct cost-benefit analysis to align with project specifications.\n* Support bid strategies, manage RFP responses, prepare proposals, and ensure timely submission of tender documents.\n* Evaluate vendors, coordinate with OEMs for pricing, and recommend products based on client needs.\n* Help prepare client presentations, conduct product demos, and support client workshops to demonstrate solution capabilities.\n* Collaborate with sales teams to align solutions with customer needs and provide technical documentation and support for sales efforts.\n* Assist with post-bid clarifications, contract negotiations, and project handover to ensure smooth transition to the implementation phase.\n* Monitor bid performance, track success rates, and provide regular updates to senior management.\n* Ensure proposals and designs meet industry standards and client specifications, maintaining high-quality output.\n* Work closely with cross-functional teams and support senior team members in project execution and delivery.\n\n---\n\n**Academic Details**\n\nB.E – Electrical Engineering from Mumbai University, Mumbai in 2006\nHSC (Physics /Chemistry /Mathematics /Biology) from St. Xavier’s, Mumbai in 2002\nSSC (Mathematics /Science /Social Studies) from St. Xavier’s, Mumbai in 2000.\n\n**Personal Details**\n\n**Date of Birth**: 15th November 1983\n**Marital Status**: Married\n**Passport Number**: J1680564\n**Driving License Number**: MH03 20160034919\n**Languages Known**: English, Hindi, Marathi and Oriya.\n**Address**: G/1106, Asha – Jyoti, Samarth Garden, Datta Mandir Road, Bhandup (West), Mumbai - 400078.\n\n**Date**: 12/05/2026\n**Place**: Mumbai\nSunil Sahu",
+  "metadata": {
+    "pages": [
+      {
+        "page_number": 1,
+        "confidence": 1.0,
+        "cost_optimized": false,
+        "original_orientation_angle": 0,
+        "printed_page_number": null,
+        "slide_section_name": null,
+        "speaker_notes": null,
+        "triggered_auto_mode": false
+      },
+      {
+        "page_number": 2,
+        "confidence": 0.997,
+        "cost_optimized": false,
+        "original_orientation_angle": 0,
+        "printed_page_number": null,
+        "slide_section_name": null,
+        "speaker_notes": null,
+        "triggered_auto_mode": false
+      },
+      {
+        "page_number": 3,
+        "confidence": 1.0,
+        "cost_optimized": false,
+        "original_orientation_angle": 0,
+        "printed_page_number": null,
+        "slide_section_name": null,
+        "speaker_notes": null,
+        "triggered_auto_mode": false
+      },
+      {
+        "page_number": 4,
+        "confidence": 1.0,
+        "cost_optimized": false,
+        "original_orientation_angle": 0,
+        "printed_page_number": null,
+        "slide_section_name": null,
+        "speaker_notes": null,
+        "triggered_auto_mode": false
+      },
+      {
+        "page_number": 5,
+        "confidence": 0.988,
+        "cost_optimized": false,
+        "original_orientation_angle": 0,
+        "printed_page_number": null,
+        "slide_section_name": null,
+        "speaker_notes": null,
+        "triggered_auto_mode": false
+      }
+    ]
+  },
+  "raw_parameters": null,
+  "result_content_metadata": null,
+  "text": null,
+  "text_full": "SUNIL SAHU\nMobile No: +91-9930009524\nG/1106, Asha Jyoti, Samarth Garden, Datta Mandir Road, Bhandup (West) Mumbai – 400078.\nE-mail: sunilsahupm@gmail.com\nProfile Summary\n\nDynamic Pre-Sales Consultant with 18+ years of experience in solution design, bid management,\nand technical consultation, specializing in electronic security, ELV systems, and integrated\ntechnology solutions. Proven ability to collaborate with sales and technical teams to create\nwinning proposals, manage complex bids, and deliver customized solutions aligned with client\nneeds and industry standards. Skilled in product design, estimation, competitive analysis, and\ndeveloping pre-sales strategies to drive customer satisfaction and revenue growth. Adept at\nbuilding client relationships, coordinating with vendors and OEMs, and ensuring compliance\nwith regulatory standards. Expert in preparing presentations, RFP responses, and technical\nproposals to secure high-value contracts across both public and private sectors.\nOrganizational Experience            Mar’ 2024 to Till Date – CMS Computers India Pvt. Ltd\nCompany Profile: Established in 1976 a leading player in India's Information and Communication\nTechnology (ICT) sector. With a workforce exceeding 4,000 employees across more than 100\nlocations nationwide, the company offers a diverse range of products and services. These\ninclude governance services, transportation and traffic solutions, energy management,\nsurveillance and workforce management, broadcasting solutions, and software services.\nDesignation: Pre-Sales Consultant (National Role)\nRoles & Responsibilities:\n x     Engage with clients to understand business and technical needs and document\n x     requirements.\n       Design tailored technical solutions, identify integration points, and develop\n x     comprehensive proposals with technical documentation.\n       Evaluate vendors, products, and technologies, conduct cost-benefit analysis, and stay\n x     updated on industry trends.\n       Create detailed cost estimates, allocate resources, and conduct risk assessments for\n x     project delivery.\n       Lead bid responses for RFPs, RFIs, and RFQs, ensuring technical compliance, writing\n x     proposals, and coordinating with teams for accurate documentation.\n       Organize product demos, conduct workshops, and present solutions to clients to\n x     highlight value propositions.\n       Align technical solutions with sales strategies, train sales teams, and provide\n x     documentation to support sales efforts.\n       Address client queries, assist in negotiations, and ensure smooth handover of project\n x     details to implementation teams.\n       Track bid success rates, identify process improvements, and report on bid status and pre-\n       sales performance.\n\n---\n\nOrganizational Experience               Aug’ 2021 to Mar’24 - Supertron Electronics Pvt. Ltd\nCompany Profile: Established in 1993 a prominent IT and telecom distribution company in India.\nHeadquartered in Kolkata, it has expanded its reach across the nation, boasting over 55\nlocations and a network of more than 9,000 retail points. The company offers a comprehensive\nrange of products, including servers, laptops, components, and accessories, catering to diverse\ncustomer needs. SEPL's strategic partnerships with over 31 multinational corporations have\nsignificantly contributed to its growth and market presence.\nDesignation: Product Manager (National Role)\nRoles & Responsibilities:\n x     Select and manage product portfolio, oversee product lifecycle, and define the product\n x     roadmap aligned with market opportunities.\n       Maintain vendor relationships, negotiate pricing, ensure timely availability, and\n x     collaborate on marketing and product launches.\n       Conduct market research, track competitors, and analyze customer feedback to refine\n x     product offerings.\n       Develop pricing models, optimize margins, and implement incentive programs for\n x     distribution channels.\n       Train sales teams, develop sales tools, and collaborate with cross-functional teams to\n x     align product strategies.\n       Collaborate on demand forecasting, monitor inventory, and ensure efficient supply chain\n x     coordination.\n       Plan marketing campaigns, develop promotions, and align brand messaging to boost\n x     product sales and visibility.\n       Engage key accounts, address customer concerns, and integrate feedback for product\n x     improvement.\n       Track product performance and adjust strategies based on sales data and market\n x     insights.\n       Ensure regulatory compliance, maintain product quality standards, and manage\n x     documentation.\n       Lead cross-functional teams, oversee product-related projects, and communicate\n       product vision to stakeholders.\nOrganizational Experience            Jan’ 2018 to July 2021 - Neural Integrated Systems Pvt. Ltd\nCompany Profile: Established in 2003, specializes in integrated security solutions, offering\nservices such as video surveillance, access control, fire alarm systems, and perimeter protection.\nThe company serves a diverse clientele across industrial, infrastructure and corporate. With a\ncommitment to high-quality products and exceptional service it has expanded its reach\nthroughout India and internationally.\nDesignation: Sr. Manager Pre-Sales/ D&E\n\n---\n\nRoles & Responsibilities:\n x     Engage with clients to understand their needs and design tailored solutions with\n x     technical teams.\n       Oversee solution design, prepare accurate cost estimates, conduct cost-benefit analysis,\n x     and allocate resources for successful delivery.\n       Lead bid strategy, prepare RFP responses, write detailed proposals, and coordinate with\n x     internal teams for timely tender submissions.\n       Select vendors, negotiate terms, and ensure product quality, pricing, and delivery\n x     alignment with client requirements.\n       Deliver technical presentations, product demos, and client workshops to showcase\n x     solution feasibility.\n       Collaborate with sales teams, provide training, and share market insights to align\n x     solutions with customer needs and sales goals.\n       Ensure smooth project transition post-bid, address client queries, and participate in\n x     contract negotiations.\n       Monitor bid success rates, track performance, and report on progress, identifying areas\n x     for continuous improvement.\n       Ensure proposals and designs meet industry standards, client specifications, and\n x     regulatory compliance.\n       Lead cross-functional teams, mentor junior consultants, and ensure cohesive execution\n       of pre-sales strategies.\nOrganizational Experience                  Sep’2010 to Jan’2017 – Crompton Greaves Limited\nCompany Profile: Established in 1937 a leading engineering conglomerate headquartered in\nMumbai, India. The company specializes in electrical engineering, offering a diverse portfolio of\nproducts, solutions, and services for power and industrial equipment. CG's offerings include\npower and distribution transformers, switchgear, circuit breakers, vacuum interrupters, and\nnetwork protection and control gear.\nDesignation: Manager Pre-Sales/ D&E\nRoles & Responsibilities:\n\n x     Engage with clients to understand their business needs, technical requirements, and\n       project objectives.\n x     Analyze and document customer requirements, translating them into technical and\n       functional requirements.\n x     Design technical solutions tailored to client specifications, which may include hardware,\n       software, and integrated systems.\n x     Identify integration points with existing systems and propose interoperability with third-\n       party solutions.\n x     Evaluate different products, vendors, and technologies to recommend the most suitable\n       solutions.\n x     Conduct cost-benefit analysis of potential solutions to ensure alignment with budgetary\n       constraints and ROI expectations.\n\n---\n\n x     Stay updated on new technologies, tools, and industry trends to enhance solution\n       offerings.\n x     Develop detailed cost estimates, including hardware, software, labour, and service costs.\n x     Lead and coordinate bid responses for RFPs, RFIs, and RFQs from clients.\n x     Review tender documents to ensure technical compliance with client specifications.\n x     Collaborate with sales, engineering, and project teams to gather inputs for bid\n       documents and ensure alignment with client expectations.\n x     Use effective communication and presentation skills to illustrate the solution's value\n       proposition to decision-makers.\n x     Support the sales team by aligning solution proposals with strategic goals.\n x     Educate and equip the sales team with technical knowledge to effectively sell and\n       position the proposed solutions.\n x     Provide relevant technical documentation, brochures, and case studies to support the\n       sales team’s efforts.\n x     Address client queries, make adjustments to proposals, and update bid documents as\n       needed during the evaluation phase.\n x     Participate in pre-contract negotiations to ensure client satisfaction and clarity on project\n       scope, timelines, and deliverables.\nOrganizational Experience      Apr’2007 to Sep’2010 - Neural Integrated Systems Pvt. Ltd\nDesignation: Sr. Executive Pre-Sales/D & E\nRoles & Responsibilities:\n x     Interact with clients to understand their requirements, conduct discovery sessions, and\n x     collaborate with technical teams to design solutions.\n       Assist in designing scalable solutions, prepare cost estimates, and conduct cost-benefit\n x     analysis to align with project specifications.\n       Support bid strategies, manage RFP responses, prepare proposals, and ensure timely\n x     submission of tender documents.\n       Evaluate vendors, coordinate with OEMs for pricing, and recommend products based on\n x     client needs.\n       Help prepare client presentations, conduct product demos, and support client workshops\n x     to demonstrate solution capabilities.\n       Collaborate with sales teams to align solutions with customer needs and provide\n x     technical documentation and support for sales efforts.\n       Assist with post-bid clarifications, contract negotiations, and project handover to ensure\n x     smooth transition to the implementation phase.\n       Monitor bid performance, track success rates, and provide regular updates to senior\n x     management.\n       Ensure proposals and designs meet industry standards and client specifications,\n x     maintaining high-quality output.\n       Work closely with cross-functional teams and support senior team members in project\n       execution and delivery.\n\n---\n\nAcademic Details\nB.E – Electrical Engineering from Mumbai University, Mumbai in 2006\nHSC (Physics /Chemistry /Mathematics /Biology) from St. Xavier’s, Mumbai in 2002\nSSC (Mathematics /Science /Social Studies) from St. Xavier’s, Mumbai in 2000.\nPersonal Details\nDate of Birth: 15th November 1983\nMarital Status: Married\nPassport Number: J1680564\nDriving License Number: MH03 20160034919\nLanguages Known: English, Hindi, Marathi and Oriya.\nAddress: G/1106, Asha – Jyoti, Samarth Garden, Datta Mandir Road, Bhandup (West), Mumbai -\n400078.\n\nDate: 12/05/2026\nPlace: Mumbai\nSunil Sahu",
+  "debug": null
+}

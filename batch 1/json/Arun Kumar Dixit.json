@@ -1,0 +1,2141 @@
+{
+  "job": {
+    "id": "pjb-x6tdeg0q4uwbw5gf59r9d7im37s1",
+    "project_id": "949fd88b-381a-4ae5-b3b9-bf7fcc9b74b8",
+    "status": "COMPLETED",
+    "created_at": "2026-05-12T14:40:19.841813Z",
+    "error_message": null,
+    "name": "CV_ArunKumarDixit.pdf",
+    "tier": "agentic",
+    "updated_at": "2026-05-12T14:40:50.313150Z"
+  },
+  "images_content_metadata": null,
+  "items": {
+    "pages": [
+      {
+        "items": [
+          {
+            "level": 1,
+            "md": "# <u>Arun Kumar Dixit</u>",
+            "value": "<u>Arun Kumar Dixit</u>",
+            "bbox": [
+              {
+                "h": 12.584345972945052,
+                "w": 96.84673327934455,
+                "x": 226.80529916158534,
+                "y": 2.826514116612876,
+                "confidence": 0.77,
+                "end_index": 24,
+                "label": "paragraph_title",
+                "start_index": 0
+              }
+            ],
+            "type": "heading"
+          },
+          {
+            "level": 2,
+            "md": "## (Project Head –State Level ITMS, Chhattisgarh Transport Deptt.)",
+            "value": "(Project Head –State Level ITMS, Chhattisgarh Transport Deptt.)",
+            "bbox": [
+              {
+                "h": 10.863701945979418,
+                "w": 289.0511247141768,
+                "x": 148.7033253144055,
+                "y": 21.56854855421113,
+                "confidence": 0.76,
+                "end_index": 65,
+                "label": "paragraph_title",
+                "start_index": 0
+              }
+            ],
+            "type": "heading"
+          },
+          {
+            "md": "Cell: +91 - 9711334757 Mail_id : ",
+            "value": "Cell: +91 - 9711334757 Mail_id : ",
+            "bbox": [
+              {
+                "h": 12.0,
+                "w": 441.466,
+                "x": 30.984,
+                "y": 39.908,
+                "confidence": 0.66,
+                "end_index": 32,
+                "label": "text",
+                "start_index": 0
+              }
+            ],
+            "type": "text"
+          },
+          {
+            "md": "<akdixit.3@gmail.com>",
+            "text": "akdixit.3@gmail.com",
+            "url": "mailto:akdixit.3@gmail.com",
+            "bbox": null,
+            "type": "link"
+          },
+          {
+            "level": 3,
+            "md": "### <u>Experience Summary:</u>",
+            "value": "<u>Experience Summary:</u>",
+            "bbox": [
+              {
+                "h": 11.14163836223323,
+                "w": 104.6371551662538,
+                "x": 30.891931390529727,
+                "y": 64.50016006097562,
+                "confidence": 0.91,
+                "end_index": 29,
+                "label": "paragraph_title",
+                "start_index": 0
+              }
+            ],
+            "type": "heading"
+          },
+          {
+            "md": "Executing Organizational Objectives since **21+** yrs. and overseeing Projects, Executions in different Roles. Currently working in a role of **Program Manager** and Engaged with **SIs, PMCs, PSUs, Direct End Clients of Central & State Government,** OEMs Network and renowned Real State Groups (Elan, Godrej, ATS, M3M, Hero Homes etc.)",
+            "value": "Executing Organizational Objectives since 21+ yrs. and overseeing Projects, Executions in different Roles. Currently working in a role of Program Manager and Engaged with SIs, PMCs, PSUs, Direct End Clients of Central & State Government, OEMs Network and renowned Real State Groups (Elan, Godrej, ATS, M3M, Hero Homes etc.)",
+            "bbox": [
+              {
+                "h": 38.91902129382621,
+                "w": 562.6911591618236,
+                "x": 31.652435302734375,
+                "y": 78.76066156154727,
+                "confidence": 0.97,
+                "end_index": 334,
+                "label": "text",
+                "start_index": 0
+              }
+            ],
+            "type": "text"
+          },
+          {
+            "items": [
+              {
+                "md": "**12+ yrs** – Execute Large Government Projects (**Central and State Gov.**) in Smart City / Safe City, Worked in 02 State level DCs in **Electronics Security and Surveillance, ITMS, ICCC,** E – Governance, ELV Products in **SI Division.**",
+                "value": "12+ yrs – Execute Large Government Projects (Central and State Gov.) in Smart City / Safe City, Worked in 02 State level DCs in Electronics Security and Surveillance, ITMS, ICCC, E – Governance, ELV Products in SI Division.",
+                "bbox": [
+                  {
+                    "h": 23.70965582126526,
+                    "w": 539.4504941465796,
+                    "x": 35.816423012338035,
+                    "y": 132.3185674304497,
+                    "confidence": 0.98,
+                    "end_index": 238,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "**9+ yrs** - Program / Project Management, Delivery of Projects, Application Dev, Sys Testing (**AT&T, BT, TechM**)",
+                "value": "9+ yrs - Program / Project Management, Delivery of Projects, Application Dev, Sys Testing (AT&T, BT, TechM)",
+                "bbox": [
+                  {
+                    "h": 10.945649771341461,
+                    "w": 514.010932438548,
+                    "x": 35.71816960032393,
+                    "y": 170.21945729325458,
+                    "confidence": 0.96,
+                    "end_index": 114,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "items": [
+                  {
+                    "md": "**Project Management** – Gov. Liaising, RFP/RFI & Bid evaluation, Looking S & L, Monitoring P & L, Working with Cross Functional Teams and OEMs, Resource Mgt., Effort Estimation, Assess Risks, Timely Execution",
+                    "value": "Project Management – Gov. Liaising, RFP/RFI & Bid evaluation, Looking S & L, Monitoring P & L, Working with Cross Functional Teams and OEMs, Resource Mgt., Effort Estimation, Assess Risks, Timely Execution",
+                    "bbox": [
+                      {
+                        "h": 24.84493473704269,
+                        "w": 494.7519699766578,
+                        "x": 85.54877983279344,
+                        "y": 197.26466844512197,
+                        "confidence": 0.98,
+                        "end_index": 208,
+                        "label": "text",
+                        "start_index": 0
+                      }
+                    ],
+                    "type": "text"
+                  },
+                  {
+                    "md": "**Presales** – Preparing Techno – Commercial Proposals, Solution Designing, Prepare BoQ & Bare Costing, **Written 06 RFPs** with PMC (Gail, APSFL, Azadpur Mandi, NIT Delhi, Delhi Transport ITMS (FOBs), DTIDC)",
+                    "value": "Presales – Preparing Techno – Commercial Proposals, Solution Designing, Prepare BoQ & Bare Costing, Written 06 RFPs with PMC (Gail, APSFL, Azadpur Mandi, NIT Delhi, Delhi Transport ITMS (FOBs), DTIDC)",
+                    "bbox": [
+                      {
+                        "h": 24.57312333269816,
+                        "w": 492.72914044636053,
+                        "x": 85.53320068359375,
+                        "y": 225.64732517149392,
+                        "confidence": 0.98,
+                        "end_index": 207,
+                        "label": "text",
+                        "start_index": 0
+                      }
+                    ],
+                    "type": "text"
+                  },
+                  {
+                    "md": "**Business Development** – Proposing our Solutions & Credentials in Surveillance (5 Layers, ICCC, State Data Center, DR & DC), ITMS / ATCS, Body worn Solution, ELVs- Access Control Sys., VDPs, Boom Barrier etc.",
+                    "value": "Business Development – Proposing our Solutions & Credentials in Surveillance (5 Layers, ICCC, State Data Center, DR & DC), ITMS / ATCS, Body worn Solution, ELVs- Access Control Sys., VDPs, Boom Barrier etc.",
+                    "bbox": [
+                      {
+                        "h": 24.077132955411606,
+                        "w": 497.48741347894435,
+                        "x": 85.26427359232089,
+                        "y": 253.74418730945123,
+                        "confidence": 0.98,
+                        "end_index": 209,
+                        "label": "text",
+                        "start_index": 0
+                      }
+                    ],
+                    "type": "text"
+                  },
+                  {
+                    "md": "**Delivery / Implementation / Ops Mgt** – Prepare Project Plan / Implementation Plan, Monitor SLAs (O n M), Once was looking 9 projects (New & Old) simultaneously",
+                    "value": "Delivery / Implementation / Ops Mgt – Prepare Project Plan / Implementation Plan, Monitor SLAs (O n M), Once was looking 9 projects (New & Old) simultaneously",
+                    "bbox": [
+                      {
+                        "h": 24.33463104992377,
+                        "w": 489.63906631097564,
+                        "x": 85.37577839176828,
+                        "y": 280.6460885099085,
+                        "confidence": 0.98,
+                        "end_index": 161,
+                        "label": "text",
+                        "start_index": 0
+                      }
+                    ],
+                    "type": "text"
+                  },
+                  {
+                    "md": "**Client Relation** - Regular Customer Visits, Understand Requirements and Offer Solution",
+                    "value": "Client Relation - Regular Customer Visits, Understand Requirements and Offer Solution",
+                    "bbox": [
+                      {
+                        "h": 11.049945931783538,
+                        "w": 409.21280184117757,
+                        "x": 85.32249041301448,
+                        "y": 307.6181414348323,
+                        "confidence": 0.97,
+                        "end_index": 88,
+                        "label": "text",
+                        "start_index": 0
+                      }
+                    ],
+                    "type": "text"
+                  },
+                  {
+                    "md": "**Revenue Generation** – Helping Sales team for Expansion/Extension of projects & Align Clients",
+                    "value": "Revenue Generation – Helping Sales team for Expansion/Extension of projects & Align Clients",
+                    "bbox": [
+                      {
+                        "h": 11.15219059641769,
+                        "w": 443.29431348847174,
+                        "x": 85.45096828553736,
+                        "y": 321.1937852515244,
+                        "confidence": 0.95,
+                        "end_index": 94,
+                        "label": "text",
+                        "start_index": 0
+                      }
+                    ],
+                    "type": "text"
+                  }
+                ],
+                "md": "* **Project Management** – Gov. Liaising, RFP/RFI & Bid evaluation, Looking S & L, Monitoring P & L, Working with Cross Functional Teams and OEMs, Resource Mgt., Effort Estimation, Assess Risks, Timely Execution\n* **Presales** – Preparing Techno – Commercial Proposals, Solution Designing, Prepare BoQ & Bare Costing, **Written 06 RFPs** with PMC (Gail, APSFL, Azadpur Mandi, NIT Delhi, Delhi Transport ITMS (FOBs), DTIDC)\n* **Business Development** – Proposing our Solutions & Credentials in Surveillance (5 Layers, ICCC, State Data Center, DR & DC), ITMS / ATCS, Body worn Solution, ELVs- Access Control Sys., VDPs, Boom Barrier etc.\n* **Delivery / Implementation / Ops Mgt** – Prepare Project Plan / Implementation Plan, Monitor SLAs (O n M), Once was looking 9 projects (New & Old) simultaneously\n* **Client Relation** - Regular Customer Visits, Understand Requirements and Offer Solution\n* **Revenue Generation** – Helping Sales team for Expansion/Extension of projects & Align Clients",
+                "ordered": false,
+                "bbox": [
+                  {
+                    "h": 135.08,
+                    "w": 497.49,
+                    "x": 85.26,
+                    "y": 197.26,
+                    "confidence": 0.97,
+                    "end_index": 989,
+                    "label": "list",
+                    "start_index": 0
+                  }
+                ],
+                "type": "list"
+              }
+            ],
+            "md": "* **12+ yrs** – Execute Large Government Projects (**Central and State Gov.**) in Smart City / Safe City, Worked in 02 State level DCs in **Electronics Security and Surveillance, ITMS, ICCC,** E – Governance, ELV Products in **SI Division.**\n\n* **9+ yrs** - Program / Project Management, Delivery of Projects, Application Dev, Sys Testing (**AT&T, BT, TechM**)\n\n  * **Project Management** – Gov. Liaising, RFP/RFI & Bid evaluation, Looking S & L, Monitoring P & L, Working with Cross Functional Teams and OEMs, Resource Mgt., Effort Estimation, Assess Risks, Timely Execution\n  * **Presales** – Preparing Techno – Commercial Proposals, Solution Designing, Prepare BoQ & Bare Costing, **Written 06 RFPs** with PMC (Gail, APSFL, Azadpur Mandi, NIT Delhi, Delhi Transport ITMS (FOBs), DTIDC)\n  * **Business Development** – Proposing our Solutions & Credentials in Surveillance (5 Layers, ICCC, State Data Center, DR & DC), ITMS / ATCS, Body worn Solution, ELVs- Access Control Sys., VDPs, Boom Barrier etc.\n  * **Delivery / Implementation / Ops Mgt** – Prepare Project Plan / Implementation Plan, Monitor SLAs (O n M), Once was looking 9 projects (New & Old) simultaneously\n  * **Client Relation** - Regular Customer Visits, Understand Requirements and Offer Solution\n  * **Revenue Generation** – Helping Sales team for Expansion/Extension of projects & Align Clients",
+            "ordered": false,
+            "bbox": [
+              {
+                "h": 200.02,
+                "w": 547.03,
+                "x": 35.72,
+                "y": 132.32,
+                "confidence": 0.97,
+                "end_index": 1363,
+                "label": "list",
+                "start_index": 0
+              }
+            ],
+            "type": "list"
+          },
+          {
+            "level": 3,
+            "md": "### <u>Experience Details:</u>",
+            "value": "<u>Experience Details:</u>",
+            "bbox": [
+              {
+                "h": 10.883373904344475,
+                "w": 91.4166937106993,
+                "x": 31.073519584841844,
+                "y": 346.14891125190553,
+                "confidence": 0.93,
+                "end_index": 29,
+                "label": "paragraph_title",
+                "start_index": 0
+              }
+            ],
+            "type": "heading"
+          },
+          {
+            "items": [
+              {
+                "md": "Working with Technosys Integrated Solutions Pvt. Ltd. from Feb\\`26 as a **Project Head**",
+                "value": "Working with Technosys Integrated Solutions Pvt. Ltd. from Feb`26 as a Project Head",
+                "bbox": [
+                  {
+                    "h": 10.824729420731696,
+                    "w": 397.75935299757043,
+                    "x": 49.395282339700834,
+                    "y": 371.7901093273628,
+                    "confidence": 0.96,
+                    "end_index": 87,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Worked with IRIS Global Solutions Pvt. Ltd. from April\\` 25 as a **Project Head**",
+                "value": "Worked with IRIS Global Solutions Pvt. Ltd. from April` 25 as a Project Head",
+                "bbox": [
+                  {
+                    "h": 11.081472942073159,
+                    "w": 361.64359166587275,
+                    "x": 49.07449308069741,
+                    "y": 384.4389486471037,
+                    "confidence": 0.96,
+                    "end_index": 80,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Worked with ANG India Ltd. from Aug\\`24 at PAN India level as a **Senior Manager - Projects**",
+                "value": "Worked with ANG India Ltd. from Aug`24 at PAN India level as a Senior Manager - Projects",
+                "bbox": [
+                  {
+                    "h": 10.844725609756082,
+                    "w": 425.27915476729225,
+                    "x": 49.051529779201594,
+                    "y": 397.29414014862806,
+                    "confidence": 0.96,
+                    "end_index": 92,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Worked with Matrix Security & Surveillance Pvt. Ltd. from Dec\\`22 in North Region as a **Project Manager**",
+                "value": "Worked with Matrix Security & Surveillance Pvt. Ltd. from Dec`22 in North Region as a Project Manager",
+                "bbox": [
+                  {
+                    "h": 10.821522484756139,
+                    "w": 481.4015182867283,
+                    "x": 49.21767092821075,
+                    "y": 410.06260289634145,
+                    "confidence": 0.96,
+                    "end_index": 105,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Worked with SBD Green Energy & Infra India Pvt. Ltd. from July\\` 21 as a **General Manager - Projects**",
+                "value": "Worked with SBD Green Energy & Infra India Pvt. Ltd. from July` 21 as a General Manager - Projects",
+                "bbox": [
+                  {
+                    "h": 11.291904535060937,
+                    "w": 469.2941323778105,
+                    "x": 48.88363939238758,
+                    "y": 422.6589758003049,
+                    "confidence": 0.96,
+                    "end_index": 102,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Worked with Matrix Security & Surveillance Pvt Ltd. from June\\` 14 as a **Business Development Manager**",
+                "value": "Worked with Matrix Security & Surveillance Pvt Ltd. from June` 14 as a Business Development Manager",
+                "bbox": [
+                  {
+                    "h": 11.050110994664621,
+                    "w": 488.9660242890148,
+                    "x": 48.79056536418636,
+                    "y": 435.7043197408537,
+                    "confidence": 0.96,
+                    "end_index": 103,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Worked with Credence Systems from June` 09 to June` 14 as a **System Analyst (IT & Telecom)**",
+                "value": "Worked with Credence Systems from June 09 to June 14 as a System Analyst (IT & Telecom)",
+                "bbox": [
+                  {
+                    "h": 10.908156916920703,
+                    "w": 441.8409291932641,
+                    "x": 48.96619066191883,
+                    "y": 448.8607274199695,
+                    "confidence": 0.96,
+                    "end_index": 92,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Worked with Compucom Software Ltd. from Oct\\` 01 to Feb 07 as a **Software Engineer**",
+                "value": "Worked with Compucom Software Ltd. from Oct` 01 to Feb 07 as a Software Engineer",
+                "bbox": [
+                  {
+                    "h": 10.918956745426842,
+                    "w": 403.3831525402534,
+                    "x": 48.88986194145388,
+                    "y": 461.74619616996955,
+                    "confidence": 0.96,
+                    "end_index": 84,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              }
+            ],
+            "md": "1. Working with Technosys Integrated Solutions Pvt. Ltd. from Feb\\`26 as a **Project Head**\n2. Worked with IRIS Global Solutions Pvt. Ltd. from April\\` 25 as a **Project Head**\n3. Worked with ANG India Ltd. from Aug\\`24 at PAN India level as a **Senior Manager - Projects**\n4. Worked with Matrix Security & Surveillance Pvt. Ltd. from Dec\\`22 in North Region as a **Project Manager**\n5. Worked with SBD Green Energy & Infra India Pvt. Ltd. from July\\` 21 as a **General Manager - Projects**\n6. Worked with Matrix Security & Surveillance Pvt Ltd. from June\\` 14 as a **Business Development Manager**\n7. Worked with Credence Systems from June` 09 to June` 14 as a **System Analyst (IT & Telecom)**\n8. Worked with Compucom Software Ltd. from Oct\\` 01 to Feb 07 as a **Software Engineer**",
+            "ordered": true,
+            "bbox": [
+              {
+                "h": 100.88,
+                "w": 488.97,
+                "x": 48.79,
+                "y": 371.79,
+                "confidence": 0.96,
+                "end_index": 783,
+                "label": "list",
+                "start_index": 0
+              }
+            ],
+            "type": "list"
+          },
+          {
+            "level": 3,
+            "md": "### <u>Engaged in following Major Projects (last 11+ yrs):</u>",
+            "value": "<u>Engaged in following Major Projects (last 11+ yrs):</u>",
+            "bbox": [
+              {
+                "h": 10.537991615853683,
+                "w": 238.63881091606328,
+                "x": 30.929867985423016,
+                "y": 486.79396960746953,
+                "confidence": 0.92,
+                "end_index": 61,
+                "label": "paragraph_title",
+                "start_index": 0
+              }
+            ],
+            "type": "heading"
+          },
+          {
+            "items": [
+              {
+                "md": "**Implementation Head** of Chhattisgarh State – **ITMS (State level ITMS System) – 188 cr**",
+                "value": "Implementation Head of Chhattisgarh State – ITMS (State level ITMS System) – 188 cr",
+                "bbox": [
+                  {
+                    "h": 10.751347179878126,
+                    "w": 412.99190257002664,
+                    "x": 53.79617788919588,
+                    "y": 511.7161537728658,
+                    "confidence": 0.95,
+                    "end_index": 90,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "**Part of Core Team of Solution Designing** of APSFL – **ITMS & City Surv. (AP State level Surv. System) – 959 cr**",
+                "value": "Part of Core Team of Solution Designing of APSFL – ITMS & City Surv. (AP State level Surv. System) – 959 cr",
+                "bbox": [
+                  {
+                    "h": 10.804874714176785,
+                    "w": 506.7647102765339,
+                    "x": 53.65518658893864,
+                    "y": 524.4305230564024,
+                    "confidence": 0.96,
+                    "end_index": 114,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "**Design Solution, Write RFP – 5 Layer** Security & Surveillance Project (ELAN group), Gurugram – **6.8 cr**",
+                "value": "Design Solution, Write RFP – 5 Layer Security & Surveillance Project (ELAN group), Gurugram – 6.8 cr",
+                "bbox": [
+                  {
+                    "h": 11.09637576219509,
+                    "w": 485.9445075207222,
+                    "x": 53.9261089045827,
+                    "y": 537.2245469702744,
+                    "confidence": 0.96,
+                    "end_index": 107,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "**Design Solution & Write RFP** - Azadpur Mandi Surveillance Proj. (APMC), Delhi – **4.8 cr**",
+                "value": "Design Solution & Write RFP - Azadpur Mandi Surveillance Proj. (APMC), Delhi – 4.8 cr",
+                "bbox": [
+                  {
+                    "h": 11.076238090701116,
+                    "w": 415.2451668492759,
+                    "x": 53.75070681688262,
+                    "y": 549.9120817454269,
+                    "confidence": 0.95,
+                    "end_index": 92,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "**Design Solution & Write RFP** and Win & Implemented Bhorgarh Ind. Area, Delhi – **1.2 cr**",
+                "value": "Design Solution & Write RFP and Win & Implemented Bhorgarh Ind. Area, Delhi – 1.2 cr",
+                "bbox": [
+                  {
+                    "h": 11.163391291920759,
+                    "w": 420.49869739067265,
+                    "x": 53.9710151188548,
+                    "y": 562.7582183689025,
+                    "confidence": 0.96,
+                    "end_index": 91,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "**Design Solution & Write RFP** of Inter-State Surveillance of Gail Gas Ltd. – **18 cr**",
+                "value": "Design Solution & Write RFP of Inter-State Surveillance of Gail Gas Ltd. – 18 cr",
+                "bbox": [
+                  {
+                    "h": 11.170937023628014,
+                    "w": 377.55619843273627,
+                    "x": 53.93776593464177,
+                    "y": 575.537480945122,
+                    "confidence": 0.96,
+                    "end_index": 87,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "**Design Solution** of NIT, Delhi – **5.3 cr, Implemented** IIT, Sonipat – **.79 cr**",
+                "value": "Design Solution of NIT, Delhi – 5.3 cr, Implemented IIT, Sonipat – .79 cr",
+                "bbox": [
+                  {
+                    "h": 10.970031916920759,
+                    "w": 349.9784212735804,
+                    "x": 53.58888865401105,
+                    "y": 588.1081512004573,
+                    "confidence": 0.95,
+                    "end_index": 84,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "**Design Solution** of Delhi Metro Track Surveillance (Designed with Hitachi)- **840 cr**",
+                "value": "Design Solution of Delhi Metro Track Surveillance (Designed with Hitachi)- 840 cr",
+                "bbox": [
+                  {
+                    "h": 10.709562690548772,
+                    "w": 388.88132883955797,
+                    "x": 53.582943978658534,
+                    "y": 600.8695869855183,
+                    "confidence": 0.95,
+                    "end_index": 88,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "**Design Solution** of Extension of Rohtak Safe City Project (Safe City - Surveillance & ITMS) – **25 cr**",
+                "value": "Design Solution of Extension of Rohtak Safe City Project (Safe City - Surveillance & ITMS) – 25 cr",
+                "bbox": [
+                  {
+                    "h": 11.073408441310937,
+                    "w": 452.7648555104325,
+                    "x": 53.66230197813452,
+                    "y": 613.1430025724086,
+                    "confidence": 0.96,
+                    "end_index": 105,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "**Implemented** - ITMS System for Bangalore phase – 2 City Surveillance Project - **95 cr**",
+                "value": "Implemented - ITMS System for Bangalore phase – 2 City Surveillance Project - 95 cr",
+                "bbox": [
+                  {
+                    "h": 10.767570503048772,
+                    "w": 402.26348546470086,
+                    "x": 53.870133294826594,
+                    "y": 625.9315086699695,
+                    "confidence": 0.95,
+                    "end_index": 90,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "**Implemented** - Parliament House Surveillance System (Old Building) – **24 cr**",
+                "value": "Implemented - Parliament House Surveillance System (Old Building) – 24 cr",
+                "bbox": [
+                  {
+                    "h": 11.004129192073101,
+                    "w": 360.88383026867376,
+                    "x": 53.95513076410061,
+                    "y": 638.3472556211891,
+                    "confidence": 0.94,
+                    "end_index": 80,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "**Implemented** - DTC Mobile Bus Surveillance System (2015 project) – **8 cr**",
+                "value": "Implemented - DTC Mobile Bus Surveillance System (2015 project) – 8 cr",
+                "bbox": [
+                  {
+                    "h": 11.060014767530468,
+                    "w": 346.9805146603468,
+                    "x": 54.05969327600991,
+                    "y": 651.1801872141768,
+                    "confidence": 0.94,
+                    "end_index": 77,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "**Implemented** - Delhi Police City Surveillance with ECIL (6 Sites) – **15 cr**",
+                "value": "Implemented - Delhi Police City Surveillance with ECIL (6 Sites) – 15 cr",
+                "bbox": [
+                  {
+                    "h": 11.054449790396317,
+                    "w": 340.25740115282014,
+                    "x": 53.94022580030487,
+                    "y": 663.8010365853659,
+                    "confidence": 0.93,
+                    "end_index": 79,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "**Implemented** - Janeshwar Mishra Park Surveillance Project, Lucknow – **14 cr**",
+                "value": "Implemented - Janeshwar Mishra Park Surveillance Project, Lucknow – 14 cr",
+                "bbox": [
+                  {
+                    "h": 10.719372141768304,
+                    "w": 367.54995688833844,
+                    "x": 53.9735342035061,
+                    "y": 676.4383922446647,
+                    "confidence": 0.93,
+                    "end_index": 80,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              }
+            ],
+            "md": "1. **Implementation Head** of Chhattisgarh State – **ITMS (State level ITMS System) – 188 cr**\n2. **Part of Core Team of Solution Designing** of APSFL – **ITMS & City Surv. (AP State level Surv. System) – 959 cr**\n3. **Design Solution, Write RFP – 5 Layer** Security & Surveillance Project (ELAN group), Gurugram – **6.8 cr**\n4. **Design Solution & Write RFP** - Azadpur Mandi Surveillance Proj. (APMC), Delhi – **4.8 cr**\n5. **Design Solution & Write RFP** and Win & Implemented Bhorgarh Ind. Area, Delhi – **1.2 cr**\n6. **Design Solution & Write RFP** of Inter-State Surveillance of Gail Gas Ltd. – **18 cr**\n7. **Design Solution** of NIT, Delhi – **5.3 cr, Implemented** IIT, Sonipat – **.79 cr**\n8. **Design Solution** of Delhi Metro Track Surveillance (Designed with Hitachi)- **840 cr**\n9. **Design Solution** of Extension of Rohtak Safe City Project (Safe City - Surveillance & ITMS) – **25 cr**\n10. **Implemented** - ITMS System for Bangalore phase – 2 City Surveillance Project - **95 cr**\n11. **Implemented** - Parliament House Surveillance System (Old Building) – **24 cr**\n12. **Implemented** - DTC Mobile Bus Surveillance System (2015 project) – **8 cr**\n13. **Implemented** - Delhi Police City Surveillance with ECIL (6 Sites) – **15 cr**\n14. **Implemented** - Janeshwar Mishra Park Surveillance Project, Lucknow – **14 cr**",
+            "ordered": true,
+            "bbox": [
+              {
+                "h": 175.44,
+                "w": 506.84,
+                "x": 53.58,
+                "y": 511.72,
+                "confidence": 0.95,
+                "end_index": 1337,
+                "label": "list",
+                "start_index": 0
+              }
+            ],
+            "type": "list"
+          },
+          {
+            "level": 3,
+            "md": "### <u>Education Summary:</u>",
+            "value": "<u>Education Summary:</u>",
+            "bbox": [
+              {
+                "h": 10.968522770579241,
+                "w": 98.77121373618522,
+                "x": 24.6631142220846,
+                "y": 701.4184427400916,
+                "confidence": 0.93,
+                "end_index": 28,
+                "label": "paragraph_title",
+                "start_index": 0
+              }
+            ],
+            "type": "heading"
+          },
+          {
+            "items": [
+              {
+                "md": "**MBA** in Service Management (Pursuing)",
+                "value": "MBA in Service Management (Pursuing)",
+                "bbox": [
+                  {
+                    "h": 10.838217416158482,
+                    "w": 196.42507449266387,
+                    "x": 48.980198230278205,
+                    "y": 727.4510284870428,
+                    "confidence": 0.94,
+                    "end_index": 39,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "**BE (Computer Science)** from CIITM, Jaipur, Rajasthan University with 68%",
+                "value": "BE (Computer Science) from CIITM, Jaipur, Rajasthan University with 68%",
+                "bbox": [
+                  {
+                    "h": 10.91230706935971,
+                    "w": 355.22057721393867,
+                    "x": 48.88247323385099,
+                    "y": 740.0641906440549,
+                    "confidence": 0.95,
+                    "end_index": 74,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "**PGDIT** from CSL, Jaipur with Honours (81%)",
+                "value": "PGDIT from CSL, Jaipur with Honours (81%)",
+                "bbox": [
+                  {
+                    "h": 10.860430163871987,
+                    "w": 217.34275625833652,
+                    "x": 48.93032217630526,
+                    "y": 752.7554039634147,
+                    "confidence": 0.95,
+                    "end_index": 44,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "**Electronics & Communication Engineering** from IERT, Allahabad, UPTU with Honours (82%)",
+                "value": "Electronics & Communication Engineering from IERT, Allahabad, UPTU with Honours (82%)",
+                "bbox": [
+                  {
+                    "h": 10.95140339176819,
+                    "w": 442.8771476038491,
+                    "x": 48.819058808117376,
+                    "y": 765.5962585746952,
+                    "confidence": 0.95,
+                    "end_index": 88,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              }
+            ],
+            "md": "1. **MBA** in Service Management (Pursuing)\n2. **BE (Computer Science)** from CIITM, Jaipur, Rajasthan University with 68%\n3. **PGDIT** from CSL, Jaipur with Honours (81%)\n4. **Electronics & Communication Engineering** from IERT, Allahabad, UPTU with Honours (82%)",
+            "ordered": true,
+            "bbox": [
+              {
+                "h": 49.1,
+                "w": 442.88,
+                "x": 48.82,
+                "y": 727.45,
+                "confidence": 0.95,
+                "end_index": 263,
+                "label": "list",
+                "start_index": 0
+              }
+            ],
+            "type": "list"
+          }
+        ],
+        "page_height": 792.0,
+        "page_number": 1,
+        "page_width": 612.0,
+        "success": true
+      },
+      {
+        "items": [
+          {
+            "level": 1,
+            "md": "# Certifications, Awards & Trainings (Project Management):",
+            "value": "Certifications, Awards & Trainings (Project Management):",
+            "bbox": [
+              {
+                "h": 10.656916474133004,
+                "w": 276.24033110827935,
+                "x": 30.952430419921875,
+                "y": 25.289832257526676,
+                "confidence": 0.88,
+                "end_index": 57,
+                "label": "paragraph_title",
+                "start_index": 0
+              }
+            ],
+            "type": "heading"
+          },
+          {
+            "items": [
+              {
+                "md": "**PMP - PMI** (Pursuing)",
+                "value": "PMP - PMI (Pursuing)",
+                "bbox": [
+                  {
+                    "h": 12.0,
+                    "w": 100.51,
+                    "x": 66.74,
+                    "y": 50.23,
+                    "confidence": 1.0,
+                    "end_index": 23,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "**AI Generalist (Generative AI Mastermind)**",
+                "value": "AI Generalist (Generative AI Mastermind)",
+                "bbox": [
+                  {
+                    "h": 12.0,
+                    "w": 196.61,
+                    "x": 376.67,
+                    "y": 50.23,
+                    "confidence": 1.0,
+                    "end_index": 43,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "**Star Performer Award in Projects (BMC Patrol, AT&T, USA)**",
+                "value": "Star Performer Award in Projects (BMC Patrol, AT&T, USA)",
+                "bbox": [
+                  {
+                    "h": 12.0,
+                    "w": 282.01,
+                    "x": 66.74,
+                    "y": 62.95,
+                    "confidence": 1.0,
+                    "end_index": 59,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "**Business Writing Course** (Tech Mahindra)",
+                "value": "Business Writing Course (Tech Mahindra)",
+                "bbox": [
+                  {
+                    "h": 12.000000000000007,
+                    "w": 190.392,
+                    "x": 376.7,
+                    "y": 62.948,
+                    "confidence": 0.8,
+                    "end_index": 42,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "**Assertive Communication** (Tech Mahindra)",
+                "value": "Assertive Communication (Tech Mahindra)",
+                "bbox": [
+                  {
+                    "h": 12.0,
+                    "w": 196.96,
+                    "x": 70.31,
+                    "y": 75.91,
+                    "confidence": 1.0,
+                    "end_index": 42,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "**Verbal Communication Skill** (Tech Mahindra)",
+                "value": "Verbal Communication Skill (Tech Mahindra)",
+                "bbox": [
+                  {
+                    "h": 11.053282560022865,
+                    "w": 220.50633026867382,
+                    "x": 362.3174764195884,
+                    "y": 75.5400430521151,
+                    "confidence": 0.75,
+                    "end_index": 45,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "**Lateral Thinking** (Tech Mahindra)",
+                "value": "Lateral Thinking (Tech Mahindra)",
+                "bbox": [
+                  {
+                    "h": 12.0,
+                    "w": 153.966,
+                    "x": 70.104,
+                    "y": 88.628,
+                    "confidence": 0.87,
+                    "end_index": 35,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              }
+            ],
+            "md": "1. **PMP - PMI** (Pursuing)\n2. **AI Generalist (Generative AI Mastermind)**\n3. **Star Performer Award in Projects (BMC Patrol, AT&T, USA)**\n4. **Business Writing Course** (Tech Mahindra)\n5. **Assertive Communication** (Tech Mahindra)\n6. **Verbal Communication Skill** (Tech Mahindra)\n7. **Lateral Thinking** (Tech Mahindra)",
+            "ordered": true,
+            "bbox": [
+              {
+                "h": 50.4,
+                "w": 282.01,
+                "x": 66.74,
+                "y": 50.23,
+                "confidence": 0.97,
+                "end_index": 186,
+                "label": "list",
+                "start_index": 0
+              },
+              {
+                "h": 36.36,
+                "w": 220.51,
+                "x": 362.32,
+                "y": 50.23,
+                "confidence": 0.85,
+                "end_index": 322,
+                "label": "list",
+                "start_index": 187
+              }
+            ],
+            "type": "list"
+          },
+          {
+            "level": 1,
+            "md": "# Major Clients in North",
+            "value": "Major Clients in North",
+            "bbox": [
+              {
+                "h": 11.076025866996945,
+                "w": 104.648557099133,
+                "x": 30.72760780892721,
+                "y": 113.57057212271341,
+                "confidence": 0.89,
+                "end_index": 23,
+                "label": "paragraph_title",
+                "start_index": 0
+              }
+            ],
+            "type": "heading"
+          },
+          {
+            "items": [
+              {
+                "md": "Parliament House, Delhi Police, Delhi Metro, Delhi Transport – HQ, DTC",
+                "value": "Parliament House, Delhi Police, Delhi Metro, Delhi Transport – HQ, DTC",
+                "bbox": [
+                  {
+                    "h": 11.013667468559431,
+                    "w": 324.7788240162919,
+                    "x": 53.912356433403204,
+                    "y": 139.36203637099848,
+                    "confidence": 0.87,
+                    "end_index": 69,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "RISL, Jaipur, Chhattisgarh Transport Deptt., IIT Sonipat, NIT Delhi, APMC Azadpur - Delhi",
+                "value": "RISL, Jaipur, Chhattisgarh Transport Deptt., IIT Sonipat, NIT Delhi, APMC Azadpur - Delhi",
+                "bbox": [
+                  {
+                    "h": 10.826945979420731,
+                    "w": 401.6901591082317,
+                    "x": 53.6762002191311,
+                    "y": 153.35508884336892,
+                    "confidence": 0.87,
+                    "end_index": 88,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Railtel, Airport Authority of India (AAI), Maruti",
+                "value": "Railtel, Airport Authority of India (AAI), Maruti",
+                "bbox": [
+                  {
+                    "h": 10.782072456173772,
+                    "w": 218.86624216963605,
+                    "x": 53.61526388028773,
+                    "y": 167.95169374047256,
+                    "confidence": 0.85,
+                    "end_index": 48,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Gurugram Traffic Police, Municipal Corporation, Manesar Municipal Corporation",
+                "value": "Gurugram Traffic Police, Municipal Corporation, Manesar Municipal Corporation",
+                "bbox": [
+                  {
+                    "h": 10.711390172446652,
+                    "w": 367.3621598108803,
+                    "x": 53.53539568645198,
+                    "y": 181.7389599609375,
+                    "confidence": 0.88,
+                    "end_index": 76,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Gail Gas Ltd., Himachal Pradesh Road Transport, Hartron,",
+                "value": "Gail Gas Ltd., Himachal Pradesh Road Transport, Hartron,",
+                "bbox": [
+                  {
+                    "h": 10.919935332507617,
+                    "w": 266.50667912180836,
+                    "x": 53.64589376310023,
+                    "y": 195.8105234136814,
+                    "confidence": 0.87,
+                    "end_index": 55,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "PSU as NMRC, TCIL, ECIL, BECIL, CEL, ITI etc.",
+                "value": "PSU as NMRC, TCIL, ECIL, BECIL, CEL, ITI etc.",
+                "bbox": [
+                  {
+                    "h": 10.95977443788111,
+                    "w": 208.4832949754668,
+                    "x": 53.81159760265815,
+                    "y": 209.6639562690549,
+                    "confidence": 0.9,
+                    "end_index": 44,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              }
+            ],
+            "md": "1. Parliament House, Delhi Police, Delhi Metro, Delhi Transport – HQ, DTC\n2. RISL, Jaipur, Chhattisgarh Transport Deptt., IIT Sonipat, NIT Delhi, APMC Azadpur - Delhi\n3. Railtel, Airport Authority of India (AAI), Maruti\n4. Gurugram Traffic Police, Municipal Corporation, Manesar Municipal Corporation\n5. Gail Gas Ltd., Himachal Pradesh Road Transport, Hartron,\n6. PSU as NMRC, TCIL, ECIL, BECIL, CEL, ITI etc.",
+            "ordered": true,
+            "bbox": [
+              {
+                "h": 81.26,
+                "w": 401.83,
+                "x": 53.54,
+                "y": 139.36,
+                "confidence": 0.87,
+                "end_index": 408,
+                "label": "list",
+                "start_index": 0
+              }
+            ],
+            "type": "list"
+          },
+          {
+            "level": 1,
+            "md": "# Scope of working in SITC and OnM",
+            "value": "Scope of working in SITC and OnM",
+            "bbox": [
+              {
+                "h": 11.021059927591434,
+                "w": 164.38775448682833,
+                "x": 30.875780550328695,
+                "y": 242.85095679306403,
+                "confidence": 0.91,
+                "end_index": 33,
+                "label": "paragraph_title",
+                "start_index": 0
+              }
+            ],
+            "type": "heading"
+          },
+          {
+            "items": [
+              {
+                "md": "Smart City",
+                "value": "Smart City",
+                "bbox": [
+                  {
+                    "h": 12.0,
+                    "w": 45.824,
+                    "x": 67.464,
+                    "y": 268.918,
+                    "confidence": 0.87,
+                    "end_index": 9,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "City Surveillance / Safe City Projects",
+                "value": "City Surveillance / Safe City Projects",
+                "bbox": [
+                  {
+                    "h": 10.608237661966461,
+                    "w": 177.26260253906247,
+                    "x": 49.215443383193595,
+                    "y": 280.80638814786585,
+                    "confidence": 0.93,
+                    "end_index": 37,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "ATCS & ITMS (Video based Technology & Radar based Technology)",
+                "value": "ATCS & ITMS (Video based Technology & Radar based Technology)",
+                "bbox": [
+                  {
+                    "h": 10.765684070121987,
+                    "w": 308.99124219940927,
+                    "x": 48.99654267101753,
+                    "y": 293.49830887957313,
+                    "confidence": 0.94,
+                    "end_index": 60,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Real Time Governance Command / Data Centers",
+                "value": "Real Time Governance Command / Data Centers",
+                "bbox": [
+                  {
+                    "h": 11.002266339557924,
+                    "w": 229.74515294516962,
+                    "x": 49.010340695264865,
+                    "y": 305.5110194359756,
+                    "confidence": 0.93,
+                    "end_index": 42,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "IP Based Video Surveillance Systems",
+                "value": "IP Based Video Surveillance Systems",
+                "bbox": [
+                  {
+                    "h": 10.819140863185938,
+                    "w": 178.77383011980754,
+                    "x": 49.09651798899581,
+                    "y": 319.4182981612043,
+                    "confidence": 0.93,
+                    "end_index": 34,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Mobile Bus Surveillance Systems",
+                "value": "Mobile Bus Surveillance Systems",
+                "bbox": [
+                  {
+                    "h": 12.0,
+                    "w": 143.566,
+                    "x": 67.464,
+                    "y": 334.468,
+                    "confidence": 0.93,
+                    "end_index": 30,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "AI Video Analytics",
+                "value": "AI Video Analytics",
+                "bbox": [
+                  {
+                    "h": 12.0,
+                    "w": 80.386,
+                    "x": 67.464,
+                    "y": 347.188,
+                    "confidence": 0.92,
+                    "end_index": 17,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Access Control Gate Management",
+                "value": "Access Control Gate Management",
+                "bbox": [
+                  {
+                    "h": 10.827134622713393,
+                    "w": 164.57703431664444,
+                    "x": 48.948142536442454,
+                    "y": 358.7681807355183,
+                    "confidence": 0.93,
+                    "end_index": 29,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Perimeter Security and Screening System",
+                "value": "Perimeter Security and Screening System",
+                "bbox": [
+                  {
+                    "h": 10.776483898628069,
+                    "w": 199.4070420874619,
+                    "x": 48.95141780201982,
+                    "y": 371.27065644054875,
+                    "confidence": 0.94,
+                    "end_index": 38,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Body Worn Camera Projects",
+                "value": "Body Worn Camera Projects",
+                "bbox": [
+                  {
+                    "h": 12.0,
+                    "w": 124.106,
+                    "x": 67.464,
+                    "y": 384.408,
+                    "confidence": 0.91,
+                    "end_index": 24,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Traffic Enforcement Device with e – challan project",
+                "value": "Traffic Enforcement Device with e – challan project",
+                "bbox": [
+                  {
+                    "h": 10.56482612423778,
+                    "w": 242.5908720881764,
+                    "x": 49.13290577958269,
+                    "y": 396.35700743140245,
+                    "confidence": 0.93,
+                    "end_index": 50,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              }
+            ],
+            "md": "1. Smart City\n2. City Surveillance / Safe City Projects\n3. ATCS & ITMS (Video based Technology & Radar based Technology)\n4. Real Time Governance Command / Data Centers\n5. IP Based Video Surveillance Systems\n6. Mobile Bus Surveillance Systems\n7. AI Video Analytics\n8. Access Control Gate Management\n9. Perimeter Security and Screening System\n10. Body Worn Camera Projects\n11. Traffic Enforcement Device with e – challan project",
+            "ordered": true,
+            "bbox": [
+              {
+                "h": 138.0,
+                "w": 309.04,
+                "x": 48.95,
+                "y": 268.92,
+                "confidence": 0.92,
+                "end_index": 425,
+                "label": "list",
+                "start_index": 0
+              }
+            ],
+            "type": "list"
+          },
+          {
+            "level": 1,
+            "md": "# Responsibilities – Project Management",
+            "value": "Responsibilities – Project Management",
+            "bbox": [
+              {
+                "h": 10.711543445121931,
+                "w": 185.0207614656774,
+                "x": 30.893054273651867,
+                "y": 420.71118664253055,
+                "confidence": 0.93,
+                "end_index": 38,
+                "label": "paragraph_title",
+                "start_index": 0
+              }
+            ],
+            "type": "heading"
+          },
+          {
+            "items": [
+              {
+                "md": "Bid Management (Provide support to Tendering Team in Hard & Soft bidding through Portals)",
+                "value": "Bid Management (Provide support to Tendering Team in Hard & Soft bidding through Portals)",
+                "bbox": [
+                  {
+                    "h": 10.739085365853628,
+                    "w": 434.3307725562119,
+                    "x": 54.050045136242375,
+                    "y": 445.28372046493905,
+                    "confidence": 0.95,
+                    "end_index": 88,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Depute Team for Site Surveys, Prepare Risk and Mitigation Plan",
+                "value": "Depute Team for Site Surveys, Prepare Risk and Mitigation Plan",
+                "bbox": [
+                  {
+                    "h": 10.982199409298772,
+                    "w": 296.8372873892435,
+                    "x": 54.06327830244855,
+                    "y": 457.67206697789635,
+                    "confidence": 0.95,
+                    "end_index": 61,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "OEMs / Vendor Management (Product Compliances, Costing, Negotiations)",
+                "value": "OEMs / Vendor Management (Product Compliances, Costing, Negotiations)",
+                "bbox": [
+                  {
+                    "h": 10.774786108993917,
+                    "w": 349.48801972179876,
+                    "x": 54.08683379382622,
+                    "y": 470.8717211318598,
+                    "confidence": 0.95,
+                    "end_index": 68,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Involved in Procurement Process of Organization",
+                "value": "Involved in Procurement Process of Organization",
+                "bbox": [
+                  {
+                    "h": 10.99969607469509,
+                    "w": 236.23113540277248,
+                    "x": 54.11887126643483,
+                    "y": 483.2610108612805,
+                    "confidence": 0.95,
+                    "end_index": 46,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Preparing Project Bare Cost Sheet",
+                "value": "Preparing Project Bare Cost Sheet",
+                "bbox": [
+                  {
+                    "h": 10.760543540396316,
+                    "w": 167.4673536942645,
+                    "x": 54.10553788347942,
+                    "y": 495.3448870998476,
+                    "confidence": 0.95,
+                    "end_index": 32,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "**Project Executions** (Prepare Deployment Plan, Responsibility plan, Daily Review Meetings, Set Mile Stones matrix, Strict Co ordinations to OEMs, Close Coordination to Client, No delay in Paper work etc.)",
+                "value": "Project Executions (Prepare Deployment Plan, Responsibility plan, Daily Review Meetings, Set Mile Stones matrix, Strict Co ordinations to OEMs, Close Coordination to Client, No delay in Paper work etc.)",
+                "bbox": [
+                  {
+                    "h": 22.657238471798774,
+                    "w": 531.0434386016102,
+                    "x": 54.15856620974657,
+                    "y": 507.8801395769817,
+                    "confidence": 0.97,
+                    "end_index": 205,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Strictly follow Project SLA during O & M phase",
+                "value": "Strictly follow Project SLA during O & M phase",
+                "bbox": [
+                  {
+                    "h": 10.743990091463393,
+                    "w": 222.6215049780869,
+                    "x": 54.07714010099085,
+                    "y": 532.591514862805,
+                    "confidence": 0.95,
+                    "end_index": 45,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              }
+            ],
+            "md": "* Bid Management (Provide support to Tendering Team in Hard & Soft bidding through Portals)\n* Depute Team for Site Surveys, Prepare Risk and Mitigation Plan\n* OEMs / Vendor Management (Product Compliances, Costing, Negotiations)\n* Involved in Procurement Process of Organization\n* Preparing Project Bare Cost Sheet\n* **Project Executions** (Prepare Deployment Plan, Responsibility plan, Daily Review Meetings, Set Mile Stones matrix, Strict Co ordinations to OEMs, Close Coordination to Client, No delay in Paper work etc.)\n* Strictly follow Project SLA during O & M phase",
+            "ordered": false,
+            "bbox": [
+              {
+                "h": 98.05,
+                "w": 531.15,
+                "x": 54.05,
+                "y": 445.28,
+                "confidence": 0.95,
+                "end_index": 571,
+                "label": "list",
+                "start_index": 0
+              }
+            ],
+            "type": "list"
+          },
+          {
+            "level": 1,
+            "md": "# Responsibility - BD",
+            "value": "Responsibility - BD",
+            "bbox": [
+              {
+                "h": 10.896272389481696,
+                "w": 90.81889852384242,
+                "x": 30.83778473644722,
+                "y": 557.3046822599086,
+                "confidence": 0.91,
+                "end_index": 20,
+                "label": "paragraph_title",
+                "start_index": 0
+              }
+            ],
+            "type": "heading"
+          },
+          {
+            "items": [
+              {
+                "md": "Identification of Opportunities and Departments, Visiting the prospective Client and Follow up with the Departments for the Processing, Generation of Business, conversion of prospective business",
+                "value": "Identification of Opportunities and Departments, Visiting the prospective Client and Follow up with the Departments for the Processing, Generation of Business, conversion of prospective business",
+                "bbox": [
+                  {
+                    "h": 22.747787252286606,
+                    "w": 505.49642176186165,
+                    "x": 53.24154651176638,
+                    "y": 582.0205849847562,
+                    "confidence": 0.96,
+                    "end_index": 193,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Preparing Techno – Commercial Proposals",
+                "value": "Preparing Techno – Commercial Proposals",
+                "bbox": [
+                  {
+                    "h": 10.903487995426898,
+                    "w": 206.39653626976943,
+                    "x": 53.132774896389094,
+                    "y": 607.0755740282012,
+                    "confidence": 0.92,
+                    "end_index": 38,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "PPT Presentations (Company Profile, Architectural of Solution & POC etc.)",
+                "value": "PPT Presentations (Company Profile, Architectural of Solution & POC etc.)",
+                "bbox": [
+                  {
+                    "h": 10.830105754573214,
+                    "w": 344.0925549316406,
+                    "x": 53.336242229182545,
+                    "y": 619.9292563833842,
+                    "confidence": 0.92,
+                    "end_index": 72,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Designing of the tenders for the agency and preparation of BoQ",
+                "value": "Designing of the tenders for the agency and preparation of BoQ",
+                "bbox": [
+                  {
+                    "h": 10.84397103658538,
+                    "w": 298.6096114889005,
+                    "x": 53.23477732588605,
+                    "y": 632.6781002286585,
+                    "confidence": 0.92,
+                    "end_index": 61,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Handling the entire OEMs network",
+                "value": "Handling the entire OEMs network",
+                "bbox": [
+                  {
+                    "h": 10.729464557926786,
+                    "w": 172.70837080792683,
+                    "x": 53.3393808355564,
+                    "y": 645.1589291158537,
+                    "confidence": 0.91,
+                    "end_index": 31,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              }
+            ],
+            "md": "1. Identification of Opportunities and Departments, Visiting the prospective Client and Follow up with the Departments for the Processing, Generation of Business, conversion of prospective business\n2. Preparing Techno – Commercial Proposals\n3. PPT Presentations (Company Profile, Architectural of Solution & POC etc.)\n4. Designing of the tenders for the agency and preparation of BoQ\n5. Handling the entire OEMs network",
+            "ordered": true,
+            "bbox": [
+              {
+                "h": 73.87,
+                "w": 505.61,
+                "x": 53.13,
+                "y": 582.02,
+                "confidence": 0.93,
+                "end_index": 418,
+                "label": "list",
+                "start_index": 0
+              }
+            ],
+            "type": "list"
+          },
+          {
+            "items": [
+              {
+                "md": "**Worked as a System Analyst in IT Sector in around 9 years.** Major Clients were in IT & Telecom",
+                "value": "Worked as a System Analyst in IT Sector in around 9 years. Major Clients were in IT & Telecom",
+                "bbox": [
+                  {
+                    "h": 10.655987995426898,
+                    "w": 451.1606882830364,
+                    "x": 36.63788831757336,
+                    "y": 670.4043535632621,
+                    "confidence": 0.93,
+                    "end_index": 96,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              }
+            ],
+            "md": "* **Worked as a System Analyst in IT Sector in around 9 years.** Major Clients were in IT & Telecom",
+            "ordered": false,
+            "bbox": [
+              {
+                "h": 10.66,
+                "w": 451.16,
+                "x": 36.64,
+                "y": 670.4,
+                "confidence": 0.93,
+                "end_index": 98,
+                "label": "list",
+                "start_index": 0
+              }
+            ],
+            "type": "list"
+          },
+          {
+            "items": [
+              {
+                "md": "AT & T – USA, Tekmark – USA, Envoy - USA",
+                "value": "AT & T – USA, Tekmark – USA, Envoy - USA",
+                "bbox": [
+                  {
+                    "h": 11.139150628810937,
+                    "w": 201.670578583508,
+                    "x": 53.839603628763335,
+                    "y": 696.5482860137196,
+                    "confidence": 0.89,
+                    "end_index": 39,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "British Telecom – UK",
+                "value": "British Telecom – UK",
+                "bbox": [
+                  {
+                    "h": 12.0,
+                    "w": 92.946,
+                    "x": 67.464,
+                    "y": 711.384,
+                    "confidence": 0.89,
+                    "end_index": 19,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Tech Mahindra – India",
+                "value": "Tech Mahindra – India",
+                "bbox": [
+                  {
+                    "h": 12.0,
+                    "w": 98.58600000000001,
+                    "x": 67.464,
+                    "y": 725.304,
+                    "confidence": 0.88,
+                    "end_index": 20,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              }
+            ],
+            "md": "1. AT & T – USA, Tekmark – USA, Envoy - USA\n2. British Telecom – UK\n3. Tech Mahindra – India",
+            "ordered": true,
+            "bbox": [
+              {
+                "h": 40.76,
+                "w": 201.67,
+                "x": 53.84,
+                "y": 696.55,
+                "confidence": 0.89,
+                "end_index": 91,
+                "label": "list",
+                "start_index": 0
+              }
+            ],
+            "type": "list"
+          },
+          {
+            "items": [
+              {
+                "md": "**Personal Detail:** Address: Flat no 105, Dream Homes -3, Aasara Enclave, Sector 75, Noida",
+                "value": "Personal Detail: Address: Flat no 105, Dream Homes -3, Aasara Enclave, Sector 75, Noida",
+                "bbox": [
+                  {
+                    "h": 10.656318121189063,
+                    "w": 400.6900346709461,
+                    "x": 30.888877057331364,
+                    "y": 750.2057483803354,
+                    "confidence": 0.84,
+                    "end_index": 90,
+                    "label": "footer",
+                    "start_index": 0
+                  },
+                  {
+                    "h": 12.0,
+                    "w": 75.64,
+                    "x": 31.46,
+                    "y": 750.74,
+                    "confidence": 1.0,
+                    "end_index": 19,
+                    "label": "paragraph_title",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              }
+            ],
+            "md": "**Personal Detail:** Address: Flat no 105, Dream Homes -3, Aasara Enclave, Sector 75, Noida",
+            "bbox": [
+              {
+                "h": 12.53,
+                "w": 400.69,
+                "x": 30.89,
+                "y": 750.21,
+                "confidence": null,
+                "end_index": null,
+                "label": null,
+                "start_index": null
+              }
+            ],
+            "type": "footer"
+          }
+        ],
+        "page_height": 792.0,
+        "page_number": 2,
+        "page_width": 612.0,
+        "success": true
+      },
+      {
+        "items": [
+          {
+            "level": 1,
+            "md": "# Engagement in Projects",
+            "value": "Engagement in Projects",
+            "bbox": [
+              {
+                "h": 41.18000000000001,
+                "w": 104.34,
+                "x": 252.1,
+                "y": 27.732,
+                "confidence": 0.64,
+                "end_index": 23,
+                "label": "table",
+                "start_index": 0
+              }
+            ],
+            "type": "heading"
+          },
+          {
+            "csv": "\"S.No.\",\"Project Name\",\"Project Type\",\"Worked with OEMs\",\"Role\",\"Value\",\"Profit Margin\",\"Status\"\n\"1\",\"Chhattisgarh State ITMS\",\"State Level Integrated Traffic Management System\",\"Cameras (CP Plus)<br/>VMS & ITMS Software (Vehant)<br/>e-Challan Software (Vehant)<br/>Switches (Dell), Router (Dell)<br/>Firewall (Fortinet), WorkStation – Dell<br/>Server & Link Load Balancer (Array, Radware)<br/>Server (Dell), Videowall & Controller (Barco)<br/>Storage - Dell<br/>INC items - Nextronics, Digisol, Microtek<br/>Connectivity BB/ILL (BSNL)<br/>IOT Sims - Redundancy (Airtel)\",\"Implementation Head\",\"188 Cr\",\"40%\",\"Implementation Phase\"\n\"2\",\"APSFL\",\"AP State level Surveillance + ITMS (Integrated 35000 Cameras)\",\"Indias Top OEMS + Command & Control Center (Videonetics + Trinity) + 13 Distt. Data Centers (HP + Videonetics)\",\"Implementation & Involved in Functional Architecture\",\"959 cr\",\">36%\",\"O & M Phase\"\n\"3\",\"Azadpur Mandi, APMC Delhi\",\"Safe City having Solar System\",\"Cameras, NVR, ANPR ( Matrix - STQC)<br/>Switchs (Tplink,FES) , VPN Router (Juniper)<br/>Solar Sys ( Andra power), Firewall (Sonicwall)<br/>WorkStation - (Dell), LED ( Samsung)<br/>Storage, Surveillance disc (WD)<br/>INC items - Rittal, Microtek, Digisol<br/>Connectivity BB/ILL ( Jio Air Fiber)<br/>IOT Sims - Redundancy (Vodafone)\",\"Design Solution, Write RFP & BD ( Direct Engagement to Client & Inhouse Teams)\",\"4.98 cr\",\"64%\",\"Pipeline\"\n\"4\",\"Gail Gas Ltd.\",\"Inter State Surveillance & Analytics Management System\",\"ANGShield Camras (Bullet, Dome, PTZ, ANPR, Fire)<br/>VMS & Analytics Software ( ANG)<br/>Switchs (FES, Tejas), VPN Router (Watchdog)<br/>Firewall (Sonicwall), WorkStation - Acer<br/>Server, Server & Link Load Balancer (Array, Citrix), LED ( Samsung), Storage - Promise ( Controller + Jbod)<br/>INC items - Nextronics, Numeric, Digisol<br/>Connectivity BB/ILL ( Jio Air Fiber), Cloud ( AWS/Jio)<br/>IOT Sims - Redundancy ( Airtel)\",\"Design Solution, Write RFP & BD ( Direct Engagement to Client & Inhouse Teams)\",\"18 cr\",\">45%\",\"Pipeline\"\n\"5\",\"Maruti ( HQ, Delhi ) - CSR\",\"ITMS Integrated traffic Management Sys- Gurgoan, 25 Junctions\",\"Camras (Prama / Vivotek - Global Shutter)<br/>VMS & ITMS Software (Videonetics)<br/>e-Challan Software (Videonetics)<br/>Switchs (Tplink, Dell), Router (Watchdog)<br/>Firewall (Fortinet), WorkStation - Zenith<br/>Server & Link Load Balancer (Array, Radware)<br/>Server (Dell), Videowall & Controller (LG, Drita)<br/>Storage - Qnap<br/>INC items - Nextronics, Digisol, Microtek<br/>Connectivity BB/ILL ( Jio Air Fiber)<br/>IOT Sims - Redundancy (Airtel)\",\"Design Solution, Prepared Bare Cost, Presentation & Proposal\",\"25 cr\",\">35%\",\"Lost\"\n\"6\",\"NIT , Delhi\",\"General Surveillance\",\"Camras (Matrix , STQC)<br/>VMS & Analytics Software (I2V)<br/>Switchs (Tplink, Cisco), Router (Cisco)<br/>Firewall (Sonicwall), WorkStation - HPE<br/>Server (Dell), Videowall + AV over IP (Samsung + Drita )<br/>INC items - Nextronics, Digisol, Microtek<br/>Connectivity (Fiber)\",\"Design Solution, Prepared Bare Cost, Presentation & Proposal\",\"5.4 cr\",\">52%\",\"Pipeline\"\n\"7\",\"Bhorgarh Ind. Area, Delhi\",\"Safe City\",\"Camras (CP+, STQC)<br/>VMS (Trassir)<br/>Switchs (FES, Dell), VPN Router (Dlink)<br/>Firewall (Sonicwall), WorkStation - Dell<br/>Server (Dell), LED (Delta), Storage - Netapp<br/>INC items - Nextronics, Digisol, Microtek<br/>Connectivity BB/ILL ( Jio Air Fiber)<br/>IOT Sims - Redundancy (Airtel)\",\"Design Solution, Prepared Bare Cost, Presentation & Proposal\",\"65 lacs\",\">60%\",\"Win\"\n\"8\",\"Farrukhabad Nagar Palika Parishad\",\"Safe City with Traffic Monitoring System\",\"Camras (CP+, STQC)<br/>VMS (Vehant)<br/>Switchs (Digisol, Dell), VPN Router (Watchdog)<br/>Firewall (Sonicwall), WorkStation - Dell<br/>Server (HPE), LED (LG), Storage - Quantumm<br/>INC items - Nextronics, Digisol, Microtek<br/>Connectivity BB/ILL ( Jio Air Fiber)<br/>IOT Sims - Redundancy (Vodafone)\",\"Design Solution, Prepared Bare Cost, Presentation & Proposal, Locking Spaces\",\"1.25 cr\",\">60%\",\"Pipeline\"\n\"9\",\"Delhi Transport\",\"ITMS - Footover Bridge\",\"Camras (Vivotek - Global Shutter)<br/>VMS & ITMS Software (Videonetics)<br/>e-Challan Software ( Videonetics)<br/>Switchs (Dlink, Nokia), Aggregation switch (Tejas)<br/>Router (Watchdog), Firewall (Fortinet), WorkStation - Zenith<br/>Server (Dell), Videowall & Controller (LG, Drita)<br/>Storage - Dell, Server & Link Load Balancer (Array, Radware)<br/>INC items - Nextronics, Digisol, Microtek<br/>Connectivity BB/ILL ( Jio Air Fiber)<br/>IOT Sims - Redundancy (Airtel)\",\"Design Solution, Prepared Bare Cost, Presentation & Proposal, Locking Spaces\",\"50 cr\",\">35%\",\"Pipeline ( Scrap 3 month before)\"\n\"10\",\"MOHUA, ( Smart City Mission of GOI)\",\"Showcase as a SI\",,\"1. Engaged with PMC Smart City - GOI EnY, Advisor to MOHUA & Director Smart City Mission - GOI<br/>2. Prepare Presentation\",,,\n\"11\",\"District Panchayat Officer ( DPO) & UP Panchayat Ministry\",\"Surveillance System for all the Panchayats of UP\",\"CP+ ( Specs are Locked), 2-5 Lacs for Every Gram Panchayat\",\"1. Total 1800 cr from World Bank for All panchayats of UP ( Total no. of Panchayats - 57691 )<br/>2. Prepare Presentation<br/>3. I have all the \"\"OPERATIONAL DETAILS\"\" and GO - UP , Locking Specs ( CP+)<br/>4. Prepared Bare Cost Sheet of Project<br/>5. Made Project Execution Strategy\",,,\n\"12\",\"Parliament House\",\"Surveillance System ( Old Building)\",\"Bosch, Nice (VMS) etc.\",\"Implemented\",\"24 cr\",\">40%\",\"Completed\"\n\"13\",\"DTC\",\"Mobile Bus Surv. (2015)\",\"Everfocus ( Analog)\",\"Design & Implemented\",\"8 cr\",\">60%\",\"Completed\"\n\"14\",\"Delhi Police\",\"City Surv. ( 6 Sites of ECIL)\",\"Axis, Milestone\",\"Implemented\",\"15 cr\",\">45%\",\"Completed\"\n\"15\",\"Bangalore Police\",\"ITMS ( 50 junctions)\",\"Vivotek, Videonetics\",\"Implemented\",\"95 cr\",\">51%\",\"Completed\"",
+            "html": "<table>\n  <thead>\n    <tr>\n        <th>S.No.</th>\n        <th>Project Name</th>\n        <th>Project Type</th>\n        <th>Worked with OEMs</th>\n        <th>Role</th>\n        <th>Value</th>\n        <th>Profit Margin</th>\n        <th>Status</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n        <td>1</td>\n        <td>Chhattisgarh State ITMS</td>\n        <td>State Level Integrated Traffic Management System</td>\n        <td>Cameras (CP Plus)<br />VMS &#x26; ITMS Software (Vehant)<br />e-Challan Software (Vehant)<br />Switches (Dell), Router (Dell)<br />Firewall (Fortinet), WorkStation – Dell<br />Server &#x26; Link Load Balancer (Array, Radware)<br />Server (Dell), Videowall &#x26; Controller (Barco)<br />Storage - Dell<br />INC items - Nextronics, Digisol, Microtek<br />Connectivity BB/ILL (BSNL)<br />IOT Sims - Redundancy (Airtel)</td>\n        <td>Implementation Head</td>\n        <td>188 Cr</td>\n        <td>40%</td>\n        <td>Implementation Phase</td>\n    </tr>\n    <tr>\n        <td>2</td>\n        <td>APSFL</td>\n        <td>AP State level Surveillance + ITMS (Integrated 35000 Cameras)</td>\n        <td>Indias Top OEMS + Command &#x26; Control Center (Videonetics + Trinity) + 13 Distt. Data Centers (HP + Videonetics)</td>\n        <td>Implementation &#x26; Involved in Functional Architecture</td>\n        <td>959 cr</td>\n        <td>>36%</td>\n        <td>O &#x26; M Phase</td>\n    </tr>\n    <tr>\n        <td>3</td>\n        <td>Azadpur Mandi, APMC Delhi</td>\n        <td>Safe City having Solar System</td>\n        <td>Cameras, NVR, ANPR ( Matrix - STQC)<br />Switchs (Tplink,FES) , VPN Router (Juniper)<br />Solar Sys ( Andra power), Firewall (Sonicwall)<br />WorkStation - (Dell), LED ( Samsung)<br />Storage, Surveillance disc (WD)<br />INC items - Rittal, Microtek, Digisol<br />Connectivity BB/ILL ( Jio Air Fiber)<br />IOT Sims - Redundancy (Vodafone)</td>\n        <td>Design Solution, Write RFP &#x26; BD ( Direct Engagement to Client &#x26; Inhouse Teams)</td>\n        <td>4.98 cr</td>\n        <td>64%</td>\n        <td>Pipeline</td>\n    </tr>\n    <tr>\n        <td>4</td>\n        <td>Gail Gas Ltd.</td>\n        <td>Inter State Surveillance &#x26; Analytics Management System</td>\n        <td>ANGShield Camras (Bullet, Dome, PTZ, ANPR, Fire)<br />VMS &#x26; Analytics Software ( ANG)<br />Switchs (FES, Tejas), VPN Router (Watchdog)<br />Firewall (Sonicwall), WorkStation - Acer<br />Server, Server &#x26; Link Load Balancer (Array, Citrix), LED ( Samsung), Storage - Promise ( Controller + Jbod)<br />INC items - Nextronics, Numeric, Digisol<br />Connectivity BB/ILL ( Jio Air Fiber), Cloud ( AWS/Jio)<br />IOT Sims - Redundancy ( Airtel)</td>\n        <td>Design Solution, Write RFP &#x26; BD ( Direct Engagement to Client &#x26; Inhouse Teams)</td>\n        <td>18 cr</td>\n        <td>>45%</td>\n        <td>Pipeline</td>\n    </tr>\n    <tr>\n        <td>5</td>\n        <td>Maruti ( HQ, Delhi ) - CSR</td>\n        <td>ITMS Integrated traffic Management Sys- Gurgoan, 25 Junctions</td>\n        <td>Camras (Prama / Vivotek - Global Shutter)<br />VMS &#x26; ITMS Software (Videonetics)<br />e-Challan Software (Videonetics)<br />Switchs (Tplink, Dell), Router (Watchdog)<br />Firewall (Fortinet), WorkStation - Zenith<br />Server &#x26; Link Load Balancer (Array, Radware)<br />Server (Dell), Videowall &#x26; Controller (LG, Drita)<br />Storage - Qnap<br />INC items - Nextronics, Digisol, Microtek<br />Connectivity BB/ILL ( Jio Air Fiber)<br />IOT Sims - Redundancy (Airtel)</td>\n        <td>Design Solution, Prepared Bare Cost, Presentation &#x26; Proposal</td>\n        <td>25 cr</td>\n        <td>>35%</td>\n        <td>Lost</td>\n    </tr>\n    <tr>\n        <td>6</td>\n        <td>NIT , Delhi</td>\n        <td>General Surveillance</td>\n        <td>Camras (Matrix , STQC)<br />VMS &#x26; Analytics Software (I2V)<br />Switchs (Tplink, Cisco), Router (Cisco)<br />Firewall (Sonicwall), WorkStation - HPE<br />Server (Dell), Videowall + AV over IP (Samsung + Drita )<br />INC items - Nextronics, Digisol, Microtek<br />Connectivity (Fiber)</td>\n        <td>Design Solution, Prepared Bare Cost, Presentation &#x26; Proposal</td>\n        <td>5.4 cr</td>\n        <td>>52%</td>\n        <td>Pipeline</td>\n    </tr>\n    <tr>\n        <td>7</td>\n        <td>Bhorgarh Ind. Area, Delhi</td>\n        <td>Safe City</td>\n        <td>Camras (CP+, STQC)<br />VMS (Trassir)<br />Switchs (FES, Dell), VPN Router (Dlink)<br />Firewall (Sonicwall), WorkStation - Dell<br />Server (Dell), LED (Delta), Storage - Netapp<br />INC items - Nextronics, Digisol, Microtek<br />Connectivity BB/ILL ( Jio Air Fiber)<br />IOT Sims - Redundancy (Airtel)</td>\n        <td>Design Solution, Prepared Bare Cost, Presentation &#x26; Proposal</td>\n        <td>65 lacs</td>\n        <td>>60%</td>\n        <td>Win</td>\n    </tr>\n    <tr>\n        <td>8</td>\n        <td>Farrukhabad Nagar Palika Parishad</td>\n        <td>Safe City with Traffic Monitoring System</td>\n        <td>Camras (CP+, STQC)<br />VMS (Vehant)<br />Switchs (Digisol, Dell), VPN Router (Watchdog)<br />Firewall (Sonicwall), WorkStation - Dell<br />Server (HPE), LED (LG), Storage - Quantumm<br />INC items - Nextronics, Digisol, Microtek<br />Connectivity BB/ILL ( Jio Air Fiber)<br />IOT Sims - Redundancy (Vodafone)</td>\n        <td>Design Solution, Prepared Bare Cost, Presentation &#x26; Proposal, Locking Spaces</td>\n        <td>1.25 cr</td>\n        <td>>60%</td>\n        <td>Pipeline</td>\n    </tr>\n    <tr>\n        <td>9</td>\n        <td>Delhi Transport</td>\n        <td>ITMS - Footover Bridge</td>\n        <td>Camras (Vivotek - Global Shutter)<br />VMS &#x26; ITMS Software (Videonetics)<br />e-Challan Software ( Videonetics)<br />Switchs (Dlink, Nokia), Aggregation switch (Tejas)<br />Router (Watchdog), Firewall (Fortinet), WorkStation - Zenith<br />Server (Dell), Videowall &#x26; Controller (LG, Drita)<br />Storage - Dell, Server &#x26; Link Load Balancer (Array, Radware)<br />INC items - Nextronics, Digisol, Microtek<br />Connectivity BB/ILL ( Jio Air Fiber)<br />IOT Sims - Redundancy (Airtel)</td>\n        <td>Design Solution, Prepared Bare Cost, Presentation &#x26; Proposal, Locking Spaces</td>\n        <td>50 cr</td>\n        <td>>35%</td>\n        <td>Pipeline ( Scrap 3 month before)</td>\n    </tr>\n    <tr>\n        <td>10</td>\n        <td>MOHUA, ( Smart City Mission of GOI)</td>\n        <td>Showcase as a SI</td>\n        <td> </td>\n        <td>1. Engaged with PMC Smart City - GOI EnY, Advisor to MOHUA &#x26; Director Smart City Mission - GOI<br />2. Prepare Presentation</td>\n        <td> </td>\n        <td> </td>\n        <td> </td>\n    </tr>\n    <tr>\n        <td>11</td>\n        <td>District Panchayat Officer ( DPO) &#x26; UP Panchayat Ministry</td>\n        <td>Surveillance System for all the Panchayats of UP</td>\n        <td>CP+ ( Specs are Locked), 2-5 Lacs for Every Gram Panchayat</td>\n        <td>1. Total 1800 cr from World Bank for All panchayats of UP ( Total no. of Panchayats - 57691 )<br />2. Prepare Presentation<br />3. I have all the \"OPERATIONAL DETAILS\" and GO - UP , Locking Specs ( CP+)<br />4. Prepared Bare Cost Sheet of Project<br />5. Made Project Execution Strategy</td>\n        <td> </td>\n        <td> </td>\n        <td> </td>\n    </tr>\n    <tr>\n        <td>12</td>\n        <td>Parliament House</td>\n        <td>Surveillance System ( Old Building)</td>\n        <td>Bosch, Nice (VMS) etc.</td>\n        <td>Implemented</td>\n        <td>24 cr</td>\n        <td>>40%</td>\n        <td>Completed</td>\n    </tr>\n    <tr>\n        <td>13</td>\n        <td>DTC</td>\n        <td>Mobile Bus Surv. (2015)</td>\n        <td>Everfocus ( Analog)</td>\n        <td>Design &#x26; Implemented</td>\n        <td>8 cr</td>\n        <td>>60%</td>\n        <td>Completed</td>\n    </tr>\n    <tr>\n        <td>14</td>\n        <td>Delhi Police</td>\n        <td>City Surv. ( 6 Sites of ECIL)</td>\n        <td>Axis, Milestone</td>\n        <td>Implemented</td>\n        <td>15 cr</td>\n        <td>>45%</td>\n        <td>Completed</td>\n    </tr>\n    <tr>\n        <td>15</td>\n        <td>Bangalore Police</td>\n        <td>ITMS ( 50 junctions)</td>\n        <td>Vivotek, Videonetics</td>\n        <td>Implemented</td>\n        <td>95 cr</td>\n        <td>>51%</td>\n        <td>Completed</td>\n    </tr>\n  </tbody>\n</table>",
+            "md": "| S.No. | Project Name                                              | Project Type                                                  | Worked with OEMs                                                                                                                                                                                                                                                                                                                                                                                                                                                                       | Role                                                                                                                                                                                                                                                                                       | Value   | Profit Margin | Status                           |\n| ----- | --------------------------------------------------------- | ------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------- | ------------- | -------------------------------- |\n| 1     | Chhattisgarh State ITMS                                   | State Level Integrated Traffic Management System              | Cameras (CP Plus)<br/>VMS & ITMS Software (Vehant)<br/>e-Challan Software (Vehant)<br/>Switches (Dell), Router (Dell)<br/>Firewall (Fortinet), WorkStation – Dell<br/>Server & Link Load Balancer (Array, Radware)<br/>Server (Dell), Videowall & Controller (Barco)<br/>Storage - Dell<br/>INC items - Nextronics, Digisol, Microtek<br/>Connectivity BB/ILL (BSNL)<br/>IOT Sims - Redundancy (Airtel)                                                                                | Implementation Head                                                                                                                                                                                                                                                                        | 188 Cr  | 40%           | Implementation Phase             |\n| 2     | APSFL                                                     | AP State level Surveillance + ITMS (Integrated 35000 Cameras) | Indias Top OEMS + Command & Control Center (Videonetics + Trinity) + 13 Distt. Data Centers (HP + Videonetics)                                                                                                                                                                                                                                                                                                                                                                         | Implementation & Involved in Functional Architecture                                                                                                                                                                                                                                       | 959 cr  | >36%          | O & M Phase                      |\n| 3     | Azadpur Mandi, APMC Delhi                                 | Safe City having Solar System                                 | Cameras, NVR, ANPR ( Matrix - STQC)<br/>Switchs (Tplink,FES) , VPN Router (Juniper)<br/>Solar Sys ( Andra power), Firewall (Sonicwall)<br/>WorkStation - (Dell), LED ( Samsung)<br/>Storage, Surveillance disc (WD)<br/>INC items - Rittal, Microtek, Digisol<br/>Connectivity BB/ILL ( Jio Air Fiber)<br/>IOT Sims - Redundancy (Vodafone)                                                                                                                                            | Design Solution, Write RFP & BD ( Direct Engagement to Client & Inhouse Teams)                                                                                                                                                                                                             | 4.98 cr | 64%           | Pipeline                         |\n| 4     | Gail Gas Ltd.                                             | Inter State Surveillance & Analytics Management System        | ANGShield Camras (Bullet, Dome, PTZ, ANPR, Fire)<br/>VMS & Analytics Software ( ANG)<br/>Switchs (FES, Tejas), VPN Router (Watchdog)<br/>Firewall (Sonicwall), WorkStation - Acer<br/>Server, Server & Link Load Balancer (Array, Citrix), LED ( Samsung), Storage - Promise ( Controller + Jbod)<br/>INC items - Nextronics, Numeric, Digisol<br/>Connectivity BB/ILL ( Jio Air Fiber), Cloud ( AWS/Jio)<br/>IOT Sims - Redundancy ( Airtel)                                          | Design Solution, Write RFP & BD ( Direct Engagement to Client & Inhouse Teams)                                                                                                                                                                                                             | 18 cr   | >45%          | Pipeline                         |\n| 5     | Maruti ( HQ, Delhi ) - CSR                                | ITMS Integrated traffic Management Sys- Gurgoan, 25 Junctions | Camras (Prama / Vivotek - Global Shutter)<br/>VMS & ITMS Software (Videonetics)<br/>e-Challan Software (Videonetics)<br/>Switchs (Tplink, Dell), Router (Watchdog)<br/>Firewall (Fortinet), WorkStation - Zenith<br/>Server & Link Load Balancer (Array, Radware)<br/>Server (Dell), Videowall & Controller (LG, Drita)<br/>Storage - Qnap<br/>INC items - Nextronics, Digisol, Microtek<br/>Connectivity BB/ILL ( Jio Air Fiber)<br/>IOT Sims - Redundancy (Airtel)                   | Design Solution, Prepared Bare Cost, Presentation & Proposal                                                                                                                                                                                                                               | 25 cr   | >35%          | Lost                             |\n| 6     | NIT , Delhi                                               | General Surveillance                                          | Camras (Matrix , STQC)<br/>VMS & Analytics Software (I2V)<br/>Switchs (Tplink, Cisco), Router (Cisco)<br/>Firewall (Sonicwall), WorkStation - HPE<br/>Server (Dell), Videowall + AV over IP (Samsung + Drita )<br/>INC items - Nextronics, Digisol, Microtek<br/>Connectivity (Fiber)                                                                                                                                                                                                  | Design Solution, Prepared Bare Cost, Presentation & Proposal                                                                                                                                                                                                                               | 5.4 cr  | >52%          | Pipeline                         |\n| 7     | Bhorgarh Ind. Area, Delhi                                 | Safe City                                                     | Camras (CP+, STQC)<br/>VMS (Trassir)<br/>Switchs (FES, Dell), VPN Router (Dlink)<br/>Firewall (Sonicwall), WorkStation - Dell<br/>Server (Dell), LED (Delta), Storage - Netapp<br/>INC items - Nextronics, Digisol, Microtek<br/>Connectivity BB/ILL ( Jio Air Fiber)<br/>IOT Sims - Redundancy (Airtel)                                                                                                                                                                               | Design Solution, Prepared Bare Cost, Presentation & Proposal                                                                                                                                                                                                                               | 65 lacs | >60%          | Win                              |\n| 8     | Farrukhabad Nagar Palika Parishad                         | Safe City with Traffic Monitoring System                      | Camras (CP+, STQC)<br/>VMS (Vehant)<br/>Switchs (Digisol, Dell), VPN Router (Watchdog)<br/>Firewall (Sonicwall), WorkStation - Dell<br/>Server (HPE), LED (LG), Storage - Quantumm<br/>INC items - Nextronics, Digisol, Microtek<br/>Connectivity BB/ILL ( Jio Air Fiber)<br/>IOT Sims - Redundancy (Vodafone)                                                                                                                                                                         | Design Solution, Prepared Bare Cost, Presentation & Proposal, Locking Spaces                                                                                                                                                                                                               | 1.25 cr | >60%          | Pipeline                         |\n| 9     | Delhi Transport                                           | ITMS - Footover Bridge                                        | Camras (Vivotek - Global Shutter)<br/>VMS & ITMS Software (Videonetics)<br/>e-Challan Software ( Videonetics)<br/>Switchs (Dlink, Nokia), Aggregation switch (Tejas)<br/>Router (Watchdog), Firewall (Fortinet), WorkStation - Zenith<br/>Server (Dell), Videowall & Controller (LG, Drita)<br/>Storage - Dell, Server & Link Load Balancer (Array, Radware)<br/>INC items - Nextronics, Digisol, Microtek<br/>Connectivity BB/ILL ( Jio Air Fiber)<br/>IOT Sims - Redundancy (Airtel) | Design Solution, Prepared Bare Cost, Presentation & Proposal, Locking Spaces                                                                                                                                                                                                               | 50 cr   | >35%          | Pipeline ( Scrap 3 month before) |\n| 10    | MOHUA, ( Smart City Mission of GOI)                       | Showcase as a SI                                              |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        | 1. Engaged with PMC Smart City - GOI EnY, Advisor to MOHUA & Director Smart City Mission - GOI<br/>2. Prepare Presentation                                                                                                                                                                 |         |               |                                  |\n| 11    | District Panchayat Officer ( DPO) & UP Panchayat Ministry | Surveillance System for all the Panchayats of UP              | CP+ ( Specs are Locked), 2-5 Lacs for Every Gram Panchayat                                                                                                                                                                                                                                                                                                                                                                                                                             | 1. Total 1800 cr from World Bank for All panchayats of UP ( Total no. of Panchayats - 57691 )<br/>2. Prepare Presentation<br/>3. I have all the \"OPERATIONAL DETAILS\" and GO - UP , Locking Specs ( CP+)<br/>4. Prepared Bare Cost Sheet of Project<br/>5. Made Project Execution Strategy |         |               |                                  |\n| 12    | Parliament House                                          | Surveillance System ( Old Building)                           | Bosch, Nice (VMS) etc.                                                                                                                                                                                                                                                                                                                                                                                                                                                                 | Implemented                                                                                                                                                                                                                                                                                | 24 cr   | >40%          | Completed                        |\n| 13    | DTC                                                       | Mobile Bus Surv. (2015)                                       | Everfocus ( Analog)                                                                                                                                                                                                                                                                                                                                                                                                                                                                    | Design & Implemented                                                                                                                                                                                                                                                                       | 8 cr    | >60%          | Completed                        |\n| 14    | Delhi Police                                              | City Surv. ( 6 Sites of ECIL)                                 | Axis, Milestone                                                                                                                                                                                                                                                                                                                                                                                                                                                                        | Implemented                                                                                                                                                                                                                                                                                | 15 cr   | >45%          | Completed                        |\n| 15    | Bangalore Police                                          | ITMS ( 50 junctions)                                          | Vivotek, Videonetics                                                                                                                                                                                                                                                                                                                                                                                                                                                                   | Implemented                                                                                                                                                                                                                                                                                | 95 cr   | >51%          | Completed                        |",
+            "rows": [
+              [
+                "S.No.",
+                "Project Name",
+                "Project Type",
+                "Worked with OEMs",
+                "Role",
+                "Value",
+                "Profit Margin",
+                "Status"
+              ],
+              [
+                "1",
+                "Chhattisgarh State ITMS",
+                "State Level Integrated Traffic Management System",
+                "Cameras (CP Plus)<br/>VMS & ITMS Software (Vehant)<br/>e-Challan Software (Vehant)<br/>Switches (Dell), Router (Dell)<br/>Firewall (Fortinet), WorkStation – Dell<br/>Server & Link Load Balancer (Array, Radware)<br/>Server (Dell), Videowall & Controller (Barco)<br/>Storage - Dell<br/>INC items - Nextronics, Digisol, Microtek<br/>Connectivity BB/ILL (BSNL)<br/>IOT Sims - Redundancy (Airtel)",
+                "Implementation Head",
+                "188 Cr",
+                "40%",
+                "Implementation Phase"
+              ],
+              [
+                "2",
+                "APSFL",
+                "AP State level Surveillance + ITMS (Integrated 35000 Cameras)",
+                "Indias Top OEMS + Command & Control Center (Videonetics + Trinity) + 13 Distt. Data Centers (HP + Videonetics)",
+                "Implementation & Involved in Functional Architecture",
+                "959 cr",
+                ">36%",
+                "O & M Phase"
+              ],
+              [
+                "3",
+                "Azadpur Mandi, APMC Delhi",
+                "Safe City having Solar System",
+                "Cameras, NVR, ANPR ( Matrix - STQC)<br/>Switchs (Tplink,FES) , VPN Router (Juniper)<br/>Solar Sys ( Andra power), Firewall (Sonicwall)<br/>WorkStation - (Dell), LED ( Samsung)<br/>Storage, Surveillance disc (WD)<br/>INC items - Rittal, Microtek, Digisol<br/>Connectivity BB/ILL ( Jio Air Fiber)<br/>IOT Sims - Redundancy (Vodafone)",
+                "Design Solution, Write RFP & BD ( Direct Engagement to Client & Inhouse Teams)",
+                "4.98 cr",
+                "64%",
+                "Pipeline"
+              ],
+              [
+                "4",
+                "Gail Gas Ltd.",
+                "Inter State Surveillance & Analytics Management System",
+                "ANGShield Camras (Bullet, Dome, PTZ, ANPR, Fire)<br/>VMS & Analytics Software ( ANG)<br/>Switchs (FES, Tejas), VPN Router (Watchdog)<br/>Firewall (Sonicwall), WorkStation - Acer<br/>Server, Server & Link Load Balancer (Array, Citrix), LED ( Samsung), Storage - Promise ( Controller + Jbod)<br/>INC items - Nextronics, Numeric, Digisol<br/>Connectivity BB/ILL ( Jio Air Fiber), Cloud ( AWS/Jio)<br/>IOT Sims - Redundancy ( Airtel)",
+                "Design Solution, Write RFP & BD ( Direct Engagement to Client & Inhouse Teams)",
+                "18 cr",
+                ">45%",
+                "Pipeline"
+              ],
+              [
+                "5",
+                "Maruti ( HQ, Delhi ) - CSR",
+                "ITMS Integrated traffic Management Sys- Gurgoan, 25 Junctions",
+                "Camras (Prama / Vivotek - Global Shutter)<br/>VMS & ITMS Software (Videonetics)<br/>e-Challan Software (Videonetics)<br/>Switchs (Tplink, Dell), Router (Watchdog)<br/>Firewall (Fortinet), WorkStation - Zenith<br/>Server & Link Load Balancer (Array, Radware)<br/>Server (Dell), Videowall & Controller (LG, Drita)<br/>Storage - Qnap<br/>INC items - Nextronics, Digisol, Microtek<br/>Connectivity BB/ILL ( Jio Air Fiber)<br/>IOT Sims - Redundancy (Airtel)",
+                "Design Solution, Prepared Bare Cost, Presentation & Proposal",
+                "25 cr",
+                ">35%",
+                "Lost"
+              ],
+              [
+                "6",
+                "NIT , Delhi",
+                "General Surveillance",
+                "Camras (Matrix , STQC)<br/>VMS & Analytics Software (I2V)<br/>Switchs (Tplink, Cisco), Router (Cisco)<br/>Firewall (Sonicwall), WorkStation - HPE<br/>Server (Dell), Videowall + AV over IP (Samsung + Drita )<br/>INC items - Nextronics, Digisol, Microtek<br/>Connectivity (Fiber)",
+                "Design Solution, Prepared Bare Cost, Presentation & Proposal",
+                "5.4 cr",
+                ">52%",
+                "Pipeline"
+              ],
+              [
+                "7",
+                "Bhorgarh Ind. Area, Delhi",
+                "Safe City",
+                "Camras (CP+, STQC)<br/>VMS (Trassir)<br/>Switchs (FES, Dell), VPN Router (Dlink)<br/>Firewall (Sonicwall), WorkStation - Dell<br/>Server (Dell), LED (Delta), Storage - Netapp<br/>INC items - Nextronics, Digisol, Microtek<br/>Connectivity BB/ILL ( Jio Air Fiber)<br/>IOT Sims - Redundancy (Airtel)",
+                "Design Solution, Prepared Bare Cost, Presentation & Proposal",
+                "65 lacs",
+                ">60%",
+                "Win"
+              ],
+              [
+                "8",
+                "Farrukhabad Nagar Palika Parishad",
+                "Safe City with Traffic Monitoring System",
+                "Camras (CP+, STQC)<br/>VMS (Vehant)<br/>Switchs (Digisol, Dell), VPN Router (Watchdog)<br/>Firewall (Sonicwall), WorkStation - Dell<br/>Server (HPE), LED (LG), Storage - Quantumm<br/>INC items - Nextronics, Digisol, Microtek<br/>Connectivity BB/ILL ( Jio Air Fiber)<br/>IOT Sims - Redundancy (Vodafone)",
+                "Design Solution, Prepared Bare Cost, Presentation & Proposal, Locking Spaces",
+                "1.25 cr",
+                ">60%",
+                "Pipeline"
+              ],
+              [
+                "9",
+                "Delhi Transport",
+                "ITMS - Footover Bridge",
+                "Camras (Vivotek - Global Shutter)<br/>VMS & ITMS Software (Videonetics)<br/>e-Challan Software ( Videonetics)<br/>Switchs (Dlink, Nokia), Aggregation switch (Tejas)<br/>Router (Watchdog), Firewall (Fortinet), WorkStation - Zenith<br/>Server (Dell), Videowall & Controller (LG, Drita)<br/>Storage - Dell, Server & Link Load Balancer (Array, Radware)<br/>INC items - Nextronics, Digisol, Microtek<br/>Connectivity BB/ILL ( Jio Air Fiber)<br/>IOT Sims - Redundancy (Airtel)",
+                "Design Solution, Prepared Bare Cost, Presentation & Proposal, Locking Spaces",
+                "50 cr",
+                ">35%",
+                "Pipeline ( Scrap 3 month before)"
+              ],
+              [
+                "10",
+                "MOHUA, ( Smart City Mission of GOI)",
+                "Showcase as a SI",
+                "",
+                "1. Engaged with PMC Smart City - GOI EnY, Advisor to MOHUA & Director Smart City Mission - GOI<br/>2. Prepare Presentation",
+                "",
+                "",
+                ""
+              ],
+              [
+                "11",
+                "District Panchayat Officer ( DPO) & UP Panchayat Ministry",
+                "Surveillance System for all the Panchayats of UP",
+                "CP+ ( Specs are Locked), 2-5 Lacs for Every Gram Panchayat",
+                "1. Total 1800 cr from World Bank for All panchayats of UP ( Total no. of Panchayats - 57691 )<br/>2. Prepare Presentation<br/>3. I have all the \"OPERATIONAL DETAILS\" and GO - UP , Locking Specs ( CP+)<br/>4. Prepared Bare Cost Sheet of Project<br/>5. Made Project Execution Strategy",
+                "",
+                "",
+                ""
+              ],
+              [
+                "12",
+                "Parliament House",
+                "Surveillance System ( Old Building)",
+                "Bosch, Nice (VMS) etc.",
+                "Implemented",
+                "24 cr",
+                ">40%",
+                "Completed"
+              ],
+              [
+                "13",
+                "DTC",
+                "Mobile Bus Surv. (2015)",
+                "Everfocus ( Analog)",
+                "Design & Implemented",
+                "8 cr",
+                ">60%",
+                "Completed"
+              ],
+              [
+                "14",
+                "Delhi Police",
+                "City Surv. ( 6 Sites of ECIL)",
+                "Axis, Milestone",
+                "Implemented",
+                "15 cr",
+                ">45%",
+                "Completed"
+              ],
+              [
+                "15",
+                "Bangalore Police",
+                "ITMS ( 50 junctions)",
+                "Vivotek, Videonetics",
+                "Implemented",
+                "95 cr",
+                ">51%",
+                "Completed"
+              ]
+            ],
+            "bbox": [
+              {
+                "h": 715.4727482791063,
+                "w": 567.3272520335128,
+                "x": 30.912587429139673,
+                "y": 24.359505436594894,
+                "confidence": 0.56,
+                "end_index": 16199,
+                "label": "table",
+                "start_index": 0
+              },
+              {
+                "h": 6.0,
+                "w": 10.0,
+                "x": 314.04,
+                "y": 377.89,
+                "confidence": 1.0,
+                "end_index": 6988,
+                "label": "table",
+                "start_index": 6985
+              }
+            ],
+            "merged_from_pages": null,
+            "merged_into_page": null,
+            "parse_concerns": [
+              {
+                "details": "col 6 'Profit Margin' expects numeric, got '>36%' in row 2",
+                "type": "header_value_type_mismatch"
+              }
+            ],
+            "type": "table"
+          }
+        ],
+        "page_height": 792.0,
+        "page_number": 3,
+        "page_width": 612.0,
+        "success": true
+      }
+    ]
+  },
+  "job_metadata": {
+    "state_transitions": {
+      "pending_at": "2026-05-12T14:40:19.838345Z",
+      "throttled_at": "2026-05-12T14:40:20.048032Z",
+      "running_at": "2026-05-12T14:40:20.185017Z",
+      "completed_at": "2026-05-12T14:40:50.314871Z",
+      "failed_at": null,
+      "cancelled_at": null
+    },
+    "pdf-pages": 3,
+    "pdf-real-pages": 3,
+    "pdf-rawTextLength": 22320,
+    "pdf-mdLength": 14392,
+    "pdf-time": 20218,
+    "pdf-ocrTime": 0,
+    "pdf-image-convertTime": 0,
+    "pdf-pdfToHTMLTime": 0,
+    "pdf-llmTime": 12891,
+    "pdf-inputTokens": 35194,
+    "pdf-outputTokens": 4538,
+    "pdf-image-ocr-count": 1,
+    "pdf-image-ocr-failed-count": 0,
+    "pdf-image-ocr-success-count": 4,
+    "pdf-image-ocr-empty-count": 4,
+    "pdf-image-ocr-hadText-count": 0,
+    "pdf-image-ocr-pixels": 30369863,
+    "pdf-multimodal-time": 0,
+    "pdf-multimodal-pdf2Image": 0,
+    "pdf-model": null,
+    "pdf-high-res-ocr": 3,
+    "model_invocations": [
+      {
+        "page_number": 2,
+        "model": "gemini-3.0-flash",
+        "task": "parse_page_with_agent",
+        "reason": "primary",
+        "attempt": 1,
+        "status": "success",
+        "input_tokens": 11596,
+        "output_tokens": 981
+      },
+      {
+        "page_number": 1,
+        "model": "gemini-3.0-flash",
+        "task": "parse_page_with_agent",
+        "reason": "primary",
+        "attempt": 1,
+        "status": "success",
+        "input_tokens": 12393,
+        "output_tokens": 1530
+      },
+      {
+        "page_number": 3,
+        "model": "gemini-3.0-flash",
+        "task": "parse_page_with_agent",
+        "reason": "primary",
+        "attempt": 1,
+        "status": "success",
+        "input_tokens": 11205,
+        "output_tokens": 2027
+      }
+    ]
+  },
+  "markdown": null,
+  "markdown_full": "# <u>Arun Kumar Dixit</u>\n## (Project Head –State Level ITMS, Chhattisgarh Transport Deptt.)\nCell: +91 - 9711334757 Mail_id : akdixit.3@gmail.com\n\n### <u>Experience Summary:</u>\nExecuting Organizational Objectives since **21+** yrs. and overseeing Projects, Executions in different Roles. Currently working in a role of **Program Manager** and Engaged with **SIs, PMCs, PSUs, Direct End Clients of Central & State Government,** OEMs Network and renowned Real State Groups (Elan, Godrej, ATS, M3M, Hero Homes etc.)\n\n* **12+ yrs** – Execute Large Government Projects (**Central and State Gov.**) in Smart City / Safe City, Worked in 02 State level DCs in **Electronics Security and Surveillance, ITMS, ICCC,** E – Governance, ELV Products in **SI Division.**\n\n* **9+ yrs** - Program / Project Management, Delivery of Projects, Application Dev, Sys Testing (**AT&T, BT, TechM**)\n\n    * **Project Management** – Gov. Liaising, RFP/RFI & Bid evaluation, Looking S & L, Monitoring P & L, Working with Cross Functional Teams and OEMs, Resource Mgt., Effort Estimation, Assess Risks, Timely Execution\n    * **Presales** – Preparing Techno – Commercial Proposals, Solution Designing, Prepare BoQ & Bare Costing, **Written 06 RFPs** with PMC (Gail, APSFL, Azadpur Mandi, NIT Delhi, Delhi Transport ITMS (FOBs), DTIDC)\n    * **Business Development** – Proposing our Solutions & Credentials in Surveillance (5 Layers, ICCC, State Data Center, DR & DC), ITMS / ATCS, Body worn Solution, ELVs- Access Control Sys., VDPs, Boom Barrier etc.\n    * **Delivery / Implementation / Ops Mgt** – Prepare Project Plan / Implementation Plan, Monitor SLAs (O n M), Once was looking 9 projects (New & Old) simultaneously\n    * **Client Relation** - Regular Customer Visits, Understand Requirements and Offer Solution\n    * **Revenue Generation** – Helping Sales team for Expansion/Extension of projects & Align Clients\n\n### <u>Experience Details:</u>\n\n1. Working with Technosys Integrated Solutions Pvt. Ltd. from Feb`26 as a **Project Head**\n2. Worked with IRIS Global Solutions Pvt. Ltd. from April` 25 as a **Project Head**\n3. Worked with ANG India Ltd. from Aug`24 at PAN India level as a **Senior Manager - Projects**\n4. Worked with Matrix Security & Surveillance Pvt. Ltd. from Dec`22 in North Region as a **Project Manager**\n5. Worked with SBD Green Energy & Infra India Pvt. Ltd. from July` 21 as a **General Manager - Projects**\n6. Worked with Matrix Security & Surveillance Pvt Ltd. from June` 14 as a **Business Development Manager**\n7. Worked with Credence Systems from June` 09 to June` 14 as a **System Analyst (IT & Telecom)**\n8. Worked with Compucom Software Ltd. from Oct` 01 to Feb 07 as a **Software Engineer**\n\n### <u>Engaged in following Major Projects (last 11+ yrs):</u>\n\n1. **Implementation Head** of Chhattisgarh State – **ITMS (State level ITMS System) – 188 cr**\n2. **Part of Core Team of Solution Designing** of APSFL – **ITMS & City Surv. (AP State level Surv. System) – 959 cr**\n3. **Design Solution, Write RFP – 5 Layer** Security & Surveillance Project (ELAN group), Gurugram – **6.8 cr**\n4. **Design Solution & Write RFP** - Azadpur Mandi Surveillance Proj. (APMC), Delhi – **4.8 cr**\n5. **Design Solution & Write RFP** and Win & Implemented Bhorgarh Ind. Area, Delhi – **1.2 cr**\n6. **Design Solution & Write RFP** of Inter-State Surveillance of Gail Gas Ltd. – **18 cr**\n7. **Design Solution** of NIT, Delhi – **5.3 cr, Implemented** IIT, Sonipat – **.79 cr**\n8. **Design Solution** of Delhi Metro Track Surveillance (Designed with Hitachi)- **840 cr**\n9. **Design Solution** of Extension of Rohtak Safe City Project (Safe City - Surveillance & ITMS) – **25 cr**\n10. **Implemented** - ITMS System for Bangalore phase – 2 City Surveillance Project - **95 cr**\n11. **Implemented** - Parliament House Surveillance System (Old Building) – **24 cr**\n12. **Implemented** - DTC Mobile Bus Surveillance System (2015 project) – **8 cr**\n13. **Implemented** - Delhi Police City Surveillance with ECIL (6 Sites) – **15 cr**\n14. **Implemented** - Janeshwar Mishra Park Surveillance Project, Lucknow – **14 cr**\n\n### <u>Education Summary:</u>\n\n1. **MBA** in Service Management (Pursuing)\n2. **BE (Computer Science)** from CIITM, Jaipur, Rajasthan University with 68%\n3. **PGDIT** from CSL, Jaipur with Honours (81%)\n4. **Electronics & Communication Engineering** from IERT, Allahabad, UPTU with Honours (82%)\n\n---\n\n# Certifications, Awards & Trainings (Project Management):\n\n1. **PMP - PMI** (Pursuing)\n3. **AI Generalist (Generative AI Mastermind)**\n2. **Star Performer Award in Projects (BMC Patrol, AT&T, USA)**\n4. **Business Writing Course** (Tech Mahindra)\n5. **Assertive Communication** (Tech Mahindra)\n6. **Verbal Communication Skill** (Tech Mahindra)\n7. **Lateral Thinking** (Tech Mahindra)\n\n# Major Clients in North\n\n1. Parliament House, Delhi Police, Delhi Metro, Delhi Transport – HQ, DTC\n2. RISL, Jaipur, Chhattisgarh Transport Deptt., IIT Sonipat, NIT Delhi, APMC Azadpur - Delhi\n3. Railtel, Airport Authority of India (AAI), Maruti\n4. Gurugram Traffic Police, Municipal Corporation, Manesar Municipal Corporation\n5. Gail Gas Ltd., Himachal Pradesh Road Transport, Hartron,\n6. PSU as NMRC, TCIL, ECIL, BECIL, CEL, ITI etc.\n\n# Scope of working in SITC and OnM\n\n1. Smart City\n2. City Surveillance / Safe City Projects\n3. ATCS & ITMS (Video based Technology & Radar based Technology)\n4. Real Time Governance Command / Data Centers\n5. IP Based Video Surveillance Systems\n6. Mobile Bus Surveillance Systems\n7. AI Video Analytics\n8. Access Control Gate Management\n9. Perimeter Security and Screening System\n10. Body Worn Camera Projects\n11. Traffic Enforcement Device with e – challan project\n\n# Responsibilities – Project Management\n\n* Bid Management (Provide support to Tendering Team in Hard & Soft bidding through Portals)\n* Depute Team for Site Surveys, Prepare Risk and Mitigation Plan\n* OEMs / Vendor Management (Product Compliances, Costing, Negotiations)\n* Involved in Procurement Process of Organization\n* Preparing Project Bare Cost Sheet\n* **Project Executions** (Prepare Deployment Plan, Responsibility plan, Daily Review Meetings, Set Mile Stones matrix, Strict Co ordinations to OEMs, Close Coordination to Client, No delay in Paper work etc.)\n* Strictly follow Project SLA during O & M phase\n\n# Responsibility - BD\n\n1. Identification of Opportunities and Departments, Visiting the prospective Client and Follow up with the Departments for the Processing, Generation of Business, conversion of prospective business\n2. Preparing Techno – Commercial Proposals\n3. PPT Presentations (Company Profile, Architectural of Solution & POC etc.)\n4. Designing of the tenders for the agency and preparation of BoQ\n5. Handling the entire OEMs network\n\n* **Worked as a System Analyst in IT Sector in around 9 years.** Major Clients were in IT & Telecom\n\n1) AT & T – USA, Tekmark – USA, Envoy - USA\n2) British Telecom – UK\n3) Tech Mahindra – India\n\n**Personal Detail:** Address: Flat no 105, Dream Homes -3, Aasara Enclave, Sector 75, Noida\n\n\n---\n\n# Engagement in Projects\n\n<table>\n  <thead>\n    <tr>\n        <th>S.No.</th>\n        <th>Project Name</th>\n        <th>Project Type</th>\n        <th>Worked with OEMs</th>\n        <th>Role</th>\n        <th>Value</th>\n        <th>Profit Margin</th>\n        <th>Status</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n        <td>1</td>\n<td>Chhattisgarh State ITMS</td>\n<td>State Level Integrated Traffic Management System</td>\n<td>Cameras (CP Plus)<br/>VMS &amp; ITMS Software (Vehant)<br/>e-Challan Software (Vehant)<br/>Switches (Dell), Router (Dell)<br/>Firewall (Fortinet), WorkStation – Dell<br/>Server &amp; Link Load Balancer (Array, Radware)<br/>Server (Dell), Videowall &amp; Controller (Barco)<br/>Storage - Dell<br/>INC items - Nextronics, Digisol, Microtek<br/>Connectivity BB/ILL (BSNL)<br/>IOT Sims - Redundancy (Airtel)</td>\n<td>Implementation Head</td>\n<td>188 Cr</td>\n<td>40%</td>\n<td>Implementation Phase</td>\n    </tr>\n<tr>\n        <td>2</td>\n<td>APSFL</td>\n<td>AP State level Surveillance + ITMS (Integrated 35000 Cameras)</td>\n<td>Indias Top OEMS + Command &amp; Control Center (Videonetics + Trinity) + 13 Distt. Data Centers (HP + Videonetics)</td>\n<td>Implementation &amp; Involved in Functional Architecture</td>\n<td>959 cr</td>\n<td>&gt;36%</td>\n<td>O &amp; M Phase</td>\n    </tr>\n<tr>\n        <td>3</td>\n<td>Azadpur Mandi, APMC Delhi</td>\n<td>Safe City having Solar System</td>\n<td>Cameras, NVR, ANPR ( Matrix - STQC)<br/>Switchs (Tplink,FES) , VPN Router (Juniper)<br/>Solar Sys ( Andra power), Firewall (Sonicwall)<br/>WorkStation - (Dell), LED ( Samsung)<br/>Storage, Surveillance disc (WD)<br/>INC items - Rittal, Microtek, Digisol<br/>Connectivity BB/ILL ( Jio Air Fiber)<br/>IOT Sims - Redundancy (Vodafone)</td>\n<td>Design Solution, Write RFP &amp; BD ( Direct Engagement to Client &amp; Inhouse Teams)</td>\n<td>4.98 cr</td>\n<td>64%</td>\n<td>Pipeline</td>\n    </tr>\n<tr>\n        <td>4</td>\n<td>Gail Gas Ltd.</td>\n<td>Inter State Surveillance &amp; Analytics Management System</td>\n<td>ANGShield Camras (Bullet, Dome, PTZ, ANPR, Fire)<br/>VMS &amp; Analytics Software ( ANG)<br/>Switchs (FES, Tejas), VPN Router (Watchdog)<br/>Firewall (Sonicwall), WorkStation - Acer<br/>Server, Server &amp; Link Load Balancer (Array, Citrix), LED ( Samsung), Storage - Promise ( Controller + Jbod)<br/>INC items - Nextronics, Numeric, Digisol<br/>Connectivity BB/ILL ( Jio Air Fiber), Cloud ( AWS/Jio)<br/>IOT Sims - Redundancy ( Airtel)</td>\n<td>Design Solution, Write RFP &amp; BD ( Direct Engagement to Client &amp; Inhouse Teams)</td>\n<td>18 cr</td>\n<td>&gt;45%</td>\n<td>Pipeline</td>\n    </tr>\n<tr>\n        <td>5</td>\n<td>Maruti ( HQ, Delhi ) - CSR</td>\n<td>ITMS Integrated traffic Management Sys- Gurgoan, 25 Junctions</td>\n<td>Camras (Prama / Vivotek - Global Shutter)<br/>VMS &amp; ITMS Software (Videonetics)<br/>e-Challan Software (Videonetics)<br/>Switchs (Tplink, Dell), Router (Watchdog)<br/>Firewall (Fortinet), WorkStation - Zenith<br/>Server &amp; Link Load Balancer (Array, Radware)<br/>Server (Dell), Videowall &amp; Controller (LG, Drita)<br/>Storage - Qnap<br/>INC items - Nextronics, Digisol, Microtek<br/>Connectivity BB/ILL ( Jio Air Fiber)<br/>IOT Sims - Redundancy (Airtel)</td>\n<td>Design Solution, Prepared Bare Cost, Presentation &amp; Proposal</td>\n<td>25 cr</td>\n<td>&gt;35%</td>\n<td>Lost</td>\n    </tr>\n<tr>\n        <td>6</td>\n<td>NIT , Delhi</td>\n<td>General Surveillance</td>\n<td>Camras (Matrix , STQC)<br/>VMS &amp; Analytics Software (I2V)<br/>Switchs (Tplink, Cisco), Router (Cisco)<br/>Firewall (Sonicwall), WorkStation - HPE<br/>Server (Dell), Videowall + AV over IP (Samsung + Drita )<br/>INC items - Nextronics, Digisol, Microtek<br/>Connectivity (Fiber)</td>\n<td>Design Solution, Prepared Bare Cost, Presentation &amp; Proposal</td>\n<td>5.4 cr</td>\n<td>&gt;52%</td>\n<td>Pipeline</td>\n    </tr>\n<tr>\n        <td>7</td>\n<td>Bhorgarh Ind. Area, Delhi</td>\n<td>Safe City</td>\n<td>Camras (CP+, STQC)<br/>VMS (Trassir)<br/>Switchs (FES, Dell), VPN Router (Dlink)<br/>Firewall (Sonicwall), WorkStation - Dell<br/>Server (Dell), LED (Delta), Storage - Netapp<br/>INC items - Nextronics, Digisol, Microtek<br/>Connectivity BB/ILL ( Jio Air Fiber)<br/>IOT Sims - Redundancy (Airtel)</td>\n<td>Design Solution, Prepared Bare Cost, Presentation &amp; Proposal</td>\n<td>65 lacs</td>\n<td>&gt;60%</td>\n<td>Win</td>\n    </tr>\n<tr>\n        <td>8</td>\n<td>Farrukhabad Nagar Palika Parishad</td>\n<td>Safe City with Traffic Monitoring System</td>\n<td>Camras (CP+, STQC)<br/>VMS (Vehant)<br/>Switchs (Digisol, Dell), VPN Router (Watchdog)<br/>Firewall (Sonicwall), WorkStation - Dell<br/>Server (HPE), LED (LG), Storage - Quantumm<br/>INC items - Nextronics, Digisol, Microtek<br/>Connectivity BB/ILL ( Jio Air Fiber)<br/>IOT Sims - Redundancy (Vodafone)</td>\n<td>Design Solution, Prepared Bare Cost, Presentation &amp; Proposal, Locking Spaces</td>\n<td>1.25 cr</td>\n<td>&gt;60%</td>\n<td>Pipeline</td>\n    </tr>\n<tr>\n        <td>9</td>\n<td>Delhi Transport</td>\n<td>ITMS - Footover Bridge</td>\n<td>Camras (Vivotek - Global Shutter)<br/>VMS &amp; ITMS Software (Videonetics)<br/>e-Challan Software ( Videonetics)<br/>Switchs (Dlink, Nokia), Aggregation switch (Tejas)<br/>Router (Watchdog), Firewall (Fortinet), WorkStation - Zenith<br/>Server (Dell), Videowall &amp; Controller (LG, Drita)<br/>Storage - Dell, Server &amp; Link Load Balancer (Array, Radware)<br/>INC items - Nextronics, Digisol, Microtek<br/>Connectivity BB/ILL ( Jio Air Fiber)<br/>IOT Sims - Redundancy (Airtel)</td>\n<td>Design Solution, Prepared Bare Cost, Presentation &amp; Proposal, Locking Spaces</td>\n<td>50 cr</td>\n<td>&gt;35%</td>\n<td>Pipeline ( Scrap 3 month before)</td>\n    </tr>\n<tr>\n        <td>10</td>\n<td>MOHUA, ( Smart City Mission of GOI)</td>\n<td>Showcase as a SI</td>\n<td> </td>\n<td>1. Engaged with PMC Smart City - GOI EnY, Advisor to MOHUA &amp; Director Smart City Mission - GOI<br/>2. Prepare Presentation</td>\n<td> </td>\n<td> </td>\n<td> </td>\n    </tr>\n<tr>\n        <td>11</td>\n<td>District Panchayat Officer ( DPO) &amp; UP Panchayat Ministry</td>\n<td>Surveillance System for all the Panchayats of UP</td>\n<td>CP+ ( Specs are Locked), 2-5 Lacs for Every Gram Panchayat</td>\n<td>1. Total 1800 cr from World Bank for All panchayats of UP ( Total no. of Panchayats - 57691 )<br/>2. Prepare Presentation<br/>3. I have all the \"OPERATIONAL DETAILS\" and GO - UP , Locking Specs ( CP+)<br/>4. Prepared Bare Cost Sheet of Project<br/>5. Made Project Execution Strategy</td>\n<td> </td>\n<td> </td>\n<td> </td>\n    </tr>\n<tr>\n        <td>12</td>\n<td>Parliament House</td>\n<td>Surveillance System ( Old Building)</td>\n<td>Bosch, Nice (VMS) etc.</td>\n<td>Implemented</td>\n<td>24 cr</td>\n<td>&gt;40%</td>\n<td>Completed</td>\n    </tr>\n<tr>\n        <td>13</td>\n<td>DTC</td>\n<td>Mobile Bus Surv. (2015)</td>\n<td>Everfocus ( Analog)</td>\n<td>Design &amp; Implemented</td>\n<td>8 cr</td>\n<td>&gt;60%</td>\n<td>Completed</td>\n    </tr>\n<tr>\n        <td>14</td>\n<td>Delhi Police</td>\n<td>City Surv. ( 6 Sites of ECIL)</td>\n<td>Axis, Milestone</td>\n<td>Implemented</td>\n<td>15 cr</td>\n<td>&gt;45%</td>\n<td>Completed</td>\n    </tr>\n<tr>\n        <td>15</td>\n<td>Bangalore Police</td>\n<td>ITMS ( 50 junctions)</td>\n<td>Vivotek, Videonetics</td>\n<td>Implemented</td>\n<td>95 cr</td>\n<td>&gt;51%</td>\n<td>Completed</td>\n    </tr>\n  </tbody>\n</table>\n\n",
+  "metadata": {
+    "pages": [
+      {
+        "page_number": 1,
+        "confidence": 1.0,
+        "cost_optimized": false,
+        "original_orientation_angle": 0,
+        "printed_page_number": null,
+        "slide_section_name": null,
+        "speaker_notes": null,
+        "triggered_auto_mode": false
+      },
+      {
+        "page_number": 2,
+        "confidence": 0.995,
+        "cost_optimized": false,
+        "original_orientation_angle": 0,
+        "printed_page_number": null,
+        "slide_section_name": null,
+        "speaker_notes": null,
+        "triggered_auto_mode": false
+      },
+      {
+        "page_number": 3,
+        "confidence": 0.888,
+        "cost_optimized": false,
+        "original_orientation_angle": 0,
+        "printed_page_number": null,
+        "slide_section_name": null,
+        "speaker_notes": null,
+        "triggered_auto_mode": false
+      }
+    ]
+  },
+  "raw_parameters": null,
+  "result_content_metadata": null,
+  "text": null,
+  "text_full": "                          Arun Kumar Dixit\n                          (Project Head –State Level ITMS, Chhattisgarh Transport Deptt.)\nCell: +91 - 9711334757                                                                        Mail_id : akdixit.3@gmail.com\n\nExperience Summary:\nExecuting Organizational Objectives since 21+ yrs. and overseeing Projects, Executions in different Roles. Currently working\nin a role of Program Manager and Engaged with SIs, PMCs, PSUs, Direct End Clients of Central & State Government,\nOEMs Network and renowned Real State Groups (Elan, Godrej, ATS, M3M, Hero Homes etc.)\n\n x     12+ yrs – Execute Large Government Projects (Central and State Gov.) in Smart City / Safe City, Worked in 02 State\n       level DCs in Electronics Security and Surveillance, ITMS, ICCC, E – Governance, ELV Products in SI Division.\n\n x     9+ yrs - Program / Project Management, Delivery of Projects, Application Dev, Sys Testing (AT&T, BT, TechM)\n\n               •     Project Management – Gov. Liaising, RFP/RFI & Bid evaluation, Looking S & L, Monitoring P & L, Working\n                     with Cross Functional Teams and OEMs, Resource Mgt., Effort Estimation, Assess Risks, Timely Execution\n               •     Presales – Preparing Techno – Commercial Proposals, Solution Designing, Prepare BoQ & Bare Costing,\n                     Written 06 RFPs with PMC (Gail, APSFL, Azadpur Mandi, NIT Delhi, Delhi Transport ITMS (FOBs), DTIDC)\n               x     Business Development – Proposing our Solutions & Credentials in Surveillance (5 Layers, ICCC, State Data\n                     Center, DR & DC), ITMS / ATCS, Body worn Solution, ELVs- Access Control Sys., VDPs, Boom Barrier etc.\n               x     Delivery / Implementation / Ops Mgt – Prepare Project Plan / Implementation Plan, Monitor SLAs (O n M),\n                     Once was looking 9 projects (New & Old) simultaneously\n               x     Client Relation - Regular Customer Visits, Understand Requirements and Offer Solution\n               x     Revenue Generation – Helping Sales team for Expansion/Extension of projects & Align Clients\n\nExperience Details:\n\n      1.     Working with Technosys Integrated Solutions Pvt. Ltd. from Feb`26 as a Project Head\n      2.     Worked with IRIS Global Solutions Pvt. Ltd. from April` 25 as a Project Head\n      3.     Worked with ANG India Ltd. from Aug`24 at PAN India level as a Senior Manager - Projects\n      4.     Worked with Matrix Security & Surveillance Pvt. Ltd. from Dec`22 in North Region as a Project Manager\n      5.     Worked with SBD Green Energy & Infra India Pvt. Ltd. from July` 21 as a General Manager - Projects\n      6.     Worked with Matrix Security & Surveillance Pvt Ltd. from June` 14 as a Business Development Manager\n      7.     Worked with Credence Systems from June` 09 to June` 14 as a System Analyst (IT & Telecom)\n      8.     Worked with Compucom Software Ltd. from Oct` 01 to Feb 07 as a Software Engineer\n\nEngaged in following Major Projects (last 11+ yrs):\n\n       1.     Implementation Head of Chhattisgarh State – ITMS (State level ITMS System) – 188 cr\n       2.     Part of Core Team of Solution Designing of APSFL – ITMS & City Surv. (AP State level Surv. System) – 959 cr\n       3.     Design Solution, Write RFP – 5 Layer Security & Surveillance Project (ELAN group), Gurugram – 6.8 cr\n       4.     Design Solution & Write RFP - Azadpur Mandi Surveillance Proj. (APMC), Delhi – 4.8 cr\n       5.     Design Solution & Write RFP and Win & Implemented Bhorgarh Ind. Area, Delhi – 1.2 cr\n       6.     Design Solution & Write RFP of Inter-State Surveillance of Gail Gas Ltd. – 18 cr\n       7.     Design Solution of NIT, Delhi – 5.3 cr, Implemented IIT, Sonipat – .79 cr\n       8.     Design Solution of Delhi Metro Track Surveillance (Designed with Hitachi)- 840 cr\n       9.     Design Solution of Extension of Rohtak Safe City Project (Safe City - Surveillance & ITMS) – 25 cr\n       10. Implemented - ITMS System for Bangalore phase – 2 City Surveillance Project - 95 cr\n       11. Implemented - Parliament House Surveillance System (Old Building) – 24 cr\n       12. Implemented - DTC Mobile Bus Surveillance System (2015 project) – 8 cr\n       13. Implemented - Delhi Police City Surveillance with ECIL (6 Sites) – 15 cr\n       14. Implemented - Janeshwar Mishra Park Surveillance Project, Lucknow – 14 cr\n\nEducation Summary:\n\n      1.     MBA in Service Management (Pursuing)\n      2.     BE (Computer Science) from CIITM, Jaipur, Rajasthan University with 68%\n      3.     PGDIT from CSL, Jaipur with Honours (81%)\n      4.     Electronics & Communication Engineering from IERT, Allahabad, UPTU with Honours (82%)\n\n---\n\nCertifications, Awards & Trainings (Project Management):\n\n     1.      PMP - PMI (Pursuing)                                            3.  AI Generalist (Generative AI Mastermind)\n     2.      Star Performer Award in Projects (BMC Patrol, AT&T, USA)        4.  Business Writing Course (Tech Mahindra)\n      5.      Assertive Communication (Tech Mahindra)                        6. Verbal Communication Skill (Tech Mahindra)\n      7.      Lateral Thinking (Tech Mahindra)\n\nMajor Clients in North\n\n       1. Parliament House, Delhi Police, Delhi Metro, Delhi Transport – HQ, DTC\n       2. RISL, Jaipur, Chhattisgarh Transport Deptt., IIT Sonipat, NIT Delhi, APMC Azadpur - Delhi\n       3. Railtel, Airport Authority of India (AAI), Maruti\n       4. Gurugram Traffic Police, Municipal Corporation, Manesar Municipal Corporation\n       5. Gail Gas Ltd., Himachal Pradesh Road Transport, Hartron,\n       6. PSU as NMRC, TCIL, ECIL, BECIL, CEL, ITI etc.\n\nScope of working in SITC and OnM\n\n      1.      Smart City\n      2.      City Surveillance / Safe City Projects\n      3.      ATCS & ITMS (Video based Technology & Radar based Technology)\n      4.      Real Time Governance Command / Data Centers\n      5.      IP Based Video Surveillance Systems\n      6.      Mobile Bus Surveillance Systems\n      7.      AI Video Analytics\n      8.      Access Control Gate Management\n      9.      Perimeter Security and Screening System\n      10. Body Worn Camera Projects\n      11. Traffic Enforcement Device with e – challan project\n\nResponsibilities – Project Management\n\n       •       Bid Management (Provide support to Tendering Team in Hard & Soft bidding through Portals)\n       •       Depute Team for Site Surveys, Prepare Risk and Mitigation Plan\n       •       OEMs / Vendor Management (Product Compliances, Costing, Negotiations)\n       •       Involved in Procurement Process of Organization\n       •       Preparing Project Bare Cost Sheet\n       •       Project Executions (Prepare Deployment Plan, Responsibility plan, Daily Review Meetings, Set Mile Stones matrix,\n               Strict Co ordinations to OEMs, Close Coordination to Client, No delay in Paper work etc.)\n       •       Strictly follow Project SLA during O & M phase\n\nResponsibility - BD\n\n       1.      Identification of Opportunities and Departments, Visiting the prospective Client and Follow up with the\n               Departments for the Processing, Generation of Business, conversion of prospective business\n       2.      Preparing Techno – Commercial Proposals\n       3.      PPT Presentations (Company Profile, Architectural of Solution & POC etc.)\n       4.      Designing of the tenders for the agency and preparation of BoQ\n       5.      Handling the entire OEMs network\n\nx      Worked as a System Analyst in IT Sector in around 9 years. Major Clients were in IT & Telecom\n\n       1) AT & T – USA, Tekmark – USA, Envoy - USA\n       2) British Telecom – UK\n       3) Tech Mahindra – India\n\nPersonal Detail:        Address: Flat no 105, Dream Homes -3, Aasara Enclave, Sector 75, Noida\n\n---\n\n                                                                                         Engagement in Projects\nS.No.    Project Name    Project Type                                                                      Workedwith OEMs               Role    Value  ProfitMargin    Status\n                                                                                         Cameras (CP Plus)\n                                                                                         VMS & ITMS Software (Vehant)\n                                                                                         e-Challan Software (Vehant)\n                                                                                         Switches (Dell), Router (Dell)\n\n1        Chhattisgarh State ITMS    State Level Integrated Traffic Management System     Firewall (Fortinet), WorkStation –Dell                                         Implementation Phase\n                                                                                         Server & Link Load Balancer (Array, Radware)    Implementation Head  188 Cr    40%\n                                                                                         Server (Dell), Videowall & Controller (Barco)\n                                                                                         Storage -Dell\n                                                                                         INC items -Nextronics, Digisol, Microtek\n                                                                                         Connectivity BB/ILL (BSNL)\n                                                                                         IOT Sims -Redundancy (Airtel)\n\n\n      APSFL                      AP State level Surveillance+ITMS (Integrated                Indias Top OEMS+ Command & ControlCenter(Videonetics+ Trinity)   Implementation&            959 cr        >36%     O&M Phase\n                                 35000 Cameras)                                              +13 Distt. DataCenters(HP + Videonetics)                           Involved in\n 2                                                                                                                                                              Functional\n                                                                                                                                                                Architecture\n                                                                                             Cameras, NVR, ANPR ( Matrix -STQC)\n                                                                                             Switchs (Tplink,FES) , VPN Router (Juniper)\n                                                                                             Solar Sys ( Andra power), Firewall (Sonicwall)                   Design Solution,Write\n      AzadpurMandi, APMC Delhi    SafeCityhavingSolar System                                 WorkStation -(Dell), LED ( Samsung)                              RFP & BD ( Direct          4.98 cr        64%           Pipeline\n 3                                                                                           Storage, Surveillance disc (WD)                                  Engagement to Client &\n                                                                                             INCitems-Rittal,Microtek, Digisol                                Inhouse Teams)\n                                                                                             Connectivity BB/ILL ( Jio Air Fiber)\n                                                                                             IOTSims -Redundancy(Vodafone)\n                                                                                             ANGShield Camras (Bullet, Dome, PTZ, ANPR, Fire)\n                                                                                             VMS & Analytics Software ( ANG)\n                                                                                             Switchs (FES, Tejas), VPN Router (Watchdog)                     Design Solution,Write   RFP\n                                  Inter State Surveillance & AnalyticsManagement             Firewall (Sonicwall), WorkStation -Acer                            & BD (Direct Engagement to     18cr     >45%\n 4    Gail Gas Ltd.                             System                                       Server, Server & Link Load Balancer (Array, Citrix),                 Client & Inhouse Teams)                             Pipeline\n                                                                                             LED(Samsung),Storage -Promise(Controller+Jbod)\n                                                                                             INC items -Nextronics, Numeric,      Digisol\n                                                                                             ConnectivityBB/ILL(JioAir Fiber), Cloud (AWS/Jio)\n                                                                                             IOT Sims -Redundancy ( Airtel)\n                                                                                             Camras (Prama/ Vivotek -GlobalShutter)\n                                                                                             VMS & ITMS Software (Videonetics)\n                                                                                             e-Challan Software(Videonetics)                                          DesignSolution,\n 5                                                                                           Switchs (Tplink, Dell), Router (Watchdog)                               PreparedBareCost,\n     Maruti( HQ, Delhi)           ITMSIntegratedtraffic ManagementSys- Gurgoan, 25           Firewall (Fortinet), WorkStation -Zenith                         Presentation&  Proposal          25cr     >35%\n            -CSR                                        Junctions                            Server & Link Load Balancer (Array, Radware)                                                                                 Lost\n                                                                                             Server (Dell), Videowall & Controller (LG, Drita)\n                                                                                             Storage -Qnap\n                                                                                             INC items -Nextronics, Digisol, Microtek\n                                                                                             Connectivity BB/ILL ( Jio Air Fiber)\n                                                                                             IOTSims -Redundancy(Airtel)\n                                                                                             Camras(Matrix, STQC)                                                     DesignSolution,\n                                                                                             VMS & Analytics Software (I2V)                                          PreparedBareCost,\n                                                                                             Switchs (Tplink, Cisco), Router (Cisco)                          Presentation&  Proposal     5.4 cr        >52%\n 6                NIT , Delhi                   General Surveillance                         Firewall (Sonicwall), WorkStation - HPE                                                                            Pipeline\n                                                                                             Server (Dell),Videowall +AVoverIP(Samsung +Drita)\n                                                                                             INC items -Nextronics, Digisol, Microtek\n                                                                                             Connectivity (Fiber)\n                                                                                             Camras(CP+,STQC)\n                                                                                             VMS(Trassir)                                                             DesignSolution,\n                                                                                             Switchs (FES, Dell), VPN Router (Dlink)                                 PreparedBareCost,\n 7    Bhorgarh Ind. Area, Delhi                         SafeCity                             Firewall (Sonicwall), WorkStation -Dell                          Presentation&  Proposal     65lacs        >60%              Win\n                                                                                             Server (Dell), LED (Delta), Storage -Netapp\n                                                                                             INC items -Nextronics, Digisol, Microtek\n                                                                                             Connectivity BB/ILL ( Jio Air Fiber)\n                                                                                             IOTSims -Redundancy(Airtel)\n                                                                                             Camras(CP+,STQC)                                                         DesignSolution,\n                                                                                             VMS(Vehant)                                                             PreparedBareCost,\n\n      Farrukhabad Nagar   Palika    Safe City with Traffic Monitoring System                 Switchs (Digisol, Dell), VPN Router (Watchdog)                   Presentation&  Proposal,\n      Parishad                                                                               Firewall (Sonicwall), WorkStation -Dell                           Locking Spaces            1.25 cr        >60%    Pipeline\n 8                                                                                           Server (HPE),LED(LG),Storage -Quantumm\n                                                                                             INC items -Nextronics, Digisol, Microtek\n                                                                                             Connectivity BB/ILL ( Jio Air Fiber)\n                                                                                             IOTSims -Redundancy(Vodafone)\n                                                                                             Camras (Vivotek -Global Shutter)\n 9                                                                                           VMS & ITMSSoftware (Videonetics)                                         DesignSolution,\n                                                                                             e-Challan Software ( Videonetics)                                       PreparedBareCost,\n                                                                                             Switchs (Dlink,Nokia), Aggregation switch (Tejas)                Presentation&  Proposal,\n      Delhi Transport               ITMS -Footover Bridge                                    Router (Watchdog), Firewall (Fortinet), WorkStation -Zenith       Locking Spaces                  50cr     >35%    Pipeline\n                                                                                             Server (Dell), Videowall & Controller (LG, Drita)                                                                  ( Scrap3month before)\n                                                                                             Storage -Dell,Server& Link Load Balancer(Array, Radware)\n                                                                                             INC items -Nextronics, Digisol, Microtek\n                                                                                             Connectivity BB/ILL ( Jio Air Fiber)\n                                                                                             IOTSims -Redundancy(Airtel)\n           MOHUA,                                                                                                                                            1. Engagedwith PMCSmartCity-GOI EnY,AdvisortoMOHUA&Director Smart\n (Smart CityMission              ofGOI)         Showcaseasa SI                                                                                               City Mission -GOI\n10                                                                                                                                                           2. Prepare Presentation\n\n DistrictPanchayat               Officer                                                                                                                     1. Total1800crfromWorldBankforAllpanchayats ofUP ( Totalno.of\n11         ( DPO)                           Surveillance System for allthePanchayatsof UP                                       CP+                          Panchayats -57691 )\n             &                                                                                                       (SpecsareLocked),                       2. Prepare Presentation\n      UP Panchayat        Ministry                                                                           2-5Lacs for Every GramPanchayat                 3. Ihave allthe \"OPERATIONALDETAILS\" andGO-UP ,LockingSpecs( CP+)\n                                                                                                                                                             4. Prepared BareCostSheet ofProject\n                                                                                                                                                             5. MadeProject Execution Strategy\n\n12    Parliament House                      Surveillance System(Old Building)                                        Bosch,Nice (VMS) etc.                     Implemented                     24cr    >40%     Completed\n\n\n13    DTC    Mobile BusSurv.(2015)    Everfocus( Analog)    Design&    8cr    >60%    Completed\n                                                            Implemented\n\n\n14    Delhi Police    City Surv.(6Sites of ECIL)    Axis, Milostone    Implemented    15cr    >45%    Completed\n\n\n15    Bangalore Police    ITMS(50junctions)    Vivotek,Videonetics    Implemented    95cr    >51%    Completed",
+  "debug": null
+}

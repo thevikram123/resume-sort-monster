@@ -1,0 +1,2193 @@
+{
+  "job": {
+    "id": "pjb-96y9fx2xt4aqqadelfncfp8cuvub",
+    "project_id": "949fd88b-381a-4ae5-b3b9-bf7fcc9b74b8",
+    "status": "COMPLETED",
+    "created_at": "2026-05-12T14:44:08.153282Z",
+    "error_message": null,
+    "name": "Tushar Bane - 2026.pdf",
+    "tier": "agentic",
+    "updated_at": "2026-05-12T14:44:31.488993Z"
+  },
+  "images_content_metadata": null,
+  "items": {
+    "pages": [
+      {
+        "items": [
+          {
+            "md": "+91 9960510090",
+            "value": "+91 9960510090",
+            "bbox": [
+              {
+                "h": 7.0970291265720284,
+                "w": 61.38357694702149,
+                "x": 36.30869170532227,
+                "y": 39.35478488829078,
+                "confidence": 0.82,
+                "end_index": 13,
+                "label": "text",
+                "start_index": 0
+              }
+            ],
+            "type": "text"
+          },
+          {
+            "md": "<tusharbane10@gmail.com>",
+            "text": "tusharbane10@gmail.com",
+            "url": "mailto:tusharbane10@gmail.com",
+            "bbox": [
+              {
+                "h": 8.432385080030489,
+                "w": 98.60138380737305,
+                "x": 35.0154864807129,
+                "y": 62.76666481754955,
+                "confidence": 0.77,
+                "end_index": 23,
+                "label": "text",
+                "start_index": 0
+              }
+            ],
+            "type": "link"
+          },
+          {
+            "md": "LinkedIn",
+            "value": "LinkedIn",
+            "bbox": [
+              {
+                "h": 7.312279944740852,
+                "w": 32.08977161865234,
+                "x": 34.932586267089846,
+                "y": 87.74742200362043,
+                "confidence": 0.82,
+                "end_index": 7,
+                "label": "text",
+                "start_index": 0
+              }
+            ],
+            "type": "text"
+          },
+          {
+            "level": 1,
+            "md": "# TUSHAR BANE",
+            "value": "TUSHAR BANE",
+            "bbox": [
+              {
+                "h": 15.98841667182736,
+                "w": 132.44480390625003,
+                "x": 218.6328084960938,
+                "y": 31.85102674947599,
+                "confidence": 0.92,
+                "end_index": 12,
+                "label": "paragraph_title",
+                "start_index": 0
+              }
+            ],
+            "type": "heading"
+          },
+          {
+            "md": "Presales Lead | ELV & Security Systems Design | Bid & Estimation Specialist",
+            "value": "Presales Lead | ELV & Security Systems Design | Bid & Estimation Specialist",
+            "bbox": [
+              {
+                "h": 24.46,
+                "w": 288.85699999999997,
+                "x": 219.53,
+                "y": 62.52,
+                "confidence": 0.88,
+                "end_index": 74,
+                "label": "text",
+                "start_index": 0
+              }
+            ],
+            "type": "text"
+          },
+          {
+            "level": 2,
+            "md": "## CORE COMPETENCIES",
+            "value": "CORE COMPETENCIES",
+            "bbox": [
+              {
+                "h": 11.0,
+                "w": 99.32399999999998,
+                "x": 53.28,
+                "y": 128.18,
+                "confidence": 0.78,
+                "end_index": 19,
+                "label": "paragraph_title",
+                "start_index": 0
+              }
+            ],
+            "type": "heading"
+          },
+          {
+            "items": [
+              {
+                "md": "ELV Systems Design",
+                "value": "ELV Systems Design",
+                "bbox": [
+                  {
+                    "h": 9.0,
+                    "w": 75.303,
+                    "x": 50.76,
+                    "y": 148.55,
+                    "confidence": 0.94,
+                    "end_index": 17,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Electronic Security Systems",
+                "value": "Electronic Security Systems",
+                "bbox": [
+                  {
+                    "h": 9.0,
+                    "w": 103.965,
+                    "x": 50.76,
+                    "y": 159.95,
+                    "confidence": 0.93,
+                    "end_index": 26,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "CCTV Surveillance Design",
+                "value": "CCTV Surveillance Design",
+                "bbox": [
+                  {
+                    "h": 9.0,
+                    "w": 95.45400000000001,
+                    "x": 50.76,
+                    "y": 171.47,
+                    "confidence": 0.94,
+                    "end_index": 23,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Access Control Systems (ACS)",
+                "value": "Access Control Systems (ACS)",
+                "bbox": [
+                  {
+                    "h": 9.0,
+                    "w": 111.19900000000001,
+                    "x": 50.76,
+                    "y": 182.87,
+                    "confidence": 0.93,
+                    "end_index": 27,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Video Management Systems (VMS)",
+                "value": "Video Management Systems (VMS)",
+                "bbox": [
+                  {
+                    "h": 9.0,
+                    "w": 133.639,
+                    "x": 50.76,
+                    "y": 194.39,
+                    "confidence": 0.94,
+                    "end_index": 29,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Techno-Commercial Presales",
+                "value": "Techno-Commercial Presales",
+                "bbox": [
+                  {
+                    "h": 7.619346922637208,
+                    "w": 125.45332730712892,
+                    "x": 32.43492293701172,
+                    "y": 205.38745083841465,
+                    "confidence": 0.93,
+                    "end_index": 25,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Cost Estimation & BOQ Management",
+                "value": "Cost Estimation & BOQ Management",
+                "bbox": [
+                  {
+                    "h": 9.0,
+                    "w": 140.029,
+                    "x": 50.76,
+                    "y": 217.31,
+                    "confidence": 0.94,
+                    "end_index": 31,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Tendering / RFx Proposal Management",
+                "value": "Tendering / RFx Proposal Management",
+                "bbox": [
+                  {
+                    "h": 20.02224589367377,
+                    "w": 111.99625662231448,
+                    "x": 32.13704979858399,
+                    "y": 228.59742796303354,
+                    "confidence": 0.95,
+                    "end_index": 34,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Security Network Architecture",
+                "value": "Security Network Architecture",
+                "bbox": [
+                  {
+                    "h": 8.999999999999972,
+                    "w": 115.798,
+                    "x": 50.76,
+                    "y": 251.27,
+                    "confidence": 0.95,
+                    "end_index": 28,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "IP Surveillance Infrastructure",
+                "value": "IP Surveillance Infrastructure",
+                "bbox": [
+                  {
+                    "h": 9.0,
+                    "w": 110.358,
+                    "x": 50.76,
+                    "y": 262.7,
+                    "confidence": 0.93,
+                    "end_index": 29,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Solution Engineering & Design Consulting",
+                "value": "Solution Engineering & Design Consulting",
+                "bbox": [
+                  {
+                    "h": 19.91999999999996,
+                    "w": 114.51600000000002,
+                    "x": 50.76,
+                    "y": 274.22,
+                    "confidence": 0.97,
+                    "end_index": 39,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Vendor & OEM Management",
+                "value": "Vendor & OEM Management",
+                "bbox": [
+                  {
+                    "h": 9.0,
+                    "w": 110.37400000000002,
+                    "x": 50.76,
+                    "y": 296.66,
+                    "confidence": 0.95,
+                    "end_index": 22,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Bid Management / Proposal Strategy",
+                "value": "Bid Management / Proposal Strategy",
+                "bbox": [
+                  {
+                    "h": 9.0,
+                    "w": 139.857,
+                    "x": 50.76,
+                    "y": 308.06,
+                    "confidence": 0.94,
+                    "end_index": 33,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Integrated Security Solutions",
+                "value": "Integrated Security Solutions",
+                "bbox": [
+                  {
+                    "h": 9.0,
+                    "w": 110.49400000000003,
+                    "x": 50.76,
+                    "y": 319.58,
+                    "confidence": 0.93,
+                    "end_index": 28,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Infrastructure Project Estimation",
+                "value": "Infrastructure Project Estimation",
+                "bbox": [
+                  {
+                    "h": 9.0,
+                    "w": 124.494,
+                    "x": 50.76,
+                    "y": 330.98,
+                    "confidence": 0.94,
+                    "end_index": 32,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              }
+            ],
+            "md": "* ELV Systems Design\n* Electronic Security Systems\n* CCTV Surveillance Design\n* Access Control Systems (ACS)\n* Video Management Systems (VMS)\n* Techno-Commercial Presales\n* Cost Estimation & BOQ Management\n* Tendering / RFx Proposal Management\n* Security Network Architecture\n* IP Surveillance Infrastructure\n* Solution Engineering & Design Consulting\n* Vendor & OEM Management\n* Bid Management / Proposal Strategy\n* Integrated Security Solutions\n* Infrastructure Project Estimation",
+            "ordered": false,
+            "bbox": [
+              {
+                "h": 191.43,
+                "w": 158.65,
+                "x": 32.14,
+                "y": 148.55,
+                "confidence": 0.94,
+                "end_index": 481,
+                "label": "list",
+                "start_index": 0
+              }
+            ],
+            "type": "list"
+          },
+          {
+            "level": 2,
+            "md": "## EDUCATION",
+            "value": "EDUCATION",
+            "bbox": [
+              {
+                "h": 11.0,
+                "w": 55.0,
+                "x": 53.28,
+                "y": 369.89,
+                "confidence": 0.85,
+                "end_index": 11,
+                "label": "image",
+                "start_index": 0
+              }
+            ],
+            "type": "heading"
+          },
+          {
+            "md": "**Bachelor of Engineering (B.E.) – Electronics & Telecommunication (EXTC)** | University of Mumbai | 01/2011",
+            "value": "Bachelor of Engineering (B.E.) – Electronics & Telecommunication (EXTC) | University of Mumbai | 01/2011",
+            "bbox": [
+              {
+                "h": 41.351644578887175,
+                "w": 126.05811313476566,
+                "x": 49.066681640625006,
+                "y": 393.0031935308689,
+                "confidence": 0.87,
+                "end_index": 107,
+                "label": "text",
+                "start_index": 0
+              }
+            ],
+            "type": "text"
+          },
+          {
+            "md": "**Higher Secondary Certificate (H.S.C.)** | Maharashtra State Board | 01/2007",
+            "value": "Higher Secondary Certificate (H.S.C.) | Maharashtra State Board | 01/2007",
+            "bbox": [
+              {
+                "h": 9.166237557164637,
+                "w": 136.56587307128905,
+                "x": 49.06146174316407,
+                "y": 447.7531354230183,
+                "confidence": 0.79,
+                "end_index": 38,
+                "label": "paragraph_title",
+                "start_index": 0
+              },
+              {
+                "h": 20.039999999999964,
+                "w": 100.30199999999998,
+                "x": 49.92,
+                "y": 459.04,
+                "confidence": 0.75,
+                "end_index": 76,
+                "label": "text",
+                "start_index": 44
+              }
+            ],
+            "type": "text"
+          },
+          {
+            "md": "**Secondary School Certificate (S.S.C.)** | Maharashtra State Board | 01/2005",
+            "value": "Secondary School Certificate (S.S.C.) | Maharashtra State Board | 01/2005",
+            "bbox": [
+              {
+                "h": 8.840922027438992,
+                "w": 135.49041467285159,
+                "x": 48.68665715332032,
+                "y": 491.92034605564027,
+                "confidence": 0.86,
+                "end_index": 38,
+                "label": "paragraph_title",
+                "start_index": 0
+              },
+              {
+                "h": 19.587012919207318,
+                "w": 104.0420878051758,
+                "x": 48.9565453491211,
+                "y": 502.53142774390244,
+                "confidence": 0.75,
+                "end_index": 76,
+                "label": "text",
+                "start_index": 44
+              }
+            ],
+            "type": "text"
+          },
+          {
+            "level": 2,
+            "md": "## CERTIFICATIONS",
+            "value": "CERTIFICATIONS",
+            "bbox": [
+              {
+                "h": 11.0,
+                "w": 75.0,
+                "x": 55.2,
+                "y": 548.35,
+                "confidence": 1.0,
+                "end_index": 16,
+                "label": "paragraph_title",
+                "start_index": 3
+              }
+            ],
+            "type": "heading"
+          },
+          {
+            "items": [
+              {
+                "md": "Genetec Design Consultant Certification",
+                "value": "Genetec Design Consultant Certification",
+                "bbox": [
+                  {
+                    "h": 20.039999999999964,
+                    "w": 102.25999999999999,
+                    "x": 50.76,
+                    "y": 566.2,
+                    "confidence": 0.87,
+                    "end_index": 38,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              }
+            ],
+            "md": "* Genetec Design Consultant Certification",
+            "ordered": false,
+            "bbox": [
+              {
+                "h": 20.04,
+                "w": 102.26,
+                "x": 50.76,
+                "y": 566.2,
+                "confidence": 0.87,
+                "end_index": 40,
+                "label": "list",
+                "start_index": 0
+              }
+            ],
+            "type": "list"
+          },
+          {
+            "level": 2,
+            "md": "## SOFT SKILLS",
+            "value": "SOFT SKILLS",
+            "bbox": [
+              {
+                "h": 11.0,
+                "w": 54.523999999999994,
+                "x": 55.32,
+                "y": 615.58,
+                "confidence": 0.81,
+                "end_index": 13,
+                "label": "image",
+                "start_index": 0
+              }
+            ],
+            "type": "heading"
+          },
+          {
+            "caption": "Soft Skills donut chart showing: Proactive, High Business Ethics, Decision-Making, Analytical Thinking",
+            "md": "![Soft Skills donut chart showing: Proactive, High Business Ethics, Decision-Making, Analytical Thinking](page_1_layout_ocr_lqcs_42_636_145_144.png)",
+            "url": "page_1_layout_ocr_lqcs_42_636_145_144.png",
+            "bbox": [
+              {
+                "h": 134.01616143292682,
+                "w": 134.5486131225586,
+                "x": 47.08405557861329,
+                "y": 641.3459556402439,
+                "confidence": 0.94,
+                "end_index": 147,
+                "label": "chart",
+                "start_index": 0
+              }
+            ],
+            "type": "image"
+          },
+          {
+            "level": 2,
+            "md": "## PROFILE SNAPSHOT",
+            "value": "PROFILE SNAPSHOT",
+            "bbox": [
+              {
+                "h": 11.0,
+                "w": 90.064,
+                "x": 235.85,
+                "y": 118.1,
+                "confidence": 0.83,
+                "end_index": 18,
+                "label": "paragraph_title",
+                "start_index": 0
+              }
+            ],
+            "type": "heading"
+          },
+          {
+            "items": [
+              {
+                "md": "Highly accomplished Security Systems Design & Presales Specialist with 13+ years of progressive experience in ELV, ICT, and integrated electronic security systems across airports, government institutions, correctional facilities, healthcare, oil & gas, and large-scale infrastructure projects.",
+                "value": "Highly accomplished Security Systems Design & Presales Specialist with 13+ years of progressive experience in ELV, ICT, and integrated electronic security systems across airports, government institutions, correctional facilities, healthcare, oil & gas, and large-scale infrastructure projects.",
+                "bbox": [
+                  {
+                    "h": 46.83864320693598,
+                    "w": 342.40033491210943,
+                    "x": 218.91925590820316,
+                    "y": 138.1954683355564,
+                    "confidence": 0.98,
+                    "end_index": 292,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Demonstrated expertise in CCTV master planning, access control architecture, VMS design, intrusion detection, intercom systems, and IP-based security network infrastructure, with strong capabilities in FOV studies, control room planning, bandwidth/storage estimation, and end-to-end solution engineering.",
+                "value": "Demonstrated expertise in CCTV master planning, access control architecture, VMS design, intrusion detection, intercom systems, and IP-based security network infrastructure, with strong capabilities in FOV studies, control room planning, bandwidth/storage estimation, and end-to-end solution engineering.",
+                "bbox": [
+                  {
+                    "h": 46.71520228182166,
+                    "w": 342.60491235351566,
+                    "x": 219.02461098632813,
+                    "y": 189.3915047589558,
+                    "confidence": 0.99,
+                    "end_index": 303,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Proven track record in techno-commercial bid management, cost estimation, BOQ optimization, and proposal strategy development for high-value EPC, federal, and enterprise projects, consistently delivering competitive and technically compliant bid solutions.",
+                "value": "Proven track record in techno-commercial bid management, cost estimation, BOQ optimization, and proposal strategy development for high-value EPC, federal, and enterprise projects, consistently delivering competitive and technically compliant bid solutions.",
+                "bbox": [
+                  {
+                    "h": 34.349999999999994,
+                    "w": 326.222,
+                    "x": 237.53,
+                    "y": 240.47,
+                    "confidence": 0.99,
+                    "end_index": 255,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Extensive experience collaborating with OEMs, system integrators, consultants, and procurement stakeholders to architect optimized solutions leveraging platforms such as Genetec, Milestone, Hikvision, Axis, Honeywell, Bosch, HID, and Lenel.",
+                "value": "Extensive experience collaborating with OEMs, system integrators, consultants, and procurement stakeholders to architect optimized solutions leveraging platforms such as Genetec, Milestone, Hikvision, Axis, Honeywell, Bosch, HID, and Lenel.",
+                "bbox": [
+                  {
+                    "h": 33.95847441882623,
+                    "w": 342.35072373046876,
+                    "x": 218.9030024414063,
+                    "y": 278.6116199885671,
+                    "confidence": 0.99,
+                    "end_index": 239,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Recognized for driving strategic presales excellence and proposal leadership for marquee projects including LAX Airport, Denver Airport, AIIMS, ONGC, Navi Mumbai Metro, and multiple airport & government infrastructure programs, backed by strong stakeholder engagement and solution advisory capabilities.",
+                "value": "Recognized for driving strategic presales excellence and proposal leadership for marquee projects including LAX Airport, Denver Airport, AIIMS, ONGC, Navi Mumbai Metro, and multiple airport & government infrastructure programs, backed by strong stakeholder engagement and solution advisory capabilities.",
+                "bbox": [
+                  {
+                    "h": 41.58494028201218,
+                    "w": 342.7697334960938,
+                    "x": 218.75503740234376,
+                    "y": 317.12839716082317,
+                    "confidence": 0.99,
+                    "end_index": 302,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              }
+            ],
+            "md": "* Highly accomplished Security Systems Design & Presales Specialist with 13+ years of progressive experience in ELV, ICT, and integrated electronic security systems across airports, government institutions, correctional facilities, healthcare, oil & gas, and large-scale infrastructure projects.\n\n* Demonstrated expertise in CCTV master planning, access control architecture, VMS design, intrusion detection, intercom systems, and IP-based security network infrastructure, with strong capabilities in FOV studies, control room planning, bandwidth/storage estimation, and end-to-end solution engineering.\n\n* Proven track record in techno-commercial bid management, cost estimation, BOQ optimization, and proposal strategy development for high-value EPC, federal, and enterprise projects, consistently delivering competitive and technically compliant bid solutions.\n\n* Extensive experience collaborating with OEMs, system integrators, consultants, and procurement stakeholders to architect optimized solutions leveraging platforms such as Genetec, Milestone, Hikvision, Axis, Honeywell, Bosch, HID, and Lenel.\n\n* Recognized for driving strategic presales excellence and proposal leadership for marquee projects including LAX Airport, Denver Airport, AIIMS, ONGC, Navi Mumbai Metro, and multiple airport & government infrastructure programs, backed by strong stakeholder engagement and solution advisory capabilities.",
+            "ordered": false,
+            "bbox": [
+              {
+                "h": 220.52,
+                "w": 345.0,
+                "x": 218.76,
+                "y": 138.2,
+                "confidence": 0.99,
+                "end_index": 1413,
+                "label": "list",
+                "start_index": 0
+              }
+            ],
+            "type": "list"
+          },
+          {
+            "level": 2,
+            "md": "## CAREER TIMELINE",
+            "value": "CAREER TIMELINE",
+            "bbox": [
+              {
+                "h": 11.0,
+                "w": 82.13199999999998,
+                "x": 241.97,
+                "y": 383.21,
+                "confidence": 0.8,
+                "end_index": 17,
+                "label": "image",
+                "start_index": 0
+              }
+            ],
+            "type": "heading"
+          },
+          {
+            "csv": "\"Period\",\"Company\"\n\"02/2012 – 01/2014\",\"Hikvision logo\"\n\"01/2014 – 05/2016\",\"Tulip logo L&amp;T logo\"\n\"06/2016 – 12/2017\",\"Shapoorji Pallonji logo\"\n\"01/2018 – 03/2020\",\"SigmaByte logo\"\n\"05/2020 – 01/2023\",\"Birdi Systems, Inc. logo\"\n\"01/2023 – Present\",\"Birdi Systems, Inc.\"",
+            "html": "<table>\n  <thead>\n    <tr>\n        <th>Period</th>\n        <th>Company</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n        <td>02/2012 – 01/2014</td>\n        <td><img src=\"page_1_image_9_v2.jpg\" alt=\"Hikvision logo\" /></td>\n    </tr>\n    <tr>\n        <td>01/2014 – 05/2016</td>\n        <td><img src=\"page_1_image_5_v2.jpg\" alt=\"Tulip logo\" /> <img src=\"page_1_image_12_v2.jpg\" alt=\"L&#x26;amp;T logo\" /></td>\n    </tr>\n    <tr>\n        <td>06/2016 – 12/2017</td>\n        <td><img src=\"page_1_image_14_v2.jpg\" alt=\"Shapoorji Pallonji logo\" /></td>\n    </tr>\n    <tr>\n        <td>01/2018 – 03/2020</td>\n        <td><img src=\"page_1_image_10_v2.jpg\" alt=\"SigmaByte logo\" /></td>\n    </tr>\n    <tr>\n        <td>05/2020 – 01/2023</td>\n        <td><img src=\"page_1_image_1_v2.jpg\" alt=\"Birdi Systems, Inc. logo\" /></td>\n    </tr>\n    <tr>\n        <td>01/2023 – Present</td>\n        <td>Birdi Systems, Inc.</td>\n    </tr>\n  </tbody>\n</table>",
+            "md": "| Period            | Company                                                                       |\n| ----------------- | ----------------------------------------------------------------------------- |\n| 02/2012 – 01/2014 | ![Hikvision logo](page_1_image_9_v2.jpg)                                      |\n| 01/2014 – 05/2016 | ![Tulip logo](page_1_image_5_v2.jpg) ![L\\&amp;T logo](page_1_image_12_v2.jpg) |\n| 06/2016 – 12/2017 | ![Shapoorji Pallonji logo](page_1_image_14_v2.jpg)                            |\n| 01/2018 – 03/2020 | ![SigmaByte logo](page_1_image_10_v2.jpg)                                     |\n| 05/2020 – 01/2023 | ![Birdi Systems, Inc. logo](page_1_image_1_v2.jpg)                            |\n| 01/2023 – Present | Birdi Systems, Inc.                                                           |",
+            "rows": [
+              [
+                "Period",
+                "Company"
+              ],
+              [
+                "02/2012 – 01/2014",
+                "Hikvision logo"
+              ],
+              [
+                "01/2014 – 05/2016",
+                "Tulip logo L&amp;T logo"
+              ],
+              [
+                "06/2016 – 12/2017",
+                "Shapoorji Pallonji logo"
+              ],
+              [
+                "01/2018 – 03/2020",
+                "SigmaByte logo"
+              ],
+              [
+                "05/2020 – 01/2023",
+                "Birdi Systems, Inc. logo"
+              ],
+              [
+                "01/2023 – Present",
+                "Birdi Systems, Inc."
+              ]
+            ],
+            "bbox": [
+              {
+                "h": 67.1,
+                "w": 92.59,
+                "x": 231.62,
+                "y": 410.97,
+                "confidence": 1.0,
+                "end_index": 814,
+                "label": "table",
+                "start_index": 0
+              },
+              {
+                "h": 18.76,
+                "w": 38.69,
+                "x": 231.62,
+                "y": 410.97,
+                "confidence": 1.0,
+                "end_index": 222,
+                "label": "text",
+                "start_index": 206
+              },
+              {
+                "h": 11.825,
+                "w": 38.235,
+                "x": 278.619,
+                "y": 413.744,
+                "confidence": 1.0,
+                "end_index": 265,
+                "label": "image",
+                "start_index": 226
+              },
+              {
+                "h": 18.63,
+                "w": 38.41,
+                "x": 285.8,
+                "y": 459.45,
+                "confidence": 1.0,
+                "end_index": 324,
+                "label": "text",
+                "start_index": 308
+              },
+              {
+                "h": 14.733,
+                "w": 36.079,
+                "x": 227.106,
+                "y": 461.842,
+                "confidence": 1.0,
+                "end_index": 363,
+                "label": "image",
+                "start_index": 328
+              },
+              {
+                "h": 24.728,
+                "w": 24.71,
+                "x": 336.332,
+                "y": 462.731,
+                "confidence": 1.0,
+                "end_index": 404,
+                "label": "image",
+                "start_index": 365
+              },
+              {
+                "h": 24.349,
+                "w": 80.505,
+                "x": 336.874,
+                "y": 405.961,
+                "confidence": 1.0,
+                "end_index": 479,
+                "label": "image",
+                "start_index": 430
+              },
+              {
+                "h": 29.652,
+                "w": 35.466,
+                "x": 425.912,
+                "y": 457.671,
+                "confidence": 1.0,
+                "end_index": 572,
+                "label": "image",
+                "start_index": 532
+              },
+              {
+                "h": 91.248,
+                "w": 332.957,
+                "x": 223.53,
+                "y": 398.339,
+                "confidence": 1.0,
+                "end_index": 683,
+                "label": "image",
+                "start_index": 634
+              }
+            ],
+            "merged_from_pages": null,
+            "merged_into_page": null,
+            "parse_concerns": [
+              {
+                "details": "layout detected [text, chart, paragraph_title, image] but no table/form",
+                "type": "layout_lvm_disagreement"
+              }
+            ],
+            "type": "table"
+          },
+          {
+            "level": 2,
+            "md": "## KEY HIGHLIGHTS",
+            "value": "KEY HIGHLIGHTS",
+            "bbox": [
+              {
+                "h": 11.0,
+                "w": 75.54,
+                "x": 239.57,
+                "y": 523.27,
+                "confidence": 1.0,
+                "end_index": 16,
+                "label": "paragraph_title",
+                "start_index": 3
+              }
+            ],
+            "type": "heading"
+          },
+          {
+            "items": [
+              {
+                "md": "Spearheaded end-to-end estimation and bid support for ELV / electronic security system projects, including solution design, quantity take-offs, tender and RFP review, technical compliance analysis, costing, and management approvals.",
+                "value": "Spearheaded end-to-end estimation and bid support for ELV / electronic security system projects, including solution design, quantity take-offs, tender and RFP review, technical compliance analysis, costing, and management approvals.",
+                "bbox": [
+                  {
+                    "h": 34.32000000000005,
+                    "w": 326.092,
+                    "x": 237.53,
+                    "y": 543.52,
+                    "confidence": 0.98,
+                    "end_index": 231,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Led solution architecture and OEM selection by evaluating project scope, specifications, and client requirements to propose technically compliant and cost-optimized ELV solutions.",
+                "value": "Led solution architecture and OEM selection by evaluating project scope, specifications, and client requirements to propose technically compliant and cost-optimized ELV solutions.",
+                "bbox": [
+                  {
+                    "h": 21.720000000000027,
+                    "w": 325.451,
+                    "x": 237.53,
+                    "y": 581.92,
+                    "confidence": 0.98,
+                    "end_index": 178,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Delivered 50% improvement in bid turnaround time by streamlining techno-commercial estimation workflows, vendor coordination, and BOQ validation processes.",
+                "value": "Delivered 50% improvement in bid turnaround time by streamlining techno-commercial estimation workflows, vendor coordination, and BOQ validation processes.",
+                "bbox": [
+                  {
+                    "h": 20.069999999999936,
+                    "w": 325.77,
+                    "x": 237.53,
+                    "y": 607.72,
+                    "confidence": 0.97,
+                    "end_index": 154,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Managed high-value bids ranging from USD 1 million to USD 5 million, primarily for US federal and critical infrastructure projects, ensuring competitive and technically robust proposals.",
+                "value": "Managed high-value bids ranging from USD 1 million to USD 5 million, primarily for US federal and critical infrastructure projects, ensuring competitive and technically robust proposals.",
+                "bbox": [
+                  {
+                    "h": 20.93038708079274,
+                    "w": 342.35350649414073,
+                    "x": 218.8130145996094,
+                    "y": 630.1203890625,
+                    "confidence": 0.97,
+                    "end_index": 185,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Increased proposal participation bandwidth from approximately 1–2 bids per month to 2–3 bids per month, significantly improving business pipeline coverage.",
+                "value": "Increased proposal participation bandwidth from approximately 1–2 bids per month to 2–3 bids per month, significantly improving business pipeline coverage.",
+                "bbox": [
+                  {
+                    "h": 21.098133384146372,
+                    "w": 342.31729511718754,
+                    "x": 218.83114687500003,
+                    "y": 655.9891150152439,
+                    "confidence": 0.98,
+                    "end_index": 154,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Reduced bid turnaround time significantly over 3 years, enabling faster response to RFPs and increased participation in strategic bidding opportunities.",
+                "value": "Reduced bid turnaround time significantly over 3 years, enabling faster response to RFPs and increased participation in strategic bidding opportunities.",
+                "bbox": [
+                  {
+                    "h": 21.600000000000023,
+                    "w": 325.611,
+                    "x": 237.53,
+                    "y": 681.67,
+                    "confidence": 0.98,
+                    "end_index": 151,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Successfully led the bid for MSC South – Midfield Satellite Concourse South Extension, LAX Airport, managing the project from pre-design tender stage to final submission and securing a USD 1.8 million order.",
+                "value": "Successfully led the bid for MSC South – Midfield Satellite Concourse South Extension, LAX Airport, managing the project from pre-design tender stage to final submission and securing a USD 1.8 million order.",
+                "bbox": [
+                  {
+                    "h": 33.71841070884145,
+                    "w": 342.43294819335944,
+                    "x": 218.94718989257814,
+                    "y": 707.4334370236281,
+                    "confidence": 0.98,
+                    "end_index": 206,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Delivered a winning proposal for the San Luis Obispo Jail Security System (CCTV, ACS, PLC, and SCADA) project securing a USD 3 million contract.",
+                "value": "Delivered a winning proposal for the San Luis Obispo Jail Security System (CCTV, ACS, PLC, and SCADA) project securing a USD 3 million contract.",
+                "bbox": [
+                  {
+                    "h": 21.600000000000023,
+                    "w": 321.592,
+                    "x": 237.53,
+                    "y": 745.866,
+                    "confidence": 0.98,
+                    "end_index": 143,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Supported multiple repeat and smaller-value project wins (USD 100K–200K) for ongoing ELV requirements at the LAX Airport region, strengthening client trust and recurring business.",
+                "value": "Supported multiple repeat and smaller-value project wins (USD 100K–200K) for ongoing ELV requirements at the LAX Airport region, strengthening client trust and recurring business.",
+                "bbox": [
+                  {
+                    "h": 21.330301086127985,
+                    "w": 342.867254296875,
+                    "x": 218.87524570312502,
+                    "y": 771.3014633574695,
+                    "confidence": 0.98,
+                    "end_index": 178,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              }
+            ],
+            "md": "* Spearheaded end-to-end estimation and bid support for ELV / electronic security system projects, including solution design, quantity take-offs, tender and RFP review, technical compliance analysis, costing, and management approvals.\n\n* Led solution architecture and OEM selection by evaluating project scope, specifications, and client requirements to propose technically compliant and cost-optimized ELV solutions.\n\n* Delivered 50% improvement in bid turnaround time by streamlining techno-commercial estimation workflows, vendor coordination, and BOQ validation processes.\n\n* Managed high-value bids ranging from USD 1 million to USD 5 million, primarily for US federal and critical infrastructure projects, ensuring competitive and technically robust proposals.\n\n* Increased proposal participation bandwidth from approximately 1–2 bids per month to 2–3 bids per month, significantly improving business pipeline coverage.\n\n* Reduced bid turnaround time significantly over 3 years, enabling faster response to RFPs and increased participation in strategic bidding opportunities.\n\n* Successfully led the bid for MSC South – Midfield Satellite Concourse South Extension, LAX Airport, managing the project from pre-design tender stage to final submission and securing a USD 1.8 million order.\n\n* Delivered a winning proposal for the San Luis Obispo Jail Security System (CCTV, ACS, PLC, and SCADA) project securing a USD 3 million contract.\n\n* Supported multiple repeat and smaller-value project wins (USD 100K–200K) for ongoing ELV requirements at the LAX Airport region, strengthening client trust and recurring business.",
+            "ordered": false,
+            "bbox": [
+              {
+                "h": 249.11,
+                "w": 344.81,
+                "x": 218.81,
+                "y": 543.52,
+                "confidence": 0.98,
+                "end_index": 1622,
+                "label": "list",
+                "start_index": 0
+              }
+            ],
+            "type": "list"
+          }
+        ],
+        "page_height": 841.92,
+        "page_number": 1,
+        "page_width": 595.32,
+        "success": true
+      },
+      {
+        "items": [
+          {
+            "caption": "WORK EXPERIENCE logo",
+            "md": "![WORK EXPERIENCE logo](page_2_image_1_v2.jpg)",
+            "url": "page_2_image_1_v2.jpg",
+            "bbox": [
+              {
+                "h": 16.410975300114334,
+                "w": 108.71735897827149,
+                "x": 34.185744342041026,
+                "y": 27.132657500476373,
+                "confidence": 0.95,
+                "end_index": 45,
+                "label": "image",
+                "start_index": 0
+              }
+            ],
+            "type": "image"
+          },
+          {
+            "md": "**Estimation Lead – ELV Systems | 01/2023 – Present | Birdi Systems Inc. | Mumbai**",
+            "value": "Estimation Lead – ELV Systems | 01/2023 – Present | Birdi Systems Inc. | Mumbai",
+            "bbox": [
+              {
+                "h": 8.206339917587654,
+                "w": 305.5283794921876,
+                "x": 31.92092255859375,
+                "y": 51.41647291349085,
+                "confidence": 0.94,
+                "end_index": 82,
+                "label": "paragraph_title",
+                "start_index": 0
+              }
+            ],
+            "type": "text"
+          },
+          {
+            "items": [
+              {
+                "md": "Spearheaded **design consulting and techno-commercial estimation** for advanced electronic security and ELV systems.",
+                "value": "Spearheaded design consulting and techno-commercial estimation for advanced electronic security and ELV systems.",
+                "bbox": [
+                  {
+                    "h": 8.53356678258384,
+                    "w": 449.8127106628419,
+                    "x": 32.06394021606446,
+                    "y": 63.3439946027058,
+                    "confidence": 0.97,
+                    "end_index": 115,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Engineered **high-value cost proposals and bid estimations** for large-scale infrastructure projects.",
+                "value": "Engineered high-value cost proposals and bid estimations for large-scale infrastructure projects.",
+                "bbox": [
+                  {
+                    "h": 9.0,
+                    "w": 356.81100000000004,
+                    "x": 50.76,
+                    "y": 74.85,
+                    "confidence": 0.97,
+                    "end_index": 100,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Negotiated with suppliers and distributors to **optimize commercial pricing and enhance bid competitiveness**.",
+                "value": "Negotiated with suppliers and distributors to optimize commercial pricing and enhance bid competitiveness.",
+                "bbox": [
+                  {
+                    "h": 8.550286266196649,
+                    "w": 419.5479600952149,
+                    "x": 32.15296871337891,
+                    "y": 86.06947016958843,
+                    "confidence": 0.97,
+                    "end_index": 109,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Directed **proposal development and cost estimation** for ELV systems catering to **US Federal clients and airport infrastructure projects**.",
+                "value": "Directed proposal development and cost estimation for ELV systems catering to US Federal clients and airport infrastructure projects.",
+                "bbox": [
+                  {
+                    "h": 9.0,
+                    "w": 492.697,
+                    "x": 50.76,
+                    "y": 97.91,
+                    "confidence": 0.97,
+                    "end_index": 140,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Architected **CCTV and Access Control System (ACS) solutions** for marquee clients including **LAX Airport, Denver Airport, Glendale Jail, San Luis Obispo Jail, and JAX Stadium**.",
+                "value": "Architected CCTV and Access Control System (ACS) solutions for marquee clients including LAX Airport, Denver Airport, Glendale Jail, San Luis Obispo Jail, and JAX Stadium.",
+                "bbox": [
+                  {
+                    "h": 19.969016773056396,
+                    "w": 529.0442890686036,
+                    "x": 31.967637982177738,
+                    "y": 108.95507176543445,
+                    "confidence": 0.99,
+                    "end_index": 178,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              }
+            ],
+            "md": "* Spearheaded **design consulting and techno-commercial estimation** for advanced electronic security and ELV systems.\n* Engineered **high-value cost proposals and bid estimations** for large-scale infrastructure projects.\n* Negotiated with suppliers and distributors to **optimize commercial pricing and enhance bid competitiveness**.\n* Directed **proposal development and cost estimation** for ELV systems catering to **US Federal clients and airport infrastructure projects**.\n* Architected **CCTV and Access Control System (ACS) solutions** for marquee clients including **LAX Airport, Denver Airport, Glendale Jail, San Luis Obispo Jail, and JAX Stadium**.",
+            "ordered": false,
+            "bbox": [
+              {
+                "h": 65.58,
+                "w": 529.04,
+                "x": 31.97,
+                "y": 63.34,
+                "confidence": 0.97,
+                "end_index": 660,
+                "label": "list",
+                "start_index": 0
+              }
+            ],
+            "type": "list"
+          },
+          {
+            "md": "**Presales Engineer | 05/2020 – 01/2023 | Sigma Byte Computers Pvt. Ltd.**",
+            "value": "Presales Engineer | 05/2020 – 01/2023 | Sigma Byte Computers Pvt. Ltd.",
+            "bbox": [
+              {
+                "h": 8.72076483898627,
+                "w": 270.67274018554696,
+                "x": 31.55755034179688,
+                "y": 141.80043465605945,
+                "confidence": 0.94,
+                "end_index": 73,
+                "label": "paragraph_title",
+                "start_index": 0
+              }
+            ],
+            "type": "text"
+          },
+          {
+            "items": [
+              {
+                "md": "Developed **techno-commercial proposals and estimations** for enterprise-scale ELV deployments.",
+                "value": "Developed techno-commercial proposals and estimations for enterprise-scale ELV deployments.",
+                "bbox": [
+                  {
+                    "h": 8.632179149199708,
+                    "w": 373.46348164672855,
+                    "x": 31.823359661865236,
+                    "y": 153.5249788062119,
+                    "confidence": 0.97,
+                    "end_index": 94,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Designed **integrated CCTV and ACS solutions** for infrastructure and residential developments.",
+                "value": "Designed integrated CCTV and ACS solutions for infrastructure and residential developments.",
+                "bbox": [
+                  {
+                    "h": 8.723898175495403,
+                    "w": 360.5770680541993,
+                    "x": 32.26178009033203,
+                    "y": 165.10962574790398,
+                    "confidence": 0.96,
+                    "end_index": 94,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Conceptualized and configured **VMS architectures** leveraging platforms such as **Milestone and Genetec**.",
+                "value": "Conceptualized and configured VMS architectures leveraging platforms such as Milestone and Genetec.",
+                "bbox": [
+                  {
+                    "h": 8.659188509908518,
+                    "w": 399.3914656311036,
+                    "x": 32.20468690795899,
+                    "y": 176.28934534584604,
+                    "confidence": 0.97,
+                    "end_index": 106,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Engineered **surveillance solutions** using leading OEM ecosystems including **Axis, Hanwha, and Honeywell**.",
+                "value": "Engineered surveillance solutions using leading OEM ecosystems including Axis, Hanwha, and Honeywell.",
+                "bbox": [
+                  {
+                    "h": 8.658311175685977,
+                    "w": 407.1083551025391,
+                    "x": 32.16609821777344,
+                    "y": 187.50607591463415,
+                    "confidence": 0.97,
+                    "end_index": 108,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Designed **access control frameworks** using **HID, Honeywell, and IDCube platforms**.",
+                "value": "Designed access control frameworks using HID, Honeywell, and IDCube platforms.",
+                "bbox": [
+                  {
+                    "h": 8.580278563262208,
+                    "w": 322.55624776611336,
+                    "x": 32.30631317138672,
+                    "y": 199.26063742854421,
+                    "confidence": 0.97,
+                    "end_index": 85,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Delivered customized ELV security designs for key clients including **Adani Group and NTT**.",
+                "value": "Delivered customized ELV security designs for key clients including Adani Group and NTT.",
+                "bbox": [
+                  {
+                    "h": 8.574513224085363,
+                    "w": 345.39335676269536,
+                    "x": 32.38446540527344,
+                    "y": 210.92355511623478,
+                    "confidence": 0.98,
+                    "end_index": 91,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              }
+            ],
+            "md": "* Developed **techno-commercial proposals and estimations** for enterprise-scale ELV deployments.\n* Designed **integrated CCTV and ACS solutions** for infrastructure and residential developments.\n* Conceptualized and configured **VMS architectures** leveraging platforms such as **Milestone and Genetec**.\n* Engineered **surveillance solutions** using leading OEM ecosystems including **Axis, Hanwha, and Honeywell**.\n* Designed **access control frameworks** using **HID, Honeywell, and IDCube platforms**.\n* Delivered customized ELV security designs for key clients including **Adani Group and NTT**.",
+            "ordered": false,
+            "bbox": [
+              {
+                "h": 65.97,
+                "w": 407.45,
+                "x": 31.82,
+                "y": 153.52,
+                "confidence": 0.97,
+                "end_index": 600,
+                "label": "list",
+                "start_index": 0
+              }
+            ],
+            "type": "list"
+          },
+          {
+            "md": "**Proposal Engineer | 01/2018 – 03/2020 | Shapoorji Pallonji & Co. Pvt. Ltd. | Mumbai**",
+            "value": "Proposal Engineer | 01/2018 – 03/2020 | Shapoorji Pallonji & Co. Pvt. Ltd. | Mumbai",
+            "bbox": [
+              {
+                "h": 9.00889393102134,
+                "w": 316.50092078247076,
+                "x": 31.3421985534668,
+                "y": 232.472487890625,
+                "confidence": 0.94,
+                "end_index": 86,
+                "label": "paragraph_title",
+                "start_index": 0
+              }
+            ],
+            "type": "text"
+          },
+          {
+            "items": [
+              {
+                "md": "Led **proposal engineering and estimation for large-scale ELV, ICT, and AV infrastructure projects** across commercial and residential sectors.",
+                "value": "Led proposal engineering and estimation for large-scale ELV, ICT, and AV infrastructure projects across commercial and residential sectors.",
+                "bbox": [
+                  {
+                    "h": 8.793345445884134,
+                    "w": 528.7939289611817,
+                    "x": 32.20498822631836,
+                    "y": 244.38533303163112,
+                    "confidence": 0.96,
+                    "end_index": 142,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Evaluated and optimized **BOQs, schematics, and RFP-driven technical documentation** to improve cost efficiency and technical compliance.",
+                "value": "Evaluated and optimized BOQs, schematics, and RFP-driven technical documentation to improve cost efficiency and technical compliance.",
+                "bbox": [
+                  {
+                    "h": 8.34608045922254,
+                    "w": 527.0879375244142,
+                    "x": 32.25621013183594,
+                    "y": 255.55088994855186,
+                    "confidence": 0.95,
+                    "end_index": 136,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Owned **end-to-end costing, budgeting, and estimation** for complete ELV, ICT, and AV scopes.",
+                "value": "Owned end-to-end costing, budgeting, and estimation for complete ELV, ICT, and AV scopes.",
+                "bbox": [
+                  {
+                    "h": 8.552529735137178,
+                    "w": 359.6616894653321,
+                    "x": 32.397346765136724,
+                    "y": 267.3104522675305,
+                    "confidence": 0.96,
+                    "end_index": 92,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Formulated proposals for diverse systems including **FAS, PA, CCTV, ACS, LAN, and integrated security solutions**.",
+                "value": "Formulated proposals for diverse systems including FAS, PA, CCTV, ACS, LAN, and integrated security solutions.",
+                "bbox": [
+                  {
+                    "h": 8.468857116996956,
+                    "w": 427.7874441650391,
+                    "x": 32.383366479492196,
+                    "y": 278.7168750285823,
+                    "confidence": 0.97,
+                    "end_index": 113,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Orchestrated **vendor and OEM engagement**, driving optimized technical-commercial offers from system integrators.",
+                "value": "Orchestrated vendor and OEM engagement, driving optimized technical-commercial offers from system integrators.",
+                "bbox": [
+                  {
+                    "h": 8.814627067454214,
+                    "w": 445.15753476562503,
+                    "x": 32.229543457031255,
+                    "y": 289.97317337080796,
+                    "confidence": 0.97,
+                    "end_index": 113,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Reviewed consultant designs against **DBR standards and RFP specifications**, ensuring design integrity and bid alignment.",
+                "value": "Reviewed consultant designs against DBR standards and RFP specifications, ensuring design integrity and bid alignment.",
+                "bbox": [
+                  {
+                    "h": 8.69543494664631,
+                    "w": 458.77078584594733,
+                    "x": 32.11290888061524,
+                    "y": 301.4993397198933,
+                    "confidence": 0.97,
+                    "end_index": 121,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Delivered proposals for prestigious government projects including **AIIMS (Gorakhpur, Bathinda, Guwahati, Jammu), ONGC Kakinada, South Delhi Municipal Corporation HQ, and Agra Airport**.",
+                "value": "Delivered proposals for prestigious government projects including AIIMS (Gorakhpur, Bathinda, Guwahati, Jammu), ONGC Kakinada, South Delhi Municipal Corporation HQ, and Agra Airport.",
+                "bbox": [
+                  {
+                    "h": 18.940969064405504,
+                    "w": 528.920015185547,
+                    "x": 32.13983920898438,
+                    "y": 313.35204986661586,
+                    "confidence": 0.99,
+                    "end_index": 185,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Executed ELV proposal engineering for **airport projects including Guwahati and Agra**.",
+                "value": "Executed ELV proposal engineering for airport projects including Guwahati and Agra.",
+                "bbox": [
+                  {
+                    "h": 8.72942538109754,
+                    "w": 331.35453116455085,
+                    "x": 32.17954676513673,
+                    "y": 335.57570279153964,
+                    "confidence": 0.98,
+                    "end_index": 86,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              }
+            ],
+            "md": "* Led **proposal engineering and estimation for large-scale ELV, ICT, and AV infrastructure projects** across commercial and residential sectors.\n* Evaluated and optimized **BOQs, schematics, and RFP-driven technical documentation** to improve cost efficiency and technical compliance.\n* Owned **end-to-end costing, budgeting, and estimation** for complete ELV, ICT, and AV scopes.\n* Formulated proposals for diverse systems including **FAS, PA, CCTV, ACS, LAN, and integrated security solutions**.\n* Orchestrated **vendor and OEM engagement**, driving optimized technical-commercial offers from system integrators.\n* Reviewed consultant designs against **DBR standards and RFP specifications**, ensuring design integrity and bid alignment.\n* Delivered proposals for prestigious government projects including **AIIMS (Gorakhpur, Bathinda, Guwahati, Jammu), ONGC Kakinada, South Delhi Municipal Corporation HQ, and Agra Airport**.\n* Executed ELV proposal engineering for **airport projects including Guwahati and Agra**.",
+            "ordered": false,
+            "bbox": [
+              {
+                "h": 99.92,
+                "w": 528.95,
+                "x": 32.11,
+                "y": 244.39,
+                "confidence": 0.97,
+                "end_index": 1018,
+                "label": "list",
+                "start_index": 0
+              }
+            ],
+            "type": "list"
+          },
+          {
+            "md": "**Proposals Engineer | 06/2016 – 12/2017 | L&T Electrical and Automation**",
+            "value": "Proposals Engineer | 06/2016 – 12/2017 | L&T Electrical and Automation",
+            "bbox": [
+              {
+                "h": 8.547716930259133,
+                "w": 273.9737382019043,
+                "x": 31.345987188720706,
+                "y": 357.08711072789634,
+                "confidence": 0.94,
+                "end_index": 73,
+                "label": "paragraph_title",
+                "start_index": 0
+              }
+            ],
+            "type": "text"
+          },
+          {
+            "items": [
+              {
+                "md": "Managed **design estimation and bid documentation** for telecom and infrastructure EPC projects.",
+                "value": "Managed design estimation and bid documentation for telecom and infrastructure EPC projects.",
+                "bbox": [
+                  {
+                    "h": 8.673200790777459,
+                    "w": 373.3762654907227,
+                    "x": 32.14372532958985,
+                    "y": 368.9445835461128,
+                    "confidence": 0.97,
+                    "end_index": 95,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Drafted **technical and techno-commercial bid proposals** for large-scale project tenders.",
+                "value": "Drafted technical and techno-commercial bid proposals for large-scale project tenders.",
+                "bbox": [
+                  {
+                    "h": 9.0,
+                    "w": 322.44100000000003,
+                    "x": 50.76,
+                    "y": 380.66,
+                    "confidence": 0.96,
+                    "end_index": 89,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Designed presales solutions for **CCTV, ACS, LAN, and security networking systems**.",
+                "value": "Designed presales solutions for CCTV, ACS, LAN, and security networking systems.",
+                "bbox": [
+                  {
+                    "h": 9.0,
+                    "w": 300.479,
+                    "x": 50.76,
+                    "y": 392.18,
+                    "confidence": 0.97,
+                    "end_index": 83,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Leveraged expertise across leading OEM platforms including **Bosch, Pelco, Axis, Samsung, Oxalis, and Honeywell**.",
+                "value": "Leveraged expertise across leading OEM platforms including Bosch, Pelco, Axis, Samsung, Oxalis, and Honeywell.",
+                "bbox": [
+                  {
+                    "h": 8.484423532774414,
+                    "w": 433.5177904357911,
+                    "x": 32.33202050170899,
+                    "y": 403.5980320026677,
+                    "confidence": 0.97,
+                    "end_index": 113,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Engineered surveillance and security solutions for **oil & gas facilities and large infrastructure environments**.",
+                "value": "Engineered surveillance and security solutions for oil & gas facilities and large infrastructure environments.",
+                "bbox": [
+                  {
+                    "h": 8.405313052591511,
+                    "w": 417.00613368530276,
+                    "x": 32.364079888916024,
+                    "y": 414.6490592035061,
+                    "confidence": 0.9,
+                    "end_index": 113,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Designed enterprise-grade **VMS ecosystems** using **Milestone, Bosch, and Pelco platforms**.",
+                "value": "Designed enterprise-grade VMS ecosystems using Milestone, Bosch, and Pelco platforms.",
+                "bbox": [
+                  {
+                    "h": 8.621839138719496,
+                    "w": 348.99785769653323,
+                    "x": 32.3761104675293,
+                    "y": 426.31168862423783,
+                    "confidence": 0.97,
+                    "end_index": 92,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Architected **access control solutions** using **Lenel, HID, Honeywell, and Bosch**.",
+                "value": "Architected access control solutions using Lenel, HID, Honeywell, and Bosch.",
+                "bbox": [
+                  {
+                    "h": 9.0,
+                    "w": 281.03700000000003,
+                    "x": 50.76,
+                    "y": 438.04,
+                    "confidence": 0.96,
+                    "end_index": 83,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Designed **security LAN infrastructure**, including access and distribution switching using **Cisco CCW**.",
+                "value": "Designed security LAN infrastructure, including access and distribution switching using Cisco CCW.",
+                "bbox": [
+                  {
+                    "h": 8.62364394054877,
+                    "w": 378.9559813842774,
+                    "x": 32.36931529541016,
+                    "y": 449.23101745426834,
+                    "confidence": 0.97,
+                    "end_index": 105,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              }
+            ],
+            "md": "* Managed **design estimation and bid documentation** for telecom and infrastructure EPC projects.\n* Drafted **technical and techno-commercial bid proposals** for large-scale project tenders.\n* Designed presales solutions for **CCTV, ACS, LAN, and security networking systems**.\n* Leveraged expertise across leading OEM platforms including **Bosch, Pelco, Axis, Samsung, Oxalis, and Honeywell**.\n* Engineered surveillance and security solutions for **oil & gas facilities and large infrastructure environments**.\n* Designed enterprise-grade **VMS ecosystems** using **Milestone, Bosch, and Pelco platforms**.\n* Architected **access control solutions** using **Lenel, HID, Honeywell, and Bosch**.\n* Designed **security LAN infrastructure**, including access and distribution switching using **Cisco CCW**.",
+            "ordered": false,
+            "bbox": [
+              {
+                "h": 88.91,
+                "w": 433.71,
+                "x": 32.14,
+                "y": 368.94,
+                "confidence": 0.96,
+                "end_index": 803,
+                "label": "list",
+                "start_index": 0
+              }
+            ],
+            "type": "list"
+          },
+          {
+            "md": "**Sr. Executive – Solution Design | 01/2014 – 05/2016 | Hikvision India Pvt. Ltd.**",
+            "value": "Sr. Executive – Solution Design | 01/2014 – 05/2016 | Hikvision India Pvt. Ltd.",
+            "bbox": [
+              {
+                "h": 8.45715097179877,
+                "w": 290.4218300720215,
+                "x": 31.30974922485352,
+                "y": 471.2720093940549,
+                "confidence": 0.93,
+                "end_index": 82,
+                "label": "paragraph_title",
+                "start_index": 0
+              }
+            ],
+            "type": "text"
+          },
+          {
+            "items": [
+              {
+                "md": "Delivered **advanced CCTV surveillance network designs**, including infrastructure architecture and VMS integration.",
+                "value": "Delivered advanced CCTV surveillance network designs, including infrastructure architecture and VMS integration.",
+                "bbox": [
+                  {
+                    "h": 8.719699504573185,
+                    "w": 438.74978272705084,
+                    "x": 32.17933406982422,
+                    "y": 482.4954202362805,
+                    "confidence": 0.97,
+                    "end_index": 115,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Engineered **storage, bandwidth, and capacity planning models** for large-scale surveillance deployments.",
+                "value": "Engineered storage, bandwidth, and capacity planning models for large-scale surveillance deployments.",
+                "bbox": [
+                  {
+                    "h": 8.698793883384193,
+                    "w": 401.3007228881836,
+                    "x": 32.13442877197266,
+                    "y": 493.9289400914634,
+                    "confidence": 0.96,
+                    "end_index": 104,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Supported strategic presales initiatives through **technical solutioning and bid support** for key accounts.",
+                "value": "Supported strategic presales initiatives through technical solutioning and bid support for key accounts.",
+                "bbox": [
+                  {
+                    "h": 8.755143807164638,
+                    "w": 396.6735563049317,
+                    "x": 32.18538480834961,
+                    "y": 505.71178936737806,
+                    "confidence": 0.96,
+                    "end_index": 107,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Designed **coverage studies, interconnectivity layouts, and surveillance topologies** for critical projects.",
+                "value": "Designed coverage studies, interconnectivity layouts, and surveillance topologies for critical projects.",
+                "bbox": [
+                  {
+                    "h": 8.74632033155492,
+                    "w": 393.4499527954102,
+                    "x": 32.179954431152346,
+                    "y": 517.2811205602134,
+                    "confidence": 0.96,
+                    "end_index": 107,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Developed **BOQs, compliance documentation, and tender response artifacts** for project bids.",
+                "value": "Developed BOQs, compliance documentation, and tender response artifacts for project bids.",
+                "bbox": [
+                  {
+                    "h": 8.545636394817096,
+                    "w": 361.56687006225593,
+                    "x": 32.309186773681645,
+                    "y": 528.4540972179879,
+                    "confidence": 0.95,
+                    "end_index": 92,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Prepared **comprehensive end-to-end solution documents and technical proposals** for clients.",
+                "value": "Prepared comprehensive end-to-end solution documents and technical proposals for clients.",
+                "bbox": [
+                  {
+                    "h": 9.0,
+                    "w": 344.996,
+                    "x": 50.76,
+                    "y": 540.28,
+                    "confidence": 0.96,
+                    "end_index": 92,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Executed surveillance design for the **Navi Mumbai Metro Project**, including detailed coverage analysis.",
+                "value": "Executed surveillance design for the Navi Mumbai Metro Project, including detailed coverage analysis.",
+                "bbox": [
+                  {
+                    "h": 8.446171760670726,
+                    "w": 393.6623933166504,
+                    "x": 32.476919183349615,
+                    "y": 551.5661387766768,
+                    "confidence": 0.97,
+                    "end_index": 104,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Led **ANPR camera integration with ARS systems** for city surveillance programs.",
+                "value": "Led ANPR camera integration with ARS systems for city surveillance programs.",
+                "bbox": [
+                  {
+                    "h": 8.629860480183023,
+                    "w": 307.48378720092774,
+                    "x": 32.43639629516602,
+                    "y": 563.0149493140243,
+                    "confidence": 0.97,
+                    "end_index": 79,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Managed **compliance documentation for the DAICEC project**.",
+                "value": "Managed compliance documentation for the DAICEC project.",
+                "bbox": [
+                  {
+                    "h": 9.0,
+                    "w": 222.25400000000002,
+                    "x": 50.76,
+                    "y": 574.6,
+                    "confidence": 0.97,
+                    "end_index": 59,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              }
+            ],
+            "md": "* Delivered **advanced CCTV surveillance network designs**, including infrastructure architecture and VMS integration.\n* Engineered **storage, bandwidth, and capacity planning models** for large-scale surveillance deployments.\n* Supported strategic presales initiatives through **technical solutioning and bid support** for key accounts.\n* Designed **coverage studies, interconnectivity layouts, and surveillance topologies** for critical projects.\n* Developed **BOQs, compliance documentation, and tender response artifacts** for project bids.\n* Prepared **comprehensive end-to-end solution documents and technical proposals** for clients.\n* Executed surveillance design for the **Navi Mumbai Metro Project**, including detailed coverage analysis.\n* Led **ANPR camera integration with ARS systems** for city surveillance programs.\n* Managed **compliance documentation for the DAICEC project**.",
+            "ordered": false,
+            "bbox": [
+              {
+                "h": 101.1,
+                "w": 438.79,
+                "x": 32.13,
+                "y": 482.5,
+                "confidence": 0.96,
+                "end_index": 893,
+                "label": "list",
+                "start_index": 0
+              }
+            ],
+            "type": "list"
+          },
+          {
+            "md": "**Assistant Network Engineer | 02/2012 – 01/2014 | Tulip Telecom Ltd.**",
+            "value": "Assistant Network Engineer | 02/2012 – 01/2014 | Tulip Telecom Ltd.",
+            "bbox": [
+              {
+                "h": 8.514704096798711,
+                "w": 259.8040606750489,
+                "x": 31.723508074951177,
+                "y": 596.5746878620428,
+                "confidence": 0.94,
+                "end_index": 70,
+                "label": "paragraph_title",
+                "start_index": 0
+              }
+            ],
+            "type": "text"
+          },
+          {
+            "items": [
+              {
+                "md": "Supported service provider **MPLS-VPN network infrastructure operations and solutioning**.",
+                "value": "Supported service provider MPLS-VPN network infrastructure operations and solutioning.",
+                "bbox": [
+                  {
+                    "h": 8.616625266768267,
+                    "w": 351.6636345153809,
+                    "x": 31.963166949462895,
+                    "y": 607.7177348894818,
+                    "confidence": 0.97,
+                    "end_index": 89,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Developed strong expertise in **leased line and wireless connectivity solutions, including WiMAX networks**.",
+                "value": "Developed strong expertise in leased line and wireless connectivity solutions, including WiMAX networks.",
+                "bbox": [
+                  {
+                    "h": 8.688165605945201,
+                    "w": 411.2537269226075,
+                    "x": 31.93733333129883,
+                    "y": 619.5317671303353,
+                    "confidence": 0.98,
+                    "end_index": 107,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              }
+            ],
+            "md": "* Supported service provider **MPLS-VPN network infrastructure operations and solutioning**.\n* Developed strong expertise in **leased line and wireless connectivity solutions, including WiMAX networks**.",
+            "ordered": false,
+            "bbox": [
+              {
+                "h": 20.5,
+                "w": 411.25,
+                "x": 31.94,
+                "y": 607.72,
+                "confidence": 0.98,
+                "end_index": 202,
+                "label": "list",
+                "start_index": 0
+              }
+            ],
+            "type": "list"
+          },
+          {
+            "level": 1,
+            "md": "# ACHIEVEMENT",
+            "value": "ACHIEVEMENT",
+            "bbox": [
+              {
+                "h": 11.0,
+                "w": 67.0,
+                "x": 50.28,
+                "y": 655.9,
+                "confidence": 0.91,
+                "end_index": 12,
+                "label": "paragraph_title",
+                "start_index": 0
+              }
+            ],
+            "type": "heading"
+          },
+          {
+            "items": [
+              {
+                "md": "Received the prestigious **Outstanding Performer of the Year – 2022** award from **Sigma Byte Computers Pvt. Ltd.** for exemplary contributions and high-impact performance *(08/2022)*.",
+                "value": "Received the prestigious Outstanding Performer of the Year – 2022 award from Sigma Byte Computers Pvt. Ltd. for exemplary contributions and high-impact performance (08/2022).",
+                "bbox": [
+                  {
+                    "h": 19.78960192454274,
+                    "w": 529.4379925231935,
+                    "x": 31.946186773681646,
+                    "y": 678.8257738948171,
+                    "confidence": 0.99,
+                    "end_index": 183,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              }
+            ],
+            "md": "* Received the prestigious **Outstanding Performer of the Year – 2022** award from **Sigma Byte Computers Pvt. Ltd.** for exemplary contributions and high-impact performance *(08/2022)*.",
+            "ordered": false,
+            "bbox": [
+              {
+                "h": 19.79,
+                "w": 529.44,
+                "x": 31.95,
+                "y": 678.83,
+                "confidence": 0.99,
+                "end_index": 185,
+                "label": "list",
+                "start_index": 0
+              }
+            ],
+            "type": "list"
+          },
+          {
+            "level": 1,
+            "md": "# PERSONAL DETAILS",
+            "value": "PERSONAL DETAILS",
+            "bbox": [
+              {
+                "h": 11.0,
+                "w": 88.07100000000001,
+                "x": 55.2,
+                "y": 726.46,
+                "confidence": 0.89,
+                "end_index": 17,
+                "label": "paragraph_title",
+                "start_index": 0
+              }
+            ],
+            "type": "heading"
+          },
+          {
+            "items": [
+              {
+                "md": "**Date of Birth:** 06ᵗʰ Jan 1990",
+                "value": "Date of Birth: 06ᵗʰ Jan 1990",
+                "bbox": [
+                  {
+                    "h": 9.0,
+                    "w": 50.49,
+                    "x": 50.76,
+                    "y": 749.71,
+                    "confidence": 1.0,
+                    "end_index": 17,
+                    "label": "text",
+                    "start_index": 0
+                  },
+                  {
+                    "h": 9.27,
+                    "w": 48.24,
+                    "x": 103.22,
+                    "y": 749.44,
+                    "confidence": 1.0,
+                    "end_index": 31,
+                    "label": "text",
+                    "start_index": 19
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "**Languages:** English, Hindi & Marathi",
+                "value": "Languages: English, Hindi & Marathi",
+                "bbox": [
+                  {
+                    "h": 9.0,
+                    "w": 42.0,
+                    "x": 50.76,
+                    "y": 761.11,
+                    "confidence": 1.0,
+                    "end_index": 13,
+                    "label": "text",
+                    "start_index": 0
+                  },
+                  {
+                    "h": 9.0,
+                    "w": 88.29,
+                    "x": 94.34,
+                    "y": 761.11,
+                    "confidence": 1.0,
+                    "end_index": 38,
+                    "label": "text",
+                    "start_index": 15
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "**Address:** Mumbai, India",
+                "value": "Address: Mumbai, India",
+                "bbox": [
+                  {
+                    "h": 9.0,
+                    "w": 87.48599999999999,
+                    "x": 50.76,
+                    "y": 772.626,
+                    "confidence": 0.77,
+                    "end_index": 25,
+                    "label": "text",
+                    "start_index": 0
+                  },
+                  {
+                    "h": 9.0,
+                    "w": 52.9,
+                    "x": 85.34,
+                    "y": 772.63,
+                    "confidence": 1.0,
+                    "end_index": 25,
+                    "label": "text",
+                    "start_index": 13
+                  }
+                ],
+                "type": "text"
+              }
+            ],
+            "md": "* **Date of Birth:** 06ᵗʰ Jan 1990\n* **Languages:** English, Hindi & Marathi\n* **Address:** Mumbai, India",
+            "ordered": false,
+            "bbox": [
+              {
+                "h": 32.19,
+                "w": 131.87,
+                "x": 50.76,
+                "y": 749.44,
+                "confidence": 0.96,
+                "end_index": 104,
+                "label": "list",
+                "start_index": 0
+              }
+            ],
+            "type": "list"
+          }
+        ],
+        "page_height": 841.92,
+        "page_number": 2,
+        "page_width": 595.32,
+        "success": true
+      }
+    ]
+  },
+  "job_metadata": {
+    "state_transitions": {
+      "pending_at": "2026-05-12T14:44:08.149619Z",
+      "throttled_at": "2026-05-12T14:44:08.458633Z",
+      "running_at": "2026-05-12T14:44:08.622085Z",
+      "completed_at": "2026-05-12T14:44:31.490438Z",
+      "failed_at": null,
+      "cancelled_at": null
+    },
+    "pdf-pages": 2,
+    "pdf-real-pages": 2,
+    "pdf-rawTextLength": 11284,
+    "pdf-mdLength": 10174,
+    "pdf-time": 14800,
+    "pdf-ocrTime": 0,
+    "pdf-image-convertTime": 0,
+    "pdf-pdfToHTMLTime": 0,
+    "pdf-llmTime": 12210,
+    "pdf-inputTokens": 25561,
+    "pdf-outputTokens": 3038,
+    "pdf-image-ocr-count": 18,
+    "pdf-image-ocr-failed-count": 0,
+    "pdf-image-ocr-success-count": 33,
+    "pdf-image-ocr-empty-count": 20,
+    "pdf-image-ocr-hadText-count": 13,
+    "pdf-image-ocr-pixels": 15678577,
+    "pdf-multimodal-time": 0,
+    "pdf-multimodal-pdf2Image": 0,
+    "pdf-model": null,
+    "pdf-high-res-ocr": 2,
+    "model_invocations": [
+      {
+        "page_number": 2,
+        "model": "gemini-3.0-flash",
+        "task": "parse_page_with_agent",
+        "reason": "primary",
+        "attempt": 1,
+        "status": "success",
+        "input_tokens": 12648,
+        "output_tokens": 1507
+      },
+      {
+        "page_number": 1,
+        "model": "gemini-3.0-flash",
+        "task": "parse_page_with_agent",
+        "reason": "primary",
+        "attempt": 1,
+        "status": "success",
+        "input_tokens": 12913,
+        "output_tokens": 1531
+      }
+    ]
+  },
+  "markdown": null,
+  "markdown_full": "+91 9960510090\n\ntusharbane10@gmail.com\n\nLinkedIn\n\n# TUSHAR BANE\n\nPresales Lead | ELV & Security Systems Design | Bid & Estimation Specialist\n\n## CORE COMPETENCIES\n\n* ELV Systems Design\n* Electronic Security Systems\n* CCTV Surveillance Design\n* Access Control Systems (ACS)\n* Video Management Systems (VMS)\n* Techno-Commercial Presales\n* Cost Estimation & BOQ Management\n* Tendering / RFx Proposal Management\n* Security Network Architecture\n* IP Surveillance Infrastructure\n* Solution Engineering & Design Consulting\n* Vendor & OEM Management\n* Bid Management / Proposal Strategy\n* Integrated Security Solutions\n* Infrastructure Project Estimation\n\n## EDUCATION\n\n**Bachelor of Engineering (B.E.) – Electronics & Telecommunication (EXTC)** | University of Mumbai | 01/2011\n\n**Higher Secondary Certificate (H.S.C.)** | Maharashtra State Board | 01/2007\n\n**Secondary School Certificate (S.S.C.)** | Maharashtra State Board | 01/2005\n\n## CERTIFICATIONS\n\n* Genetec Design Consultant Certification\n\n## SOFT SKILLS\n\n![Soft Skills donut chart showing: Proactive, High Business Ethics, Decision-Making, Analytical Thinking](page_1_layout_ocr_lqcs_42_636_145_144.png)\n\n## PROFILE SNAPSHOT\n\n* Highly accomplished Security Systems Design & Presales Specialist with 13+ years of progressive experience in ELV, ICT, and integrated electronic security systems across airports, government institutions, correctional facilities, healthcare, oil & gas, and large-scale infrastructure projects.\n\n* Demonstrated expertise in CCTV master planning, access control architecture, VMS design, intrusion detection, intercom systems, and IP-based security network infrastructure, with strong capabilities in FOV studies, control room planning, bandwidth/storage estimation, and end-to-end solution engineering.\n\n* Proven track record in techno-commercial bid management, cost estimation, BOQ optimization, and proposal strategy development for high-value EPC, federal, and enterprise projects, consistently delivering competitive and technically compliant bid solutions.\n\n* Extensive experience collaborating with OEMs, system integrators, consultants, and procurement stakeholders to architect optimized solutions leveraging platforms such as Genetec, Milestone, Hikvision, Axis, Honeywell, Bosch, HID, and Lenel.\n\n* Recognized for driving strategic presales excellence and proposal leadership for marquee projects including LAX Airport, Denver Airport, AIIMS, ONGC, Navi Mumbai Metro, and multiple airport & government infrastructure programs, backed by strong stakeholder engagement and solution advisory capabilities.\n\n## CAREER TIMELINE\n\n<table>\n  <thead>\n    <tr>\n        <th>Period</th>\n        <th>Company</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n        <td>02/2012 – 01/2014</td>\n<td><img src=\"page_1_image_9_v2.jpg\" alt=\"Hikvision logo\"></td>\n    </tr>\n<tr>\n        <td>01/2014 – 05/2016</td>\n<td><img src=\"page_1_image_5_v2.jpg\" alt=\"Tulip logo\"> <img src=\"page_1_image_12_v2.jpg\" alt=\"L&amp;amp;T logo\"></td>\n    </tr>\n<tr>\n        <td>06/2016 – 12/2017</td>\n<td><img src=\"page_1_image_14_v2.jpg\" alt=\"Shapoorji Pallonji logo\"></td>\n    </tr>\n<tr>\n        <td>01/2018 – 03/2020</td>\n<td><img src=\"page_1_image_10_v2.jpg\" alt=\"SigmaByte logo\"></td>\n    </tr>\n<tr>\n        <td>05/2020 – 01/2023</td>\n<td><img src=\"page_1_image_1_v2.jpg\" alt=\"Birdi Systems, Inc. logo\"></td>\n    </tr>\n<tr>\n        <td>01/2023 – Present</td>\n<td>Birdi Systems, Inc.</td>\n    </tr>\n  </tbody>\n</table>\n\n## KEY HIGHLIGHTS\n\n* Spearheaded end-to-end estimation and bid support for ELV / electronic security system projects, including solution design, quantity take-offs, tender and RFP review, technical compliance analysis, costing, and management approvals.\n\n* Led solution architecture and OEM selection by evaluating project scope, specifications, and client requirements to propose technically compliant and cost-optimized ELV solutions.\n\n* Delivered 50% improvement in bid turnaround time by streamlining techno-commercial estimation workflows, vendor coordination, and BOQ validation processes.\n\n* Managed high-value bids ranging from USD 1 million to USD 5 million, primarily for US federal and critical infrastructure projects, ensuring competitive and technically robust proposals.\n\n* Increased proposal participation bandwidth from approximately 1–2 bids per month to 2–3 bids per month, significantly improving business pipeline coverage.\n\n* Reduced bid turnaround time significantly over 3 years, enabling faster response to RFPs and increased participation in strategic bidding opportunities.\n\n* Successfully led the bid for MSC South – Midfield Satellite Concourse South Extension, LAX Airport, managing the project from pre-design tender stage to final submission and securing a USD 1.8 million order.\n\n* Delivered a winning proposal for the San Luis Obispo Jail Security System (CCTV, ACS, PLC, and SCADA) project securing a USD 3 million contract.\n\n* Supported multiple repeat and smaller-value project wins (USD 100K–200K) for ongoing ELV requirements at the LAX Airport region, strengthening client trust and recurring business.\n\n---\n\n![WORK EXPERIENCE logo](page_2_image_1_v2.jpg)\n\n**Estimation Lead – ELV Systems | 01/2023 – Present | Birdi Systems Inc. | Mumbai**\n\n* Spearheaded **design consulting and techno-commercial estimation** for advanced electronic security and ELV systems.\n* Engineered **high-value cost proposals and bid estimations** for large-scale infrastructure projects.\n* Negotiated with suppliers and distributors to **optimize commercial pricing and enhance bid competitiveness**.\n* Directed **proposal development and cost estimation** for ELV systems catering to **US Federal clients and airport infrastructure projects**.\n* Architected **CCTV and Access Control System (ACS) solutions** for marquee clients including **LAX Airport, Denver Airport, Glendale Jail, San Luis Obispo Jail, and JAX Stadium**.\n\n**Presales Engineer | 05/2020 – 01/2023 | Sigma Byte Computers Pvt. Ltd.**\n\n* Developed **techno-commercial proposals and estimations** for enterprise-scale ELV deployments.\n* Designed **integrated CCTV and ACS solutions** for infrastructure and residential developments.\n* Conceptualized and configured **VMS architectures** leveraging platforms such as **Milestone and Genetec**.\n* Engineered **surveillance solutions** using leading OEM ecosystems including **Axis, Hanwha, and Honeywell**.\n* Designed **access control frameworks** using **HID, Honeywell, and IDCube platforms**.\n* Delivered customized ELV security designs for key clients including **Adani Group and NTT**.\n\n**Proposal Engineer | 01/2018 – 03/2020 | Shapoorji Pallonji & Co. Pvt. Ltd. | Mumbai**\n\n* Led **proposal engineering and estimation for large-scale ELV, ICT, and AV infrastructure projects** across commercial and residential sectors.\n* Evaluated and optimized **BOQs, schematics, and RFP-driven technical documentation** to improve cost efficiency and technical compliance.\n* Owned **end-to-end costing, budgeting, and estimation** for complete ELV, ICT, and AV scopes.\n* Formulated proposals for diverse systems including **FAS, PA, CCTV, ACS, LAN, and integrated security solutions**.\n* Orchestrated **vendor and OEM engagement**, driving optimized technical-commercial offers from system integrators.\n* Reviewed consultant designs against **DBR standards and RFP specifications**, ensuring design integrity and bid alignment.\n* Delivered proposals for prestigious government projects including **AIIMS (Gorakhpur, Bathinda, Guwahati, Jammu), ONGC Kakinada, South Delhi Municipal Corporation HQ, and Agra Airport**.\n* Executed ELV proposal engineering for **airport projects including Guwahati and Agra**.\n\n**Proposals Engineer | 06/2016 – 12/2017 | L&T Electrical and Automation**\n\n* Managed **design estimation and bid documentation** for telecom and infrastructure EPC projects.\n* Drafted **technical and techno-commercial bid proposals** for large-scale project tenders.\n* Designed presales solutions for **CCTV, ACS, LAN, and security networking systems**.\n* Leveraged expertise across leading OEM platforms including **Bosch, Pelco, Axis, Samsung, Oxalis, and Honeywell**.\n* Engineered surveillance and security solutions for **oil & gas facilities and large infrastructure environments**.\n* Designed enterprise-grade **VMS ecosystems** using **Milestone, Bosch, and Pelco platforms**.\n* Architected **access control solutions** using **Lenel, HID, Honeywell, and Bosch**.\n* Designed **security LAN infrastructure**, including access and distribution switching using **Cisco CCW**.\n\n**Sr. Executive – Solution Design | 01/2014 – 05/2016 | Hikvision India Pvt. Ltd.**\n\n* Delivered **advanced CCTV surveillance network designs**, including infrastructure architecture and VMS integration.\n* Engineered **storage, bandwidth, and capacity planning models** for large-scale surveillance deployments.\n* Supported strategic presales initiatives through **technical solutioning and bid support** for key accounts.\n* Designed **coverage studies, interconnectivity layouts, and surveillance topologies** for critical projects.\n* Developed **BOQs, compliance documentation, and tender response artifacts** for project bids.\n* Prepared **comprehensive end-to-end solution documents and technical proposals** for clients.\n* Executed surveillance design for the **Navi Mumbai Metro Project**, including detailed coverage analysis.\n* Led **ANPR camera integration with ARS systems** for city surveillance programs.\n* Managed **compliance documentation for the DAICEC project**.\n\n**Assistant Network Engineer | 02/2012 – 01/2014 | Tulip Telecom Ltd.**\n\n* Supported service provider **MPLS-VPN network infrastructure operations and solutioning**.\n* Developed strong expertise in **leased line and wireless connectivity solutions, including WiMAX networks**.\n\n# ACHIEVEMENT\n\n* Received the prestigious **Outstanding Performer of the Year – 2022** award from **Sigma Byte Computers Pvt. Ltd.** for exemplary contributions and high-impact performance *(08/2022)*.\n\n# PERSONAL DETAILS\n\n* **Date of Birth:** 06ᵗʰ Jan 1990\n* **Languages:** English, Hindi & Marathi\n* **Address:** Mumbai, India",
+  "metadata": {
+    "pages": [
+      {
+        "page_number": 1,
+        "confidence": 0.905,
+        "cost_optimized": false,
+        "original_orientation_angle": 0,
+        "printed_page_number": null,
+        "slide_section_name": null,
+        "speaker_notes": null,
+        "triggered_auto_mode": false
+      },
+      {
+        "page_number": 2,
+        "confidence": 0.989,
+        "cost_optimized": false,
+        "original_orientation_angle": 0,
+        "printed_page_number": null,
+        "slide_section_name": null,
+        "speaker_notes": null,
+        "triggered_auto_mode": false
+      }
+    ]
+  },
+  "raw_parameters": null,
+  "result_content_metadata": null,
+  "text": null,
+  "text_full": "+91 9960510090             TUSHAR BANE\n\ntusharbane10@gmail.com     Presales Lead | ELV & Security Systems Design | Bid &\n                           Estimation Specialist\nLinkedIn\n\n\n      CORE COMPETENCIES                      x     PROFILE SNAPSHOT\nx     ELV Systems Design                           Highly accomplished Security Systems Design & Presales Specialist with 13+ years of\nx     Electronic Security Systems                  progressive experience in ELV, ICT, and integrated electronic security systems across\nx     CCTV Surveillance Design                     airports, government institutions, correctional facilities, healthcare, oil & gas, and\nx     Access Control Systems (ACS)           x     large-scale infrastructure projects.\nx     Video Management Systems (VMS)               Demonstrated expertise in CCTV master planning, access control architecture, VMS\nx     Techno-Commercial Presales                   design,  intrusion               detection,  intercom  systems,  and  IP-based  security   network\nx     Cost Estimation & BOQ Management             infrastructure,  with            strong  capabilities  in  FOV studies,  control    room planning,\nx     Tendering / RFx Proposal                     bandwidth/storage estimation, and end-to-end solution engineering.\n\nx     Management                             x     Proven track  record in                     techno-commercial bid management, cost estimation, BOQ\nx     Security Network Architecture                optimization, and proposal strategy development for high-value EPC, federal, and enterprise\nx     IP Surveillance Infrastructure               projects, consistently delivering competitive and technically compliant bid solutions.\n      Solution Engineering & Design          x     Extensive experience collaborating with OEMs, system integrators, consultants, and\n\nx     Consulting                                   procurement stakeholders to architect optimized solutions leveraging platforms such as\nx     Vendor & OEM Management                      Genetec, Milestone, Hikvision, Axis, Honeywell, Bosch, HID, and Lenel.\nx     Bid Management / Proposal Strategy     x     Recognized for driving strategic presales excellence and proposal leadership                   for\nx     Integrated Security Solutions                marquee projects including LAX Airport, Denver Airport, AIIMS, ONGC, Navi Mumbai\n      Infrastructure Project Estimation            Metro, and multiple airport & government infrastructure programs, backed by strong\n\n                                                   stakeholder engagement and solution advisory capabilities.\n\n      EDUCATION\n\n      Bachelor of Engineering (B.E.) –             CAREER TIMELINE                                                  05/2020\n      Electronics & Telecommunication             02/2012 –  HIKVISION              06/2016                         –              Birdi Systems, Inc.\n      (EXTC) | University of Mumbai |             01/2014    See Far, Go Further    – 12/2017 Shapoorji Pallonj     01/2023\n      01/2011\n\n      Higher Secondary Certificate (H.S.C.)\n      | Maharashtra State Board |                  01/2014 –                                    01/2018                     01/2023\n      01/2007                                       05/2016                                               –                        –\n                                                                                                03/2020             SigmaByte    Present\n      Secondary School Certificate (S.S.C.)\n      | Maharashtra State Board |\n      01/2005\n                                                   KEY HIGHLIGHTS\n\n      CERTIFICATIONS                         x     Spearheaded end-to-end estimation and bid support for ELV / electronic security system\nx     Genetec Design Consultant                    projects, including solution design, quantity take-offs, tender and RFP review, technical\n      Certification                          x     compliance analysis, costing, and management approvals.\n                                                   Led solution architecture and OEM selection by evaluating project scope, specifications, and\n                                                   client requirements to propose technically compliant and cost-optimized ELV solutions.\n\n      SOFT SKILLS                            x     Delivered 50% improvement in bid turnaround time by streamlining techno-commercial\n                                                   estimation workflows, vendor coordination, and BOQ validation processes.\n                                             x     Managed high-value bids ranging from USD 1 million to USD 5 million, primarily for US federal\n\n      Proctive         te e                  x     and critical infrastructure projects, ensuring competitive and technically robust proposals.\n                                                   Increased proposal participation bandwidth from approximately 1–2 bids per month to\n                                                   2–3 bids per month, significantly improving business pipeline coverage.\n                                             x     Reduced bid turnaround time significantly over 3 years, enabling faster response to RFPs\n                                                   and increased participation in strategic bidding opportunities.\n      Aoe puln                               x     Successfully led the bid for MSC South – Midfield Satellite Concourse South Extension,\n                                                   LAX Airport, managing the project from pre-design tender stage to final submission and\n                                                   securing a USD 1.8 million order.\n                                             x     Delivered a winning proposal for the San Luis Obispo Jail Security System (CCTV, ACS,\n                                                   PLC, and SCADA) project securing a USD 3 million contract.\n                                             x     Supported multiple repeat and smaller-value project wins (USD 100K–200K) for ongoing ELV\n                                                   requirements at the LAX Airport region, strengthening client trust and recurring business.\n\n---\n\n      WORK EXPERIENCE\nEstimation Lead – ELV Systems | 01/2023 – Present | Birdi Systems Inc. | Mumbai\nx     Spearheaded design consulting and techno-commercial estimation for advanced electronic security and ELV systems.\nx     Engineered high-value cost proposals and bid estimations for large-scale infrastructure projects.\nx     Negotiated with suppliers and distributors to optimize commercial pricing and enhance bid competitiveness.\nx     Directed proposal development and cost estimation for ELV systems catering to US Federal clients and airport infrastructure projects.\nx     Architected CCTV and Access Control System (ACS) solutions for marquee clients including LAX Airport, Denver Airport, Glendale Jail, San\n      Luis Obispo Jail, and JAX Stadium.\n\nPresales Engineer | 05/2020 – 01/2023 | Sigma Byte Computers Pvt. Ltd.\nx     Developed techno-commercial proposals and estimations for enterprise-scale ELV deployments.\nx     Designed integrated CCTV and ACS solutions for infrastructure and residential developments.\nx     Conceptualized and configured VMS architectures leveraging platforms such as Milestone and Genetec.\nx     Engineered surveillance solutions using leading OEM ecosystems including Axis, Hanwha, and Honeywell.\nx     Designed access control frameworks using HID, Honeywell, and IDCube platforms.\nx     Delivered customized ELV security designs for key clients including Adani Group and NTT.\n\nProposal Engineer | 01/2018 – 03/2020 | Shapoorji Pallonji & Co. Pvt. Ltd. | Mumbai\nx     Led proposal engineering and estimation for large-scale ELV, ICT, and AV infrastructure projects across commercial and residential sectors.\nx     Evaluated and optimized BOQs, schematics, and RFP-driven technical documentation to improve cost efficiency and technical compliance.\nx     Owned end-to-end costing, budgeting, and estimation for complete ELV, ICT, and AV scopes.\nx     Formulated proposals for diverse systems including FAS, PA, CCTV, ACS, LAN, and integrated security solutions.\nx     Orchestrated vendor and OEM engagement, driving optimized technical-commercial offers from system integrators.\nx     Reviewed consultant designs against DBR standards and RFP specifications, ensuring design integrity and bid alignment.\nx     Delivered proposals for prestigious government projects including AIIMS (Gorakhpur, Bathinda, Guwahati, Jammu), ONGC Kakinada, South\n      Delhi Municipal Corporation HQ, and Agra Airport.\nx     Executed ELV proposal engineering for airport projects including Guwahati and Agra.\n\nProposals Engineer | 06/2016 – 12/2017 | L&T Electrical and Automation\nx     Managed design estimation and bid documentation for telecom and infrastructure EPC projects.\nx     Drafted technical and techno-commercial bid proposals for large-scale project tenders.\nx     Designed presales solutions for CCTV, ACS, LAN, and security networking systems.\nx     Leveraged expertise across leading OEM platforms including Bosch, Pelco, Axis, Samsung, Oxalis, and Honeywell.\nx     Engineered surveillance and security solutions for oil & gas facilities and large infrastructure environments.\nx     Designed enterprise-grade VMS ecosystems using Milestone, Bosch, and Pelco platforms.\nx     Architected access control solutions using Lenel, HID, Honeywell, and Bosch.\nx     Designed security LAN infrastructure, including access and distribution switching using Cisco CCW.\n\nSr. Executive – Solution Design | 01/2014 – 05/2016 | Hikvision India Pvt. Ltd.\nx     Delivered advanced CCTV surveillance network designs, including infrastructure architecture and VMS integration.\nx     Engineered storage, bandwidth, and capacity planning models for large-scale surveillance deployments.\nx     Supported strategic presales initiatives through technical solutioning and bid support for key accounts.\nx     Designed coverage studies, interconnectivity layouts, and surveillance topologies for critical projects.\nx     Developed BOQs, compliance documentation, and tender response artifacts for project bids.\nx     Prepared comprehensive end-to-end solution documents and technical proposals for clients.\nx     Executed surveillance design for the Navi Mumbai Metro Project, including detailed coverage analysis.\nx     Led ANPR camera integration with ARS systems for city surveillance programs.\nx     Managed compliance documentation for the DAICEC project.\n\nAssistant Network Engineer | 02/2012 – 01/2014 | Tulip Telecom Ltd.\nx     Supported service provider MPLS-VPN network infrastructure operations and solutioning.\nx     Developed strong expertise in leased line and wireless connectivity solutions, including WiMAX networks.\n\n\nACHIEVEMENT\n\nx     Received the prestigious Outstanding Performer of the Year – 2022 award from Sigma Byte Computers Pvt. Ltd. for exemplary contributions\n      and high-impact performance (08/2022).\n\n\n   PERSONAL DETAILS\n\nx  Date of Birth: 06ᵗʰ Jan 1990\nx  Languages: English, Hindi & Marathi\nx  Address: Mumbai, India",
+  "debug": null
+}

@@ -1,0 +1,2748 @@
+{
+  "job": {
+    "id": "pjb-5n6cjinx7bbxbam7sr06cy5aaj9s",
+    "project_id": "949fd88b-381a-4ae5-b3b9-bf7fcc9b74b8",
+    "status": "COMPLETED",
+    "created_at": "2026-05-12T14:40:57.662303Z",
+    "error_message": null,
+    "name": "DOC-20260426-WA0011..pdf",
+    "tier": "agentic",
+    "updated_at": "2026-05-12T14:41:13.487957Z"
+  },
+  "images_content_metadata": null,
+  "items": {
+    "pages": [
+      {
+        "items": [
+          {
+            "level": 1,
+            "md": "# RAKESH SHARMA",
+            "value": "RAKESH SHARMA",
+            "bbox": [
+              {
+                "h": 11.107423185022865,
+                "w": 133.15074266387197,
+                "x": 83.9923135003811,
+                "y": 66.961660275343,
+                "confidence": 0.89,
+                "end_index": 14,
+                "label": "paragraph_title",
+                "start_index": 0
+              }
+            ],
+            "type": "heading"
+          },
+          {
+            "md": "Mobile No +919649315095\nEmail:",
+            "value": "Mobile No +919649315095\nEmail:",
+            "bbox": [
+              {
+                "h": 10.0,
+                "w": 100.26999999999998,
+                "x": 411.43,
+                "y": 75.261,
+                "confidence": 0.75,
+                "end_index": 29,
+                "label": "key-value-region",
+                "start_index": 0
+              },
+              {
+                "h": 10.0,
+                "w": 100.27,
+                "x": 411.43,
+                "y": 75.26,
+                "confidence": 1.0,
+                "end_index": 22,
+                "label": "key-value-region",
+                "start_index": 0
+              },
+              {
+                "h": 10.0,
+                "w": 139.0,
+                "x": 376.9,
+                "y": 85.76,
+                "confidence": 0.75,
+                "end_index": 29,
+                "label": "key-value-region",
+                "start_index": 24
+              }
+            ],
+            "type": "text"
+          },
+          {
+            "md": "<Sharma.rakesh2824@gmail.com>",
+            "text": "Sharma.rakesh2824@gmail.com",
+            "url": "mailto:Sharma.rakesh2824@gmail.com",
+            "bbox": [
+              {
+                "h": 19.8,
+                "w": 139.536,
+                "x": 376.38,
+                "y": 76.032,
+                "confidence": 0.52,
+                "end_index": 28,
+                "label": "key-value-region",
+                "start_index": 0
+              }
+            ],
+            "type": "link"
+          },
+          {
+            "level": 2,
+            "md": "## OBJECTIVE",
+            "value": "OBJECTIVE",
+            "bbox": [
+              {
+                "h": 11.55918850038111,
+                "w": 59.84093333174543,
+                "x": 68.62668975085747,
+                "y": 138.12974764195886,
+                "confidence": 0.97,
+                "end_index": 11,
+                "label": "paragraph_title",
+                "start_index": 0
+              }
+            ],
+            "type": "heading"
+          },
+          {
+            "md": "To work in a professionally managed organization is enabling my professional and personal growth and offering a significant learning and performance based career in the latest and fast growing technocommercial domain. I wish to involve as an effective personality through progressive, sincere and sustained effort.",
+            "value": "To work in a professionally managed organization is enabling my professional and personal growth and offering a significant learning and performance based career in the latest and fast growing technocommercial domain. I wish to involve as an effective personality through progressive, sincere and sustained effort.",
+            "bbox": [
+              {
+                "h": 50.66088724275915,
+                "w": 410.06654832793447,
+                "x": 107.12840689310214,
+                "y": 165.47766053734756,
+                "confidence": 0.99,
+                "end_index": 313,
+                "label": "text",
+                "start_index": 0
+              }
+            ],
+            "type": "text"
+          },
+          {
+            "level": 2,
+            "md": "## TECHNICAL EXPERTISE",
+            "value": "TECHNICAL EXPERTISE",
+            "bbox": [
+              {
+                "h": 9.599609136814006,
+                "w": 126.76135093130715,
+                "x": 68.25051251667301,
+                "y": 232.6790274866616,
+                "confidence": 0.97,
+                "end_index": 21,
+                "label": "paragraph_title",
+                "start_index": 0
+              }
+            ],
+            "type": "heading"
+          },
+          {
+            "level": 3,
+            "md": "### Hardware:",
+            "value": "Hardware:",
+            "bbox": [
+              {
+                "h": 11.013514195884152,
+                "w": 51.98844994521722,
+                "x": 68.22498457745807,
+                "y": 258.38474156821644,
+                "confidence": 0.96,
+                "end_index": 12,
+                "label": "paragraph_title",
+                "start_index": 0
+              }
+            ],
+            "type": "heading"
+          },
+          {
+            "items": [
+              {
+                "md": "**Cisco Routers:** 2800,2900, 3600series",
+                "value": "Cisco Routers: 2800,2900, 3600series",
+                "bbox": [
+                  {
+                    "h": 12.0,
+                    "w": 69.0,
+                    "x": 105.3,
+                    "y": 282.55,
+                    "confidence": 1.0,
+                    "end_index": 17,
+                    "label": "text",
+                    "start_index": 0
+                  },
+                  {
+                    "h": 12.0,
+                    "w": 97.52,
+                    "x": 179.08,
+                    "y": 282.55,
+                    "confidence": 1.0,
+                    "end_index": 39,
+                    "label": "text",
+                    "start_index": 19
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "**Brocade Switches:** VDX-6740, ICX-7450",
+                "value": "Brocade Switches: VDX-6740, ICX-7450",
+                "bbox": [
+                  {
+                    "h": 10.295999999999992,
+                    "w": 204.40800000000007,
+                    "x": 86.29199999999999,
+                    "y": 298.584,
+                    "confidence": 0.86,
+                    "end_index": 39,
+                    "label": "text",
+                    "start_index": 0
+                  },
+                  {
+                    "h": 12.0,
+                    "w": 84.25,
+                    "x": 105.3,
+                    "y": 297.3,
+                    "confidence": 1.0,
+                    "end_index": 20,
+                    "label": "text",
+                    "start_index": 0
+                  },
+                  {
+                    "h": 12.0,
+                    "w": 45.0,
+                    "x": 132.8,
+                    "y": 312.55,
+                    "confidence": 1.0,
+                    "end_index": 20,
+                    "label": "text",
+                    "start_index": 10
+                  },
+                  {
+                    "h": 12.0,
+                    "w": 97.8,
+                    "x": 192.58,
+                    "y": 297.3,
+                    "confidence": 1.0,
+                    "end_index": 39,
+                    "label": "text",
+                    "start_index": 22
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "**Cisco Switches:** Cisco Catalyst, 2960-x, 3560, 3750,4500x, 6500 series,",
+                "value": "Cisco Switches: Cisco Catalyst, 2960-x, 3560, 3750,4500x, 6500 series,",
+                "bbox": [
+                  {
+                    "h": 10.295999999999992,
+                    "w": 333.54,
+                    "x": 86.29199999999999,
+                    "y": 313.632,
+                    "confidence": 0.86,
+                    "end_index": 73,
+                    "label": "text",
+                    "start_index": 0
+                  },
+                  {
+                    "h": 12.0,
+                    "w": 72.5,
+                    "x": 105.3,
+                    "y": 312.55,
+                    "confidence": 1.0,
+                    "end_index": 18,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "**Firewall**",
+                "value": "Firewall",
+                "bbox": [
+                  {
+                    "h": 12.0,
+                    "w": 39.000000000000014,
+                    "x": 105.3,
+                    "y": 328.299,
+                    "confidence": 0.97,
+                    "end_index": 11,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              }
+            ],
+            "md": "* **Cisco Routers:** 2800,2900, 3600series\n* **Brocade Switches:** VDX-6740, ICX-7450\n* **Cisco Switches:** Cisco Catalyst, 2960-x, 3560, 3750,4500x, 6500 series,\n* **Firewall**",
+            "ordered": false,
+            "bbox": [
+              {
+                "h": 57.75,
+                "w": 333.54,
+                "x": 86.29,
+                "y": 282.55,
+                "confidence": 0.97,
+                "end_index": 176,
+                "label": "list",
+                "start_index": 0
+              }
+            ],
+            "type": "list"
+          },
+          {
+            "level": 3,
+            "md": "### Software:",
+            "value": "Software:",
+            "bbox": [
+              {
+                "h": 11.190343702362835,
+                "w": 50.13946914300685,
+                "x": 68.05846989329268,
+                "y": 355.0234698932927,
+                "confidence": 0.96,
+                "end_index": 12,
+                "label": "paragraph_title",
+                "start_index": 0
+              }
+            ],
+            "type": "heading"
+          },
+          {
+            "items": [
+              {
+                "md": "**Operating Systems**: Cisco IOS software (15.1/12.4/15.5), Windows 8/12",
+                "value": "Operating Systems: Cisco IOS software (15.1/12.4/15.5), Windows 8/12",
+                "bbox": [
+                  {
+                    "h": 12.0,
+                    "w": 87.28,
+                    "x": 105.3,
+                    "y": 378.82,
+                    "confidence": 1.0,
+                    "end_index": 21,
+                    "label": "text",
+                    "start_index": 0
+                  },
+                  {
+                    "h": 12.0,
+                    "w": 226.32,
+                    "x": 218.35,
+                    "y": 378.82,
+                    "confidence": 1.0,
+                    "end_index": 71,
+                    "label": "text",
+                    "start_index": 23
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "**Application Software**: MS -Office 2013/2010/2007",
+                "value": "Application Software: MS -Office 2013/2010/2007",
+                "bbox": [
+                  {
+                    "h": 12.0,
+                    "w": 97.78,
+                    "x": 105.3,
+                    "y": 394.07,
+                    "confidence": 1.0,
+                    "end_index": 24,
+                    "label": "text",
+                    "start_index": 0
+                  },
+                  {
+                    "h": 12.0,
+                    "w": 123.0,
+                    "x": 212.1,
+                    "y": 394.07,
+                    "confidence": 1.0,
+                    "end_index": 50,
+                    "label": "text",
+                    "start_index": 26
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "**Protocols**: TCP/IP, HTTP, Telnet, DHCP, DNS, Fast Ethernet, OSPF, EIGRP, BGP, VTP, STP, SNMP, PPP, HDLC, RDP, FTP, HSRP, VRRP, GLBP etc.",
+                "value": "Protocols: TCP/IP, HTTP, Telnet, DHCP, DNS, Fast Ethernet, OSPF, EIGRP, BGP, VTP, STP, SNMP, PPP, HDLC, RDP, FTP, HSRP, VRRP, GLBP etc.",
+                "bbox": [
+                  {
+                    "h": 26.029999999999973,
+                    "w": 433.68,
+                    "x": 105.3,
+                    "y": 409.819,
+                    "confidence": 0.49,
+                    "end_index": 138,
+                    "label": "key-value-region",
+                    "start_index": 0
+                  },
+                  {
+                    "h": 26.03,
+                    "w": 322.88,
+                    "x": 216.1,
+                    "y": 409.82,
+                    "confidence": 1.0,
+                    "end_index": 138,
+                    "label": "text",
+                    "start_index": 15
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "**Skills**: Routing, Switching, VLAN, SPAN, RSPAN, ACL, NAT, VPN, GRE, Private VLAN, Link Aggregation",
+                "value": "Skills: Routing, Switching, VLAN, SPAN, RSPAN, ACL, NAT, VPN, GRE, Private VLAN, Link Aggregation",
+                "bbox": [
+                  {
+                    "h": 26.75,
+                    "w": 416.15000000000003,
+                    "x": 105.3,
+                    "y": 437.849,
+                    "confidence": 0.51,
+                    "end_index": 100,
+                    "label": "key-value-region",
+                    "start_index": 0
+                  },
+                  {
+                    "h": 26.75,
+                    "w": 303.85,
+                    "x": 217.6,
+                    "y": 437.85,
+                    "confidence": 1.0,
+                    "end_index": 100,
+                    "label": "text",
+                    "start_index": 12
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "**Server**: Windows 2008/2012.",
+                "value": "Server: Windows 2008/2012.",
+                "bbox": [
+                  {
+                    "h": 8.711999999999989,
+                    "w": 226.44,
+                    "x": 86.29199999999999,
+                    "y": 469.65599999999995,
+                    "confidence": 0.93,
+                    "end_index": 29,
+                    "label": "text",
+                    "start_index": 0
+                  },
+                  {
+                    "h": 12.0,
+                    "w": 93.75,
+                    "x": 219.1,
+                    "y": 468.1,
+                    "confidence": 1.0,
+                    "end_index": 29,
+                    "label": "text",
+                    "start_index": 12
+                  }
+                ],
+                "type": "text"
+              }
+            ],
+            "md": "* **Operating Systems**: Cisco IOS software (15.1/12.4/15.5), Windows 8/12\n* **Application Software**: MS -Office 2013/2010/2007\n* **Protocols**: TCP/IP, HTTP, Telnet, DHCP, DNS, Fast Ethernet, OSPF, EIGRP, BGP, VTP, STP, SNMP, PPP, HDLC, RDP, FTP, HSRP, VRRP, GLBP etc.\n* **Skills**: Routing, Switching, VLAN, SPAN, RSPAN, ACL, NAT, VPN, GRE, Private VLAN, Link Aggregation\n* **Server**: Windows 2008/2012.",
+            "ordered": false,
+            "bbox": [
+              {
+                "h": 101.28,
+                "w": 452.69,
+                "x": 86.29,
+                "y": 378.82,
+                "confidence": 0.89,
+                "end_index": 406,
+                "label": "list",
+                "start_index": 0
+              }
+            ],
+            "type": "list"
+          },
+          {
+            "level": 2,
+            "md": "## CERTIFICATION",
+            "value": "CERTIFICATION",
+            "bbox": [
+              {
+                "h": 9.409197313262277,
+                "w": 86.14286927758192,
+                "x": 68.77143462390434,
+                "y": 524.3084236852134,
+                "confidence": 0.97,
+                "end_index": 15,
+                "label": "paragraph_title",
+                "start_index": 0
+              }
+            ],
+            "type": "heading"
+          },
+          {
+            "items": [
+              {
+                "md": "CCNA (Cisco Certified Network Associate) Cisco ID-CSCO14529866",
+                "value": "CCNA (Cisco Certified Network Associate) Cisco ID-CSCO14529866",
+                "bbox": [
+                  {
+                    "h": 10.933010670731809,
+                    "w": 345.4488109756098,
+                    "x": 86.45451148056402,
+                    "y": 550.4392454268292,
+                    "confidence": 0.95,
+                    "end_index": 61,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "NetAPP Certified Data Administrator, ONTAP Candidate ID-NETAPP00079650",
+                "value": "NetAPP Certified Data Administrator, ONTAP Candidate ID-NETAPP00079650",
+                "bbox": [
+                  {
+                    "h": 10.211780201981696,
+                    "w": 404.0560761242378,
+                    "x": 86.26727015053353,
+                    "y": 575.8824152057928,
+                    "confidence": 0.94,
+                    "end_index": 69,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Microsoft Certified Azure Administrator Associate Certification No- 1574-6541",
+                "value": "Microsoft Certified Azure Administrator Associate Certification No- 1574-6541",
+                "bbox": [
+                  {
+                    "h": 9.213951505335379,
+                    "w": 407.1688630192454,
+                    "x": 86.37887516673018,
+                    "y": 601.5928925304878,
+                    "confidence": 0.95,
+                    "end_index": 76,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              }
+            ],
+            "md": "* CCNA (Cisco Certified Network Associate) Cisco ID-CSCO14529866\n* NetAPP Certified Data Administrator, ONTAP Candidate ID-NETAPP00079650\n* Microsoft Certified Azure Administrator Associate Certification No- 1574-6541",
+            "ordered": false,
+            "bbox": [
+              {
+                "h": 60.37,
+                "w": 407.28,
+                "x": 86.27,
+                "y": 550.44,
+                "confidence": 0.95,
+                "end_index": 216,
+                "label": "list",
+                "start_index": 0
+              }
+            ],
+            "type": "list"
+          },
+          {
+            "level": 2,
+            "md": "## PROFESSIONAL EXPERIENCE",
+            "value": "PROFESSIONAL EXPERIENCE",
+            "bbox": [
+              {
+                "h": 9.298463700457253,
+                "w": 154.71818883384145,
+                "x": 71.13244557450457,
+                "y": 653.1392478086891,
+                "confidence": 0.97,
+                "end_index": 25,
+                "label": "paragraph_title",
+                "start_index": 0
+              }
+            ],
+            "type": "heading"
+          },
+          {
+            "items": [
+              {
+                "md": "**Organization**: TATA Advanced System Ltd(Payroll-Technosys Integrated Solutions PVT.LTD.)",
+                "value": "Organization: TATA Advanced System Ltd(Payroll-Technosys Integrated Solutions PVT.LTD.)",
+                "bbox": [
+                  {
+                    "h": 12.0,
+                    "w": 425.15,
+                    "x": 108.8,
+                    "y": 690.67,
+                    "confidence": 1.0,
+                    "end_index": 90,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "**Project**: Smart city Surveillance",
+                "value": "Project: Smart city Surveillance",
+                "bbox": [
+                  {
+                    "h": 13.0,
+                    "w": 183.55,
+                    "x": 109.3,
+                    "y": 703.275,
+                    "confidence": 0.93,
+                    "end_index": 35,
+                    "label": "text",
+                    "start_index": 0
+                  },
+                  {
+                    "h": 13.0,
+                    "w": 105.77,
+                    "x": 187.08,
+                    "y": 703.28,
+                    "confidence": 1.0,
+                    "end_index": 35,
+                    "label": "text",
+                    "start_index": 13
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "**Designation**: Network Admin L-2",
+                "value": "Designation: Network Admin L-2",
+                "bbox": [
+                  {
+                    "h": 12.0,
+                    "w": 55.0,
+                    "x": 109.3,
+                    "y": 717.92,
+                    "confidence": 1.0,
+                    "end_index": 15,
+                    "label": "text",
+                    "start_index": 0
+                  },
+                  {
+                    "h": 12.0,
+                    "w": 90.68,
+                    "x": 187.45,
+                    "y": 717.92,
+                    "confidence": 1.0,
+                    "end_index": 33,
+                    "label": "text",
+                    "start_index": 17
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "**Duration**: 08 October 2023 till Now.",
+                "value": "Duration: 08 October 2023 till Now.",
+                "bbox": [
+                  {
+                    "h": 9.504000000000019,
+                    "w": 214.812,
+                    "x": 86.904,
+                    "y": 732.6,
+                    "confidence": 0.92,
+                    "end_index": 38,
+                    "label": "text",
+                    "start_index": 0
+                  },
+                  {
+                    "h": 12.0,
+                    "w": 114.92,
+                    "x": 188.08,
+                    "y": 731.67,
+                    "confidence": 1.0,
+                    "end_index": 38,
+                    "label": "text",
+                    "start_index": 14
+                  }
+                ],
+                "type": "text"
+              }
+            ],
+            "md": "* **Organization**: TATA Advanced System Ltd(Payroll-Technosys Integrated Solutions PVT.LTD.)\n* **Project**: Smart city Surveillance\n* **Designation**: Network Admin L-2\n* **Duration**: 08 October 2023 till Now.",
+            "ordered": false,
+            "bbox": [
+              {
+                "h": 53.0,
+                "w": 447.05,
+                "x": 86.9,
+                "y": 690.67,
+                "confidence": 0.98,
+                "end_index": 210,
+                "label": "list",
+                "start_index": 0
+              }
+            ],
+            "type": "list"
+          }
+        ],
+        "page_height": 792.0,
+        "page_number": 1,
+        "page_width": 612.0,
+        "success": true
+      },
+      {
+        "items": [
+          {
+            "md": "**Responsibilities-**",
+            "value": "Responsibilities-",
+            "bbox": [
+              {
+                "h": 11.952273961509144,
+                "w": 82.97000244140625,
+                "x": 68.53054544588414,
+                "y": 63.07716475323934,
+                "confidence": 0.97,
+                "end_index": 20,
+                "label": "paragraph_title",
+                "start_index": 0
+              }
+            ],
+            "type": "text"
+          },
+          {
+            "items": [
+              {
+                "md": "Configuration/Reconfiguration/Deployment and management of various policies like security policies, Access policies, IP policies and routing policies including but not limited opening/closing of specific ports on Network device",
+                "value": "Configuration/Reconfiguration/Deployment and management of various policies like security policies, Access policies, IP policies and routing policies including but not limited opening/closing of specific ports on Network device",
+                "bbox": [
+                  {
+                    "h": 36.65335639767532,
+                    "w": 459.85002024580797,
+                    "x": 86.51267363757621,
+                    "y": 104.09497237042683,
+                    "confidence": 0.99,
+                    "end_index": 226,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Responsible to manage and maintenance internet bandwidth/link provided by ISP and coordinate with concern team of integration infrastructure network at Data centre.",
+                "value": "Responsible to manage and maintenance internet bandwidth/link provided by ISP and coordinate with concern team of integration infrastructure network at Data centre.",
+                "bbox": [
+                  {
+                    "h": 23.62864531726373,
+                    "w": 439.8317154749428,
+                    "x": 86.51980724799922,
+                    "y": 142.7267842511433,
+                    "confidence": 0.98,
+                    "end_index": 163,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Responsible to monitor availability of various links and their packet drop, latency and Utilization at Data centre.",
+                "value": "Responsible to monitor availability of various links and their packet drop, latency and Utilization at Data centre.",
+                "bbox": [
+                  {
+                    "h": 22.305760646913114,
+                    "w": 449.87559296398626,
+                    "x": 86.49213831459603,
+                    "y": 171.69893947694362,
+                    "confidence": 0.98,
+                    "end_index": 114,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Basic technical support at the network level: WAN and LAN connectivity, routers, firewalls.",
+                "value": "Basic technical support at the network level: WAN and LAN connectivity, routers, firewalls.",
+                "bbox": [
+                  {
+                    "h": 11.27150747903962,
+                    "w": 417.62555151962647,
+                    "x": 86.52737816787348,
+                    "y": 199.72096917873478,
+                    "confidence": 0.97,
+                    "end_index": 90,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Responsible for software (Situator, Integraph Application) and network first level support.",
+                "value": "Responsible for software (Situator, Integraph Application) and network first level support.",
+                "bbox": [
+                  {
+                    "h": 25.938216939786578,
+                    "w": 403.6287427948742,
+                    "x": 72.96108237661966,
+                    "y": 239.77522222751526,
+                    "confidence": 0.98,
+                    "end_index": 90,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Coordination with vendors for Work on tickets that are logged into ticketing system via phone or email or ticketing tool.",
+                "value": "Coordination with vendors for Work on tickets that are logged into ticketing system via phone or email or ticketing tool.",
+                "bbox": [
+                  {
+                    "h": 26.07217725800307,
+                    "w": 420.6418479063452,
+                    "x": 84.10932111042301,
+                    "y": 267.4205430640244,
+                    "confidence": 0.99,
+                    "end_index": 120,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Monitor and manage system alerts, notifications and respond accordingly through service tickets",
+                "value": "Monitor and manage system alerts, notifications and respond accordingly through service tickets",
+                "bbox": [
+                  {
+                    "h": 23.81279654153962,
+                    "w": 410.0271449242569,
+                    "x": 84.13176966225228,
+                    "y": 295.4223997237043,
+                    "confidence": 0.98,
+                    "end_index": 94,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Responsible for doing in-depth troubleshooting analysis and problem resolution and provide reports.",
+                "value": "Responsible for doing in-depth troubleshooting analysis and problem resolution and provide reports.",
+                "bbox": [
+                  {
+                    "h": 27.0,
+                    "w": 399.424,
+                    "x": 108.526,
+                    "y": 321.658,
+                    "confidence": 0.99,
+                    "end_index": 98,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Assisting in the organization and inventory of all hardware and software resources.",
+                "value": "Assisting in the organization and inventory of all hardware and software resources.",
+                "bbox": [
+                  {
+                    "h": 11.522520960365847,
+                    "w": 416.4239891387195,
+                    "x": 84.0117373285061,
+                    "y": 350.45398699504574,
+                    "confidence": 0.98,
+                    "end_index": 82,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "**Organization** : L&T Construction LTD.",
+                "value": "Organization : L&T Construction LTD.",
+                "bbox": [
+                  {
+                    "h": 12.0,
+                    "w": 61.0,
+                    "x": 105.3,
+                    "y": 413.57,
+                    "confidence": 1.0,
+                    "end_index": 15,
+                    "label": "text",
+                    "start_index": 0
+                  },
+                  {
+                    "h": 12.0,
+                    "w": 107.55,
+                    "x": 187.33,
+                    "y": 413.57,
+                    "confidence": 1.0,
+                    "end_index": 39,
+                    "label": "text",
+                    "start_index": 19
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "**Project** : Smart city Surveillance",
+                "value": "Project : Smart city Surveillance",
+                "bbox": [
+                  {
+                    "h": 12.0,
+                    "w": 181.3,
+                    "x": 105.3,
+                    "y": 427.099,
+                    "confidence": 0.68,
+                    "end_index": 36,
+                    "label": "key-value-region",
+                    "start_index": 0
+                  },
+                  {
+                    "h": 12.0,
+                    "w": 100.77,
+                    "x": 185.83,
+                    "y": 427.1,
+                    "confidence": 1.0,
+                    "end_index": 36,
+                    "label": "text",
+                    "start_index": 14
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "**Designation** : Network Administrator",
+                "value": "Designation : Network Administrator",
+                "bbox": [
+                  {
+                    "h": 12.0,
+                    "w": 55.0,
+                    "x": 105.3,
+                    "y": 440.85,
+                    "confidence": 1.0,
+                    "end_index": 14,
+                    "label": "text",
+                    "start_index": 0
+                  },
+                  {
+                    "h": 12.0,
+                    "w": 101.65,
+                    "x": 184.95,
+                    "y": 440.85,
+                    "confidence": 1.0,
+                    "end_index": 38,
+                    "label": "text",
+                    "start_index": 18
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "**Duration** : 03 January 2022 to 28 August 2023",
+                "value": "Duration : 03 January 2022 to 28 August 2023",
+                "bbox": [
+                  {
+                    "h": 12.0,
+                    "w": 237.07999999999998,
+                    "x": 105.3,
+                    "y": 454.599,
+                    "confidence": 0.7,
+                    "end_index": 47,
+                    "label": "key-value-region",
+                    "start_index": 0
+                  },
+                  {
+                    "h": 12.0,
+                    "w": 155.3,
+                    "x": 187.08,
+                    "y": 454.6,
+                    "confidence": 1.0,
+                    "end_index": 47,
+                    "label": "text",
+                    "start_index": 15
+                  }
+                ],
+                "type": "text"
+              }
+            ],
+            "md": "* Configuration/Reconfiguration/Deployment and management of various policies like security policies, Access policies, IP policies and routing policies including but not limited opening/closing of specific ports on Network device\n\n* Responsible to manage and maintenance internet bandwidth/link provided by ISP and coordinate with concern team of integration infrastructure network at Data centre.\n\n* Responsible to monitor availability of various links and their packet drop, latency and Utilization at Data centre.\n\n* Basic technical support at the network level: WAN and LAN connectivity, routers, firewalls.\n\n* Responsible for software (Situator, Integraph Application) and network first level support.\n\n* Coordination with vendors for Work on tickets that are logged into ticketing system via phone or email or ticketing tool.\n\n* Monitor and manage system alerts, notifications and respond accordingly through service tickets\n\n* Responsible for doing in-depth troubleshooting analysis and problem resolution and provide reports.\n\n* Assisting in the organization and inventory of all hardware and software resources.\n\n* **Organization** : L&T Construction LTD.\n\n* **Project** : Smart city Surveillance\n\n* **Designation** : Network Administrator\n\n* **Duration** : 03 January 2022 to 28 August 2023",
+            "ordered": false,
+            "bbox": [
+              {
+                "h": 362.51,
+                "w": 473.4,
+                "x": 72.96,
+                "y": 104.09,
+                "confidence": 0.95,
+                "end_index": 1299,
+                "label": "list",
+                "start_index": 0
+              }
+            ],
+            "type": "list"
+          },
+          {
+            "md": "**Responsibilities-**",
+            "value": "Responsibilities-",
+            "bbox": [
+              {
+                "h": 12.027377572408538,
+                "w": 82.69705301424351,
+                "x": 68.77751140315358,
+                "y": 482.1825843178354,
+                "confidence": 0.97,
+                "end_index": 20,
+                "label": "paragraph_title",
+                "start_index": 0
+              }
+            ],
+            "type": "text"
+          },
+          {
+            "items": [
+              {
+                "md": "Configuration/Reconfiguration/Deployment and management of various policies like security policies, Access policies, IP policies and routing policies including but not limited opening/closing of specific ports on Network device",
+                "value": "Configuration/Reconfiguration/Deployment and management of various policies like security policies, Access policies, IP policies and routing policies including but not limited opening/closing of specific ports on Network device",
+                "bbox": [
+                  {
+                    "h": 37.00855992759152,
+                    "w": 459.72183391291924,
+                    "x": 86.45237959698933,
+                    "y": 509.3825419207317,
+                    "confidence": 0.99,
+                    "end_index": 226,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Responsible to manage and maintenance internet bandwidth/link provided by ISP and coordinate with concern team of integration infrastructure network at Data centre.",
+                "value": "Responsible to manage and maintenance internet bandwidth/link provided by ISP and coordinate with concern team of integration infrastructure network at Data centre.",
+                "bbox": [
+                  {
+                    "h": 23.463264100609823,
+                    "w": 440.3189510885099,
+                    "x": 86.50592267292302,
+                    "y": 548.2945598323171,
+                    "confidence": 0.98,
+                    "end_index": 163,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Responsible to monitor availability of various links and their packet drop, latency and Utilization at Data centre.",
+                "value": "Responsible to monitor availability of various links and their packet drop, latency and Utilization at Data centre.",
+                "bbox": [
+                  {
+                    "h": 21.894930926067076,
+                    "w": 450.0192946717798,
+                    "x": 86.35266393149772,
+                    "y": 575.621993140244,
+                    "confidence": 0.98,
+                    "end_index": 114,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Basic technical support at the network level: WAN and LAN connectivity, routers, firewalls.",
+                "value": "Basic technical support at the network level: WAN and LAN connectivity, routers, firewalls.",
+                "bbox": [
+                  {
+                    "h": 11.180699314024329,
+                    "w": 417.5242688286014,
+                    "x": 86.49735869616997,
+                    "y": 604.848262671494,
+                    "confidence": 0.97,
+                    "end_index": 90,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "**Organization** : IBM India Services Pvt Ltd (Pay role of Hi-tech informatics services Pvt. Ltd.)",
+                "value": "Organization : IBM India Services Pvt Ltd (Pay role of Hi-tech informatics services Pvt. Ltd.)",
+                "bbox": [
+                  {
+                    "h": 25.0,
+                    "w": 391.65,
+                    "x": 103.8,
+                    "y": 645.149,
+                    "confidence": 0.66,
+                    "end_index": 97,
+                    "label": "key-value-region",
+                    "start_index": 0
+                  },
+                  {
+                    "h": 12.0,
+                    "w": 62.0,
+                    "x": 103.8,
+                    "y": 645.15,
+                    "confidence": 1.0,
+                    "end_index": 15,
+                    "label": "text",
+                    "start_index": 0
+                  },
+                  {
+                    "h": 25.0,
+                    "w": 391.65,
+                    "x": 103.8,
+                    "y": 645.15,
+                    "confidence": 1.0,
+                    "end_index": 97,
+                    "label": "text",
+                    "start_index": 0
+                  },
+                  {
+                    "h": 12.0,
+                    "w": 391.65,
+                    "x": 103.8,
+                    "y": 645.15,
+                    "confidence": 1.0,
+                    "end_index": 91,
+                    "label": "text",
+                    "start_index": 0
+                  },
+                  {
+                    "h": 12.0,
+                    "w": 320.87,
+                    "x": 174.58,
+                    "y": 645.15,
+                    "confidence": 1.0,
+                    "end_index": 91,
+                    "label": "text",
+                    "start_index": 19
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "**Project** : Rajasthan wide area network (RSWAN)",
+                "value": "Project : Rajasthan wide area network (RSWAN)",
+                "bbox": [
+                  {
+                    "h": 12.0,
+                    "w": 243.07999999999998,
+                    "x": 103.8,
+                    "y": 670.429,
+                    "confidence": 0.58,
+                    "end_index": 48,
+                    "label": "key-value-region",
+                    "start_index": 0
+                  },
+                  {
+                    "h": 12.0,
+                    "w": 172.3,
+                    "x": 174.58,
+                    "y": 670.43,
+                    "confidence": 1.0,
+                    "end_index": 48,
+                    "label": "text",
+                    "start_index": 14
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "**Designation -** : NOC Engineer",
+                "value": "Designation - : NOC Engineer",
+                "bbox": [
+                  {
+                    "h": 12.0,
+                    "w": 56.0,
+                    "x": 103.8,
+                    "y": 682.92,
+                    "confidence": 1.0,
+                    "end_index": 12,
+                    "label": "text",
+                    "start_index": 0
+                  },
+                  {
+                    "h": 12.0,
+                    "w": 64.38,
+                    "x": 175.95,
+                    "y": 682.92,
+                    "confidence": 1.0,
+                    "end_index": 31,
+                    "label": "text",
+                    "start_index": 20
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "**Duration** : From 20 May 2019 to 30 April 2021",
+                "value": "Duration : From 20 May 2019 to 30 April 2021",
+                "bbox": [
+                  {
+                    "h": 12.0,
+                    "w": 231.82999999999998,
+                    "x": 103.8,
+                    "y": 695.924,
+                    "confidence": 0.58,
+                    "end_index": 47,
+                    "label": "key-value-region",
+                    "start_index": 0
+                  },
+                  {
+                    "h": 12.0,
+                    "w": 158.3,
+                    "x": 177.33,
+                    "y": 695.92,
+                    "confidence": 1.0,
+                    "end_index": 47,
+                    "label": "text",
+                    "start_index": 15
+                  }
+                ],
+                "type": "text"
+              }
+            ],
+            "md": "* Configuration/Reconfiguration/Deployment and management of various policies like security policies, Access policies, IP policies and routing policies including but not limited opening/closing of specific ports on Network device\n\n* Responsible to manage and maintenance internet bandwidth/link provided by ISP and coordinate with concern team of integration infrastructure network at Data centre.\n\n* Responsible to monitor availability of various links and their packet drop, latency and Utilization at Data centre.\n\n* Basic technical support at the network level: WAN and LAN connectivity, routers, firewalls.\n\n* **Organization** : IBM India Services Pvt Ltd (Pay role of Hi-tech informatics services Pvt. Ltd.)\n\n* **Project** : Rajasthan wide area network (RSWAN)\n\n* **Designation -** : NOC Engineer\n\n* **Duration** : From 20 May 2019 to 30 April 2021",
+            "ordered": false,
+            "bbox": [
+              {
+                "h": 198.54,
+                "w": 459.82,
+                "x": 86.35,
+                "y": 509.38,
+                "confidence": 0.92,
+                "end_index": 853,
+                "label": "list",
+                "start_index": 0
+              }
+            ],
+            "type": "list"
+          },
+          {
+            "items": [
+              {
+                "md": "Responsibilities-",
+                "value": "Responsibilities-",
+                "bbox": [
+                  {
+                    "h": 11.919473608993862,
+                    "w": 83.00077809403581,
+                    "x": 66.49328470369665,
+                    "y": 736.072451410061,
+                    "confidence": 0.87,
+                    "end_index": 16,
+                    "label": "footer",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              }
+            ],
+            "md": "Responsibilities-",
+            "bbox": [
+              {
+                "h": 11.92,
+                "w": 83.0,
+                "x": 66.49,
+                "y": 736.07,
+                "confidence": null,
+                "end_index": null,
+                "label": null,
+                "start_index": null
+              }
+            ],
+            "type": "footer"
+          }
+        ],
+        "page_height": 792.0,
+        "page_number": 2,
+        "page_width": 612.0,
+        "success": true
+      },
+      {
+        "items": [
+          {
+            "items": [
+              {
+                "md": "Responsible for prepare monthly, yearly and Quarterly report like Network availability status, packet drop, latency and Utilization jitter from NMS Tool.",
+                "value": "Responsible for prepare monthly, yearly and Quarterly report like Network availability status, packet drop, latency and Utilization jitter from NMS Tool.",
+                "bbox": [
+                  {
+                    "h": 23.76243467749619,
+                    "w": 391.82909519102515,
+                    "x": 85.77492348275534,
+                    "y": 62.438884277343746,
+                    "confidence": 0.98,
+                    "end_index": 152,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Responsible for Network infrastructure planning for future expansion.",
+                "value": "Responsible for Network infrastructure planning for future expansion.",
+                "bbox": [
+                  {
+                    "h": 11.11449730849848,
+                    "w": 320.57003030916536,
+                    "x": 85.17908935546875,
+                    "y": 86.96427496189025,
+                    "confidence": 0.97,
+                    "end_index": 68,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Responsible to monitor availability of various links and their packet drop, latency and utilization at Data Centre.",
+                "value": "Responsible to monitor availability of various links and their packet drop, latency and utilization at Data Centre.",
+                "bbox": [
+                  {
+                    "h": 23.697476538681403,
+                    "w": 391.11426733993903,
+                    "x": 85.12665777439025,
+                    "y": 102.71380871284299,
+                    "confidence": 0.98,
+                    "end_index": 114,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Configuration/Reconfiguration/Deployment and management of various policies like security policies, Access policies, IP policies and routing policies including but not limited opening/closing of specific ports on Network device.",
+                "value": "Configuration/Reconfiguration/Deployment and management of various policies like security policies, Access policies, IP policies and routing policies including but not limited opening/closing of specific ports on Network device.",
+                "bbox": [
+                  {
+                    "h": 37.5,
+                    "w": 406.026,
+                    "x": 105.05,
+                    "y": 128.249,
+                    "confidence": 0.99,
+                    "end_index": 227,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "**Organization** : Mahindra Defence System Ltd.",
+                "value": "Organization : Mahindra Defence System Ltd.",
+                "bbox": [
+                  {
+                    "h": 12.0,
+                    "w": 62.0,
+                    "x": 108.8,
+                    "y": 177.75,
+                    "confidence": 1.0,
+                    "end_index": 15,
+                    "label": "text",
+                    "start_index": 0
+                  },
+                  {
+                    "h": 12.0,
+                    "w": 135.3,
+                    "x": 184.33,
+                    "y": 177.75,
+                    "confidence": 1.0,
+                    "end_index": 46,
+                    "label": "text",
+                    "start_index": 19
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "**Project** : Smart city Surveillance",
+                "value": "Project : Smart city Surveillance",
+                "bbox": [
+                  {
+                    "h": 26.149,
+                    "w": 183.55,
+                    "x": 109.3,
+                    "y": 190.38,
+                    "confidence": 0.69,
+                    "end_index": 36,
+                    "label": "key-value-region",
+                    "start_index": 0
+                  },
+                  {
+                    "h": 13.0,
+                    "w": 105.77,
+                    "x": 187.08,
+                    "y": 190.38,
+                    "confidence": 1.0,
+                    "end_index": 36,
+                    "label": "text",
+                    "start_index": 14
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "**Designation** : IT Analyst",
+                "value": "Designation : IT Analyst",
+                "bbox": [
+                  {
+                    "h": 12.0,
+                    "w": 125.28000000000002,
+                    "x": 109.3,
+                    "y": 204.529,
+                    "confidence": 0.67,
+                    "end_index": 27,
+                    "label": "key-value-region",
+                    "start_index": 0
+                  },
+                  {
+                    "h": 12.0,
+                    "w": 55.0,
+                    "x": 109.3,
+                    "y": 204.53,
+                    "confidence": 1.0,
+                    "end_index": 14,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "**Duration** : 12th May 2017 to 15^th-May-2019",
+                "value": "Duration : 12th May 2017 to 15^th-May-2019",
+                "bbox": [
+                  {
+                    "h": 12.436000000000007,
+                    "w": 223.57999999999998,
+                    "x": 109.3,
+                    "y": 217.843,
+                    "confidence": 0.71,
+                    "end_index": 45,
+                    "label": "key-value-region",
+                    "start_index": 0
+                  },
+                  {
+                    "h": 12.44,
+                    "w": 144.8,
+                    "x": 188.08,
+                    "y": 217.84,
+                    "confidence": 1.0,
+                    "end_index": 45,
+                    "label": "text",
+                    "start_index": 15
+                  }
+                ],
+                "type": "text"
+              }
+            ],
+            "md": "* Responsible for prepare monthly, yearly and Quarterly report like Network availability status, packet drop, latency and Utilization jitter from NMS Tool.\n\n* Responsible for Network infrastructure planning for future expansion.\n\n* Responsible to monitor availability of various links and their packet drop, latency and utilization at Data Centre.\n\n* Configuration/Reconfiguration/Deployment and management of various policies like security policies, Access policies, IP policies and routing policies including but not limited opening/closing of specific ports on Network device.\n\n* **Organization** : Mahindra Defence System Ltd.\n\n* **Project** : Smart city Surveillance\n\n* **Designation** : IT Analyst\n\n* **Duration** : 12th May 2017 to 15^th-May-2019",
+            "ordered": false,
+            "bbox": [
+              {
+                "h": 167.84,
+                "w": 425.95,
+                "x": 85.13,
+                "y": 62.44,
+                "confidence": 0.92,
+                "end_index": 752,
+                "label": "list",
+                "start_index": 0
+              }
+            ],
+            "type": "list"
+          },
+          {
+            "level": 2,
+            "md": "## Responsibilities-",
+            "value": "Responsibilities-",
+            "bbox": [
+              {
+                "h": 11.770751953125,
+                "w": 82.8391057009813,
+                "x": 65.43295960961318,
+                "y": 252.5496036585366,
+                "confidence": 0.97,
+                "end_index": 19,
+                "label": "paragraph_title",
+                "start_index": 0
+              }
+            ],
+            "type": "heading"
+          },
+          {
+            "items": [
+              {
+                "md": "Responsible for software (Situator, Integraph Application) and network first level support.",
+                "value": "Responsible for software (Situator, Integraph Application) and network first level support.",
+                "bbox": [
+                  {
+                    "h": 25.700620712652455,
+                    "w": 409.3878896127096,
+                    "x": 84.41152016244284,
+                    "y": 278.6841039443598,
+                    "confidence": 0.99,
+                    "end_index": 90,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Coordination with vendors for Work on tickets that are logged into ticketing system via phone or email or ticketing tool.",
+                "value": "Coordination with vendors for Work on tickets that are logged into ticketing system via phone or email or ticketing tool.",
+                "bbox": [
+                  {
+                    "h": 27.0,
+                    "w": 398.9,
+                    "x": 108.55,
+                    "y": 305.158,
+                    "confidence": 0.99,
+                    "end_index": 120,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Monitor and manage system alerts, notifications and respond accordingly through service tickets",
+                "value": "Monitor and manage system alerts, notifications and respond accordingly through service tickets",
+                "bbox": [
+                  {
+                    "h": 24.241158298399387,
+                    "w": 410.25919225181025,
+                    "x": 84.18237001000381,
+                    "y": 334.317793445122,
+                    "confidence": 0.98,
+                    "end_index": 94,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Responsible for doing in-depth troubleshooting analysis and problem resolution and provide reports.",
+                "value": "Responsible for doing in-depth troubleshooting analysis and problem resolution and provide reports.",
+                "bbox": [
+                  {
+                    "h": 27.0,
+                    "w": 399.424,
+                    "x": 108.526,
+                    "y": 361.178,
+                    "confidence": 0.99,
+                    "end_index": 98,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Assisting in the organization and inventory of all hardware and software resources.",
+                "value": "Assisting in the organization and inventory of all hardware and software resources.",
+                "bbox": [
+                  {
+                    "h": 11.713050685975613,
+                    "w": 416.5125169707507,
+                    "x": 83.98242848466082,
+                    "y": 389.84692740091464,
+                    "confidence": 0.97,
+                    "end_index": 82,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Support print Issues and printer networking issues.",
+                "value": "Support print Issues and printer networking issues.",
+                "bbox": [
+                  {
+                    "h": 11.753703315548773,
+                    "w": 263.75877685546874,
+                    "x": 84.08408471084223,
+                    "y": 405.05709460746954,
+                    "confidence": 0.98,
+                    "end_index": 50,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "**Organization** : IL&FS Transformation Network Ltd (Payroll of Shiviangi Enterprises Pvt. Ltd).",
+                "value": "Organization : IL&FS Transformation Network Ltd (Payroll of Shiviangi Enterprises Pvt. Ltd).",
+                "bbox": [
+                  {
+                    "h": 12.0,
+                    "w": 399.4,
+                    "x": 105.55,
+                    "y": 429.6,
+                    "confidence": 1.0,
+                    "end_index": 89,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "**Project** : Rajasthan Road Mega Highway (Toll Plaza)",
+                "value": "Project : Rajasthan Road Mega Highway (Toll Plaza)",
+                "bbox": [
+                  {
+                    "h": 39.25,
+                    "w": 266.84999999999997,
+                    "x": 108.8,
+                    "y": 455.349,
+                    "confidence": 0.71,
+                    "end_index": 53,
+                    "label": "key-value-region",
+                    "start_index": 0
+                  },
+                  {
+                    "h": 12.0,
+                    "w": 192.32,
+                    "x": 183.33,
+                    "y": 455.35,
+                    "confidence": 1.0,
+                    "end_index": 53,
+                    "label": "text",
+                    "start_index": 14
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "**Designation** : Support Engineer",
+                "value": "Designation : Support Engineer",
+                "bbox": [
+                  {
+                    "h": 12.0,
+                    "w": 55.0,
+                    "x": 108.8,
+                    "y": 469.1,
+                    "confidence": 1.0,
+                    "end_index": 14,
+                    "label": "text",
+                    "start_index": 0
+                  },
+                  {
+                    "h": 12.0,
+                    "w": 76.52,
+                    "x": 184.08,
+                    "y": 469.1,
+                    "confidence": 1.0,
+                    "end_index": 33,
+                    "label": "text",
+                    "start_index": 18
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "**Duration** : 23 May 2016 to 31 Dec 2016",
+                "value": "Duration : 23 May 2016 to 31 Dec 2016",
+                "bbox": [
+                  {
+                    "h": 12.0,
+                    "w": 202.57999999999998,
+                    "x": 108.8,
+                    "y": 482.599,
+                    "confidence": 0.46,
+                    "end_index": 40,
+                    "label": "key-value-region",
+                    "start_index": 0
+                  },
+                  {
+                    "h": 12.0,
+                    "w": 126.3,
+                    "x": 185.08,
+                    "y": 482.6,
+                    "confidence": 1.0,
+                    "end_index": 40,
+                    "label": "text",
+                    "start_index": 15
+                  }
+                ],
+                "type": "text"
+              }
+            ],
+            "md": "* Responsible for software (Situator, Integraph Application) and network first level support.\n\n* Coordination with vendors for Work on tickets that are logged into ticketing system via phone or email or ticketing tool.\n\n* Monitor and manage system alerts, notifications and respond accordingly through service tickets\n\n* Responsible for doing in-depth troubleshooting analysis and problem resolution and provide reports.\n\n* Assisting in the organization and inventory of all hardware and software resources.\n\n* Support print Issues and printer networking issues.\n\n* **Organization** : IL&FS Transformation Network Ltd (Payroll of Shiviangi Enterprises Pvt. Ltd).\n\n* **Project** : Rajasthan Road Mega Highway (Toll Plaza)\n\n* **Designation** : Support Engineer\n\n* **Duration** : 23 May 2016 to 31 Dec 2016",
+            "ordered": false,
+            "bbox": [
+              {
+                "h": 215.92,
+                "w": 423.97,
+                "x": 83.98,
+                "y": 278.68,
+                "confidence": 0.93,
+                "end_index": 802,
+                "label": "list",
+                "start_index": 0
+              }
+            ],
+            "type": "list"
+          },
+          {
+            "level": 2,
+            "md": "## Responsibilities-",
+            "value": "Responsibilities-",
+            "bbox": [
+              {
+                "h": 12.03624380716462,
+                "w": 82.87948394031058,
+                "x": 65.26603494783727,
+                "y": 515.7219469321647,
+                "confidence": 0.98,
+                "end_index": 19,
+                "label": "paragraph_title",
+                "start_index": 0
+              }
+            ],
+            "type": "heading"
+          },
+          {
+            "items": [
+              {
+                "md": "Support print Issues and printer networking issues.",
+                "value": "Support print Issues and printer networking issues.",
+                "bbox": [
+                  {
+                    "h": 10.921314786585267,
+                    "w": 240.8292301829268,
+                    "x": 86.54780416349085,
+                    "y": 542.1450714557927,
+                    "confidence": 0.97,
+                    "end_index": 50,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Support technical issues involving core business applications and operating systems.",
+                "value": "Support technical issues involving core business applications and operating systems.",
+                "bbox": [
+                  {
+                    "h": 11.059354516006138,
+                    "w": 386.8368889338796,
+                    "x": 86.23106457221797,
+                    "y": 554.6510370617378,
+                    "confidence": 0.97,
+                    "end_index": 83,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Responsible for monitor all compliances (Techture Techno software).",
+                "value": "Responsible for monitor all compliances (Techture Techno software).",
+                "bbox": [
+                  {
+                    "h": 10.793603277438951,
+                    "w": 323.1612254668445,
+                    "x": 86.17237399961891,
+                    "y": 567.8180087652439,
+                    "confidence": 0.98,
+                    "end_index": 66,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Responsible for software and network first level support.",
+                "value": "Responsible for software and network first level support.",
+                "bbox": [
+                  {
+                    "h": 11.11118426067076,
+                    "w": 268.4982364710366,
+                    "x": 86.46190929878048,
+                    "y": 583.2870888910061,
+                    "confidence": 0.97,
+                    "end_index": 56,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "File systemadministration, setting up Disk quota, configuring backup solution.",
+                "value": "File systemadministration, setting up Disk quota, configuring backup solution.",
+                "bbox": [
+                  {
+                    "h": 10.893159775152455,
+                    "w": 363.61580262719133,
+                    "x": 86.15040831030869,
+                    "y": 598.6192139862804,
+                    "confidence": 0.98,
+                    "end_index": 77,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Installation for CCTV and Boom barrier all automatic system monitor.",
+                "value": "Installation for CCTV and Boom barrier all automatic system monitor.",
+                "bbox": [
+                  {
+                    "h": 11.188009241615848,
+                    "w": 326.9009683450838,
+                    "x": 86.49053484660823,
+                    "y": 613.8923880525915,
+                    "confidence": 0.98,
+                    "end_index": 67,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "**Organization** : Trimax IT Infrastructure & Services.",
+                "value": "Organization : Trimax IT Infrastructure & Services.",
+                "bbox": [
+                  {
+                    "h": 12.0,
+                    "w": 62.0,
+                    "x": 104.8,
+                    "y": 641.9,
+                    "confidence": 1.0,
+                    "end_index": 15,
+                    "label": "text",
+                    "start_index": 0
+                  },
+                  {
+                    "h": 12.0,
+                    "w": 157.8,
+                    "x": 190.08,
+                    "y": 641.9,
+                    "confidence": 1.0,
+                    "end_index": 54,
+                    "label": "text",
+                    "start_index": 19
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "**Project** : Rajasthan wide area network (RSWAN)",
+                "value": "Project : Rajasthan wide area network (RSWAN)",
+                "bbox": [
+                  {
+                    "h": 12.0,
+                    "w": 260.085,
+                    "x": 103.8,
+                    "y": 654.649,
+                    "confidence": 0.69,
+                    "end_index": 48,
+                    "label": "key-value-region",
+                    "start_index": 0
+                  },
+                  {
+                    "h": 12.0,
+                    "w": 172.55,
+                    "x": 191.33,
+                    "y": 654.65,
+                    "confidence": 1.0,
+                    "end_index": 48,
+                    "label": "text",
+                    "start_index": 14
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "**Designation** : Support Engineer",
+                "value": "Designation : Support Engineer",
+                "bbox": [
+                  {
+                    "h": 12.0,
+                    "w": 55.0,
+                    "x": 104.05,
+                    "y": 667.42,
+                    "confidence": 1.0,
+                    "end_index": 14,
+                    "label": "text",
+                    "start_index": 0
+                  },
+                  {
+                    "h": 12.0,
+                    "w": 76.27,
+                    "x": 190.83,
+                    "y": 667.42,
+                    "confidence": 1.0,
+                    "end_index": 33,
+                    "label": "text",
+                    "start_index": 18
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "**Duration** : 20 May 2015 to 20 May 2016",
+                "value": "Duration : 20 May 2015 to 20 May 2016",
+                "bbox": [
+                  {
+                    "h": 12.0,
+                    "w": 216.07999999999998,
+                    "x": 103.8,
+                    "y": 680.169,
+                    "confidence": 0.67,
+                    "end_index": 40,
+                    "label": "key-value-region",
+                    "start_index": 0
+                  },
+                  {
+                    "h": 12.0,
+                    "w": 128.3,
+                    "x": 191.58,
+                    "y": 680.17,
+                    "confidence": 1.0,
+                    "end_index": 40,
+                    "label": "text",
+                    "start_index": 15
+                  }
+                ],
+                "type": "text"
+              }
+            ],
+            "md": "* Support print Issues and printer networking issues.\n\n* Support technical issues involving core business applications and operating systems.\n\n* Responsible for monitor all compliances (Techture Techno software).\n\n* Responsible for software and network first level support.\n\n* File systemadministration, setting up Disk quota, configuring backup solution.\n\n* Installation for CCTV and Boom barrier all automatic system monitor.\n\n* **Organization** : Trimax IT Infrastructure & Services.\n\n* **Project** : Rajasthan wide area network (RSWAN)\n\n* **Designation** : Support Engineer\n\n* **Duration** : 20 May 2015 to 20 May 2016",
+            "ordered": false,
+            "bbox": [
+              {
+                "h": 150.02,
+                "w": 386.92,
+                "x": 86.15,
+                "y": 542.15,
+                "confidence": 0.94,
+                "end_index": 621,
+                "label": "list",
+                "start_index": 0
+              }
+            ],
+            "type": "list"
+          },
+          {
+            "level": 2,
+            "md": "## Responsibilities-",
+            "value": "Responsibilities-",
+            "bbox": [
+              {
+                "h": 11.921312881097544,
+                "w": 82.92365675019056,
+                "x": 66.48144090605945,
+                "y": 717.5485761242378,
+                "confidence": 0.98,
+                "end_index": 19,
+                "label": "paragraph_title",
+                "start_index": 0
+              }
+            ],
+            "type": "heading"
+          },
+          {
+            "items": [
+              {
+                "md": "Responsible for software and network first level support.",
+                "value": "Responsible for software and network first level support.",
+                "bbox": [
+                  {
+                    "h": 11.249742759146317,
+                    "w": 260.46154558879573,
+                    "x": 87.68371546303354,
+                    "y": 743.881953601372,
+                    "confidence": 0.97,
+                    "end_index": 56,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Basic technical support at the network level: WAN and LAN connectivity, Routers",
+                "value": "Basic technical support at the network level: WAN and LAN connectivity, Routers",
+                "bbox": [
+                  {
+                    "h": 11.340197217987722,
+                    "w": 375.07346512957315,
+                    "x": 86.60184832317073,
+                    "y": 759.2549199695122,
+                    "confidence": 0.97,
+                    "end_index": 78,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              }
+            ],
+            "md": "* Responsible for software and network first level support.\n* Basic technical support at the network level: WAN and LAN connectivity, Routers",
+            "ordered": false,
+            "bbox": [
+              {
+                "h": 26.71,
+                "w": 375.07,
+                "x": 86.6,
+                "y": 743.88,
+                "confidence": 0.97,
+                "end_index": 140,
+                "label": "list",
+                "start_index": 0
+              }
+            ],
+            "type": "list"
+          }
+        ],
+        "page_height": 792.0,
+        "page_number": 3,
+        "page_width": 612.0,
+        "success": true
+      },
+      {
+        "items": [
+          {
+            "level": 2,
+            "md": "## PROFESSIONAL TRAINING",
+            "value": "PROFESSIONAL TRAINING",
+            "bbox": [
+              {
+                "h": 9.45204292111282,
+                "w": 155.9217282178925,
+                "x": 89.81325761004193,
+                "y": 119.59030928448932,
+                "confidence": 0.94,
+                "end_index": 23,
+                "label": "paragraph_title",
+                "start_index": 0
+              }
+            ],
+            "type": "heading"
+          },
+          {
+            "items": [
+              {
+                "md": "CCNA Training (01 Aug 2020 to 30 Nov 2020).",
+                "value": "CCNA Training (01 Aug 2020 to 30 Nov 2020).",
+                "bbox": [
+                  {
+                    "h": 11.239697503810966,
+                    "w": 224.18734613185975,
+                    "x": 86.23428972942072,
+                    "y": 154.20519805163872,
+                    "confidence": 0.95,
+                    "end_index": 42,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              }
+            ],
+            "md": "* CCNA Training (01 Aug 2020 to 30 Nov 2020).",
+            "ordered": false,
+            "bbox": [
+              {
+                "h": 11.24,
+                "w": 224.19,
+                "x": 86.23,
+                "y": 154.21,
+                "confidence": 0.95,
+                "end_index": 44,
+                "label": "list",
+                "start_index": 0
+              }
+            ],
+            "type": "list"
+          },
+          {
+            "level": 2,
+            "md": "## ACADEMIC PROFILE",
+            "value": "ACADEMIC PROFILE",
+            "bbox": [
+              {
+                "h": 9.666777939214928,
+                "w": 123.26656056473895,
+                "x": 59.69256243449885,
+                "y": 188.24010301543447,
+                "confidence": 0.94,
+                "end_index": 18,
+                "label": "paragraph_title",
+                "start_index": 0
+              }
+            ],
+            "type": "heading"
+          },
+          {
+            "items": [
+              {
+                "md": "Graduation in BTECH (E & I) from RTU University Kota in year 2014 with 65%.",
+                "value": "Graduation in BTECH (E & I) from RTU University Kota in year 2014 with 65%.",
+                "bbox": [
+                  {
+                    "h": 11.117503810975613,
+                    "w": 367.71212580983234,
+                    "x": 86.62232898246951,
+                    "y": 222.08878167873476,
+                    "confidence": 0.97,
+                    "end_index": 74,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Senior Secondary from Board of Rajasthan in 2010 with 65%.",
+                "value": "Senior Secondary from Board of Rajasthan in 2010 with 65%.",
+                "bbox": [
+                  {
+                    "h": 11.187372570503042,
+                    "w": 281.4822091749238,
+                    "x": 86.60822575266768,
+                    "y": 237.48735637385673,
+                    "confidence": 0.97,
+                    "end_index": 57,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Secondary from Board of Rajasthan in 2008 with 76%.",
+                "value": "Secondary from Board of Rajasthan in 2008 with 76%.",
+                "bbox": [
+                  {
+                    "h": 11.161269054878012,
+                    "w": 251.01313780249615,
+                    "x": 86.64886819979039,
+                    "y": 253.46473585175306,
+                    "confidence": 0.97,
+                    "end_index": 50,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              }
+            ],
+            "md": "* Graduation in BTECH (E & I) from RTU University Kota in year 2014 with 65%.\n* Senior Secondary from Board of Rajasthan in 2010 with 65%.\n* Secondary from Board of Rajasthan in 2008 with 76%.",
+            "ordered": false,
+            "bbox": [
+              {
+                "h": 42.54,
+                "w": 367.73,
+                "x": 86.61,
+                "y": 222.09,
+                "confidence": 0.97,
+                "end_index": 191,
+                "label": "list",
+                "start_index": 0
+              }
+            ],
+            "type": "list"
+          },
+          {
+            "level": 2,
+            "md": "## IT SKILLS",
+            "value": "IT SKILLS",
+            "bbox": [
+              {
+                "h": 9.828126905487778,
+                "w": 58.29162338629001,
+                "x": 60.12622764029154,
+                "y": 287.78590701219514,
+                "confidence": 0.95,
+                "end_index": 11,
+                "label": "paragraph_title",
+                "start_index": 0
+              }
+            ],
+            "type": "heading"
+          },
+          {
+            "items": [
+              {
+                "md": "**Programming Languages**: C, C++.",
+                "value": "Programming Languages: C, C++.",
+                "bbox": [
+                  {
+                    "h": 12.0,
+                    "w": 118.78,
+                    "x": 101.3,
+                    "y": 322.55,
+                    "confidence": 1.0,
+                    "end_index": 25,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "**Operating Systems**: Windows 9X/XP, LINUX.",
+                "value": "Operating Systems: Windows 9X/XP, LINUX.",
+                "bbox": [
+                  {
+                    "h": 12.0,
+                    "w": 88.53,
+                    "x": 101.3,
+                    "y": 340.05,
+                    "confidence": 1.0,
+                    "end_index": 21,
+                    "label": "text",
+                    "start_index": 0
+                  },
+                  {
+                    "h": 12.0,
+                    "w": 116.28,
+                    "x": 241.35,
+                    "y": 340.05,
+                    "confidence": 1.0,
+                    "end_index": 43,
+                    "label": "text",
+                    "start_index": 23
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "**Scripting Languages**: HTML, VB script",
+                "value": "Scripting Languages: HTML, VB script",
+                "bbox": [
+                  {
+                    "h": 12.0,
+                    "w": 94.75,
+                    "x": 101.05,
+                    "y": 357.82,
+                    "confidence": 1.0,
+                    "end_index": 23,
+                    "label": "text",
+                    "start_index": 0
+                  },
+                  {
+                    "h": 12.0,
+                    "w": 78.28,
+                    "x": 241.35,
+                    "y": 357.82,
+                    "confidence": 1.0,
+                    "end_index": 39,
+                    "label": "text",
+                    "start_index": 25
+                  }
+                ],
+                "type": "text"
+              }
+            ],
+            "md": "* **Programming Languages**: C, C++.\n* **Operating Systems**: Windows 9X/XP, LINUX.\n* **Scripting Languages**: HTML, VB script",
+            "ordered": false,
+            "bbox": [
+              {
+                "h": 47.27,
+                "w": 119.03,
+                "x": 101.05,
+                "y": 322.55,
+                "confidence": 1.0,
+                "end_index": 83,
+                "label": "list",
+                "start_index": 0
+              },
+              {
+                "h": 29.77,
+                "w": 116.28,
+                "x": 241.35,
+                "y": 340.05,
+                "confidence": 1.0,
+                "end_index": 125,
+                "label": "list",
+                "start_index": 84
+              }
+            ],
+            "type": "list"
+          },
+          {
+            "level": 2,
+            "md": "## PERSONAL DETAILS",
+            "value": "PERSONAL DETAILS",
+            "bbox": [
+              {
+                "h": 9.486541063262164,
+                "w": 119.86969107278964,
+                "x": 57.46657988757622,
+                "y": 393.4716139481707,
+                "confidence": 0.94,
+                "end_index": 18,
+                "label": "paragraph_title",
+                "start_index": 0
+              }
+            ],
+            "type": "heading"
+          },
+          {
+            "items": [
+              {
+                "md": "**Father’s Name**: TIKAM CHAND SHARMA",
+                "value": "Father’s Name: TIKAM CHAND SHARMA",
+                "bbox": [
+                  {
+                    "h": 12.0,
+                    "w": 68.5,
+                    "x": 100.8,
+                    "y": 427.35,
+                    "confidence": 1.0,
+                    "end_index": 17,
+                    "label": "text",
+                    "start_index": 0
+                  },
+                  {
+                    "h": 12.0,
+                    "w": 126.55,
+                    "x": 258.85,
+                    "y": 427.35,
+                    "confidence": 1.0,
+                    "end_index": 36,
+                    "label": "text",
+                    "start_index": 19
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "**Date of Birth**: 20-Nov-1992",
+                "value": "Date of Birth: 20-Nov-1992",
+                "bbox": [
+                  {
+                    "h": 9.504000000000019,
+                    "w": 217.26000000000005,
+                    "x": 100.36800000000001,
+                    "y": 445.89599999999996,
+                    "confidence": 0.92,
+                    "end_index": 29,
+                    "label": "text",
+                    "start_index": 0
+                  },
+                  {
+                    "h": 12.0,
+                    "w": 59.5,
+                    "x": 100.8,
+                    "y": 445.1,
+                    "confidence": 1.0,
+                    "end_index": 17,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "**Gender**: Male",
+                "value": "Gender: Male",
+                "bbox": [
+                  {
+                    "h": 9.504000000000019,
+                    "w": 180.54000000000002,
+                    "x": 100.36800000000001,
+                    "y": 463.32,
+                    "confidence": 0.91,
+                    "end_index": 15,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "**MaritalStatus**: Married",
+                "value": "MaritalStatus: Married",
+                "bbox": [
+                  {
+                    "h": 8.711999999999989,
+                    "w": 193.392,
+                    "x": 100.36800000000001,
+                    "y": 481.536,
+                    "confidence": 0.91,
+                    "end_index": 25,
+                    "label": "text",
+                    "start_index": 0
+                  },
+                  {
+                    "h": 12.0,
+                    "w": 65.5,
+                    "x": 100.8,
+                    "y": 480.35,
+                    "confidence": 1.0,
+                    "end_index": 17,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "**Permanent Address**: Veer Hanuman Temple Behind in Street Chhawani Kota (324007)",
+                "value": "Permanent Address: Veer Hanuman Temple Behind in Street Chhawani Kota (324007)",
+                "bbox": [
+                  {
+                    "h": 26.136000000000024,
+                    "w": 403.308,
+                    "x": 100.36800000000001,
+                    "y": 498.96,
+                    "confidence": 0.92,
+                    "end_index": 81,
+                    "label": "text",
+                    "start_index": 0
+                  },
+                  {
+                    "h": 12.0,
+                    "w": 92.28,
+                    "x": 100.8,
+                    "y": 497.85,
+                    "confidence": 1.0,
+                    "end_index": 21,
+                    "label": "text",
+                    "start_index": 0
+                  },
+                  {
+                    "h": 12.0,
+                    "w": 38.0,
+                    "x": 138.55,
+                    "y": 531.37,
+                    "confidence": 1.0,
+                    "end_index": 21,
+                    "label": "text",
+                    "start_index": 8
+                  },
+                  {
+                    "h": 27.77,
+                    "w": 246.35,
+                    "x": 257.85,
+                    "y": 497.85,
+                    "confidence": 1.0,
+                    "end_index": 81,
+                    "label": "text",
+                    "start_index": 23
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "**Present Address**: Veer Hanuman Temple Behind in Street Chhawani Kota (324007)",
+                "value": "Present Address: Veer Hanuman Temple Behind in Street Chhawani Kota (324007)",
+                "bbox": [
+                  {
+                    "h": 12.0,
+                    "w": 75.75,
+                    "x": 100.8,
+                    "y": 531.37,
+                    "confidence": 1.0,
+                    "end_index": 19,
+                    "label": "text",
+                    "start_index": 0
+                  },
+                  {
+                    "h": 27.75,
+                    "w": 245.6,
+                    "x": 257.85,
+                    "y": 531.37,
+                    "confidence": 1.0,
+                    "end_index": 79,
+                    "label": "text",
+                    "start_index": 21
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "**Languages Known**: English, Hindi",
+                "value": "Languages Known: English, Hindi",
+                "bbox": [
+                  {
+                    "h": 12.0,
+                    "w": 85.28,
+                    "x": 100.8,
+                    "y": 564.87,
+                    "confidence": 1.0,
+                    "end_index": 19,
+                    "label": "text",
+                    "start_index": 0
+                  },
+                  {
+                    "h": 12.0,
+                    "w": 63.53,
+                    "x": 258.85,
+                    "y": 564.87,
+                    "confidence": 1.0,
+                    "end_index": 34,
+                    "label": "text",
+                    "start_index": 21
+                  }
+                ],
+                "type": "text"
+              }
+            ],
+            "md": "* **Father’s Name**: TIKAM CHAND SHARMA\n* **Date of Birth**: 20-Nov-1992\n* **Gender**: Male\n* **MaritalStatus**: Married\n* **Permanent Address**: Veer Hanuman Temple Behind in Street Chhawani Kota (324007)\n* **Present Address**: Veer Hanuman Temple Behind in Street Chhawani Kota (324007)\n* **Languages Known**: English, Hindi",
+            "ordered": false,
+            "bbox": [
+              {
+                "h": 149.52,
+                "w": 403.83,
+                "x": 100.37,
+                "y": 427.35,
+                "confidence": 0.98,
+                "end_index": 325,
+                "label": "list",
+                "start_index": 0
+              }
+            ],
+            "type": "list"
+          },
+          {
+            "level": 2,
+            "md": "## Declaration:",
+            "value": "Declaration:",
+            "bbox": [
+              {
+                "h": 10.023042587652455,
+                "w": 62.48899693931021,
+                "x": 60.40465254620808,
+                "y": 600.288895769817,
+                "confidence": 0.95,
+                "end_index": 14,
+                "label": "paragraph_title",
+                "start_index": 0
+              }
+            ],
+            "type": "heading"
+          },
+          {
+            "md": "I confirm that the information provided by me is true to the best of my knowledge and belief.",
+            "value": "I confirm that the information provided by me is true to the best of my knowledge and belief.",
+            "bbox": [
+              {
+                "h": 11.344677496189062,
+                "w": 400.1522419850419,
+                "x": 102.56718732136052,
+                "y": 633.7092716272866,
+                "confidence": 0.95,
+                "end_index": 92,
+                "label": "text",
+                "start_index": 0
+              }
+            ],
+            "type": "text"
+          },
+          {
+            "md": "(Rakesh Sharma)\nDate:",
+            "value": "(Rakesh Sharma)\nDate:",
+            "bbox": [
+              {
+                "h": 11.606184260670647,
+                "w": 77.67034030821264,
+                "x": 98.9525878310785,
+                "y": 669.1293607088415,
+                "confidence": 0.86,
+                "end_index": 14,
+                "label": "text",
+                "start_index": 0
+              },
+              {
+                "h": 9.05850943216462,
+                "w": 25.74669415729801,
+                "x": 113.32404320693598,
+                "y": 687.6751186166158,
+                "confidence": 0.81,
+                "end_index": 20,
+                "label": "text",
+                "start_index": 16
+              }
+            ],
+            "type": "text"
+          }
+        ],
+        "page_height": 792.0,
+        "page_number": 4,
+        "page_width": 612.0,
+        "success": true
+      },
+      {
+        "items": [],
+        "page_height": 792.0,
+        "page_number": 5,
+        "page_width": 612.0,
+        "success": true
+      }
+    ]
+  },
+  "job_metadata": {
+    "state_transitions": {
+      "pending_at": "2026-05-12T14:40:57.652885Z",
+      "throttled_at": "2026-05-12T14:40:57.928882Z",
+      "running_at": "2026-05-12T14:40:58.117927Z",
+      "completed_at": "2026-05-12T14:41:13.489287Z",
+      "failed_at": null,
+      "cancelled_at": null
+    },
+    "pdf-pages": 5,
+    "pdf-real-pages": 5,
+    "pdf-rawTextLength": 8368,
+    "pdf-mdLength": 7092,
+    "pdf-time": 10049,
+    "pdf-ocrTime": 0,
+    "pdf-image-convertTime": 0,
+    "pdf-pdfToHTMLTime": 0,
+    "pdf-llmTime": 7904,
+    "pdf-inputTokens": 45159,
+    "pdf-outputTokens": 2651,
+    "pdf-image-ocr-count": 0,
+    "pdf-image-ocr-failed-count": 0,
+    "pdf-image-ocr-success-count": 5,
+    "pdf-image-ocr-empty-count": 5,
+    "pdf-image-ocr-hadText-count": 0,
+    "pdf-image-ocr-pixels": 39568000,
+    "pdf-multimodal-time": 0,
+    "pdf-multimodal-pdf2Image": 0,
+    "pdf-model": null,
+    "pdf-high-res-ocr": 5,
+    "model_invocations": [
+      {
+        "page_number": 4,
+        "model": "gemini-3.0-flash",
+        "task": "parse_page_with_agent",
+        "reason": "primary",
+        "attempt": 1,
+        "status": "success",
+        "input_tokens": 10648,
+        "output_tokens": 499
+      },
+      {
+        "page_number": 2,
+        "model": "gemini-3.0-flash",
+        "task": "parse_page_with_agent",
+        "reason": "primary",
+        "attempt": 1,
+        "status": "success",
+        "input_tokens": 11156,
+        "output_tokens": 599
+      },
+      {
+        "page_number": 3,
+        "model": "gemini-3.0-flash",
+        "task": "parse_page_with_agent",
+        "reason": "primary",
+        "attempt": 1,
+        "status": "success",
+        "input_tokens": 11680,
+        "output_tokens": 763
+      },
+      {
+        "page_number": 1,
+        "model": "gemini-3.0-flash",
+        "task": "parse_page_with_agent",
+        "reason": "primary",
+        "attempt": 1,
+        "status": "success",
+        "input_tokens": 11675,
+        "output_tokens": 790
+      }
+    ]
+  },
+  "markdown": null,
+  "markdown_full": "# RAKESH SHARMA\n\nMobile No +919649315095\nEmail:Sharma.rakesh2824@gmail.com\n\n----\n\n## OBJECTIVE\n\nTo work in a professionally managed organization is enabling my professional and personal growth and offering a significant learning and performance based career in the latest and fast growing technocommercial domain. I wish to involve as an effective personality through progressive, sincere and sustained effort.\n\n## TECHNICAL EXPERTISE\n\n### Hardware:\n\n*   **Cisco Routers:** 2800,2900, 3600series\n*   **Brocade Switches:** VDX-6740, ICX-7450\n*   **Cisco Switches:** Cisco Catalyst, 2960-x, 3560, 3750,4500x, 6500 series,\n*   **Firewall**\n\n### Software:\n\n*   **Operating Systems**: Cisco IOS software (15.1/12.4/15.5), Windows 8/12\n*   **Application Software**: MS -Office 2013/2010/2007\n*   **Protocols**: TCP/IP, HTTP, Telnet, DHCP, DNS, Fast Ethernet, OSPF, EIGRP, BGP, VTP, STP, SNMP, PPP, HDLC, RDP, FTP, HSRP, VRRP, GLBP etc.\n*   **Skills**: Routing, Switching, VLAN, SPAN, RSPAN, ACL, NAT, VPN, GRE, Private VLAN, Link Aggregation\n*   **Server**: Windows 2008/2012.\n\n## CERTIFICATION\n\n*   CCNA (Cisco Certified Network Associate) Cisco ID-CSCO14529866\n*   NetAPP Certified Data Administrator, ONTAP Candidate ID-NETAPP00079650\n*   Microsoft Certified Azure Administrator Associate Certification No- 1574-6541\n\n## PROFESSIONAL EXPERIENCE\n\n*   **Organization**: TATA Advanced System Ltd(Payroll-Technosys Integrated Solutions PVT.LTD.)\n*   **Project**: Smart city Surveillance\n*   **Designation**: Network Admin L-2\n*   **Duration**: 08 October 2023 till Now.\n\n---\n\n**Responsibilities-**\n\n* Configuration/Reconfiguration/Deployment and management of various policies like security policies, Access policies, IP policies and routing policies including but not limited opening/closing of specific ports on Network device\n* Responsible to manage and maintenance internet bandwidth/link provided by ISP and coordinate with concern team of integration infrastructure network at Data centre.\n* Responsible to monitor availability of various links and their packet drop, latency and Utilization at Data centre.\n* Basic technical support at the network level: WAN and LAN connectivity, routers, firewalls.\n\n* Responsible for software (Situator, Integraph Application) and network first level support.\n* Coordination with vendors for Work on tickets that are logged into ticketing system via phone or email or ticketing tool.\n* Monitor and manage system alerts, notifications and respond accordingly through service tickets\n* Responsible for doing in-depth troubleshooting analysis and problem resolution and provide reports.\n* Assisting in the organization and inventory of all hardware and software resources.\n\n* **Organization** : L&T Construction LTD.\n* **Project** : Smart city Surveillance\n* **Designation** : Network Administrator\n* **Duration** : 03 January 2022 to 28 August 2023\n\n**Responsibilities-**\n\n* Configuration/Reconfiguration/Deployment and management of various policies like security policies, Access policies, IP policies and routing policies including but not limited opening/closing of specific ports on Network device\n* Responsible to manage and maintenance internet bandwidth/link provided by ISP and coordinate with concern team of integration infrastructure network at Data centre.\n* Responsible to monitor availability of various links and their packet drop, latency and Utilization at Data centre.\n* Basic technical support at the network level: WAN and LAN connectivity, routers, firewalls.\n\n* **Organization** : IBM India Services Pvt Ltd (Pay role of Hi-tech informatics services Pvt. Ltd.)\n* **Project** : Rajasthan wide area network (RSWAN)\n* **Designation -** : NOC Engineer\n* **Duration** : From 20 May 2019 to 30 April 2021\n\nResponsibilities-\n\n\n---\n\n* Responsible for prepare monthly, yearly and Quarterly report like Network availability status, packet drop, latency and Utilization jitter from NMS Tool.\n* Responsible for Network infrastructure planning for future expansion.\n* Responsible to monitor availability of various links and their packet drop, latency and utilization at Data Centre.\n* Configuration/Reconfiguration/Deployment and management of various policies like security policies, Access policies, IP policies and routing policies including but not limited opening/closing of specific ports on Network device.\n\n* **Organization** : Mahindra Defence System Ltd.\n* **Project** : Smart city Surveillance\n* **Designation** : IT Analyst\n* **Duration** : 12th May 2017 to 15^th-May-2019\n\n## Responsibilities-\n\n* Responsible for software (Situator, Integraph Application) and network first level support.\n* Coordination with vendors for Work on tickets that are logged into ticketing system via phone or email or ticketing tool.\n* Monitor and manage system alerts, notifications and respond accordingly through service tickets\n* Responsible for doing in-depth troubleshooting analysis and problem resolution and provide reports.\n* Assisting in the organization and inventory of all hardware and software resources.\n* Support print Issues and printer networking issues.\n\n* **Organization** : IL&FS Transformation Network Ltd (Payroll of Shiviangi Enterprises Pvt. Ltd).\n* **Project** : Rajasthan Road Mega Highway (Toll Plaza)\n* **Designation** : Support Engineer\n* **Duration** : 23 May 2016 to 31 Dec 2016\n\n## Responsibilities-\n\n* Support print Issues and printer networking issues.\n* Support technical issues involving core business applications and operating systems.\n* Responsible for monitor all compliances (Techture Techno software).\n* Responsible for software and network first level support.\n* File systemadministration, setting up Disk quota, configuring backup solution.\n* Installation for CCTV and Boom barrier all automatic system monitor.\n\n* **Organization** : Trimax IT Infrastructure & Services.\n* **Project** : Rajasthan wide area network (RSWAN)\n* **Designation** : Support Engineer\n* **Duration** : 20 May 2015 to 20 May 2016\n\n## Responsibilities-\n\n* Responsible for software and network first level support.\n* Basic technical support at the network level: WAN and LAN connectivity, Routers\n\n---\n\n## PROFESSIONAL TRAINING\n\n* CCNA Training (01 Aug 2020 to 30 Nov 2020).\n\n## ACADEMIC PROFILE\n\n* Graduation in BTECH (E & I) from RTU University Kota in year 2014 with 65%.\n* Senior Secondary from Board of Rajasthan in 2010 with 65%.\n* Secondary from Board of Rajasthan in 2008 with 76%.\n\n## IT SKILLS\n\n* **Programming Languages**: C, C++.\n* **Operating Systems**: Windows 9X/XP, LINUX.\n* **Scripting Languages**: HTML, VB script\n\n## PERSONAL DETAILS\n\n* **Father’s Name**: TIKAM CHAND SHARMA\n* **Date of Birth**: 20-Nov-1992\n* **Gender**: Male\n* **MaritalStatus**: Married\n* **Permanent Address**: Veer Hanuman Temple Behind in Street Chhawani Kota (324007)\n* **Present Address**: Veer Hanuman Temple Behind in Street Chhawani Kota (324007)\n* **Languages Known**: English, Hindi\n\n## Declaration:\n\nI confirm that the information provided by me is true to the best of my knowledge and belief.\n\n(Rakesh Sharma)\nDate:\n\n---\n\nNO_CONTENT_HERE",
+  "metadata": {
+    "pages": [
+      {
+        "page_number": 1,
+        "confidence": 1.0,
+        "cost_optimized": false,
+        "original_orientation_angle": 0,
+        "printed_page_number": null,
+        "slide_section_name": null,
+        "speaker_notes": null,
+        "triggered_auto_mode": false
+      },
+      {
+        "page_number": 2,
+        "confidence": 1.0,
+        "cost_optimized": false,
+        "original_orientation_angle": 0,
+        "printed_page_number": null,
+        "slide_section_name": null,
+        "speaker_notes": null,
+        "triggered_auto_mode": false
+      },
+      {
+        "page_number": 3,
+        "confidence": 0.993,
+        "cost_optimized": false,
+        "original_orientation_angle": 0,
+        "printed_page_number": null,
+        "slide_section_name": null,
+        "speaker_notes": null,
+        "triggered_auto_mode": false
+      },
+      {
+        "page_number": 4,
+        "confidence": 1.0,
+        "cost_optimized": false,
+        "original_orientation_angle": 0,
+        "printed_page_number": null,
+        "slide_section_name": null,
+        "speaker_notes": null,
+        "triggered_auto_mode": false
+      },
+      {
+        "page_number": 5,
+        "confidence": 1.0,
+        "cost_optimized": false,
+        "original_orientation_angle": 0,
+        "printed_page_number": null,
+        "slide_section_name": null,
+        "speaker_notes": null,
+        "triggered_auto_mode": false
+      }
+    ]
+  },
+  "raw_parameters": null,
+  "result_content_metadata": null,
+  "text": null,
+  "text_full": "RAKESH SHARMA    Mobile No +919649315095\n                 Email:Sharma.rakesh2824@gmail.com\n\n\nOBJECTIVE\n\n        To work in a professionally managed organization is enabling my professional and personal\n        growth and offering a significant learning and performance based career in the latest and fast\n        growing technocommercial domain. I wish to involve as an effective personality through\n        progressive, sincere and sustained effort.\n\nTECHNICAL EXPERTISE\n\nHardware:\n\n •     Cisco Routers: 2800,2900, 3600series\n •     Brocade Switches: VDX-6740, ICX-7450\n •     Cisco Switches: Cisco Catalyst, 2960-x, 3560, 3750,4500x, 6500 series,\n •     Firewall\n\nSoftware:\n •     Operating Systems  : Cisco IOS software (15.1/12.4/15.5), Windows 8/12\n •     Application Software : MS -Office 2013/2010/2007\n •     Protocols          : TCP/IP, HTTP, Telnet, DHCP, DNS, Fast Ethernet, OSPF, EIGRP, BGP,\n                          VTP, STP, SNMP, PPP, HDLC, RDP, FTP, HSRP, VRRP, GLBP etc.\n •     Skills             : Routing, Switching, VLAN, SPAN, RSPAN, ACL, NAT, VPN, GRE,\n                          Private VLAN, Link Aggregation\n •     Server             : Windows 2008/2012.\n\n\n\nCERTIFICATION\n\n•     CCNA (Cisco Certified Network Associate) Cisco ID-CSCO14529866\n\n•     NetAPP Certified Data Administrator, ONTAP Candidate ID-NETAPP00079650\n\n•     Microsoft Certified Azure Administrator Associate Certification No- 1574-6541\n\n\nPROFESSIONAL EXPERIENCE\n\n●     Organization : TATA Advanced System Ltd(Payroll-Technosys Integrated Solutions PVT.LTD.)\n•     Project      : Smart city Surveillance\n•     Designation  : Network Admin L-2\n•     Duration     : 08 October 2023 till Now.\n\n---\n\nResponsibilities-\n\n      •     Configuration/Reconfiguration/Deployment and management of various policies like           security\n            policies, Access policies, IP policies and routing policies including but not limited opening/closing\n            of specific ports on Network device\n      •     Responsible to manage and maintenance internet bandwidth/link provided by ISP and coordinate\n            with concern team of integration infrastructure network at Data centre.\n      •     Responsible to monitor availability of various links and their packet drop, latency and Utilization at\n            Data centre.\n      •     Basic technical support at the network level: WAN and LAN connectivity, routers, firewalls.\n\n•         Responsible for software (Situator, Integraph Application) and network first level\n          support.\n     ●       Coordination with vendors for Work on tickets that are logged into ticketing system\n             via phone or email or ticketing tool.\n     ●       Monitor and manage system alerts, notifications and respond accordingly through\n             service tickets\n     ●       Responsible for doing in-depth troubleshooting analysis and problem resolution and\n             provide reports.\n     ●       Assisting in the organization and inventory of all hardware and software resources.\n\n\n\n•     Organization  : L&T Construction LTD.\n•     Project       : Smart city Surveillance\n•     Designation   : Network Administrator\n•     Duration      : 03 January 2022 to 28 August 2023\n\nResponsibilities-\n\n•     Configuration/Reconfiguration/Deployment and management of various policies like           security\n      policies, Access policies, IP policies and routing policies including but not limited opening/closing\n      of specific ports on Network device\n•     Responsible to manage and maintenance internet bandwidth/link provided by ISP and coordinate\n      with concern team of integration infrastructure network at Data centre.\n•     Responsible to monitor availability of various links and their packet drop, latency and Utilization at\n      Data centre.\n•     Basic technical support at the network level: WAN and LAN connectivity, routers, firewalls.\n\n\n● Organization : IBM India Services Pvt Ltd (Pay role of Hi-tech informatics services Pvt.\n                 Ltd.)\n● Project        : Rajasthan wide area network (RSWAN)\n● Designation - : NOC Engineer\n● Duration       : From 20 May 2019 to 30 April 2021\n\nResponsibilities-\n\n---\n\n ●           Responsible for prepare monthly, yearly and Quarterly report like Network availability\n             status, packet drop, latency and Utilization jitter from NMS Tool.\n●            Responsible for Network infrastructure planning for future expansion.\n●            Responsible to monitor availability of various links and their packet drop, latency and\n             utilization at Data Centre.\n●            Configuration/Reconfiguration/Deployment and management of various policies like security\n              policies, Access policies, IP policies and routing policies including but not limited\n              opening/closing of specific ports on Network device.\n\n ●              Organization :      Mahindra Defence System Ltd.\n   •            Project       : Smart city Surveillance\n   •            Designation   :     IT Analyst\n   •            Duration       :    12th May 2017 to 15ᵗʰ-May-2019\n\n Responsibilities-\n\n ●             Responsible for software (Situator, Integraph Application) and network first level\n               support.\n●              Coordination with vendors for Work on tickets that are logged into ticketing system\n               via phone or email or ticketing tool.\n●              Monitor and manage system alerts, notifications and respond accordingly through\n               service tickets\n●              Responsible for doing in-depth troubleshooting analysis and problem resolution and\n               provide reports.\n●              Assisting in the organization and inventory of all hardware and software resources.\n●              Support print Issues and printer networking issues.\n\n●            Organization : IL&FS Transformation Network Ltd (Payroll of Shiviangi Enterprises Pvt.\n\n•              Project       :      Ltd).\n                                    Rajasthan Road Mega Highway (Toll Plaza)\n•              Designation   :      Support Engineer\n•              Duration      :      23 May 2016 to 31 Dec 2016\n\n Responsibilities-\n\n   ●            Support print Issues and printer networking issues.\n   ●            Support technical issues involving core business applications and operating systems.\n   ●             Responsible for monitor all compliances (Techture Techno software).\n       ●         Responsible for software and network first level support.\n   ●             File systemadministration, setting up Disk quota, configuring backup solution.\n       ●         Installation for CCTV and Boom barrier all automatic system monitor.\n\n ●          Organization     :      Trimax IT Infrastructure &Services.\n   ●        Project            :    Rajasthan wide area network (RSWAN)\n       ●    Designation      :      Support Engineer\n   ●        Duration           :    20 May 2015 to 20 May 2016\n\n Responsibilities-\n\n ●          Responsible for software and network first level support.\n ●          Basic technical support at the network level: WAN and LAN connectivity, Routers\n\n---\n\n    PROFESSIONAL TRAINING\n\n    ● CCNA Training (01 Aug 2020 to 30 Nov 2020).\n\n    ACADEMIC PROFILE\n\n    ●  Graduation in BTECH (E & I) from RTU University Kota in year 2014 with 65%.\n    ●  Senior Secondary from Board of Rajasthan in 2010 with 65%.\n    ●  Secondary from Board of Rajasthan in 2008 with 76%.\n\nIT SKILLS\n\n    ●  Programming Languages    :        C, C++.\n    ●  Operating Systems       :         Windows 9X/XP, LINUX.\n    ●  Scripting Languages     :         HTML, VB script\n\n    PERSONAL DETAILS\n\n       Father’s Name           :          TIKAM CHAND SHARMA\n       Date of Birth           :          20-Nov-1992\n       Gender                      :      Male\n       MaritalStatus               :      Married\n       Permanent Address            :     Veer Hanuman Temple Behind in Street Chhawani Kota\n                                          (324007)\n       Present Address          :         Veer Hanuman Temple Behind in Street Chhawani Kota\n                                          (324007)\n       Languages Known          :         English, Hindi\n\n    Declaration:\n\n       I confirm that the information provided by me is true to the best of my knowledge and belief.\n\n      (Rakesh Sharma)\n       Date:\n\n---\n\nNO_CONTENT_HERE",
+  "debug": null
+}

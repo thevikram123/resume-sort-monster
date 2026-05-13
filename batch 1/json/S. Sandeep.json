@@ -1,0 +1,1454 @@
+{
+  "job": {
+    "id": "pjb-tx53yvxg2aw9755aoqvbv3zpjpoq",
+    "project_id": "949fd88b-381a-4ae5-b3b9-bf7fcc9b74b8",
+    "status": "COMPLETED",
+    "created_at": "2026-05-12T14:43:00.629351Z",
+    "error_message": null,
+    "name": "Scrum Master Profile.pdf",
+    "tier": "agentic",
+    "updated_at": "2026-05-12T14:43:22.395922Z"
+  },
+  "images_content_metadata": null,
+  "items": {
+    "pages": [
+      {
+        "items": [
+          {
+            "caption": "CSM CERTIFIED logo",
+            "md": "![CSM CERTIFIED logo](page_1_image_1_v2.jpg)",
+            "url": "page_1_image_1_v2.jpg",
+            "bbox": [
+              {
+                "h": 44.24162421994093,
+                "w": 76.40648866234757,
+                "x": 55.5909414300686,
+                "y": 42.837127745093376,
+                "confidence": 0.95,
+                "end_index": 43,
+                "label": "image",
+                "start_index": 0
+              }
+            ],
+            "type": "image"
+          },
+          {
+            "md": "S. Sandeep\nScrum Master – Ernst & Young LLP\nE-Mail: ",
+            "value": "S. Sandeep\nScrum Master – Ernst & Young LLP\nE-Mail: ",
+            "bbox": [
+              {
+                "h": 9.414137409489328,
+                "w": 45.6875268256955,
+                "x": 56.06477988638529,
+                "y": 101.18016232374238,
+                "confidence": 0.66,
+                "end_index": 51,
+                "label": "text",
+                "start_index": 0
+              },
+              {
+                "h": 10.0,
+                "w": 45.59,
+                "x": 56.64,
+                "y": 102.11,
+                "confidence": 0.66,
+                "end_index": 9,
+                "label": "text",
+                "start_index": 0
+              },
+              {
+                "h": 22.24,
+                "w": 142.54,
+                "x": 56.64,
+                "y": 114.23,
+                "confidence": 1.0,
+                "end_index": 50,
+                "label": "text",
+                "start_index": 11
+              }
+            ],
+            "type": "text"
+          },
+          {
+            "md": "<sabunkarsandeep@gmail.com>",
+            "text": "sabunkarsandeep@gmail.com",
+            "url": "mailto:sabunkarsandeep@gmail.com",
+            "bbox": [
+              {
+                "h": 22.239999999999995,
+                "w": 156.464,
+                "x": 56.64,
+                "y": 114.23,
+                "confidence": 0.72,
+                "end_index": 26,
+                "label": "text",
+                "start_index": 0
+              }
+            ],
+            "type": "link"
+          },
+          {
+            "md": "Mobile# 91 9000174009",
+            "value": "\nMobile# 91 9000174009",
+            "bbox": [
+              {
+                "h": 10.0,
+                "w": 99.91399999999999,
+                "x": 405.67,
+                "y": 126.47,
+                "confidence": 1.0,
+                "end_index": 20,
+                "label": "text",
+                "start_index": 0
+              }
+            ],
+            "type": "text"
+          },
+          {
+            "level": 1,
+            "md": "# PROFESSIONAL SUMMARY:",
+            "value": "PROFESSIONAL SUMMARY:",
+            "bbox": [
+              {
+                "h": 8.689346298589955,
+                "w": 113.34349892220847,
+                "x": 56.36647785465892,
+                "y": 150.36400795541158,
+                "confidence": 0.89,
+                "end_index": 22,
+                "label": "paragraph_title",
+                "start_index": 0
+              }
+            ],
+            "type": "heading"
+          },
+          {
+            "md": "Detail oriented, self-motivated professional with over 13+ years of accomplished IT Industry experience with a strong record of Project Management, Stakeholder management, Training, Customer Support, Banking Operations, and Quality/Audit & Compliance. Experienced in Leading, Directing, and Successfully Closing Projects within defined budget and deadlines through Scrum adoption.",
+            "value": "Detail oriented, self-motivated professional with over 13+ years of accomplished IT Industry experience with a strong record of Project Management, Stakeholder management, Training, Customer Support, Banking Operations, and Quality/Audit & Compliance. Experienced in Leading, Directing, and Successfully Closing Projects within defined budget and deadlines through Scrum adoption.",
+            "bbox": [
+              {
+                "h": 30.25596715415396,
+                "w": 501.49102250262,
+                "x": 56.238400849133,
+                "y": 169.49558581840702,
+                "confidence": 0.97,
+                "end_index": 379,
+                "label": "text",
+                "start_index": 0
+              }
+            ],
+            "type": "text"
+          },
+          {
+            "level": 1,
+            "md": "# FUNCTIONAL SKILLS:",
+            "value": "FUNCTIONAL SKILLS:",
+            "bbox": [
+              {
+                "h": 9.572939691310966,
+                "w": 85.18036939667492,
+                "x": 56.371379364758,
+                "y": 210.46304925685976,
+                "confidence": 0.9,
+                "end_index": 19,
+                "label": "paragraph_title",
+                "start_index": 0
+              }
+            ],
+            "type": "heading"
+          },
+          {
+            "csv": "\"Project Management\",\"Facilitation & Coaching\",\"Stakeholder Management\"\n\"Conflict Resolution\",\"Backlog Management\",\"Test Case Design & Execution\"\n\"Agile Principles\",\"Sprint Ceremonies\",\"Manual Testing\"",
+            "html": "<table>\n    <tr>\n        <td>Project Management</td>\n        <td>Facilitation &#x26; Coaching</td>\n        <td>Stakeholder Management</td>\n    </tr>\n    <tr>\n        <td>Conflict Resolution</td>\n        <td>Backlog Management</td>\n        <td>Test Case Design &#x26; Execution</td>\n    </tr>\n    <tr>\n        <td>Agile Principles</td>\n        <td>Sprint Ceremonies</td>\n        <td>Manual Testing</td>\n    </tr>\n</table>",
+            "md": "| Project Management  | Facilitation & Coaching | Stakeholder Management       |\n| ------------------- | ----------------------- | ---------------------------- |\n| Conflict Resolution | Backlog Management      | Test Case Design & Execution |\n| Agile Principles    | Sprint Ceremonies       | Manual Testing               |",
+            "rows": [
+              [
+                "Project Management",
+                "Facilitation & Coaching",
+                "Stakeholder Management"
+              ],
+              [
+                "Conflict Resolution",
+                "Backlog Management",
+                "Test Case Design & Execution"
+              ],
+              [
+                "Agile Principles",
+                "Sprint Ceremonies",
+                "Manual Testing"
+              ]
+            ],
+            "bbox": [
+              {
+                "h": 31.66877572408538,
+                "w": 360.44896246189023,
+                "x": 55.692014576981705,
+                "y": 222.433574456936,
+                "confidence": 0.8,
+                "end_index": 322,
+                "label": "table",
+                "start_index": 0
+              }
+            ],
+            "merged_from_pages": null,
+            "merged_into_page": null,
+            "parse_concerns": [
+              {
+                "details": "col 1 'Facilitation &#x26; Coaching' expects numeric, got 'Backlog Management' in row 1",
+                "type": "header_value_type_mismatch"
+              },
+              {
+                "details": "2 tables on page",
+                "type": "multi_table_page"
+              }
+            ],
+            "type": "table"
+          },
+          {
+            "level": 1,
+            "md": "# PROFESSIONAL SUMMARY: -",
+            "value": "PROFESSIONAL SUMMARY: -",
+            "bbox": [
+              {
+                "h": 9.258164777057925,
+                "w": 118.43554839343558,
+                "x": 56.49311538324123,
+                "y": 268.39071193788106,
+                "confidence": 0.91,
+                "end_index": 24,
+                "label": "paragraph_title",
+                "start_index": 0
+              }
+            ],
+            "type": "heading"
+          },
+          {
+            "items": [
+              {
+                "md": "5+ years of experience playing as Scrum Master for software development teams diligently applying Scrum principles, practices, and theory",
+                "value": "5+ years of experience playing as Scrum Master for software development teams diligently applying Scrum principles, practices, and theory",
+                "bbox": [
+                  {
+                    "h": 19.235980135289676,
+                    "w": 484.8187955530678,
+                    "x": 74.02376256431022,
+                    "y": 280.79478658536584,
+                    "confidence": 0.96,
+                    "end_index": 136,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Experience on managing products using Agile/Scrum Framework",
+                "value": "Experience on managing products using Agile/Scrum Framework",
+                "bbox": [
+                  {
+                    "h": 8.733477038871987,
+                    "w": 254.05737188571837,
+                    "x": 74.29176492830602,
+                    "y": 302.7883779535061,
+                    "confidence": 0.93,
+                    "end_index": 58,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Experienced in actively conducting Sprint planning, Daily Scrum, Reviews, Retrospective, Scrum of Scrums meetings by maintaining collaboration with all levels",
+                "value": "Experienced in actively conducting Sprint planning, Daily Scrum, Reviews, Retrospective, Scrum of Scrums meetings by maintaining collaboration with all levels",
+                "bbox": [
+                  {
+                    "h": 19.799929258765236,
+                    "w": 449.9308716118045,
+                    "x": 74.32090978110709,
+                    "y": 314.3803196455793,
+                    "confidence": 0.97,
+                    "end_index": 157,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Skilled in leading the team, tracking and execution of all phases",
+                "value": "Skilled in leading the team, tracking and execution of all phases",
+                "bbox": [
+                  {
+                    "h": 8.679029868521374,
+                    "w": 249.0506569764672,
+                    "x": 74.32517810356326,
+                    "y": 336.91892506669205,
+                    "confidence": 0.94,
+                    "end_index": 64,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Execution of releasing high quality products on time within budget",
+                "value": "Execution of releasing high quality products on time within budget",
+                "bbox": [
+                  {
+                    "h": 8.654152534298829,
+                    "w": 260.6929278415587,
+                    "x": 74.33232082459985,
+                    "y": 348.2829385003811,
+                    "confidence": 0.94,
+                    "end_index": 65,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Solid collaborative communication and team building skills with acumen in training and supporting end-users and technical staff to achieve performance activities",
+                "value": "Solid collaborative communication and team building skills with acumen in training and supporting end-users and technical staff to achieve performance activities",
+                "bbox": [
+                  {
+                    "h": 19.482419016768247,
+                    "w": 467.34764978920543,
+                    "x": 74.17180547946838,
+                    "y": 359.8889105373476,
+                    "confidence": 0.97,
+                    "end_index": 160,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              }
+            ],
+            "md": "* 5+ years of experience playing as Scrum Master for software development teams diligently applying Scrum principles, practices, and theory\n* Experience on managing products using Agile/Scrum Framework\n* Experienced in actively conducting Sprint planning, Daily Scrum, Reviews, Retrospective, Scrum of Scrums meetings by maintaining collaboration with all levels\n* Skilled in leading the team, tracking and execution of all phases\n* Execution of releasing high quality products on time within budget\n* Solid collaborative communication and team building skills with acumen in training and supporting end-users and technical staff to achieve performance activities",
+            "ordered": false,
+            "bbox": [
+              {
+                "h": 98.58,
+                "w": 484.82,
+                "x": 74.02,
+                "y": 280.79,
+                "confidence": 0.95,
+                "end_index": 662,
+                "label": "list",
+                "start_index": 0
+              }
+            ],
+            "type": "list"
+          },
+          {
+            "level": 1,
+            "md": "# TRAININGS AND CERTIFICATIONS: -",
+            "value": "TRAININGS AND CERTIFICATIONS: -",
+            "bbox": [
+              {
+                "h": 8.973643530868918,
+                "w": 145.78898124880908,
+                "x": 56.17249467058879,
+                "y": 394.9553641863567,
+                "confidence": 0.91,
+                "end_index": 32,
+                "label": "paragraph_title",
+                "start_index": 0
+              }
+            ],
+            "type": "heading"
+          },
+          {
+            "items": [
+              {
+                "md": "Agile Delivery Foundation",
+                "value": "Agile Delivery Foundation",
+                "bbox": [
+                  {
+                    "h": 9.0,
+                    "w": 93.966,
+                    "x": 92.664,
+                    "y": 409.58,
+                    "confidence": 0.91,
+                    "end_index": 24,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Certified Scrum Master (CSM)",
+                "value": "Certified Scrum Master (CSM)",
+                "bbox": [
+                  {
+                    "h": 9.0,
+                    "w": 108.63600000000001,
+                    "x": 92.664,
+                    "y": 421.96,
+                    "confidence": 0.93,
+                    "end_index": 27,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Scrum Fundamentals Certified",
+                "value": "Scrum Fundamentals Certified",
+                "bbox": [
+                  {
+                    "h": 9.0,
+                    "w": 110.813,
+                    "x": 92.664,
+                    "y": 434.44,
+                    "confidence": 0.94,
+                    "end_index": 27,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              }
+            ],
+            "md": "* Agile Delivery Foundation\n* Certified Scrum Master (CSM)\n* Scrum Fundamentals Certified",
+            "ordered": false,
+            "bbox": [
+              {
+                "h": 33.86,
+                "w": 110.81,
+                "x": 92.66,
+                "y": 409.58,
+                "confidence": 0.93,
+                "end_index": 88,
+                "label": "list",
+                "start_index": 0
+              }
+            ],
+            "type": "list"
+          },
+          {
+            "level": 1,
+            "md": "# SKILL SET:-",
+            "value": "SKILL SET:-",
+            "bbox": [
+              {
+                "h": 8.842229897103627,
+                "w": 43.838208930783146,
+                "x": 56.32837726872142,
+                "y": 456.94097989710366,
+                "confidence": 0.85,
+                "end_index": 12,
+                "label": "paragraph_title",
+                "start_index": 0
+              }
+            ],
+            "type": "heading"
+          },
+          {
+            "csv": "\"Tools\",\"Jira, Confluence and Jira Align\"\n\"Operating Systems\",\"Windows XP, Unix\"\n\"Domains\",\"Financial, CRM, SAP, Learning and Development, Banking, Customer Support.\"",
+            "html": "<table>\n    <tr>\n        <td>Tools</td>\n        <td>Jira, Confluence and Jira Align</td>\n    </tr>\n    <tr>\n        <td>Operating Systems</td>\n        <td>Windows XP, Unix</td>\n    </tr>\n    <tr>\n        <td>Domains</td>\n        <td>Financial, CRM, SAP, Learning and Development, Banking, Customer Support.</td>\n    </tr>\n</table>",
+            "md": "| Tools             | Jira, Confluence and Jira Align                                           |\n| ----------------- | ------------------------------------------------------------------------- |\n| Operating Systems | Windows XP, Unix                                                          |\n| Domains           | Financial, CRM, SAP, Learning and Development, Banking, Customer Support. |",
+            "rows": [
+              [
+                "Tools",
+                "Jira, Confluence and Jira Align"
+              ],
+              [
+                "Operating Systems",
+                "Windows XP, Unix"
+              ],
+              [
+                "Domains",
+                "Financial, CRM, SAP, Learning and Development, Banking, Customer Support."
+              ]
+            ],
+            "bbox": [
+              {
+                "h": 34.9523480373476,
+                "w": 378.0323965379668,
+                "x": 50.161302728420345,
+                "y": 468.02080221036584,
+                "confidence": 0.98,
+                "end_index": 390,
+                "label": "table",
+                "start_index": 0
+              }
+            ],
+            "merged_from_pages": null,
+            "merged_into_page": null,
+            "parse_concerns": [
+              {
+                "details": "2 tables on page",
+                "type": "multi_table_page"
+              }
+            ],
+            "type": "table"
+          },
+          {
+            "md": "**Ernst & Young LLP**\n**Designation: Scrum Master (Aug 2022 – Apr 2025)**\n**Roles and Responsibilities**",
+            "value": "Ernst & Young LLP\nDesignation: Scrum Master (Aug 2022 – Apr 2025)\nRoles and Responsibilities",
+            "bbox": [
+              {
+                "h": 33.28837271341462,
+                "w": 206.36124175281057,
+                "x": 56.391404493378424,
+                "y": 515.6777100800305,
+                "confidence": 0.89,
+                "end_index": 103,
+                "label": "paragraph_title",
+                "start_index": 0
+              }
+            ],
+            "type": "text"
+          },
+          {
+            "items": [
+              {
+                "md": "Facilitated all **Scrum ceremonies** including Sprint Planning, Daily Standups, Sprint Reviews, and Retrospectives for **cross-functional Agile teams of 7–10 members**",
+                "value": "Facilitated all Scrum ceremonies including Sprint Planning, Daily Standups, Sprint Reviews, and Retrospectives for cross-functional Agile teams of 7–10 members",
+                "bbox": [
+                  {
+                    "h": 20.039999999999964,
+                    "w": 435.836,
+                    "x": 92.664,
+                    "y": 560.2,
+                    "confidence": 0.97,
+                    "end_index": 166,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Coached development teams and stakeholders on **Agile principles and Scrum framework**, improving team maturity and collaboration",
+                "value": "Coached development teams and stakeholders on Agile principles and Scrum framework, improving team maturity and collaboration",
+                "bbox": [
+                  {
+                    "h": 19.463743330792745,
+                    "w": 456.6179025342988,
+                    "x": 74.33407917301828,
+                    "y": 580.8286895007622,
+                    "confidence": 0.97,
+                    "end_index": 128,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Provided timely status reports to the stakeholders, including sprint scope, issues, risks, mitigation plan and upcoming activities",
+                "value": "Provided timely status reports to the stakeholders, including sprint scope, issues, risks, mitigation plan and upcoming activities",
+                "bbox": [
+                  {
+                    "h": 9.0,
+                    "w": 461.712,
+                    "x": 92.664,
+                    "y": 605.11,
+                    "confidence": 0.9,
+                    "end_index": 129,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Led **Agile transformation initiatives**, helping teams transition from Waterfall to Scrum delivery models",
+                "value": "Led Agile transformation initiatives, helping teams transition from Waterfall to Scrum delivery models",
+                "bbox": [
+                  {
+                    "h": 8.711405773628012,
+                    "w": 394.1107208103087,
+                    "x": 74.2874237209413,
+                    "y": 614.7044502667683,
+                    "confidence": 0.94,
+                    "end_index": 105,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Promoted **self-organizing teams** by empowering team members to take ownership of sprint goals and deliverables.",
+                "value": "Promoted self-organizing teams by empowering team members to take ownership of sprint goals and deliverables.",
+                "bbox": [
+                  {
+                    "h": 9.0,
+                    "w": 422.8520000000001,
+                    "x": 92.664,
+                    "y": 628.03,
+                    "confidence": 0.94,
+                    "end_index": 112,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Improved **team velocity by 20–30%** through backlog refinement, improved sprint planning, and better story estimation.",
+                "value": "Improved team velocity by 20–30% through backlog refinement, improved sprint planning, and better story estimation.",
+                "bbox": [
+                  {
+                    "h": 9.0,
+                    "w": 439.62300000000005,
+                    "x": 92.664,
+                    "y": 639.55,
+                    "confidence": 0.94,
+                    "end_index": 118,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Trained the cross-functional team to use JIRA for keeping a track of the tasks and generate work progress graphs.",
+                "value": "Trained the cross-functional team to use JIRA for keeping a track of the tasks and generate work progress graphs.",
+                "bbox": [
+                  {
+                    "h": 8.667074599847544,
+                    "w": 431.5157114019627,
+                    "x": 74.3410487923971,
+                    "y": 649.0173447027439,
+                    "confidence": 0.94,
+                    "end_index": 112,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              }
+            ],
+            "md": "* Facilitated all **Scrum ceremonies** including Sprint Planning, Daily Standups, Sprint Reviews, and Retrospectives for **cross-functional Agile teams of 7–10 members**\n* Coached development teams and stakeholders on **Agile principles and Scrum framework**, improving team maturity and collaboration\n* Provided timely status reports to the stakeholders, including sprint scope, issues, risks, mitigation plan and upcoming activities\n* Led **Agile transformation initiatives**, helping teams transition from Waterfall to Scrum delivery models\n* Promoted **self-organizing teams** by empowering team members to take ownership of sprint goals and deliverables.\n* Improved **team velocity by 20–30%** through backlog refinement, improved sprint planning, and better story estimation.\n* Trained the cross-functional team to use JIRA for keeping a track of the tasks and generate work progress graphs.",
+            "ordered": false,
+            "bbox": [
+              {
+                "h": 97.48,
+                "w": 480.09,
+                "x": 74.29,
+                "y": 560.2,
+                "confidence": 0.94,
+                "end_index": 896,
+                "label": "list",
+                "start_index": 0
+              }
+            ],
+            "type": "list"
+          },
+          {
+            "md": "**INFOSYS HYD**\n**Designation: Scrum Master (Sep 2020- Aug 2022)**",
+            "value": "INFOSYS HYD\nDesignation: Scrum Master (Sep 2020- Aug 2022)",
+            "bbox": [
+              {
+                "h": 20.926247618140177,
+                "w": 202.56569181116618,
+                "x": 56.299018316501524,
+                "y": 683.0779287347561,
+                "confidence": 0.9,
+                "end_index": 65,
+                "label": "paragraph_title",
+                "start_index": 0
+              }
+            ],
+            "type": "text"
+          },
+          {
+            "items": [
+              {
+                "md": "Facilitated various scrum ceremonies like sprint planning meetings, daily scrum, sprint review, product backlog refinement meetings and sprint retrospective meetings.",
+                "value": "Facilitated various scrum ceremonies like sprint planning meetings, daily scrum, sprint review, product backlog refinement meetings and sprint retrospective meetings.",
+                "bbox": [
+                  {
+                    "h": 19.420544016768304,
+                    "w": 464.9078548077839,
+                    "x": 74.32895445288682,
+                    "y": 718.0313143102134,
+                    "confidence": 0.96,
+                    "end_index": 165,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              }
+            ],
+            "md": "* Facilitated various scrum ceremonies like sprint planning meetings, daily scrum, sprint review, product backlog refinement meetings and sprint retrospective meetings.",
+            "ordered": false,
+            "bbox": [
+              {
+                "h": 19.42,
+                "w": 464.91,
+                "x": 74.33,
+                "y": 718.03,
+                "confidence": 0.96,
+                "end_index": 167,
+                "label": "list",
+                "start_index": 0
+              }
+            ],
+            "type": "list"
+          }
+        ],
+        "page_height": 792.0,
+        "page_number": 1,
+        "page_width": 612.0,
+        "success": true
+      },
+      {
+        "items": [
+          {
+            "items": [
+              {
+                "md": "Participated in Backlog Refinement meeting along with the product owner in prioritizing at higher level to ensure that the product backlog meets the DEEP criteria and moving the user stories to sprint backlog which ensured the Definition of Ready (Acceptance criteria).",
+                "value": "Participated in Backlog Refinement meeting along with the product owner in prioritizing at higher level to ensure that the product backlog meets the DEEP criteria and moving the user stories to sprint backlog which ensured the Definition of Ready (Acceptance criteria).",
+                "bbox": [
+                  {
+                    "h": 30.83893093202172,
+                    "w": 474.22618125357275,
+                    "x": 74.11278692478088,
+                    "y": 46.03549813619474,
+                    "confidence": 0.99,
+                    "end_index": 268,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Getting ready for each sprint and release planning meeting by working with the team to break down feature stories into small deliverable User Stories that are appropriately sized for each sprint.",
+                "value": "Getting ready for each sprint and release planning meeting by working with the team to break down feature stories into small deliverable User Stories that are appropriately sized for each sprint.",
+                "bbox": [
+                  {
+                    "h": 19.580902605754577,
+                    "w": 477.7185071991711,
+                    "x": 74.12407497499048,
+                    "y": 79.66008920064786,
+                    "confidence": 0.99,
+                    "end_index": 194,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              }
+            ],
+            "md": "* Participated in Backlog Refinement meeting along with the product owner in prioritizing at higher level to ensure that the product backlog meets the DEEP criteria and moving the user stories to sprint backlog which ensured the Definition of Ready (Acceptance criteria).\n* Getting ready for each sprint and release planning meeting by working with the team to break down feature stories into small deliverable User Stories that are appropriately sized for each sprint.",
+            "ordered": false,
+            "bbox": [
+              {
+                "h": 53.21,
+                "w": 477.73,
+                "x": 74.11,
+                "y": 46.04,
+                "confidence": 0.99,
+                "end_index": 468,
+                "label": "list",
+                "start_index": 0
+              }
+            ],
+            "type": "list"
+          },
+          {
+            "level": 1,
+            "md": "# INFOSYS HYD",
+            "value": "INFOSYS HYD",
+            "bbox": [
+              {
+                "h": 7.573261837842983,
+                "w": 55.272575594274,
+                "x": 56.22360521270008,
+                "y": 113.18085866044207,
+                "confidence": 0.93,
+                "end_index": 12,
+                "label": "paragraph_title",
+                "start_index": 0
+              }
+            ],
+            "type": "heading"
+          },
+          {
+            "md": "**Designation: Manual Tester (May 2017 – Sep 2020)**\nRoles and Responsibilities:",
+            "value": "Designation: Manual Tester (May 2017 – Sep 2020)\nRoles and Responsibilities:",
+            "bbox": [
+              {
+                "h": 9.432541920731696,
+                "w": 51.461669713462264,
+                "x": 56.49173056997904,
+                "y": 247.79065215320122,
+                "confidence": 0.66,
+                "end_index": 79,
+                "label": "text",
+                "start_index": 0
+              },
+              {
+                "h": 9.432541920731696,
+                "w": 51.461669713462264,
+                "x": 56.49173056997904,
+                "y": 247.79065215320122,
+                "confidence": 0.66,
+                "end_index": 13,
+                "label": "text",
+                "start_index": 0
+              },
+              {
+                "h": 10.0,
+                "w": 54.0,
+                "x": 56.64,
+                "y": 247.34,
+                "confidence": 0.66,
+                "end_index": 51,
+                "label": "text",
+                "start_index": 0
+              },
+              {
+                "h": 9.508435475419196,
+                "w": 109.72524152057925,
+                "x": 56.40676043254573,
+                "y": 137.33940298685215,
+                "confidence": 0.72,
+                "end_index": 78,
+                "label": "text",
+                "start_index": 50
+              }
+            ],
+            "type": "text"
+          },
+          {
+            "items": [
+              {
+                "md": "Created detailed test cases based on business requirements and functional specifications.",
+                "value": "Created detailed test cases based on business requirements and functional specifications.",
+                "bbox": [
+                  {
+                    "h": 8.500514362614341,
+                    "w": 345.4657248296971,
+                    "x": 74.10528888981516,
+                    "y": 163.98010396817835,
+                    "confidence": 0.97,
+                    "end_index": 88,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Performed functional, regression, smoke, and UI testing on web and mobile applications.",
+                "value": "Performed functional, regression, smoke, and UI testing on web and mobile applications.",
+                "bbox": [
+                  {
+                    "h": 9.0,
+                    "w": 324.326,
+                    "x": 92.664,
+                    "y": 175.55,
+                    "confidence": 0.97,
+                    "end_index": 86,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Identified, documented, and tracked bugs using JIRA, and collaborated with developers to resolve them.",
+                "value": "Identified, documented, and tracked bugs using JIRA, and collaborated with developers to resolve them.",
+                "bbox": [
+                  {
+                    "h": 9.0,
+                    "w": 380.731,
+                    "x": 92.664,
+                    "y": 186.95,
+                    "confidence": 0.97,
+                    "end_index": 101,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Participated in daily stand-up meetings as part of the Agile team.",
+                "value": "Participated in daily stand-up meetings as part of the Agile team.",
+                "bbox": [
+                  {
+                    "h": 9.0,
+                    "w": 236.579,
+                    "x": 92.664,
+                    "y": 198.47,
+                    "confidence": 0.97,
+                    "end_index": 65,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Maintained traceability matrices and ensured comprehensive test coverage.",
+                "value": "Maintained traceability matrices and ensured comprehensive test coverage.",
+                "bbox": [
+                  {
+                    "h": 9.0,
+                    "w": 275.64,
+                    "x": 92.664,
+                    "y": 209.87,
+                    "confidence": 0.97,
+                    "end_index": 72,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              }
+            ],
+            "md": "* Created detailed test cases based on business requirements and functional specifications.\n* Performed functional, regression, smoke, and UI testing on web and mobile applications.\n* Identified, documented, and tracked bugs using JIRA, and collaborated with developers to resolve them.\n* Participated in daily stand-up meetings as part of the Agile team.\n* Maintained traceability matrices and ensured comprehensive test coverage.",
+            "ordered": false,
+            "bbox": [
+              {
+                "h": 54.89,
+                "w": 399.29,
+                "x": 74.11,
+                "y": 163.98,
+                "confidence": 0.97,
+                "end_index": 430,
+                "label": "list",
+                "start_index": 0
+              }
+            ],
+            "type": "list"
+          },
+          {
+            "level": 1,
+            "md": "# INFOSYS HYD",
+            "value": "INFOSYS HYD",
+            "bbox": [
+              {
+                "h": 7.685563548018304,
+                "w": 55.25462313024009,
+                "x": 56.271158060213416,
+                "y": 234.99391649199697,
+                "confidence": 0.92,
+                "end_index": 12,
+                "label": "paragraph_title",
+                "start_index": 0
+              }
+            ],
+            "type": "heading"
+          },
+          {
+            "md": "**Designation: Software Intern (Dec 2016 – May 2017)**",
+            "value": "Designation: Software Intern (Dec 2016 – May 2017)",
+            "bbox": [
+              {
+                "h": 9.791459365472544,
+                "w": 216.79431098751905,
+                "x": 56.31103521579649,
+                "y": 247.15692859184452,
+                "confidence": 0.85,
+                "end_index": 53,
+                "label": "paragraph_title",
+                "start_index": 0
+              },
+              {
+                "h": 10.0,
+                "w": 54.0,
+                "x": 56.64,
+                "y": 247.34,
+                "confidence": 1.0,
+                "end_index": 13,
+                "label": "text",
+                "start_index": 0
+              },
+              {
+                "h": 10.0,
+                "w": 54.0,
+                "x": 56.64,
+                "y": 345.02,
+                "confidence": 1.0,
+                "end_index": 13,
+                "label": "text",
+                "start_index": 0
+              }
+            ],
+            "type": "text"
+          },
+          {
+            "items": [
+              {
+                "md": "Assisted in manual testing of a CRM application.",
+                "value": "Assisted in manual testing of a CRM application.",
+                "bbox": [
+                  {
+                    "h": 9.0,
+                    "w": 175.678,
+                    "x": 92.664,
+                    "y": 274.82,
+                    "confidence": 0.97,
+                    "end_index": 47,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Reported bugs and inconsistencies in test environments.",
+                "value": "Reported bugs and inconsistencies in test environments.",
+                "bbox": [
+                  {
+                    "h": 9.0,
+                    "w": 206.279,
+                    "x": 92.664,
+                    "y": 287.3,
+                    "confidence": 0.97,
+                    "end_index": 54,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Supported senior testers in creating reusable test cases and documentation",
+                "value": "Supported senior testers in creating reusable test cases and documentation",
+                "bbox": [
+                  {
+                    "h": 9.0,
+                    "w": 275.807,
+                    "x": 92.664,
+                    "y": 299.78,
+                    "confidence": 0.98,
+                    "end_index": 73,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              }
+            ],
+            "md": "* Assisted in manual testing of a CRM application.\n* Reported bugs and inconsistencies in test environments.\n* Supported senior testers in creating reusable test cases and documentation",
+            "ordered": false,
+            "bbox": [
+              {
+                "h": 33.96,
+                "w": 275.81,
+                "x": 92.66,
+                "y": 274.82,
+                "confidence": 0.97,
+                "end_index": 184,
+                "label": "list",
+                "start_index": 0
+              }
+            ],
+            "type": "list"
+          },
+          {
+            "level": 1,
+            "md": "# UDS Hyderabad",
+            "value": "UDS Hyderabad",
+            "bbox": [
+              {
+                "h": 9.465342273246987,
+                "w": 65.1736715474943,
+                "x": 56.36930214486471,
+                "y": 322.87539872332314,
+                "confidence": 0.95,
+                "end_index": 14,
+                "label": "paragraph_title",
+                "start_index": 0
+              }
+            ],
+            "type": "heading"
+          },
+          {
+            "md": "**Designation: Technical specialist (Sep 2012 – Oct 2016)**",
+            "value": "Designation: Technical specialist (Sep 2012 – Oct 2016)",
+            "bbox": [
+              {
+                "h": 9.565865567835322,
+                "w": 226.6326029261147,
+                "x": 56.20493756550114,
+                "y": 344.88445884146347,
+                "confidence": 0.89,
+                "end_index": 58,
+                "label": "paragraph_title",
+                "start_index": 0
+              },
+              {
+                "h": 10.0,
+                "w": 54.0,
+                "x": 56.64,
+                "y": 345.02,
+                "confidence": 1.0,
+                "end_index": 13,
+                "label": "text",
+                "start_index": 0
+              }
+            ],
+            "type": "text"
+          },
+          {
+            "items": [
+              {
+                "md": "Managed and resolved technical issues related to internet protocols, ensuring minimal downtime and optimal performance.",
+                "value": "Managed and resolved technical issues related to internet protocols, ensuring minimal downtime and optimal performance.",
+                "bbox": [
+                  {
+                    "h": 19.563818597560935,
+                    "w": 419.762518816692,
+                    "x": 92.07758217416159,
+                    "y": 367.82636004192074,
+                    "confidence": 0.99,
+                    "end_index": 118,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Provided expert support for cable and phone services, assisting customers with installations, configurations, and troubleshooting.",
+                "value": "Provided expert support for cable and phone services, assisting customers with installations, configurations, and troubleshooting.",
+                "bbox": [
+                  {
+                    "h": 19.830607374237836,
+                    "w": 428.3885206269055,
+                    "x": 92.1168671398628,
+                    "y": 391.3340496379573,
+                    "confidence": 0.99,
+                    "end_index": 129,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Collaborated with cross-functional teams to implement new technologies and improve existing systems.",
+                "value": "Collaborated with cross-functional teams to implement new technologies and improve existing systems.",
+                "bbox": [
+                  {
+                    "h": 8.651417206554855,
+                    "w": 398.5543132502858,
+                    "x": 92.10404850657393,
+                    "y": 414.772695788872,
+                    "confidence": 0.97,
+                    "end_index": 99,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Documented technical procedures and created user guides to enhance knowledge sharing and customer education.",
+                "value": "Documented technical procedures and created user guides to enhance knowledge sharing and customer education.",
+                "bbox": [
+                  {
+                    "h": 8.739136337652456,
+                    "w": 441.1580841511052,
+                    "x": 92.16932605278201,
+                    "y": 427.32525628810976,
+                    "confidence": 0.97,
+                    "end_index": 107,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              }
+            ],
+            "md": "* Managed and resolved technical issues related to internet protocols, ensuring minimal downtime and optimal performance.\n* Provided expert support for cable and phone services, assisting customers with installations, configurations, and troubleshooting.\n* Collaborated with cross-functional teams to implement new technologies and improve existing systems.\n* Documented technical procedures and created user guides to enhance knowledge sharing and customer education.",
+            "ordered": false,
+            "bbox": [
+              {
+                "h": 68.24,
+                "w": 441.25,
+                "x": 92.08,
+                "y": 367.83,
+                "confidence": 0.98,
+                "end_index": 467,
+                "label": "list",
+                "start_index": 0
+              }
+            ],
+            "type": "list"
+          },
+          {
+            "level": 2,
+            "md": "## WORK EXPERIENCE: -",
+            "value": "WORK EXPERIENCE: -",
+            "bbox": [
+              {
+                "h": 7.925187690548772,
+                "w": 88.3402035001429,
+                "x": 55.84775596060404,
+                "y": 451.29399009146346,
+                "confidence": 0.95,
+                "end_index": 20,
+                "label": "paragraph_title",
+                "start_index": 0
+              }
+            ],
+            "type": "heading"
+          },
+          {
+            "csv": "\"Company Name\",\"Designation\",\"Duration\"\n\"Ernst & young LLP\",\"Scrum Master\",\"Aug 2022- April 2025\"\n\"Infosys Limited\",\"Scrum Master\",\"Sep 2020- Aug 2022\"\n\"Infosys BPM\",\"Manual Tester\",\"May 2017- Sep 2020\"\n\"Infosys BPM\",\"Software Intern\",\"Dec 2016- May 2017\"\n\"Updater Services Limited\",\"Technical Specialist\",\"Sep 2012 – Oct 2016\"",
+            "html": "<table>\n  <thead>\n    <tr>\n        <th>Company Name</th>\n        <th>Designation</th>\n        <th>Duration</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n        <td>Ernst &#x26; young LLP</td>\n        <td>Scrum Master</td>\n        <td>Aug 2022- April 2025</td>\n    </tr>\n    <tr>\n        <td>Infosys Limited</td>\n        <td>Scrum Master</td>\n        <td>Sep 2020- Aug 2022</td>\n    </tr>\n    <tr>\n        <td>Infosys BPM</td>\n        <td>Manual Tester</td>\n        <td>May 2017- Sep 2020</td>\n    </tr>\n    <tr>\n        <td>Infosys BPM</td>\n        <td>Software Intern</td>\n        <td>Dec 2016- May 2017</td>\n    </tr>\n    <tr>\n        <td>Updater Services Limited</td>\n        <td>Technical Specialist</td>\n        <td>Sep 2012 – Oct 2016</td>\n    </tr>\n  </tbody>\n</table>",
+            "md": "| Company Name             | Designation          | Duration             |\n| ------------------------ | -------------------- | -------------------- |\n| Ernst & young LLP        | Scrum Master         | Aug 2022- April 2025 |\n| Infosys Limited          | Scrum Master         | Sep 2020- Aug 2022   |\n| Infosys BPM              | Manual Tester        | May 2017- Sep 2020   |\n| Infosys BPM              | Software Intern      | Dec 2016- May 2017   |\n| Updater Services Limited | Technical Specialist | Sep 2012 – Oct 2016  |",
+            "rows": [
+              [
+                "Company Name",
+                "Designation",
+                "Duration"
+              ],
+              [
+                "Ernst & young LLP",
+                "Scrum Master",
+                "Aug 2022- April 2025"
+              ],
+              [
+                "Infosys Limited",
+                "Scrum Master",
+                "Sep 2020- Aug 2022"
+              ],
+              [
+                "Infosys BPM",
+                "Manual Tester",
+                "May 2017- Sep 2020"
+              ],
+              [
+                "Infosys BPM",
+                "Software Intern",
+                "Dec 2016- May 2017"
+              ],
+              [
+                "Updater Services Limited",
+                "Technical Specialist",
+                "Sep 2012 – Oct 2016"
+              ]
+            ],
+            "bbox": [
+              {
+                "h": 105.44773342225608,
+                "w": 515.9584126393387,
+                "x": 50.08634059999047,
+                "y": 460.94309451219516,
+                "confidence": 1.0,
+                "end_index": 523,
+                "label": "table",
+                "start_index": 0
+              },
+              {
+                "h": 9.43,
+                "w": 51.46,
+                "x": 56.49,
+                "y": 247.79,
+                "confidence": 1.0,
+                "end_index": 39,
+                "label": "text",
+                "start_index": 29
+              }
+            ],
+            "merged_from_pages": null,
+            "merged_into_page": null,
+            "parse_concerns": [
+              {
+                "details": "col 2 'Duration': 5/5 (100%) have interior whitespace",
+                "type": "possible_merged_columns"
+              }
+            ],
+            "type": "table"
+          },
+          {
+            "level": 2,
+            "md": "## EDUCATION DETAILS: -",
+            "value": "EDUCATION DETAILS: -",
+            "bbox": [
+              {
+                "h": 8.40405868902433,
+                "w": 94.11125333460366,
+                "x": 56.27916628953887,
+                "y": 589.057451410061,
+                "confidence": 0.96,
+                "end_index": 22,
+                "label": "paragraph_title",
+                "start_index": 0
+              }
+            ],
+            "type": "heading"
+          },
+          {
+            "items": [
+              {
+                "md": "Bachelor of Technology (Electronics and communications Engineering) from JNTU Hyderabad, India, **2011**.",
+                "value": "Bachelor of Technology (Electronics and communications Engineering) from JNTU Hyderabad, India, 2011.",
+                "bbox": [
+                  {
+                    "h": 9.0,
+                    "w": 384.43600000000004,
+                    "x": 92.664,
+                    "y": 609.19,
+                    "confidence": 0.98,
+                    "end_index": 104,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              }
+            ],
+            "md": "* Bachelor of Technology (Electronics and communications Engineering) from JNTU Hyderabad, India, **2011**.",
+            "ordered": false,
+            "bbox": [
+              {
+                "h": 9.0,
+                "w": 384.44,
+                "x": 92.66,
+                "y": 609.19,
+                "confidence": 0.98,
+                "end_index": 106,
+                "label": "list",
+                "start_index": 0
+              }
+            ],
+            "type": "list"
+          },
+          {
+            "level": 2,
+            "md": "## DECLARATION: -",
+            "value": "DECLARATION: -",
+            "bbox": [
+              {
+                "h": 8.070301543445089,
+                "w": 60.587944425257234,
+                "x": 56.318127828458465,
+                "y": 648.4129315929878,
+                "confidence": 0.96,
+                "end_index": 16,
+                "label": "paragraph_title",
+                "start_index": 0
+              }
+            ],
+            "type": "heading"
+          },
+          {
+            "md": "I hereby declare that the above-mentioned information is correct up to my knowledge and I bear the responsibility for the correctness of the above-mentioned particulars.",
+            "value": "I hereby declare that the above-mentioned information is correct up to my knowledge and I bear the responsibility for the correctness of the above-mentioned particulars.",
+            "bbox": [
+              {
+                "h": 19.49939691310971,
+                "w": 503.11951734589366,
+                "x": 56.04213090105754,
+                "y": 666.960575933689,
+                "confidence": 0.98,
+                "end_index": 168,
+                "label": "text",
+                "start_index": 0
+              }
+            ],
+            "type": "text"
+          }
+        ],
+        "page_height": 792.0,
+        "page_number": 2,
+        "page_width": 612.0,
+        "success": true
+      }
+    ]
+  },
+  "job_metadata": {
+    "state_transitions": {
+      "pending_at": "2026-05-12T14:43:00.625826Z",
+      "throttled_at": "2026-05-12T14:43:00.805357Z",
+      "running_at": "2026-05-12T14:43:00.919252Z",
+      "completed_at": "2026-05-12T14:43:22.398221Z",
+      "failed_at": null,
+      "cancelled_at": null
+    },
+    "pdf-pages": 2,
+    "pdf-real-pages": 2,
+    "pdf-rawTextLength": 6130,
+    "pdf-mdLength": 6203,
+    "pdf-time": 16277,
+    "pdf-ocrTime": 0,
+    "pdf-image-convertTime": 0,
+    "pdf-pdfToHTMLTime": 0,
+    "pdf-llmTime": 13612,
+    "pdf-inputTokens": 22044,
+    "pdf-outputTokens": 1962,
+    "pdf-image-ocr-count": 4,
+    "pdf-image-ocr-failed-count": 0,
+    "pdf-image-ocr-success-count": 7,
+    "pdf-image-ocr-empty-count": 6,
+    "pdf-image-ocr-hadText-count": 1,
+    "pdf-image-ocr-pixels": 17227618,
+    "pdf-multimodal-time": 0,
+    "pdf-multimodal-pdf2Image": 0,
+    "pdf-model": null,
+    "pdf-high-res-ocr": 2,
+    "model_invocations": [
+      {
+        "page_number": 2,
+        "model": "gemini-3.0-flash",
+        "task": "parse_page_with_agent",
+        "reason": "primary",
+        "attempt": 1,
+        "status": "success",
+        "input_tokens": 10934,
+        "output_tokens": 893
+      },
+      {
+        "page_number": 1,
+        "model": "gemini-3.0-flash",
+        "task": "parse_page_with_agent",
+        "reason": "primary",
+        "attempt": 1,
+        "status": "success",
+        "input_tokens": 11110,
+        "output_tokens": 1069
+      }
+    ]
+  },
+  "markdown": null,
+  "markdown_full": "![CSM CERTIFIED logo](page_1_image_1_v2.jpg)\n\nS. Sandeep\nScrum Master – Ernst & Young LLP\nE-Mail: **sabunkarsandeep@gmail.com**\nMobile# 91 9000174009\n\n----\n\n# PROFESSIONAL SUMMARY:\n\nDetail oriented, self-motivated professional with over 13+ years of accomplished IT Industry experience with a strong record of Project Management, Stakeholder management, Training, Customer Support, Banking Operations, and Quality/Audit & Compliance. Experienced in Leading, Directing, and Successfully Closing Projects within defined budget and deadlines through Scrum adoption.\n\n# FUNCTIONAL SKILLS:\n\n<table>\n  <tbody>\n    <tr>\n        <td>Project Management</td>\n<td>Facilitation &amp; Coaching</td>\n<td>Stakeholder Management</td>\n    </tr>\n<tr>\n        <td>Conflict Resolution</td>\n<td>Backlog Management</td>\n<td>Test Case Design &amp; Execution</td>\n    </tr>\n<tr>\n        <td>Agile Principles</td>\n<td>Sprint Ceremonies</td>\n<td>Manual Testing</td>\n    </tr>\n  </tbody>\n</table>\n\n# PROFESSIONAL SUMMARY: -\n\n* 5+ years of experience playing as Scrum Master for software development teams diligently applying Scrum principles, practices, and theory\n* Experience on managing products using Agile/Scrum Framework\n* Experienced in actively conducting Sprint planning, Daily Scrum, Reviews, Retrospective, Scrum of Scrums meetings by maintaining collaboration with all levels\n* Skilled in leading the team, tracking and execution of all phases\n* Execution of releasing high quality products on time within budget\n* Solid collaborative communication and team building skills with acumen in training and supporting end-users and technical staff to achieve performance activities\n\n# TRAININGS AND CERTIFICATIONS: -\n\n* Agile Delivery Foundation\n* Certified Scrum Master (CSM)\n* Scrum Fundamentals Certified\n\n# SKILL SET:-\n\n<table>\n  <tbody>\n    <tr>\n        <td>Tools</td>\n<td>Jira, Confluence and Jira Align</td>\n    </tr>\n<tr>\n        <td>Operating Systems</td>\n<td>Windows XP, Unix</td>\n    </tr>\n<tr>\n        <td>Domains</td>\n<td>Financial, CRM, SAP, Learning and Development, Banking, Customer Support.</td>\n    </tr>\n  </tbody>\n</table>\n\n**Ernst & Young LLP**\n**Designation: Scrum Master (Aug 2022 – Apr 2025)**\n**Roles and Responsibilities**\n\n* Facilitated all **Scrum ceremonies** including Sprint Planning, Daily Standups, Sprint Reviews, and Retrospectives for **cross-functional Agile teams of 7–10 members**\n* Coached development teams and stakeholders on **Agile principles and Scrum framework**, improving team maturity and collaboration\n* Provided timely status reports to the stakeholders, including sprint scope, issues, risks, mitigation plan and upcoming activities\n* Led **Agile transformation initiatives**, helping teams transition from Waterfall to Scrum delivery models\n* Promoted **self-organizing teams** by empowering team members to take ownership of sprint goals and deliverables.\n* Improved **team velocity by 20–30%** through backlog refinement, improved sprint planning, and better story estimation.\n* Trained the cross-functional team to use JIRA for keeping a track of the tasks and generate work progress graphs.\n\n**INFOSYS HYD**\n**Designation: Scrum Master (Sep 2020- Aug 2022)**\n\n* Facilitated various scrum ceremonies like sprint planning meetings, daily scrum, sprint review, product backlog refinement meetings and sprint retrospective meetings.\n\n---\n\n* Participated in Backlog Refinement meeting along with the product owner in prioritizing at higher level to ensure that the product backlog meets the DEEP criteria and moving the user stories to sprint backlog which ensured the Definition of Ready (Acceptance criteria).\n* Getting ready for each sprint and release planning meeting by working with the team to break down feature stories into small deliverable User Stories that are appropriately sized for each sprint.\n\n# INFOSYS HYD\n**Designation: Manual Tester (May 2017 – Sep 2020)**\nRoles and Responsibilities:\n\n* Created detailed test cases based on business requirements and functional specifications.\n* Performed functional, regression, smoke, and UI testing on web and mobile applications.\n* Identified, documented, and tracked bugs using JIRA, and collaborated with developers to resolve them.\n* Participated in daily stand-up meetings as part of the Agile team.\n* Maintained traceability matrices and ensured comprehensive test coverage.\n\n# INFOSYS HYD\n**Designation: Software Intern (Dec 2016 – May 2017)**\n\n* Assisted in manual testing of a CRM application.\n* Reported bugs and inconsistencies in test environments.\n* Supported senior testers in creating reusable test cases and documentation\n\n# UDS Hyderabad\n\n**Designation: Technical specialist (Sep 2012 – Oct 2016)**\n\n* Managed and resolved technical issues related to internet protocols, ensuring minimal downtime and optimal performance.\n* Provided expert support for cable and phone services, assisting customers with installations, configurations, and troubleshooting.\n* Collaborated with cross-functional teams to implement new technologies and improve existing systems.\n* Documented technical procedures and created user guides to enhance knowledge sharing and customer education.\n\n## WORK EXPERIENCE: -\n\n<table>\n  <thead>\n    <tr>\n        <th>Company Name</th>\n        <th>Designation</th>\n        <th>Duration</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n        <td>Ernst &amp; young LLP</td>\n<td>Scrum Master</td>\n<td>Aug 2022- April 2025</td>\n    </tr>\n<tr>\n        <td>Infosys Limited</td>\n<td>Scrum Master</td>\n<td>Sep 2020- Aug 2022</td>\n    </tr>\n<tr>\n        <td>Infosys BPM</td>\n<td>Manual Tester</td>\n<td>May 2017- Sep 2020</td>\n    </tr>\n<tr>\n        <td>Infosys BPM</td>\n<td>Software Intern</td>\n<td>Dec 2016- May 2017</td>\n    </tr>\n<tr>\n        <td>Updater Services Limited</td>\n<td>Technical Specialist</td>\n<td>Sep 2012 – Oct 2016</td>\n    </tr>\n  </tbody>\n</table>\n\n## EDUCATION DETAILS: -\n\n* Bachelor of Technology (Electronics and communications Engineering) from JNTU Hyderabad, India, **2011**.\n\n## DECLARATION: -\n\nI hereby declare that the above-mentioned information is correct up to my knowledge and I bear the responsibility for the correctness of the above-mentioned particulars.",
+  "metadata": {
+    "pages": [
+      {
+        "page_number": 1,
+        "confidence": 0.979,
+        "cost_optimized": false,
+        "original_orientation_angle": 0,
+        "printed_page_number": null,
+        "slide_section_name": null,
+        "speaker_notes": null,
+        "triggered_auto_mode": false
+      },
+      {
+        "page_number": 2,
+        "confidence": 1.0,
+        "cost_optimized": false,
+        "original_orientation_angle": 0,
+        "printed_page_number": null,
+        "slide_section_name": null,
+        "speaker_notes": null,
+        "triggered_auto_mode": false
+      }
+    ]
+  },
+  "raw_parameters": null,
+  "result_content_metadata": null,
+  "text": null,
+  "text_full": " CSM\n ERTIFIED\n\nS. Sandeep\nScrum Master – Ernst & Young LLP\nE-Mail: sabunkarsandeep@gmail.com                                            Mobile# 91 9000174009\n\nPROFESSIONAL SUMMARY:\n\nDetail oriented, self-motivated professional with over 13+ years of accomplished IT Industry experience with a strong record of Project\nManagement, Stakeholder management, Training, Customer Support, Banking Operations, and Quality/Audit & Compliance. Experienced\nin Leading, Directing, and Successfully Closing Projects within defined budget and deadlines through Scrum adoption.\n\nFUNCTIONAL SKILLS:\nProject Management        Facilitation & Coaching      Stakeholder Management\nConflict Resolution       Backlog Management           Test Case Design & Execution\nAgile Principles          Sprint Ceremonies            Manual Testing\n\nPROFESSIONAL SUMMARY: -\n x         5+ years of experience playing as Scrum Master for software development teams diligently applying Scrum principles, practices,\n           and theory\n x         Experience on managing products using Agile/Scrum Framework\n x         Experienced in actively conducting Sprint planning, Daily Scrum, Reviews, Retrospective, Scrum of Scrums meetings by\n           maintaining collaboration with all levels\n x         Skilled in leading the team, tracking and execution of all phases\n x         Execution of releasing high quality products on time within budget\n x         Solid collaborative communication and team building skills with acumen in training and supporting end-users and technical\n           staff to achieve performance activities\n\nTRAININGS AND CERTIFICATIONS: -\n x         Agile Delivery Foundation\n x         Certified Scrum Master (CSM)\n x         Scrum Fundamentals Certified\n\nSKILL SET:-\nTools                   Jira, Confluence and Jira Align\nOperating Systems       Windows XP, Unix\nDomains                 Financial, CRM, SAP, Learning and Development, Banking, Customer Support.\n\nErnst & Young LLP\nDesignation: Scrum Master (Aug 2022 – Apr 2025)\nRoles and Responsibilities\n x         Facilitated all Scrum ceremonies including Sprint Planning, Daily Standups, Sprint Reviews, and Retrospectives for cross-\n           functional Agile teams of 7–10 members\n x         Coached development teams and stakeholders on Agile principles and Scrum framework, improving team maturity and\n           collaboration\n x         Provided timely status reports to the stakeholders, including sprint scope, issues, risks, mitigation plan and upcoming activities\n x         Led Agile transformation initiatives, helping teams transition from Waterfall to Scrum delivery models\n x         Promoted self-organizing teams by empowering team members to take ownership of sprint goals and deliverables.\n x         Improved team velocity by 20–30% through backlog refinement, improved sprint planning, and better story estimation.\n x         Trained the cross-functional team to use JIRA for keeping a track of the tasks and generate work progress graphs.\n\n\nINFOSYS HYD\nDesignation: Scrum Master (Sep 2020- Aug 2022)\n\nx     Facilitated various scrum ceremonies like sprint planning meetings, daily scrum, sprint review, product backlog refinement\n      meetings and sprint retrospective meetings.\n\n---\n\n x     Participated in Backlog Refinement meeting along with the product owner in prioritizing at higher level to ensure that the\n       product backlog meets the DEEP criteria and moving the user stories to sprint backlog which ensured the Definition of Ready\n       (Acceptance criteria).\n x     Getting ready for each sprint and release planning meeting by working with the team to break down feature stories into small\n       deliverable User Stories that are appropriately sized for each sprint.\n\nINFOSYS HYD\nDesignation: Manual Tester (May 2017 – Sep 2020)\nRoles and Responsibilities:\n\n x     Created detailed test cases based on business requirements and functional specifications.\n x     Performed functional, regression, smoke, and UI testing on web and mobile applications.\n x     Identified, documented, and tracked bugs using JIRA, and collaborated with developers to resolve them.\n x     Participated in daily stand-up meetings as part of the Agile team.\n x     Maintained traceability matrices and ensured comprehensive test coverage.\n\nINFOSYS HYD\nDesignation: Software Intern (Dec 2016 – May 2017)\n\n x     Assisted in manual testing of a CRM application.\n x     Reported bugs and inconsistencies in test environments.\n x     Supported senior testers in creating reusable test cases and documentation\n\nUDS Hyderabad\n\nDesignation: Technical specialist (Sep 2012 – Oct 2016)\n\n       x     Managed and resolved technical issues related to internet protocols, ensuring minimal downtime and optimal\n             performance.\n       x     Provided expert support for cable and phone services, assisting customers with installations, configurations, and\n             troubleshooting.\n       x     Collaborated with cross-functional teams to implement new technologies and improve existing systems.\n       x     Documented technical procedures and created user guides to enhance knowledge sharing and customer education.\n\nWORK EXPERIENCE: -\nCompany Name                                                  Designation        Duration\n                Ernst & young LLP\n                                             Scrum Master                     Aug 2022- April 2025\n                 Infosys Limited             Scrum Master                      Sep 2020- Aug 2022\n                   Infosys BPM                                Manual Tester    May 2017- Sep 2020\n\n                   Infosys BPM             Software Intern                     Dec 2016- May 2017\n\n             Updater Services Limited    Technical Specialist                 Sep 2012 – Oct 2016\n\n\nEDUCATION DETAILS: -\nx  Bachelor of Technology (Electronics and communications Engineering) from JNTU Hyderabad, India, 2011.\n\n\nDECLARATION: -\n\nI hereby declare that the above-mentioned information is correct up to my knowledge and I bear the responsibility for the correctness of\nthe above-mentioned particulars.",
+  "debug": null
+}

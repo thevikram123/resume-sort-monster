@@ -1,0 +1,162 @@
+ SULEMAN EHSIN
+ ICT Engineer | LC / ELV Systems | ISP | OSP | Security Systems | Design & Supervision
+
+Phone: +966-502257052 Email: Suleman.ehsin@gmail.com  Address: Riyadh, Saudi Arabia   SEC: 1097934
+LinkedIn: www.linkedin.com/in/suleman-ehsin-23258795
+SUMMARY
+ICT Engineer with 11+ years of experience in FTTx, ELV, ITS, and smart infrastructure projects.
+Involved in design, supervision, coordination, and site execution across infrastructure and building
+systems. Experienced in supporting end-to-end project delivery from design stage            through
+installation, testing, commissioning, and handover. Worked closely with consultants, contractors,
+and vendors to ensure compliance with authority standards and alignment between design and site
+execution. Focused on delivering practical engineering solutions with consistent quality and timely
+completion.
+ KEY SKILLS
+ •     FTTx, ELV & ITS Systems
+ •     Smart Infrastructure & ICT Networks
+ •     Design & Engineering Support
+ •     Site Supervision & Commissioning
+ •     Utility Coordination & Interface Management
+ •     BOQ, Estimation & Technical Submittals
+ •     Design Review & Technical Documentation
+ •     Multidisciplinary Coordination
+ •     Testing, Commissioning & Handover
+ •     Operations & Maintenance Support
+ •     Standards Compliance (BICSI, TIA, NEC, HCIS, MOI)
+EXPERIENCE
+ Dar Al Riyadh: Telecom Design Engineer
+ 11/2024 – Present: Riyadh, KSA
+ •     Led the planning and design of FTTx networks in compliance with Communications, Space &
+       Technology Commission, BICSI, Ministry of Interior, Ministry of Municipal and Rural Affairs
+       and Housing, STC standards, and Saudi Highway Code requirements.
+ •     Designed open-access duct networks to support multiple service providers, reducing civil costs
+       and improving infrastructure efficiency.
+ •     Optimized duct configurations (main, mini, micro) for high-capacity fiber networks (24–144
+       cores+), ensuring future readiness.
+ •     Developed redundant network topologies (ring, star, hybrid) to enhance resilience and service
+       continuity.
+ •     Managed OSP/infrastructure     coordination,   including  tie-ins  with  buildings and ISPs,
+       ROW/corridor planning, and utility interface alignment.
+ •     Performed clash detection and resolution using Autodesk Civil 3D, BIM, and Autodesk
+       Navisworks to ensure constructability and coordination.
+ •     Directed and reviewed subconsultant deliverables, providing technical comments, validating
+       design submissions, and ensuring compliance with project standards and timelines.
+ •     Coordinated with vendors, contractors, and service providers, maintaining technical alignment
+       and smooth execution.
+ •     Designed and supported fiber installation methodologies, including cable blowing and pulling,
+       ensuring efficient deployment and minimal signal loss.
+ •     Designed and integrated LC & ELV systems, including CCTV, Access Control, Fire Alarm, PA,
+       Structured Cabling, Wi-Fi, IoT (LoRa WAN), Variable Message Signs (VMS), and security
+       systems.
+ •     Delivered advanced security solutions, including VMS (Video Management Systems), intrusion
+       detection, and external physical security systems (barriers, gates, access control).
+ •     Integrated smart systems such as weather stations, irrigation controllers, and IoT-based
+       monitoring solutions.
+ •     Contributed to value engineering, optimizing cost while maintaining performance and
+       compliance.
+ •     Prepared and reviewed BOQs and material take-offs to improve cost control and procurement
+       accuracy.
+
+---
+
+ •     Coordinated with multidisciplinary teams to ensure seamless system integration.
+ •     Produced technical documentation (drawings, SLDs, specifications, submittals) aligned with
+       project requirements.
+ •     Liaised with clients and consultants to resolve technical issues and maintain progress.
+ •     Applied future-proof design practices to support scalability and long-term expansion.
+National Engineering Services, Pakistan: Senior Engineer (Scada & Telecom)
+06/2022 – 10/2024: Lahore, Pakistan
+ •     Led the complete project lifecycle for IT, Telecom (OFC), ELV, ICT, and Security systems—
+       managing tender-stage design, site supervision, testing, and commissioning with a focus on
+       quality and performance.
+ •     Performed capacity planning and fiber core allocation for new and existing networks to optimize
+       resource utilization.
+ •     Conducted detailed assessments and redesigns of existing OFC routes to integrate new service
+       demands, civil constraints, or infrastructure developments.
+ •     Led the rerouting of legacy fiber networks to support new installations, ensuring compliance
+       with technical standards and right-of-way regulations.
+ •     Collaborated with field teams and civil engineers to optimize rerouting plans, minimizing
+       trenching costs and avoiding utility conflicts.
+ •     Oversaw system installations on-site, enforcing adherence to technical requirements, best
+       practices, and quality benchmarks.
+ •     Conducted comprehensive design reviews submitted by sub-consultants and contractors,
+       ensuring full alignment with project specifications, codes, and international standards.
+ •     Evaluated and approved contractor proposals, material submittals, and method statements,
+       optimizing project workflows and ensuring technical compliance.
+ •     Collaborated seamlessly with EPC contractors, OEMs, and product vendors, gathering critical
+       inputs for system selection, integration, and implementation.
+ •     Managed technical data, project schedules, and specification packages ensuring seamless
+       integration of ICT and ELV systems within the overall infrastructure.
+ •     Maintained strong communication with stakeholders, project teams, and contractors to
+       prioritize deliverables and drive timely, coordinated execution.
+ •     Prepared and presented detailed progress reports to senior management, ensuring strategic
+       alignment and transparency across project phases.
+ •     Developed high-quality technical documentation, including pre-qualification packages, bidding
+       documents, evaluation matrices, BOQs, specifications, and cost estimates.
+ •     Produced technical drawings and schematics, such as conceptual layouts, data flow diagrams,
+       and system architecture workflows, to support design validation and implementation.
+ •     Contributed to a national ITS strategy for motorway and highway networks, improving safety,
+       traffic efficiency, and operational control.
+ •     Designed and integrated Traffic Control Centers, electronic tolling, traffic management
+       systems, and speed enforcement camera networks.
+ •     Delivered Weigh-in-Motion (WIM), RFID vehicle identification, Automatic Vehicle Classification
+       (AVC), VMS, emergency roadside phones, and panic alarm systems.
+ •     Supported smart city infrastructure, including smart bins, smart benches, environmental
+       sensors, and smart weather stations.
+Innovative Pvt Ltd: Senior Engineer Field Operations
+02/2019 – 01/2022: Islamabad, Pakistan
+ •     Directed installation, configuration, and maintenance of electromechanical and automation
+       systems, including ATMs, sorting systems, binding machines, and integrated electronic
+       equipment.
+ •     Led testing, commissioning, and integration of Fire Alarm, Intrusion Detection, Access Control
+       systems, and network infrastructure components including firewalls, switches, and routers.
+ •     Managed end-to-end system integration, ensuring seamless interoperability between hardware,
+       software, and network-based systems.
+ •     Performed preventive and corrective maintenance on network and electronic systems, ensuring
+       high availability, reliability, and minimum downtime.
+ •     Coordinated with logistics and inventory teams to control spare parts, optimize stock levels,
+       and ensure timely replacement of critical components.
+ •     Worked closely with vendors and service providers to resolve technical issues, implement
+       system updates, and ensure compatibility across platforms.
+ •     Conducted system performance checks and troubleshooting, maintaining operational efficiency
+
+---
+
+         across deployed infrastructure.
+   •     Provided technical support and training to operational teams, improving system handling and
+         reducing response time for issues.
+ Frontier Works Organization: Technical Support Engineer
+ 02/2014 – 01/2019: Rawalpindi, Pakistan
+   •     Managed seamless operation and integration of complex ELV, ICT, and security systems,
+         including Access Control, CCTV/IP Cameras, LAN/WAN networks, NVRs, Optical Fiber,
+         Firewalls, Switches, Routers, PoE devices, Video Conferencing, Public Address systems,
+         Automatic Barriers, UVSS, APS, and VMS platforms.
+   •     Demonstrated expertise in deployment and maintenance of Intelligent Transportation Systems
+         (ITS) and Electronic Toll Collection (ETTM) hardware and software systems.
+   •     Configured and administered multi-platform IT environments, including Windows (XP–10),
+         Windows Server (2008/2012), Linux systems, and virtualized infrastructures.
+   •     Managed network configuration and IP addressing across heterogeneous environments,
+         including remote installation, updates, and system maintenance.
+   •     Ensured high system availability and operational reliability through proactive monitoring,
+         troubleshooting, and performance optimization.
+   •     Coordinated with clients and senior management to align operational activities with project
+         milestones and business objectives.
+   •     Prepared structured maintenance reports and schedules, improving visibility, planning
+         efficiency, and resource management.
+   •     Supported continuous improvement of technical operations and system performance, ensuring
+         long-term stability and efficiency.
+TRAINING / COURSES
+ CCNA    MCSE  DATA ANALYSIS          PYTHON  LINUX
+SOFTWARES TOOLS
+ MS OFFICE AUTOCAD          ENVI      SNAP ARCMAP CIVIL 3D REVIT EKAHAU  EASE FOCUS
+EDUCATION
+ Postgraduate Diploma in BIM (In Progress)
+  Brains Institute, Peshawar, Pakistan
+  Master of Science in Computer System Engineering (2021-2023)
+  University of Engineering and Technology Peshawar, Pakistan
+  Bachelor of Science in Electrical (Communication) (2009 – 2014)
+  University of Engineering and Technology Peshawar, Pakistan
+
+---
+
+NO_CONTENT_HERE

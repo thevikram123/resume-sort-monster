@@ -1,0 +1,1088 @@
+{
+  "job": {
+    "id": "pjb-1nakubzkuse49g0f3mqhk2p2btwn",
+    "project_id": "949fd88b-381a-4ae5-b3b9-bf7fcc9b74b8",
+    "status": "COMPLETED",
+    "created_at": "2026-05-12T14:41:42.599027Z",
+    "error_message": null,
+    "name": "Partha CV 8th May 2026.pdf",
+    "tier": "agentic",
+    "updated_at": "2026-05-12T14:41:58.392120Z"
+  },
+  "images_content_metadata": null,
+  "items": {
+    "pages": [
+      {
+        "items": [
+          {
+            "level": 1,
+            "md": "# PARTHA SARATHI MOHANTY",
+            "value": "PARTHA SARATHI MOHANTY",
+            "bbox": [
+              {
+                "h": 8.434257588902911,
+                "w": 130.73581013421784,
+                "x": 71.7444773491092,
+                "y": 74.29305993771436,
+                "confidence": 0.96,
+                "end_index": 23,
+                "label": "paragraph_title",
+                "start_index": 0
+              }
+            ],
+            "type": "heading"
+          },
+          {
+            "md": "📞 +91-8984899989 | ✉️ ",
+            "value": "📞 +91-8984899989 | ✉️ ",
+            "bbox": [
+              {
+                "h": 11.0,
+                "w": 78.18,
+                "x": 88.97,
+                "y": 97.88,
+                "confidence": 1.0,
+                "end_index": 16,
+                "label": "checkbox-unselected",
+                "start_index": 3
+              }
+            ],
+            "type": "text"
+          },
+          {
+            "md": "<parthasarathi.prf@gmail.com>",
+            "text": "parthasarathi.prf@gmail.com",
+            "url": "mailto:parthasarathi.prf@gmail.com",
+            "bbox": [
+              {
+                "h": 11.699784938607559,
+                "w": 149.52567551209992,
+                "x": 174.09924065596422,
+                "y": 97.28229852235376,
+                "confidence": 0.82,
+                "end_index": 28,
+                "label": "checkbox-unselected",
+                "start_index": 0
+              }
+            ],
+            "type": "link"
+          },
+          {
+            "md": "📍 Hyderabad, India | Passport: Z7018683 | Driving License: 2W & 4W\n**Willing to Relocate:** Yes (Anywhere in the World)",
+            "value": "\n📍 Hyderabad, India | Passport: Z7018683 | Driving License: 2W & 4W\nWilling to Relocate: Yes (Anywhere in the World)",
+            "bbox": [
+              {
+                "h": 11.0,
+                "w": 299.97,
+                "x": 83.57,
+                "y": 114.08,
+                "confidence": 1.0,
+                "end_index": 66,
+                "label": "checkbox-unselected",
+                "start_index": 3
+              },
+              {
+                "h": 11.0,
+                "w": 88.75,
+                "x": 72.05,
+                "y": 128.48,
+                "confidence": 1.0,
+                "end_index": 91,
+                "label": "text",
+                "start_index": 68
+              },
+              {
+                "h": 11.0,
+                "w": 126.75,
+                "x": 163.54,
+                "y": 128.48,
+                "confidence": 1.0,
+                "end_index": 119,
+                "label": "text",
+                "start_index": 93
+              }
+            ],
+            "type": "text"
+          },
+          {
+            "level": 1,
+            "md": "# PROFESSIONAL SUMMARY:",
+            "value": "PROFESSIONAL SUMMARY:",
+            "bbox": [
+              {
+                "h": 8.36352810415871,
+                "w": 123.84360702589085,
+                "x": 71.72669598239807,
+                "y": 173.78138507883955,
+                "confidence": 0.96,
+                "end_index": 22,
+                "label": "paragraph_title",
+                "start_index": 0
+              }
+            ],
+            "type": "heading"
+          },
+          {
+            "md": "Experienced **ICT & ELV Project Manager** with **11 years** of expertise in **ICT Infrastructure, Data Centres, Airports, Oil & Gas, and Commercial Projects**. Strong background in **project execution, design review, vendor management, project execution, ITC & quality control**. Skilled in managing multi-disciplinary teams, coordinating with clients, and delivering projects to international standards for organisations such as (Tata Projects, GMR, L&T, Yokogawa, Microsoft India, Saudi Aramco & many more).",
+            "value": "Experienced ICT & ELV Project Manager with 11 years of expertise in ICT Infrastructure, Data Centres, Airports, Oil & Gas, and Commercial Projects. Strong background in project execution, design review, vendor management, project execution, ITC & quality control. Skilled in managing multi-disciplinary teams, coordinating with clients, and delivering projects to international standards for organisations such as (Tata Projects, GMR, L&T, Yokogawa, Microsoft India, Saudi Aramco & many more).",
+            "bbox": [
+              {
+                "h": 83.60023281130904,
+                "w": 447.99576376357675,
+                "x": 71.27946269888531,
+                "y": 195.8633997213224,
+                "confidence": 0.99,
+                "end_index": 508,
+                "label": "text",
+                "start_index": 0
+              }
+            ],
+            "type": "text"
+          },
+          {
+            "md": "**Qualification: B. Tech in electronics & telecommunication engineering from Biju Patnaik university of technology, Odisha in 2010.**",
+            "value": "Qualification: B. Tech in electronics & telecommunication engineering from Biju Patnaik university of technology, Odisha in 2010.",
+            "bbox": [
+              {
+                "h": 25.264133220988924,
+                "w": 446.83538776021834,
+                "x": 71.37997705971324,
+                "y": 313.64764064048205,
+                "confidence": 0.94,
+                "end_index": 132,
+                "label": "text",
+                "start_index": 0
+              }
+            ],
+            "type": "text"
+          },
+          {
+            "level": 1,
+            "md": "# ORGANISATION SERVED / PROFESSIONAL EXPERIENCE (11 years overall):",
+            "value": "ORGANISATION SERVED / PROFESSIONAL EXPERIENCE (11 years overall):",
+            "bbox": [
+              {
+                "h": 10.943220753144068,
+                "w": 330.0393624952364,
+                "x": 71.48421433879575,
+                "y": 372.5598799876143,
+                "confidence": 0.88,
+                "end_index": 66,
+                "label": "paragraph_title",
+                "start_index": 0
+              }
+            ],
+            "type": "heading"
+          },
+          {
+            "md": "**Senior Manager – MEP (ELV & ICT) @Tata Projects Ltd, Hyderabad, India**\n🗓️ Nov 2024 – Oct 2025",
+            "value": "Senior Manager – MEP (ELV & ICT) @Tata Projects Ltd, Hyderabad, India\n🗓️ Nov 2024 – Oct 2025",
+            "bbox": [
+              {
+                "h": 11.0,
+                "w": 327.03,
+                "x": 72.05,
+                "y": 395.72,
+                "confidence": 1.0,
+                "end_index": 72,
+                "label": "text",
+                "start_index": 0
+              },
+              {
+                "h": 11.0,
+                "w": 93.33,
+                "x": 88.97,
+                "y": 411.94,
+                "confidence": 1.0,
+                "end_index": 96,
+                "label": "checkbox-selected",
+                "start_index": 78
+              }
+            ],
+            "type": "text"
+          },
+          {
+            "md": "**IT Project Manager – ELV & ICT\\@GMR Group – Hyderabad, India**\n🗓️ Dec 2023 – Oct 2024",
+            "value": "IT Project Manager – ELV & ICT@GMR Group – Hyderabad, India\n🗓️ Dec 2023 – Oct 2024",
+            "bbox": [
+              {
+                "h": 11.0,
+                "w": 292.42,
+                "x": 72.05,
+                "y": 433.9,
+                "confidence": 1.0,
+                "end_index": 63,
+                "label": "checkbox-selected",
+                "start_index": 0
+              },
+              {
+                "h": 11.0,
+                "w": 93.24,
+                "x": 88.97,
+                "y": 450.46,
+                "confidence": 1.0,
+                "end_index": 87,
+                "label": "checkbox-selected",
+                "start_index": 69
+              }
+            ],
+            "type": "text"
+          },
+          {
+            "md": "**Senior Telecom Engineer – Projects (ELV & ICT) @Web synergies / Yokogawa Ltd for Saudi Aramco (Jafurah Project, Saudi Arabia)**\n🗓️ Jun 2023 – Oct 2023",
+            "value": "Senior Telecom Engineer – Projects (ELV & ICT) @Web synergies / Yokogawa Ltd for Saudi Aramco (Jafurah Project, Saudi Arabia)\n🗓️ Jun 2023 – Oct 2023",
+            "bbox": [
+              {
+                "h": 41.96000000000009,
+                "w": 444.98299999999995,
+                "x": 72.048,
+                "y": 472.45,
+                "confidence": 0.5,
+                "end_index": 152,
+                "label": "form",
+                "start_index": 0
+              },
+              {
+                "h": 25.76,
+                "w": 444.98,
+                "x": 72.05,
+                "y": 472.45,
+                "confidence": 1.0,
+                "end_index": 128,
+                "label": "text",
+                "start_index": 0
+              },
+              {
+                "h": 11.0,
+                "w": 91.44,
+                "x": 88.97,
+                "y": 503.41,
+                "confidence": 1.0,
+                "end_index": 152,
+                "label": "checkbox-selected",
+                "start_index": 134
+              }
+            ],
+            "type": "text"
+          },
+          {
+            "md": "**Senior Engineer – Projects (ELV & ICT) @L&T Technology Services Ltd, Bengaluru, India**\n🗓️ Dec 2016 – Dec 2019",
+            "value": "Senior Engineer – Projects (ELV & ICT) @L&T Technology Services Ltd, Bengaluru, India\n🗓️ Dec 2016 – Dec 2019",
+            "bbox": [
+              {
+                "h": 11.0,
+                "w": 391.42,
+                "x": 72.05,
+                "y": 525.39,
+                "confidence": 1.0,
+                "end_index": 88,
+                "label": "text",
+                "start_index": 0
+              },
+              {
+                "h": 11.0,
+                "w": 93.69,
+                "x": 88.97,
+                "y": 541.95,
+                "confidence": 1.0,
+                "end_index": 112,
+                "label": "checkbox-selected",
+                "start_index": 94
+              }
+            ],
+            "type": "text"
+          },
+          {
+            "md": "**Project Engineer – ELV & ICT@ L&T Infotech (on AATS Services payroll), Odisha, India**\n🗓️ Jan 2016 – Dec 2016",
+            "value": "Project Engineer – ELV & ICT@ L&T Infotech (on AATS Services payroll), Odisha, India\n🗓️ Jan 2016 – Dec 2016",
+            "bbox": [
+              {
+                "h": 11.0,
+                "w": 384.65,
+                "x": 72.05,
+                "y": 563.91,
+                "confidence": 1.0,
+                "end_index": 87,
+                "label": "text",
+                "start_index": 0
+              },
+              {
+                "h": 11.0,
+                "w": 92.18,
+                "x": 88.97,
+                "y": 580.49,
+                "confidence": 1.0,
+                "end_index": 111,
+                "label": "checkbox-selected",
+                "start_index": 93
+              }
+            ],
+            "type": "text"
+          },
+          {
+            "md": "**Technical Engineer – ELV & ICT @Firelink Co. W\\.L.L, Bahrain, Middle East**\n🗓️ Jul 2014 – Aug 2015",
+            "value": "Technical Engineer – ELV & ICT @Firelink Co. W.L.L, Bahrain, Middle East\n🗓️ Jul 2014 – Aug 2015",
+            "bbox": [
+              {
+                "h": 11.0,
+                "w": 327.3,
+                "x": 72.05,
+                "y": 602.45,
+                "confidence": 1.0,
+                "end_index": 76,
+                "label": "text",
+                "start_index": 0
+              },
+              {
+                "h": 11.0,
+                "w": 88.99,
+                "x": 88.97,
+                "y": 618.65,
+                "confidence": 1.0,
+                "end_index": 100,
+                "label": "checkbox-selected",
+                "start_index": 82
+              }
+            ],
+            "type": "text"
+          },
+          {
+            "md": "**Project Engineer – ELV & ICT@ Orcel Wireless Engineering Pvt. Ltd, Odisha, India**\n🗓️ Oct 2010 – Jun 2014",
+            "value": "Project Engineer – ELV & ICT@ Orcel Wireless Engineering Pvt. Ltd, Odisha, India\n🗓️ Oct 2010 – Jun 2014",
+            "bbox": [
+              {
+                "h": 354.59000000000003,
+                "w": 391.417,
+                "x": 72.048,
+                "y": 313.61,
+                "confidence": 0.49,
+                "end_index": 107,
+                "label": "form",
+                "start_index": 0
+              }
+            ],
+            "type": "text"
+          },
+          {
+            "level": 1,
+            "md": "# <u>Roles & Responsibilities:</u>",
+            "value": "<u>Roles & Responsibilities:</u>",
+            "bbox": [
+              {
+                "h": 10.601362621474898,
+                "w": 111.91145014588892,
+                "x": 71.5818655982041,
+                "y": 679.4931270817453,
+                "confidence": 0.89,
+                "end_index": 33,
+                "label": "paragraph_title",
+                "start_index": 0
+              }
+            ],
+            "type": "heading"
+          },
+          {
+            "level": 2,
+            "md": "## <u>Project Execution & design co-ordination:</u>",
+            "value": "<u>Project Execution & design co-ordination:</u>",
+            "bbox": [
+              {
+                "h": 10.52675351324311,
+                "w": 189.30957774866621,
+                "x": 71.55023408917684,
+                "y": 702.016303175019,
+                "confidence": 0.93,
+                "end_index": 50,
+                "label": "paragraph_title",
+                "start_index": 0
+              }
+            ],
+            "type": "heading"
+          },
+          {
+            "items": [
+              {
+                "md": "Led end-to-end execution of ICT and ELV systems including CCTV, ACS, FAS, PA, Wi-Fi, IP Telephony, CUPPS, CUSS, E-Gates, FIDS, IBS, TETRA, and more.",
+                "value": "Led end-to-end execution of ICT and ELV systems including CCTV, ACS, FAS, PA, Wi-Fi, IP Telephony, CUPPS, CUSS, E-Gates, FIDS, IBS, TETRA, and more.",
+                "bbox": [
+                  {
+                    "h": 25.184484989519806,
+                    "w": 406.6549282488568,
+                    "x": 89.47920564500764,
+                    "y": 724.3622324957126,
+                    "confidence": 0.98,
+                    "end_index": 147,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              }
+            ],
+            "md": "* Led end-to-end execution of ICT and ELV systems including CCTV, ACS, FAS, PA, Wi-Fi, IP Telephony, CUPPS, CUSS, E-Gates, FIDS, IBS, TETRA, and more.",
+            "ordered": false,
+            "bbox": [
+              {
+                "h": 25.18,
+                "w": 406.65,
+                "x": 89.48,
+                "y": 724.36,
+                "confidence": 0.98,
+                "end_index": 149,
+                "label": "list",
+                "start_index": 0
+              }
+            ],
+            "type": "list"
+          }
+        ],
+        "page_height": 842.04,
+        "page_number": 1,
+        "page_width": 595.44,
+        "success": true
+      },
+      {
+        "items": [
+          {
+            "items": [
+              {
+                "md": "Collate drawings and documents from Design team required for submission to statutory authorities,",
+                "value": "Collate drawings and documents from Design team required for submission to statutory authorities,",
+                "bbox": [
+                  {
+                    "h": 23.066987743545166,
+                    "w": 411.6059574587939,
+                    "x": 89.30535422661016,
+                    "y": 73.85187341665872,
+                    "confidence": 0.97,
+                    "end_index": 96,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Collaborate with cross-functional teams including engineers, designers, contractors, and clients to define project requirements, objectives, and deliverables.",
+                "value": "Collaborate with cross-functional teams including engineers, designers, contractors, and clients to define project requirements, objectives, and deliverables.",
+                "bbox": [
+                  {
+                    "h": 23.72582803657346,
+                    "w": 412.57577766411026,
+                    "x": 89.61029668802404,
+                    "y": 100.66925369992138,
+                    "confidence": 0.98,
+                    "end_index": 157,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Provide technical expertise and guidance to project teams on the design, installation, testing, and commissioning of fire protection, security, safety, and ELV & ICT systems",
+                "value": "Provide technical expertise and guidance to project teams on the design, installation, testing, and commissioning of fire protection, security, safety, and ELV & ICT systems",
+                "bbox": [
+                  {
+                    "h": 23.55738719452648,
+                    "w": 398.24170915944177,
+                    "x": 89.43129523270773,
+                    "y": 127.32777624988088,
+                    "confidence": 0.98,
+                    "end_index": 172,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Foster a culture of safety, quality, and continuous improvement within the project team, ensuring compliance with relevant regulations, codes, and standards.",
+                "value": "Foster a culture of safety, quality, and continuous improvement within the project team, ensuring compliance with relevant regulations, codes, and standards.",
+                "bbox": [
+                  {
+                    "h": 23.579248465486835,
+                    "w": 414.0894984982375,
+                    "x": 89.46962356254767,
+                    "y": 154.73659541908822,
+                    "confidence": 0.97,
+                    "end_index": 156,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Act as the primary point of contact for clients, consultants, and regulatory authorities, addressing inquiries, resolving issues, and maintaining positive relationships throughout the project lifecycle.",
+                "value": "Act as the primary point of contact for clients, consultants, and regulatory authorities, addressing inquiries, resolving issues, and maintaining positive relationships throughout the project lifecycle.",
+                "bbox": [
+                  {
+                    "h": 38.03,
+                    "w": 412.142,
+                    "x": 108.07,
+                    "y": 181.42,
+                    "confidence": 0.99,
+                    "end_index": 201,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              }
+            ],
+            "md": "* Collate drawings and documents from Design team required for submission to statutory authorities,\n* Collaborate with cross-functional teams including engineers, designers, contractors, and clients to define project requirements, objectives, and deliverables.\n* Provide technical expertise and guidance to project teams on the design, installation, testing, and commissioning of fire protection, security, safety, and ELV & ICT systems\n* Foster a culture of safety, quality, and continuous improvement within the project team, ensuring compliance with relevant regulations, codes, and standards.\n* Act as the primary point of contact for clients, consultants, and regulatory authorities, addressing inquiries, resolving issues, and maintaining positive relationships throughout the project lifecycle.",
+            "ordered": false,
+            "bbox": [
+              {
+                "h": 145.6,
+                "w": 430.91,
+                "x": 89.31,
+                "y": 73.85,
+                "confidence": 0.98,
+                "end_index": 800,
+                "label": "list",
+                "start_index": 0
+              }
+            ],
+            "type": "list"
+          },
+          {
+            "md": "<u>**Project Billing:**</u>",
+            "value": "<u>Project Billing:</u>",
+            "bbox": [
+              {
+                "h": 10.610613549209214,
+                "w": 66.46248957043161,
+                "x": 71.60583410049068,
+                "y": 222.07957625047635,
+                "confidence": 0.96,
+                "end_index": 26,
+                "label": "paragraph_title",
+                "start_index": 0
+              }
+            ],
+            "type": "text"
+          },
+          {
+            "items": [
+              {
+                "md": "Verify contractor bills and submit them to the Project Head for approval.",
+                "value": "Verify contractor bills and submit them to the Project Head for approval.",
+                "bbox": [
+                  {
+                    "h": 10.753238286013717,
+                    "w": 341.51556825814606,
+                    "x": 89.68665196860711,
+                    "y": 243.80170724085363,
+                    "confidence": 0.96,
+                    "end_index": 72,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Check and process daily NMR / DLR (Daily Labour Report) bills and Joint Measurement Sheets (JMS) to ensure accuracy and timely submission.",
+                "value": "Check and process daily NMR / DLR (Daily Labour Report) bills and Joint Measurement Sheets (JMS) to ensure accuracy and timely submission.",
+                "bbox": [
+                  {
+                    "h": 22.87909864353085,
+                    "w": 407.6134024175878,
+                    "x": 89.95047391149012,
+                    "y": 256.3653445634051,
+                    "confidence": 0.98,
+                    "end_index": 137,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              }
+            ],
+            "md": "* Verify contractor bills and submit them to the Project Head for approval.\n* Check and process daily NMR / DLR (Daily Labour Report) bills and Joint Measurement Sheets (JMS) to ensure accuracy and timely submission.",
+            "ordered": false,
+            "bbox": [
+              {
+                "h": 35.44,
+                "w": 407.88,
+                "x": 89.69,
+                "y": 243.8,
+                "confidence": 0.97,
+                "end_index": 215,
+                "label": "list",
+                "start_index": 0
+              }
+            ],
+            "type": "list"
+          },
+          {
+            "md": "<u>**Customer Relationship Management:**</u>",
+            "value": "<u>Customer Relationship Management:</u>",
+            "bbox": [
+              {
+                "h": 10.725535643340304,
+                "w": 170.40066319550309,
+                "x": 71.36655239376907,
+                "y": 293.59040086937875,
+                "confidence": 0.96,
+                "end_index": 43,
+                "label": "paragraph_title",
+                "start_index": 0
+              }
+            ],
+            "type": "text"
+          },
+          {
+            "items": [
+              {
+                "md": "Take overall responsibility for identifying, tracking, and ensuring timely rectification of snags during the project closure phase.",
+                "value": "Take overall responsibility for identifying, tracking, and ensuring timely rectification of snags during the project closure phase.",
+                "bbox": [
+                  {
+                    "h": 25.75999999999999,
+                    "w": 411.949,
+                    "x": 108.07,
+                    "y": 316.13,
+                    "confidence": 0.98,
+                    "end_index": 130,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Oversee and monitor the flat handover process in coordination with team members, ensuring quality standards and customer readiness are met.",
+                "value": "Oversee and monitor the flat handover process in coordination with team members, ensuring quality standards and customer readiness are met.",
+                "bbox": [
+                  {
+                    "h": 25.430000000000007,
+                    "w": 378.073,
+                    "x": 108.07,
+                    "y": 353.21,
+                    "confidence": 0.98,
+                    "end_index": 138,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              }
+            ],
+            "md": "* Take overall responsibility for identifying, tracking, and ensuring timely rectification of snags during the project closure phase.\n* Oversee and monitor the flat handover process in coordination with team members, ensuring quality standards and customer readiness are met.",
+            "ordered": false,
+            "bbox": [
+              {
+                "h": 62.51,
+                "w": 411.95,
+                "x": 108.07,
+                "y": 316.13,
+                "confidence": 0.98,
+                "end_index": 274,
+                "label": "list",
+                "start_index": 0
+              }
+            ],
+            "type": "list"
+          },
+          {
+            "md": "<u>**People Management:**</u>",
+            "value": "<u>People Management:</u>",
+            "bbox": [
+              {
+                "h": 10.583136538919597,
+                "w": 98.39873718499908,
+                "x": 71.40801417980661,
+                "y": 390.4306416789729,
+                "confidence": 0.96,
+                "end_index": 28,
+                "label": "paragraph_title",
+                "start_index": 0
+              }
+            ],
+            "type": "text"
+          },
+          {
+            "items": [
+              {
+                "md": "Foster team building and promote a collaborative work environment.",
+                "value": "Foster team building and promote a collaborative work environment.",
+                "bbox": [
+                  {
+                    "h": 11.0,
+                    "w": 307.607,
+                    "x": 108.07,
+                    "y": 412.66,
+                    "confidence": 0.96,
+                    "end_index": 65,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Build and maintain strong, professional relationships with contractors and vendors to ensure smooth coordination and execution.",
+                "value": "Build and maintain strong, professional relationships with contractors and vendors to ensure smooth coordination and execution.",
+                "bbox": [
+                  {
+                    "h": 23.64687550495423,
+                    "w": 430.32764468011635,
+                    "x": 89.6841522949219,
+                    "y": 434.8274985137195,
+                    "confidence": 0.98,
+                    "end_index": 126,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              }
+            ],
+            "md": "* Foster team building and promote a collaborative work environment.\n* Build and maintain strong, professional relationships with contractors and vendors to ensure smooth coordination and execution.",
+            "ordered": false,
+            "bbox": [
+              {
+                "h": 45.81,
+                "w": 430.33,
+                "x": 89.68,
+                "y": 412.66,
+                "confidence": 0.97,
+                "end_index": 197,
+                "label": "list",
+                "start_index": 0
+              }
+            ],
+            "type": "list"
+          },
+          {
+            "md": "<u>**PROJECTS executed till date:**</u>",
+            "value": "<u>PROJECTS executed till date:</u>",
+            "bbox": [
+              {
+                "h": 9.72931852848702,
+                "w": 128.75717215486856,
+                "x": 71.8173357457603,
+                "y": 472.29887017197024,
+                "confidence": 0.95,
+                "end_index": 38,
+                "label": "paragraph_title",
+                "start_index": 0
+              }
+            ],
+            "type": "text"
+          },
+          {
+            "items": [
+              {
+                "md": "**Microsoft Data Centre, Hyderabad** – ELV & ICT Systems design co-ordination & execution",
+                "value": "Microsoft Data Centre, Hyderabad – ELV & ICT Systems design co-ordination & execution",
+                "bbox": [
+                  {
+                    "h": 10.938607824409264,
+                    "w": 415.3401508372238,
+                    "x": 89.5419900021437,
+                    "y": 494.3105627215129,
+                    "confidence": 0.96,
+                    "end_index": 88,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "**Hyderabad International Airport Expansion** – Full ICT & ELV Infrastructure execution",
+                "value": "Hyderabad International Airport Expansion – Full ICT & ELV Infrastructure execution",
+                "bbox": [
+                  {
+                    "h": 10.922612995426856,
+                    "w": 394.83471597513346,
+                    "x": 89.69415985375383,
+                    "y": 516.8059108207888,
+                    "confidence": 0.96,
+                    "end_index": 86,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "**Saudi Aramco Jafurah Oil & Gas Project** – Designing of Access Control System",
+                "value": "Saudi Aramco Jafurah Oil & Gas Project – Designing of Access Control System",
+                "bbox": [
+                  {
+                    "h": 11.0,
+                    "w": 346.413,
+                    "x": 108.07,
+                    "y": 539.79,
+                    "confidence": 0.96,
+                    "end_index": 78,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "**Al-Bayt Football Stadium, Qatar** – Design & Execution of FAS Systems",
+                "value": "Al-Bayt Football Stadium, Qatar – Design & Execution of FAS Systems",
+                "bbox": [
+                  {
+                    "h": 11.051123173113558,
+                    "w": 328.29761291801645,
+                    "x": 89.76015301186168,
+                    "y": 561.6032651367187,
+                    "confidence": 0.96,
+                    "end_index": 70,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "**UP Police Bhawan, Lucknow** – Design & Execution of CCTV, FAS, PA & ACS",
+                "value": "UP Police Bhawan, Lucknow – Design & Execution of CCTV, FAS, PA & ACS",
+                "bbox": [
+                  {
+                    "h": 10.965282586223301,
+                    "w": 346.88512439262587,
+                    "x": 89.67394972608615,
+                    "y": 584.1707654582698,
+                    "confidence": 0.96,
+                    "end_index": 72,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "**NTPC Thermal Plant, Khargone** – Project execution of FAS, PA, CCTV",
+                "value": "NTPC Thermal Plant, Khargone – Project execution of FAS, PA, CCTV",
+                "bbox": [
+                  {
+                    "h": 11.02464897341843,
+                    "w": 321.6452632502859,
+                    "x": 89.67285057879195,
+                    "y": 606.6731332317072,
+                    "confidence": 0.96,
+                    "end_index": 68,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "**SCB Medical College, Cuttack** – Project Execution of FAS",
+                "value": "SCB Medical College, Cuttack – Project Execution of FAS",
+                "bbox": [
+                  {
+                    "h": 11.027356562023622,
+                    "w": 267.7818248844799,
+                    "x": 89.71416610732663,
+                    "y": 629.3409146127095,
+                    "confidence": 0.95,
+                    "end_index": 58,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "**Orange Tower, Bahrain** – Project Design & Execution of FAS, CCTV, PA",
+                "value": "Orange Tower, Bahrain – Project Design & Execution of FAS, CCTV, PA",
+                "bbox": [
+                  {
+                    "h": 11.008553863376477,
+                    "w": 327.14420852229426,
+                    "x": 89.61904554592229,
+                    "y": 651.6622750738377,
+                    "confidence": 0.95,
+                    "end_index": 70,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              }
+            ],
+            "md": "* **Microsoft Data Centre, Hyderabad** – ELV & ICT Systems design co-ordination & execution\n* **Hyderabad International Airport Expansion** – Full ICT & ELV Infrastructure execution\n* **Saudi Aramco Jafurah Oil & Gas Project** – Designing of Access Control System\n* **Al-Bayt Football Stadium, Qatar** – Design & Execution of FAS Systems\n* **UP Police Bhawan, Lucknow** – Design & Execution of CCTV, FAS, PA & ACS\n* **NTPC Thermal Plant, Khargone** – Project execution of FAS, PA, CCTV\n* **SCB Medical College, Cuttack** – Project Execution of FAS\n* **Orange Tower, Bahrain** – Project Design & Execution of FAS, CCTV, PA",
+            "ordered": false,
+            "bbox": [
+              {
+                "h": 168.36,
+                "w": 415.34,
+                "x": 89.54,
+                "y": 494.31,
+                "confidence": 0.96,
+                "end_index": 620,
+                "label": "list",
+                "start_index": 0
+              }
+            ],
+            "type": "list"
+          },
+          {
+            "md": "**DECLARATION**",
+            "value": "DECLARATION",
+            "bbox": [
+              {
+                "h": 9.139615758384105,
+                "w": 64.58050120819838,
+                "x": 71.83845444276392,
+                "y": 696.655779142054,
+                "confidence": 0.94,
+                "end_index": 14,
+                "label": "paragraph_title",
+                "start_index": 0
+              }
+            ],
+            "type": "text"
+          },
+          {
+            "md": "I hereby declare that the information furnished above is true to the best of my knowledge and belief.\n**Signature:** Partha Sarathi Mohanty",
+            "value": "I hereby declare that the information furnished above is true to the best of my knowledge and belief.\nSignature: Partha Sarathi Mohanty",
+            "bbox": [
+              {
+                "h": 25.270826981707305,
+                "w": 449.91965268435604,
+                "x": 71.41161743283158,
+                "y": 719.0982289824694,
+                "confidence": 0.87,
+                "end_index": 138,
+                "label": "text",
+                "start_index": 0
+              },
+              {
+                "h": 11.0,
+                "w": 449.36,
+                "x": 72.05,
+                "y": 719.86,
+                "confidence": 1.0,
+                "end_index": 100,
+                "label": "text",
+                "start_index": 0
+              },
+              {
+                "h": 25.4,
+                "w": 156.54,
+                "x": 72.05,
+                "y": 719.86,
+                "confidence": 0.87,
+                "end_index": 138,
+                "label": "text",
+                "start_index": 102
+              },
+              {
+                "h": 11.0,
+                "w": 107.2,
+                "x": 121.39,
+                "y": 734.26,
+                "confidence": 1.0,
+                "end_index": 138,
+                "label": "text",
+                "start_index": 117
+              }
+            ],
+            "type": "text"
+          }
+        ],
+        "page_height": 842.04,
+        "page_number": 2,
+        "page_width": 595.44,
+        "success": true
+      }
+    ]
+  },
+  "job_metadata": {
+    "state_transitions": {
+      "pending_at": "2026-05-12T14:41:42.595443Z",
+      "throttled_at": "2026-05-12T14:41:42.934254Z",
+      "running_at": "2026-05-12T14:41:43.097388Z",
+      "completed_at": "2026-05-12T14:41:58.393474Z",
+      "failed_at": null,
+      "cancelled_at": null
+    },
+    "pdf-pages": 2,
+    "pdf-real-pages": 2,
+    "pdf-rawTextLength": 4366,
+    "pdf-mdLength": 4411,
+    "pdf-time": 7607,
+    "pdf-ocrTime": 0,
+    "pdf-image-convertTime": 0,
+    "pdf-pdfToHTMLTime": 0,
+    "pdf-llmTime": 5845,
+    "pdf-inputTokens": 22124,
+    "pdf-outputTokens": 1504,
+    "pdf-image-ocr-count": 0,
+    "pdf-image-ocr-failed-count": 0,
+    "pdf-image-ocr-success-count": 2,
+    "pdf-image-ocr-empty-count": 2,
+    "pdf-image-ocr-hadText-count": 0,
+    "pdf-image-ocr-pixels": 14483200,
+    "pdf-multimodal-time": 0,
+    "pdf-multimodal-pdf2Image": 0,
+    "pdf-model": null,
+    "pdf-high-res-ocr": 2,
+    "model_invocations": [
+      {
+        "page_number": 1,
+        "model": "gemini-3.0-flash",
+        "task": "parse_page_with_agent",
+        "reason": "primary",
+        "attempt": 1,
+        "status": "success",
+        "input_tokens": 11314,
+        "output_tokens": 802
+      },
+      {
+        "page_number": 2,
+        "model": "gemini-3.0-flash",
+        "task": "parse_page_with_agent",
+        "reason": "primary",
+        "attempt": 1,
+        "status": "success",
+        "input_tokens": 10810,
+        "output_tokens": 702
+      }
+    ]
+  },
+  "markdown": null,
+  "markdown_full": "# PARTHA SARATHI MOHANTY\n\n📞 +91-8984899989 | ✉️ parthasarathi.prf@gmail.com\n📍 Hyderabad, India | Passport: Z7018683 | Driving License: 2W & 4W\n**Willing to Relocate:** Yes (Anywhere in the World)\n\n----\n\n# PROFESSIONAL SUMMARY:\n\nExperienced **ICT & ELV Project Manager** with **11 years** of expertise in **ICT Infrastructure, Data Centres, Airports, Oil & Gas, and Commercial Projects**. Strong background in **project execution, design review, vendor management, project execution, ITC & quality control**. Skilled in managing multi-disciplinary teams, coordinating with clients, and delivering projects to international standards for organisations such as (Tata Projects, GMR, L&T, Yokogawa, Microsoft India, Saudi Aramco & many more).\n\n----\n\n**Qualification: B. Tech in electronics & telecommunication engineering from Biju Patnaik university of technology, Odisha in 2010.**\n\n----\n\n# ORGANISATION SERVED / PROFESSIONAL EXPERIENCE (11 years overall):\n\n**Senior Manager – MEP (ELV & ICT) @Tata Projects Ltd, Hyderabad, India**\n🗓️ Nov 2024 – Oct 2025\n\n**IT Project Manager – ELV & ICT@GMR Group – Hyderabad, India**\n🗓️ Dec 2023 – Oct 2024\n\n**Senior Telecom Engineer – Projects (ELV & ICT) @Web synergies / Yokogawa Ltd for Saudi Aramco (Jafurah Project, Saudi Arabia)**\n🗓️ Jun 2023 – Oct 2023\n\n**Senior Engineer – Projects (ELV & ICT) @L&T Technology Services Ltd, Bengaluru, India**\n🗓️ Dec 2016 – Dec 2019\n\n**Project Engineer – ELV & ICT@ L&T Infotech (on AATS Services payroll), Odisha, India**\n🗓️ Jan 2016 – Dec 2016\n\n**Technical Engineer – ELV & ICT @Firelink Co. W.L.L, Bahrain, Middle East**\n🗓️ Jul 2014 – Aug 2015\n\n**Project Engineer – ELV & ICT@ Orcel Wireless Engineering Pvt. Ltd, Odisha, India**\n🗓️ Oct 2010 – Jun 2014\n\n# <u>Roles & Responsibilities:</u>\n\n## <u>Project Execution & design co-ordination:</u>\n\n* Led end-to-end execution of ICT and ELV systems including CCTV, ACS, FAS, PA, Wi-Fi, IP Telephony, CUPPS, CUSS, E-Gates, FIDS, IBS, TETRA, and more.\n\n---\n\n* Collate drawings and documents from Design team required for submission to statutory authorities,\n* Collaborate with cross-functional teams including engineers, designers, contractors, and clients to define project requirements, objectives, and deliverables.\n* Provide technical expertise and guidance to project teams on the design, installation, testing, and commissioning of fire protection, security, safety, and ELV & ICT systems\n* Foster a culture of safety, quality, and continuous improvement within the project team, ensuring compliance with relevant regulations, codes, and standards.\n* Act as the primary point of contact for clients, consultants, and regulatory authorities, addressing inquiries, resolving issues, and maintaining positive relationships throughout the project lifecycle.\n\n<u>**Project Billing:**</u>\n\n* Verify contractor bills and submit them to the Project Head for approval.\n* Check and process daily NMR / DLR (Daily Labour Report) bills and Joint Measurement Sheets (JMS) to ensure accuracy and timely submission.\n\n<u>**Customer Relationship Management:**</u>\n\n* Take overall responsibility for identifying, tracking, and ensuring timely rectification of snags during the project closure phase.\n* Oversee and monitor the flat handover process in coordination with team members, ensuring quality standards and customer readiness are met.\n\n<u>**People Management:**</u>\n\n* Foster team building and promote a collaborative work environment.\n* Build and maintain strong, professional relationships with contractors and vendors to ensure smooth coordination and execution.\n\n<u>**PROJECTS executed till date:**</u>\n\n* **Microsoft Data Centre, Hyderabad** – ELV & ICT Systems design co-ordination & execution\n* **Hyderabad International Airport Expansion** – Full ICT & ELV Infrastructure execution\n* **Saudi Aramco Jafurah Oil & Gas Project** – Designing of Access Control System\n* **Al-Bayt Football Stadium, Qatar** – Design & Execution of FAS Systems\n* **UP Police Bhawan, Lucknow** – Design & Execution of CCTV, FAS, PA & ACS\n* **NTPC Thermal Plant, Khargone** – Project execution of FAS, PA, CCTV\n* **SCB Medical College, Cuttack** – Project Execution of FAS\n* **Orange Tower, Bahrain** – Project Design & Execution of FAS, CCTV, PA\n\n**DECLARATION**\n\nI hereby declare that the information furnished above is true to the best of my knowledge and belief.\n**Signature:** Partha Sarathi Mohanty",
+  "metadata": {
+    "pages": [
+      {
+        "page_number": 1,
+        "confidence": 1.0,
+        "cost_optimized": false,
+        "original_orientation_angle": 0,
+        "printed_page_number": null,
+        "slide_section_name": null,
+        "speaker_notes": null,
+        "triggered_auto_mode": false
+      },
+      {
+        "page_number": 2,
+        "confidence": 1.0,
+        "cost_optimized": false,
+        "original_orientation_angle": 0,
+        "printed_page_number": null,
+        "slide_section_name": null,
+        "speaker_notes": null,
+        "triggered_auto_mode": false
+      }
+    ]
+  },
+  "raw_parameters": null,
+  "result_content_metadata": null,
+  "text": null,
+  "text_full": "PARTHA SARATHI MOHANTY\n\n+91-8984899989 | ✉️ parthasarathi.prf@gmail.com\nHyderabad, India | Passport: Z7018683 | Driving License: 2W & 4W\nWilling to Relocate: Yes (Anywhere in the World)\n\n\nPROFESSIONAL SUMMARY:\n\nExperienced ICT & ELV Project Manager with 11 years of expertise in ICT Infrastructure, Data\nCentres, Airports, Oil & Gas, and Commercial Projects. Strong background in project execution,\ndesign review, vendor management, project execution, ITC & quality control. Skilled in managing\nmulti-disciplinary teams, coordinating with clients, and delivering projects to international standards\nfor organisations such as (Tata Projects, GMR, L&T, Yokogawa, Microsoft India, Saudi Aramco & many\nmore).\n\n\nQualification: B. Tech in electronics & telecommunication engineering from Biju Patnaik university\nof technology, Odisha in 2010.\n\n\nORGANISATION SERVED / PROFESSIONAL EXPERIENCE (11 years overall):\n\nSenior Manager – MEP (ELV & ICT) @Tata Projects Ltd, Hyderabad, India\nNov 2024 – Oct 2025\nIT Project Manager – ELV & ICT@GMR Group – Hyderabad, India\nDec 2023 – Oct 2024\nSenior Telecom Engineer – Projects (ELV & ICT) @Web synergies / Yokogawa Ltd for Saudi Aramco\n(Jafurah Project, Saudi Arabia)\nJun 2023 – Oct 2023\nSenior Engineer – Projects (ELV & ICT) @L&T Technology Services Ltd, Bengaluru, India\nDec 2016 – Dec 2019\nProject Engineer – ELV & ICT@ L&T Infotech (on AATS Services payroll), Odisha, India\nJan 2016 – Dec 2016\nTechnical Engineer – ELV & ICT @Firelink Co. W.L.L, Bahrain, Middle East\nJul 2014 – Aug 2015\n\nProject Engineer – ELV & ICT@ Orcel Wireless Engineering Pvt. Ltd, Odisha, India\nOct 2010 – Jun 2014\n\nRoles & Responsibilities:\n\nProject Execution & design co-ordination:\nx     Led end-to-end execution of ICT and ELV systems including CCTV, ACS, FAS, PA, Wi-Fi, IP\n      Telephony, CUPPS, CUSS, E-Gates, FIDS, IBS, TETRA, and more.\n\n---\n\n x     Collate drawings and documents from Design team required for submission to statutory\n       authorities,\n x     Collaborate with cross-functional teams including engineers, designers, contractors, and\n       clients to define project requirements, objectives, and deliverables.\n x     Provide technical expertise and guidance to project teams on the design, installation,\n       testing, and commissioning of fire protection, security, safety, and ELV & ICT systems\n x     Foster a culture of safety, quality, and continuous improvement within the project team,\n       ensuring compliance with relevant regulations, codes, and standards.\n x     Act as the primary point of contact for clients, consultants, and regulatory authorities,\n       addressing inquiries, resolving issues, and maintaining positive relationships throughout the\n       project lifecycle.\nProject Billing:\n x     Verify contractor bills and submit them to the Project Head for approval.\n x     Check and process daily NMR / DLR (Daily Labour Report) bills and Joint Measurement\n       Sheets (JMS) to ensure accuracy and timely submission.\n\nCustomer Relationship Management:\n x     Take overall responsibility for identifying, tracking, and ensuring timely rectification of snags\n       during the project closure phase.\n x     Oversee and monitor the flat handover process in coordination with team members,\n       ensuring quality standards and customer readiness are met.\n\nPeople Management:\n x     Foster team building and promote a collaborative work environment.\n x     Build and maintain strong, professional relationships with contractors and vendors to ensure\n       smooth coordination and execution.\n\nPROJECTS executed till date:\n x     Microsoft Data Centre, Hyderabad – ELV & ICT Systems design co-ordination & execution\n x     Hyderabad International Airport Expansion – Full ICT & ELV Infrastructure execution\n x     Saudi Aramco Jafurah Oil & Gas Project – Designing of Access Control System\n x     Al-Bayt Football Stadium, Qatar – Design & Execution of FAS Systems\n x     UP Police Bhawan, Lucknow – Design & Execution of CCTV, FAS, PA & ACS\n x     NTPC Thermal Plant, Khargone – Project execution of FAS, PA, CCTV\n x     SCB Medical College, Cuttack – Project Execution of FAS\n x     Orange Tower, Bahrain – Project Design & Execution of FAS, CCTV, PA\n\n\nDECLARATION\n\nI hereby declare that the information furnished above is true to the best of my knowledge and belief.\nSignature: Partha Sarathi Mohanty",
+  "debug": null
+}

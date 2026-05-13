@@ -1,0 +1,2378 @@
+{
+  "job": {
+    "id": "pjb-xltj22vdky5xqr2ssgqsqyku6q94",
+    "project_id": "949fd88b-381a-4ae5-b3b9-bf7fcc9b74b8",
+    "status": "COMPLETED",
+    "created_at": "2026-05-12T14:43:26.320005Z",
+    "error_message": null,
+    "name": "Shameer CV .pdf",
+    "tier": "agentic",
+    "updated_at": "2026-05-12T14:43:39.746558Z"
+  },
+  "images_content_metadata": null,
+  "items": {
+    "pages": [
+      {
+        "items": [
+          {
+            "level": 1,
+            "md": "# SHEMEER BADARUDEEN",
+            "value": "SHEMEER BADARUDEEN",
+            "bbox": [
+              {
+                "h": 13.64459294016768,
+                "w": 195.47555609726325,
+                "x": 11.598941925793158,
+                "y": 22.816185183641387,
+                "confidence": 0.89,
+                "end_index": 19,
+                "label": "paragraph_title",
+                "start_index": 0
+              }
+            ],
+            "type": "heading"
+          },
+          {
+            "level": 2,
+            "md": "## Security Design & Operations, PMP|PSP|CPP",
+            "value": "Security Design & Operations, PMP|PSP|CPP",
+            "bbox": [
+              {
+                "h": 13.506830280583078,
+                "w": 247.21817663425352,
+                "x": 11.503715515136719,
+                "y": 50.22288109756098,
+                "confidence": 0.89,
+                "end_index": 43,
+                "label": "paragraph_title",
+                "start_index": 0
+              }
+            ],
+            "type": "heading"
+          },
+          {
+            "md": "**Address**: Al Mamzar, Street 15C, Dubai.\n**Phone**: UAE: +971 52 12 666 56, India: +91 9656360596 - **Email**: ",
+            "value": "Address: Al Mamzar, Street 15C, Dubai.\nPhone: UAE: +971 52 12 666 56, India: +91 9656360596 - Email: ",
+            "bbox": [
+              {
+                "h": 10.68,
+                "w": 44.95,
+                "x": 10.82,
+                "y": 80.0,
+                "confidence": 1.0,
+                "end_index": 14,
+                "label": "text",
+                "start_index": 0
+              },
+              {
+                "h": 10.0,
+                "w": 121.55,
+                "x": 48.46,
+                "y": 80.0,
+                "confidence": 1.0,
+                "end_index": 52,
+                "label": "text",
+                "start_index": 13
+              },
+              {
+                "h": 10.0,
+                "w": 72.38,
+                "x": 97.62,
+                "y": 80.0,
+                "confidence": 1.0,
+                "end_index": 41,
+                "label": "text",
+                "start_index": 24
+              },
+              {
+                "h": 10.66,
+                "w": 52.0,
+                "x": 10.99,
+                "y": 95.14,
+                "confidence": 1.0,
+                "end_index": 60,
+                "label": "text",
+                "start_index": 43
+              },
+              {
+                "h": 25.546000000000006,
+                "w": 273.957,
+                "x": 10.99,
+                "y": 95.136,
+                "confidence": 0.71,
+                "end_index": 112,
+                "label": "key-value-region",
+                "start_index": 43
+              }
+            ],
+            "type": "text"
+          },
+          {
+            "md": "<shemeerbadar12@gmail.com>",
+            "text": "shemeerbadar12@gmail.com",
+            "url": "mailto:shemeerbadar12@gmail.com",
+            "bbox": [
+              {
+                "h": 40.391999999999996,
+                "w": 435.74399999999997,
+                "x": 10.404,
+                "y": 80.78399999999999,
+                "confidence": 0.55,
+                "end_index": 25,
+                "label": "key-value-region",
+                "start_index": 0
+              }
+            ],
+            "type": "link"
+          },
+          {
+            "md": "**Date of Birth**: 12 Dec 1988 **Driving License**: United Arab Emirates, Qatar, KSA, India | UAE Golden Visa",
+            "value": "\nDate of Birth: 12 Dec 1988 Driving License: United Arab Emirates, Qatar, KSA, India | UAE Golden Visa",
+            "bbox": [
+              {
+                "h": 10.41,
+                "w": 64.43,
+                "x": 10.99,
+                "y": 110.28,
+                "confidence": 1.0,
+                "end_index": 19,
+                "label": "text",
+                "start_index": 0
+              },
+              {
+                "h": 10.41,
+                "w": 360.05,
+                "x": 68.08,
+                "y": 110.28,
+                "confidence": 1.0,
+                "end_index": 108,
+                "label": "text",
+                "start_index": 19
+              }
+            ],
+            "type": "text"
+          },
+          {
+            "level": 1,
+            "md": "# Professional Summary",
+            "value": "Professional Summary",
+            "bbox": [
+              {
+                "h": 13.369692501905497,
+                "w": 130.68068791831413,
+                "x": 11.36420924489091,
+                "y": 130.56047089367377,
+                "confidence": 0.95,
+                "end_index": 21,
+                "label": "paragraph_title",
+                "start_index": 0
+              }
+            ],
+            "type": "heading"
+          },
+          {
+            "md": "Accomplished Security Systems Design & Operations Manager with over 14+ years of experience leading end-to-end security infrastructure for iconic projects such as EXPO 2020, Red Sea Global ultra-luxury developments, and major financial institutions. Demonstrated expertise in both the design and operational management of complex systems, including VMS, ACS, and PSIM platforms, within high-risk, mission-critical environments. Skilled in bridging design intent with operational efficiency, ensuring reliable, scalable, and compliant security solutions. Adept at managing cross-functional teams, coordinating with consultants, operators, and contractors, and driving value through risk mitigation, vendor oversight, and lifecycle maintenance strategies. Proven success in delivering integrated security systems across the hospitality, government, and critical infrastructure sectors.",
+            "value": "Accomplished Security Systems Design & Operations Manager with over 14+ years of experience leading end-to-end security infrastructure for iconic projects such as EXPO 2020, Red Sea Global ultra-luxury developments, and major financial institutions. Demonstrated expertise in both the design and operational management of complex systems, including VMS, ACS, and PSIM platforms, within high-risk, mission-critical environments. Skilled in bridging design intent with operational efficiency, ensuring reliable, scalable, and compliant security solutions. Adept at managing cross-functional teams, coordinating with consultants, operators, and contractors, and driving value through risk mitigation, vendor oversight, and lifecycle maintenance strategies. Proven success in delivering integrated security systems across the hospitality, government, and critical infrastructure sectors.",
+            "bbox": [
+              {
+                "h": 106.78112316596803,
+                "w": 589.5175099963676,
+                "x": 10.917367814226848,
+                "y": 155.28419052496187,
+                "confidence": 0.99,
+                "end_index": 882,
+                "label": "text",
+                "start_index": 0
+              }
+            ],
+            "type": "text"
+          },
+          {
+            "level": 1,
+            "md": "# Skills",
+            "value": "Skills",
+            "bbox": [
+              {
+                "h": 10.459162299923772,
+                "w": 32.294135675197694,
+                "x": 11.225803081233327,
+                "y": 271.6676817358994,
+                "confidence": 0.95,
+                "end_index": 7,
+                "label": "paragraph_title",
+                "start_index": 0
+              }
+            ],
+            "type": "heading"
+          },
+          {
+            "items": [
+              {
+                "md": "Operations Management",
+                "value": "Operations Management",
+                "bbox": [
+                  {
+                    "h": 11.0,
+                    "w": 109.81300000000002,
+                    "x": 43.963,
+                    "y": 295.557,
+                    "confidence": 0.97,
+                    "end_index": 20,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Security Projects & Implementation",
+                "value": "Security Projects & Implementation",
+                "bbox": [
+                  {
+                    "h": 11.0,
+                    "w": 158.14,
+                    "x": 328.603,
+                    "y": 295.557,
+                    "confidence": 0.66,
+                    "end_index": 33,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Security Policies & Procedures",
+                "value": "Security Policies & Procedures",
+                "bbox": [
+                  {
+                    "h": 11.0,
+                    "w": 134.39000000000001,
+                    "x": 43.963,
+                    "y": 311.637,
+                    "confidence": 0.65,
+                    "end_index": 29,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Security Compliance & Governance",
+                "value": "Security Compliance & Governance",
+                "bbox": [
+                  {
+                    "h": 11.0,
+                    "w": 155.91899999999998,
+                    "x": 328.603,
+                    "y": 311.637,
+                    "confidence": 0.66,
+                    "end_index": 31,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Crisis and Disaster Management",
+                "value": "Crisis and Disaster Management",
+                "bbox": [
+                  {
+                    "h": 11.0,
+                    "w": 143.448,
+                    "x": 43.963,
+                    "y": 327.717,
+                    "confidence": 0.65,
+                    "end_index": 29,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Network",
+                "value": "Network",
+                "bbox": [
+                  {
+                    "h": 11.0,
+                    "w": 38.0,
+                    "x": 328.603,
+                    "y": 327.717,
+                    "confidence": 0.96,
+                    "end_index": 6,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Threat & Risk Assessment",
+                "value": "Threat & Risk Assessment",
+                "bbox": [
+                  {
+                    "h": 9.052590748856696,
+                    "w": 128.9322689298304,
+                    "x": 30.479616907631478,
+                    "y": 344.2996410537348,
+                    "confidence": 0.63,
+                    "end_index": 23,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Command Control Center",
+                "value": "Command Control Center",
+                "bbox": [
+                  {
+                    "h": 9.027194645579241,
+                    "w": 127.96822479992375,
+                    "x": 314.98455911775915,
+                    "y": 344.25354134908537,
+                    "confidence": 0.64,
+                    "end_index": 21,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Budget oversight",
+                "value": "Budget oversight",
+                "bbox": [
+                  {
+                    "h": 11.0,
+                    "w": 74.83099999999999,
+                    "x": 43.963,
+                    "y": 359.637,
+                    "confidence": 0.64,
+                    "end_index": 15,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Audit coordination",
+                "value": "Audit coordination",
+                "bbox": [
+                  {
+                    "h": 9.179052496189007,
+                    "w": 97.1001905487805,
+                    "x": 314.96604635099084,
+                    "y": 360.13791968368906,
+                    "confidence": 0.63,
+                    "end_index": 17,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Operational risk management",
+                "value": "Operational risk management",
+                "bbox": [
+                  {
+                    "h": 11.0,
+                    "w": 132.233,
+                    "x": 43.963,
+                    "y": 375.717,
+                    "confidence": 0.65,
+                    "end_index": 26,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Asset Protection",
+                "value": "Asset Protection",
+                "bbox": [
+                  {
+                    "h": 9.156297399009151,
+                    "w": 85.52497379954272,
+                    "x": 315.0554761337652,
+                    "y": 376.4296260480183,
+                    "confidence": 0.63,
+                    "end_index": 15,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              }
+            ],
+            "md": "* Operations Management\n* Security Projects & Implementation\n* Security Policies & Procedures\n* Security Compliance & Governance\n* Crisis and Disaster Management\n* Network\n* Threat & Risk Assessment\n* Command Control Center\n* Budget oversight\n* Audit coordination\n* Operational risk management\n* Asset Protection",
+            "ordered": false,
+            "bbox": [
+              {
+                "h": 91.16,
+                "w": 156.93,
+                "x": 30.48,
+                "y": 295.56,
+                "confidence": 0.7,
+                "end_index": 171,
+                "label": "list",
+                "start_index": 0
+              },
+              {
+                "h": 90.03,
+                "w": 171.78,
+                "x": 314.97,
+                "y": 295.56,
+                "confidence": 0.7,
+                "end_index": 311,
+                "label": "list",
+                "start_index": 172
+              }
+            ],
+            "type": "list"
+          },
+          {
+            "level": 1,
+            "md": "# Certifications",
+            "value": "Certifications",
+            "bbox": [
+              {
+                "h": 10.539595083841462,
+                "w": 79.59786257115806,
+                "x": 11.445546525164348,
+                "y": 396.7675423971037,
+                "confidence": 0.96,
+                "end_index": 15,
+                "label": "paragraph_title",
+                "start_index": 0
+              }
+            ],
+            "type": "heading"
+          },
+          {
+            "items": [
+              {
+                "md": "Project Management & Planning, **PMP**, PMI",
+                "value": "Project Management & Planning, PMP, PMI",
+                "bbox": [
+                  {
+                    "h": 11.0,
+                    "w": 197.09,
+                    "x": 43.96,
+                    "y": 420.6,
+                    "confidence": 1.0,
+                    "end_index": 42,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Physical Security Professional, **PSP**, ASIS.",
+                "value": "Physical Security Professional, PSP, ASIS.",
+                "bbox": [
+                  {
+                    "h": 11.0,
+                    "w": 184.47599999999994,
+                    "x": 328.603,
+                    "y": 420.597,
+                    "confidence": 0.97,
+                    "end_index": 45,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Certified Protection Professional, **CPP**, ASIS",
+                "value": "Certified Protection Professional, CPP, ASIS",
+                "bbox": [
+                  {
+                    "h": 11.0,
+                    "w": 197.059,
+                    "x": 43.963,
+                    "y": 436.677,
+                    "confidence": 0.96,
+                    "end_index": 47,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Cisco Certified Network Administration, **CCNA**, Cisco.",
+                "value": "Cisco Certified Network Administration, CCNA, Cisco.",
+                "bbox": [
+                  {
+                    "h": 11.0,
+                    "w": 242.32699999999994,
+                    "x": 328.603,
+                    "y": 436.677,
+                    "confidence": 0.97,
+                    "end_index": 55,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Physical Security Information Management System, **PSIM**, CNL/Vid-sys/Control Pro/Prism.",
+                "value": "Physical Security Information Management System, PSIM, CNL/Vid-sys/Control Pro/Prism.",
+                "bbox": [
+                  {
+                    "h": 27.079999999999984,
+                    "w": 226.55499999999998,
+                    "x": 43.96,
+                    "y": 452.517,
+                    "confidence": 0.98,
+                    "end_index": 88,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Milestone Technical Configuration, Milestone.",
+                "value": "Milestone Technical Configuration, Milestone.",
+                "bbox": [
+                  {
+                    "h": 10.68508622332316,
+                    "w": 201.29532607660062,
+                    "x": 315.13080268673775,
+                    "y": 453.6696222370427,
+                    "confidence": 0.97,
+                    "end_index": 44,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "SIRA Certified Engineer.",
+                "value": "SIRA Certified Engineer.",
+                "bbox": [
+                  {
+                    "h": 11.0,
+                    "w": 106.548,
+                    "x": 43.963,
+                    "y": 484.677,
+                    "confidence": 0.97,
+                    "end_index": 23,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Control Pro, Siemens.",
+                "value": "Control Pro, Siemens.",
+                "bbox": [
+                  {
+                    "h": 11.0,
+                    "w": 94.23399999999998,
+                    "x": 328.603,
+                    "y": 484.677,
+                    "confidence": 0.96,
+                    "end_index": 20,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Security Screening System – Nuctech.",
+                "value": "Security Screening System – Nuctech.",
+                "bbox": [
+                  {
+                    "h": 11.0,
+                    "w": 164.915,
+                    "x": 43.963,
+                    "y": 500.517,
+                    "confidence": 0.97,
+                    "end_index": 35,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Explosive Trace Detector, Siemens.",
+                "value": "Explosive Trace Detector, Siemens.",
+                "bbox": [
+                  {
+                    "h": 11.0,
+                    "w": 155.315,
+                    "x": 328.603,
+                    "y": 500.517,
+                    "confidence": 0.97,
+                    "end_index": 33,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Lenel/Hirsch/Honeywell/Salto/RBH/Si-Pass/Bosh - Access Control Trainings.",
+                "value": "Lenel/Hirsch/Honeywell/Salto/RBH/Si-Pass/Bosh - Access Control Trainings.",
+                "bbox": [
+                  {
+                    "h": 27.076999999999998,
+                    "w": 228.43,
+                    "x": 43.772,
+                    "y": 516.597,
+                    "confidence": 0.98,
+                    "end_index": 72,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Dell/Resilient/HP/Pelco/Genetec/Milestone.",
+                "value": "Dell/Resilient/HP/Pelco/Genetec/Milestone.",
+                "bbox": [
+                  {
+                    "h": 11.0,
+                    "w": 201.00000000000006,
+                    "x": 328.603,
+                    "y": 516.597,
+                    "confidence": 0.97,
+                    "end_index": 41,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Bosch/Genetec/Milestone/Control Pro/Cloud IVS, SMS Solutions.",
+                "value": "Bosch/Genetec/Milestone/Control Pro/Cloud IVS, SMS Solutions.",
+                "bbox": [
+                  {
+                    "h": 25.572862042682925,
+                    "w": 260.50564779142053,
+                    "x": 30.34157972382336,
+                    "y": 549.2127810594512,
+                    "confidence": 0.98,
+                    "end_index": 60,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Seagate/Veracity/Promise, Storage Solutions.",
+                "value": "Seagate/Veracity/Promise, Storage Solutions.",
+                "bbox": [
+                  {
+                    "h": 11.0,
+                    "w": 199.272,
+                    "x": 328.603,
+                    "y": 548.517,
+                    "confidence": 0.98,
+                    "end_index": 43,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              }
+            ],
+            "md": "* Project Management & Planning, **PMP**, PMI\n* Physical Security Professional, **PSP**, ASIS.\n* Certified Protection Professional, **CPP**, ASIS\n* Cisco Certified Network Administration, **CCNA**, Cisco.\n* Physical Security Information Management System, **PSIM**, CNL/Vid-sys/Control Pro/Prism.\n* Milestone Technical Configuration, Milestone.\n* SIRA Certified Engineer.\n* Control Pro, Siemens.\n* Security Screening System – Nuctech.\n* Explosive Trace Detector, Siemens.\n* Lenel/Hirsch/Honeywell/Salto/RBH/Si-Pass/Bosh - Access Control Trainings.\n* Dell/Resilient/HP/Pelco/Genetec/Milestone.\n* Bosch/Genetec/Milestone/Control Pro/Cloud IVS, SMS Solutions.\n* Seagate/Veracity/Promise, Storage Solutions.",
+            "ordered": false,
+            "bbox": [
+              {
+                "h": 154.19,
+                "w": 260.51,
+                "x": 30.34,
+                "y": 420.6,
+                "confidence": 0.98,
+                "end_index": 371,
+                "label": "list",
+                "start_index": 0
+              },
+              {
+                "h": 138.92,
+                "w": 255.8,
+                "x": 315.13,
+                "y": 420.6,
+                "confidence": 0.97,
+                "end_index": 702,
+                "label": "list",
+                "start_index": 372
+              }
+            ],
+            "type": "list"
+          },
+          {
+            "level": 1,
+            "md": "# Experience",
+            "value": "Experience",
+            "bbox": [
+              {
+                "h": 13.131365282012165,
+                "w": 64.88522724430736,
+                "x": 11.246093556473895,
+                "y": 585.6382917301829,
+                "confidence": 0.96,
+                "end_index": 11,
+                "label": "paragraph_title",
+                "start_index": 0
+              }
+            ],
+            "type": "heading"
+          },
+          {
+            "md": "**Senior Manager - Security Design & Operations**",
+            "value": "Senior Manager - Security Design & Operations",
+            "bbox": [
+              {
+                "h": 11.26431545350614,
+                "w": 243.45838585085986,
+                "x": 11.08838541914777,
+                "y": 608.8327391387195,
+                "confidence": 0.93,
+                "end_index": 48,
+                "label": "paragraph_title",
+                "start_index": 0
+              }
+            ],
+            "type": "text"
+          },
+          {
+            "md": "October 2023 to Present",
+            "value": "October 2023 to Present",
+            "bbox": [
+              {
+                "h": 10.912637195121986,
+                "w": 107.92146530523533,
+                "x": 11.591599910084794,
+                "y": 624.9968283155488,
+                "confidence": 0.93,
+                "end_index": 22,
+                "label": "text",
+                "start_index": 0
+              }
+            ],
+            "type": "text"
+          },
+          {
+            "md": "**RED SEA GLOBAL - Riyadh**",
+            "value": "RED SEA GLOBAL - Riyadh",
+            "bbox": [
+              {
+                "h": 10.828596608231697,
+                "w": 135.26200094827792,
+                "x": 11.559326700350134,
+                "y": 640.9431288109756,
+                "confidence": 0.9,
+                "end_index": 26,
+                "label": "paragraph_title",
+                "start_index": 0
+              }
+            ],
+            "type": "text"
+          },
+          {
+            "items": [
+              {
+                "md": "Successfully led and developed a high-performing team of professionals at Amaala, fostering a culture of excellence and accountability.",
+                "value": "Successfully led and developed a high-performing team of professionals at Amaala, fostering a culture of excellence and accountability.",
+                "bbox": [
+                  {
+                    "h": 26.84,
+                    "w": 525.95,
+                    "x": 43.99,
+                    "y": 657.72,
+                    "confidence": 1.0,
+                    "end_index": 134,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Visionary Senior Manager at Red Sea Global, driving ICT and Security innovations in ultra-luxury developments.",
+                "value": "Visionary Senior Manager at Red Sea Global, driving ICT and Security innovations in ultra-luxury developments.",
+                "bbox": [
+                  {
+                    "h": 11.0,
+                    "w": 496.818,
+                    "x": 43.808,
+                    "y": 689.63,
+                    "confidence": 0.98,
+                    "end_index": 109,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Established clear performance metrics and KPIs to drive team productivity and align with organizational goals.",
+                "value": "Established clear performance metrics and KPIs to drive team productivity and align with organizational goals.",
+                "bbox": [
+                  {
+                    "h": 11.0,
+                    "w": 488.179,
+                    "x": 43.99,
+                    "y": 705.708,
+                    "confidence": 0.97,
+                    "end_index": 109,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Proven ability to lead complex, multi-stakeholder projects from concept through to operational readiness.",
+                "value": "Proven ability to lead complex, multi-stakeholder projects from concept through to operational readiness.",
+                "bbox": [
+                  {
+                    "h": 11.0,
+                    "w": 465.647,
+                    "x": 43.99,
+                    "y": 721.543,
+                    "confidence": 0.97,
+                    "end_index": 104,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Expert in Smart City technologies, integrated security, and ICT systems tailored for high-end hospitality and wellness environments.",
+                "value": "Expert in Smart City technologies, integrated security, and ICT systems tailored for high-end hospitality and wellness environments.",
+                "bbox": [
+                  {
+                    "h": 25.171947884908594,
+                    "w": 530.1006905309165,
+                    "x": 30.831149932116993,
+                    "y": 738.2456221417683,
+                    "confidence": 0.98,
+                    "end_index": 131,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              }
+            ],
+            "md": "* Successfully led and developed a high-performing team of professionals at Amaala, fostering a culture of excellence and accountability.\n* Visionary Senior Manager at Red Sea Global, driving ICT and Security innovations in ultra-luxury developments.\n* Established clear performance metrics and KPIs to drive team productivity and align with organizational goals.\n* Proven ability to lead complex, multi-stakeholder projects from concept through to operational readiness.\n* Expert in Smart City technologies, integrated security, and ICT systems tailored for high-end hospitality and wellness environments.",
+            "ordered": false,
+            "bbox": [
+              {
+                "h": 105.7,
+                "w": 539.11,
+                "x": 30.83,
+                "y": 657.72,
+                "confidence": 0.98,
+                "end_index": 605,
+                "label": "list",
+                "start_index": 0
+              }
+            ],
+            "type": "list"
+          }
+        ],
+        "page_height": 792.0,
+        "page_number": 1,
+        "page_width": 612.0,
+        "success": true
+      },
+      {
+        "items": [
+          {
+            "items": [
+              {
+                "md": "Delivered future-ready, sustainable ICT infrastructure for elite assets such as Rosewood, Four Seasons, Marina and Six Senses",
+                "value": "Delivered future-ready, sustainable ICT infrastructure for elite assets such as Rosewood, Four Seasons, Marina and Six Senses",
+                "bbox": [
+                  {
+                    "h": 11.0,
+                    "w": 555.281,
+                    "x": 44.0,
+                    "y": 16.677,
+                    "confidence": 0.97,
+                    "end_index": 124,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Effectively engaged with key stakeholders including operators, consultants, and contractors across all project phases.",
+                "value": "Effectively engaged with key stakeholders including operators, consultants, and contractors across all project phases.",
+                "bbox": [
+                  {
+                    "h": 11.0,
+                    "w": 514.773,
+                    "x": 44.0,
+                    "y": 32.512,
+                    "confidence": 0.97,
+                    "end_index": 117,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Built and nurtured strategic partnerships with vendors and suppliers, securing favorable terms and ensuring seamless project delivery.",
+                "value": "Built and nurtured strategic partnerships with vendors and suppliers, securing favorable terms and ensuring seamless project delivery.",
+                "bbox": [
+                  {
+                    "h": 27.078000000000003,
+                    "w": 552.812,
+                    "x": 44.0,
+                    "y": 48.59,
+                    "confidence": 0.98,
+                    "end_index": 133,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Developed and managed budgets, ensuring financial control and timely delivery of initiatives.",
+                "value": "Developed and managed budgets, ensuring financial control and timely delivery of initiatives.",
+                "bbox": [
+                  {
+                    "h": 11.0,
+                    "w": 411.179,
+                    "x": 44.0,
+                    "y": 80.503,
+                    "confidence": 0.97,
+                    "end_index": 92,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Spearheaded the strategic direction and oversight of the security delivery team, ensuring alignment with Red Sea Global overarching security objectives.",
+                "value": "Spearheaded the strategic direction and oversight of the security delivery team, ensuring alignment with Red Sea Global overarching security objectives.",
+                "bbox": [
+                  {
+                    "h": 27.076999999999998,
+                    "w": 528.121,
+                    "x": 44.0,
+                    "y": 96.581,
+                    "confidence": 0.98,
+                    "end_index": 151,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Championed compliance with internal security policies, procedures, and industry regulations, ensuring rigorous implementation of security controls.",
+                "value": "Championed compliance with internal security policies, procedures, and industry regulations, ensuring rigorous implementation of security controls.",
+                "bbox": [
+                  {
+                    "h": 27.078000000000003,
+                    "w": 493.523,
+                    "x": 44.0,
+                    "y": 128.494,
+                    "confidence": 0.99,
+                    "end_index": 146,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Partnered with internal incident response teams and external stakeholders to identify, anticipate, and mitigate emerging threats proactively.",
+                "value": "Partnered with internal incident response teams and external stakeholders to identify, anticipate, and mitigate emerging threats proactively.",
+                "bbox": [
+                  {
+                    "h": 26.836000000000013,
+                    "w": 530.829,
+                    "x": 44.0,
+                    "y": 160.649,
+                    "confidence": 0.99,
+                    "end_index": 140,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Designed and executed comprehensive security delivery plans, managing project timelines, resource allocation, and risk mitigation strategies.",
+                "value": "Designed and executed comprehensive security delivery plans, managing project timelines, resource allocation, and risk mitigation strategies.",
+                "bbox": [
+                  {
+                    "h": 27.076999999999998,
+                    "w": 527.959,
+                    "x": 44.0,
+                    "y": 192.563,
+                    "confidence": 0.98,
+                    "end_index": 140,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Managed security budgets, ensuring cost-effective deployment of solutions without compromising quality or effectiveness.",
+                "value": "Managed security budgets, ensuring cost-effective deployment of solutions without compromising quality or effectiveness.",
+                "bbox": [
+                  {
+                    "h": 11.0,
+                    "w": 537.957,
+                    "x": 44.0,
+                    "y": 224.476,
+                    "confidence": 0.97,
+                    "end_index": 119,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Conducted detailed security audits and risk assessments; identified critical gaps and implemented corrective actions to strengthen the security posture.",
+                "value": "Conducted detailed security audits and risk assessments; identified critical gaps and implemented corrective actions to strengthen the security posture.",
+                "bbox": [
+                  {
+                    "h": 27.077999999999975,
+                    "w": 523.079,
+                    "x": 44.0,
+                    "y": 240.553,
+                    "confidence": 0.99,
+                    "end_index": 151,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              }
+            ],
+            "md": "* Delivered future-ready, sustainable ICT infrastructure for elite assets such as Rosewood, Four Seasons, Marina and Six Senses\n* Effectively engaged with key stakeholders including operators, consultants, and contractors across all project phases.\n* Built and nurtured strategic partnerships with vendors and suppliers, securing favorable terms and ensuring seamless project delivery.\n* Developed and managed budgets, ensuring financial control and timely delivery of initiatives.\n* Spearheaded the strategic direction and oversight of the security delivery team, ensuring alignment with Red Sea Global overarching security objectives.\n* Championed compliance with internal security policies, procedures, and industry regulations, ensuring rigorous implementation of security controls.\n* Partnered with internal incident response teams and external stakeholders to identify, anticipate, and mitigate emerging threats proactively.\n* Designed and executed comprehensive security delivery plans, managing project timelines, resource allocation, and risk mitigation strategies.\n* Managed security budgets, ensuring cost-effective deployment of solutions without compromising quality or effectiveness.\n* Conducted detailed security audits and risk assessments; identified critical gaps and implemented corrective actions to strengthen the security posture.",
+            "ordered": false,
+            "bbox": [
+              {
+                "h": 250.95,
+                "w": 555.28,
+                "x": 44.0,
+                "y": 16.68,
+                "confidence": 0.98,
+                "end_index": 1351,
+                "label": "list",
+                "start_index": 0
+              }
+            ],
+            "type": "list"
+          },
+          {
+            "md": "**Design & Operations Manager - Security**\nApril 2022 to October 2023\n**Museum of the Future - Dubai**",
+            "value": "Design & Operations Manager - Security\nApril 2022 to October 2023\nMuseum of the Future - Dubai",
+            "bbox": [
+              {
+                "h": 11.0,
+                "w": 207.746,
+                "x": 12.0,
+                "y": 273.304,
+                "confidence": 0.87,
+                "end_index": 39,
+                "label": "paragraph_title",
+                "start_index": 0
+              },
+              {
+                "h": 12.444585794588448,
+                "w": 122.39501193907203,
+                "x": 11.696684004620808,
+                "y": 288.639140625,
+                "confidence": 0.75,
+                "end_index": 68,
+                "label": "paragraph_title",
+                "start_index": 40
+              },
+              {
+                "h": 11.0,
+                "w": 149.857,
+                "x": 12.0,
+                "y": 305.224,
+                "confidence": 0.79,
+                "end_index": 101,
+                "label": "paragraph_title",
+                "start_index": 70
+              }
+            ],
+            "type": "text"
+          },
+          {
+            "items": [
+              {
+                "md": "Manage and oversee new projects, installation, maintenance, and upgrade of security systems, such as Access control, CCTV, and alarm systems.",
+                "value": "Manage and oversee new projects, installation, maintenance, and upgrade of security systems, such as Access control, CCTV, and alarm systems.",
+                "bbox": [
+                  {
+                    "h": 26.83499999999998,
+                    "w": 548.112,
+                    "x": 44.0,
+                    "y": 322.677,
+                    "confidence": 0.98,
+                    "end_index": 140,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Ensure that security policies and procedures are followed and adhered to by all staff and visitors.",
+                "value": "Ensure that security policies and procedures are followed and adhered to by all staff and visitors.",
+                "bbox": [
+                  {
+                    "h": 11.0,
+                    "w": 425.398,
+                    "x": 44.0,
+                    "y": 354.59,
+                    "confidence": 0.97,
+                    "end_index": 98,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Ensure that security systems are functioning properly and that any issues are resolved in a timely manner.",
+                "value": "Ensure that security systems are functioning properly and that any issues are resolved in a timely manner.",
+                "bbox": [
+                  {
+                    "h": 11.0,
+                    "w": 466.88,
+                    "x": 44.0,
+                    "y": 370.668,
+                    "confidence": 0.97,
+                    "end_index": 105,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Conduct regular risk assessments of the museum's premises and identify potential security threats.",
+                "value": "Conduct regular risk assessments of the museum's premises and identify potential security threats.",
+                "bbox": [
+                  {
+                    "h": 11.0,
+                    "w": 435.688,
+                    "x": 44.0,
+                    "y": 386.503,
+                    "confidence": 0.97,
+                    "end_index": 97,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Conduct trainings for strategic steering committee for promoting risk culture within the organization internally and site wide.",
+                "value": "Conduct trainings for strategic steering committee for promoting risk culture within the organization internally and site wide.",
+                "bbox": [
+                  {
+                    "h": 11.0,
+                    "w": 553.227,
+                    "x": 44.0,
+                    "y": 402.581,
+                    "confidence": 0.97,
+                    "end_index": 126,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Develop and implement security measures to mitigate identified risks.",
+                "value": "Develop and implement security measures to mitigate identified risks.",
+                "bbox": [
+                  {
+                    "h": 11.0,
+                    "w": 309.126,
+                    "x": 44.0,
+                    "y": 418.658,
+                    "confidence": 0.98,
+                    "end_index": 68,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Hire, train, and supervise security staff, including security guards and technicians.",
+                "value": "Hire, train, and supervise security staff, including security guards and technicians.",
+                "bbox": [
+                  {
+                    "h": 11.0,
+                    "w": 362.501,
+                    "x": 44.0,
+                    "y": 434.494,
+                    "confidence": 0.97,
+                    "end_index": 84,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Develop and implement staff schedules to ensure that all areas of the museum are properly staffed.",
+                "value": "Develop and implement staff schedules to ensure that all areas of the museum are properly staffed.",
+                "bbox": [
+                  {
+                    "h": 11.0,
+                    "w": 435.645,
+                    "x": 44.0,
+                    "y": 450.572,
+                    "confidence": 0.97,
+                    "end_index": 97,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Collaborate with other museum departments, such as operations, facilities, and IT, to ensure that security systems and procedures are integrated and aligned with the museum's overall objectives.",
+                "value": "Collaborate with other museum departments, such as operations, facilities, and IT, to ensure that security systems and procedures are integrated and aligned with the museum's overall objectives.",
+                "bbox": [
+                  {
+                    "h": 26.836000000000013,
+                    "w": 522.058,
+                    "x": 44.0,
+                    "y": 466.649,
+                    "confidence": 0.99,
+                    "end_index": 193,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Developed departmental objectives, budgets, policies, procedures, and strategies.",
+                "value": "Developed departmental objectives, budgets, policies, procedures, and strategies.",
+                "bbox": [
+                  {
+                    "h": 11.0,
+                    "w": 357.349,
+                    "x": 44.0,
+                    "y": 498.563,
+                    "confidence": 0.97,
+                    "end_index": 80,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              }
+            ],
+            "md": "* Manage and oversee new projects, installation, maintenance, and upgrade of security systems, such as Access control, CCTV, and alarm systems.\n* Ensure that security policies and procedures are followed and adhered to by all staff and visitors.\n* Ensure that security systems are functioning properly and that any issues are resolved in a timely manner.\n* Conduct regular risk assessments of the museum's premises and identify potential security threats.\n* Conduct trainings for strategic steering committee for promoting risk culture within the organization internally and site wide.\n* Develop and implement security measures to mitigate identified risks.\n* Hire, train, and supervise security staff, including security guards and technicians.\n* Develop and implement staff schedules to ensure that all areas of the museum are properly staffed.\n* Collaborate with other museum departments, such as operations, facilities, and IT, to ensure that security systems and procedures are integrated and aligned with the museum's overall objectives.\n* Developed departmental objectives, budgets, policies, procedures, and strategies.",
+            "ordered": false,
+            "bbox": [
+              {
+                "h": 186.89,
+                "w": 553.23,
+                "x": 44.0,
+                "y": 322.68,
+                "confidence": 0.97,
+                "end_index": 1126,
+                "label": "list",
+                "start_index": 0
+              }
+            ],
+            "type": "list"
+          },
+          {
+            "md": "**Manager Security Systems**\nJune 2019 to April 2022\n**Expo 2020 - Expo city, UAE**",
+            "value": "Manager Security Systems\nJune 2019 to April 2022\nExpo 2020 - Expo city, UAE",
+            "bbox": [
+              {
+                "h": 11.0,
+                "w": 135.45199999999997,
+                "x": 11.996,
+                "y": 516.565,
+                "confidence": 0.86,
+                "end_index": 25,
+                "label": "paragraph_title",
+                "start_index": 0
+              },
+              {
+                "h": 11.0,
+                "w": 107.153,
+                "x": 11.996,
+                "y": 532.643,
+                "confidence": 0.77,
+                "end_index": 51,
+                "label": "text",
+                "start_index": 26
+              },
+              {
+                "h": 11.0,
+                "w": 130.731,
+                "x": 11.996,
+                "y": 548.479,
+                "confidence": 0.8,
+                "end_index": 82,
+                "label": "paragraph_title",
+                "start_index": 53
+              }
+            ],
+            "type": "text"
+          },
+          {
+            "items": [
+              {
+                "md": "To build and deliver security systems projects in Expo 2020, Including CCTV, ACS, ANPR, UVSS, ESTS, Command and control, video Analytics, RSA, VSA, IACS, Accreditation etc.",
+                "value": "To build and deliver security systems projects in Expo 2020, Including CCTV, ACS, ANPR, UVSS, ESTS, Command and control, video Analytics, RSA, VSA, IACS, Accreditation etc.",
+                "bbox": [
+                  {
+                    "h": 27.077999999999975,
+                    "w": 525.804,
+                    "x": 43.99,
+                    "y": 564.556,
+                    "confidence": 0.98,
+                    "end_index": 171,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Manage and oversee the security design and integrations with different stakeholders, international participates for Expo2020.",
+                "value": "Manage and oversee the security design and integrations with different stakeholders, international participates for Expo2020.",
+                "bbox": [
+                  {
+                    "h": 11.0,
+                    "w": 555.01,
+                    "x": 43.99,
+                    "y": 596.47,
+                    "confidence": 0.97,
+                    "end_index": 124,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Verify integrations of several systems and sub systems to Expo Command Center for incident response and efficient operation.",
+                "value": "Verify integrations of several systems and sub systems to Expo Command Center for incident response and efficient operation.",
+                "bbox": [
+                  {
+                    "h": 27.077999999999975,
+                    "w": 509.053,
+                    "x": 43.808,
+                    "y": 612.547,
+                    "confidence": 0.98,
+                    "end_index": 123,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Coordination with government entities such as SIRA, Dubai Police, State Security for security design approvals.",
+                "value": "Coordination with government entities such as SIRA, Dubai Police, State Security for security design approvals.",
+                "bbox": [
+                  {
+                    "h": 11.0,
+                    "w": 490.8499999999999,
+                    "x": 43.99,
+                    "y": 644.46,
+                    "confidence": 0.97,
+                    "end_index": 110,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Select, implement, and manage security countermeasures to reduce the risk of loss of information and data.",
+                "value": "Select, implement, and manage security countermeasures to reduce the risk of loss of information and data.",
+                "bbox": [
+                  {
+                    "h": 11.0,
+                    "w": 473.509,
+                    "x": 43.99,
+                    "y": 660.538,
+                    "confidence": 0.97,
+                    "end_index": 105,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Design policies, training, procedures, and methods for the protection of employees, including executive and VVIP protection.",
+                "value": "Design policies, training, procedures, and methods for the protection of employees, including executive and VVIP protection.",
+                "bbox": [
+                  {
+                    "h": 11.0,
+                    "w": 549.512,
+                    "x": 43.99,
+                    "y": 676.616,
+                    "confidence": 0.97,
+                    "end_index": 123,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Executed project schedule and milestones within the allocated budget and specified timeline.",
+                "value": "Executed project schedule and milestones within the allocated budget and specified timeline.",
+                "bbox": [
+                  {
+                    "h": 11.0,
+                    "w": 408.928,
+                    "x": 43.99,
+                    "y": 692.451,
+                    "confidence": 0.97,
+                    "end_index": 91,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              }
+            ],
+            "md": "* To build and deliver security systems projects in Expo 2020, Including CCTV, ACS, ANPR, UVSS, ESTS, Command and control, video Analytics, RSA, VSA, IACS, Accreditation etc.\n* Manage and oversee the security design and integrations with different stakeholders, international participates for Expo2020.\n* Verify integrations of several systems and sub systems to Expo Command Center for incident response and efficient operation.\n* Coordination with government entities such as SIRA, Dubai Police, State Security for security design approvals.\n* Select, implement, and manage security countermeasures to reduce the risk of loss of information and data.\n* Design policies, training, procedures, and methods for the protection of employees, including executive and VVIP protection.\n* Executed project schedule and milestones within the allocated budget and specified timeline.",
+            "ordered": false,
+            "bbox": [
+              {
+                "h": 138.89,
+                "w": 555.19,
+                "x": 43.81,
+                "y": 564.56,
+                "confidence": 0.97,
+                "end_index": 873,
+                "label": "list",
+                "start_index": 0
+              }
+            ],
+            "type": "list"
+          },
+          {
+            "md": "**Senior Project Lead - Security Systems**\nMay 2017 to June 2019\n**Abu Dhabi Islamic Bank - UAE**",
+            "value": "Senior Project Lead - Security Systems\nMay 2017 to June 2019\nAbu Dhabi Islamic Bank - UAE",
+            "bbox": [
+              {
+                "h": 11.0,
+                "w": 197.506,
+                "x": 11.986,
+                "y": 710.454,
+                "confidence": 0.88,
+                "end_index": 39,
+                "label": "paragraph_title",
+                "start_index": 0
+              },
+              {
+                "h": 11.0,
+                "w": 102.431,
+                "x": 11.986,
+                "y": 726.532,
+                "confidence": 0.74,
+                "end_index": 63,
+                "label": "text",
+                "start_index": 40
+              },
+              {
+                "h": 11.0,
+                "w": 154.066,
+                "x": 11.724,
+                "y": 742.609,
+                "confidence": 0.83,
+                "end_index": 96,
+                "label": "paragraph_title",
+                "start_index": 65
+              }
+            ],
+            "type": "text"
+          },
+          {
+            "items": [
+              {
+                "md": "Managed technical activities, tendering/quotation evaluation and dealt with clients as well as consultants.",
+                "value": "Managed technical activities, tendering/quotation evaluation and dealt with clients as well as consultants.",
+                "bbox": [
+                  {
+                    "h": 11.0,
+                    "w": 466.23699999999997,
+                    "x": 43.98,
+                    "y": 758.445,
+                    "confidence": 0.97,
+                    "end_index": 106,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              }
+            ],
+            "md": "* Managed technical activities, tendering/quotation evaluation and dealt with clients as well as consultants.",
+            "ordered": false,
+            "bbox": [
+              {
+                "h": 11.0,
+                "w": 466.24,
+                "x": 43.98,
+                "y": 758.45,
+                "confidence": 0.97,
+                "end_index": 108,
+                "label": "list",
+                "start_index": 0
+              }
+            ],
+            "type": "list"
+          }
+        ],
+        "page_height": 792.0,
+        "page_number": 2,
+        "page_width": 612.0,
+        "success": true
+      },
+      {
+        "items": [
+          {
+            "items": [
+              {
+                "md": "Successfully led a Project Team for design, installation, commissioning, testing and maintenance of CCTV (IP & Analog), Access - Control System (Wired/ Wireless), Fire Alarm Systems, PAS.",
+                "value": "Successfully led a Project Team for design, installation, commissioning, testing and maintenance of CCTV (IP & Analog), Access - Control System (Wired/ Wireless), Fire Alarm Systems, PAS.",
+                "bbox": [
+                  {
+                    "h": 26.84036222132241,
+                    "w": 543.544947375786,
+                    "x": 30.645350356683497,
+                    "y": 17.27966960627858,
+                    "confidence": 0.99,
+                    "end_index": 186,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Prepared required documents such as AutoCAD designs, material lists, data sheets for clients, consultants and ministry.",
+                "value": "Prepared required documents such as AutoCAD designs, material lists, data sheets for clients, consultants and ministry.",
+                "bbox": [
+                  {
+                    "h": 11.0,
+                    "w": 527.388,
+                    "x": 44.0,
+                    "y": 48.597,
+                    "confidence": 0.98,
+                    "end_index": 118,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Coordinating efforts to restore critical systems and providing business continuity during crisis.",
+                "value": "Coordinating efforts to restore critical systems and providing business continuity during crisis.",
+                "bbox": [
+                  {
+                    "h": 11.0,
+                    "w": 416.943,
+                    "x": 44.0,
+                    "y": 64.677,
+                    "confidence": 0.98,
+                    "end_index": 96,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              }
+            ],
+            "md": "* Successfully led a Project Team for design, installation, commissioning, testing and maintenance of CCTV (IP & Analog), Access - Control System (Wired/ Wireless), Fire Alarm Systems, PAS.\n* Prepared required documents such as AutoCAD designs, material lists, data sheets for clients, consultants and ministry.\n* Coordinating efforts to restore critical systems and providing business continuity during crisis.",
+            "ordered": false,
+            "bbox": [
+              {
+                "h": 58.4,
+                "w": 543.54,
+                "x": 30.65,
+                "y": 17.28,
+                "confidence": 0.98,
+                "end_index": 410,
+                "label": "list",
+                "start_index": 0
+              }
+            ],
+            "type": "list"
+          },
+          {
+            "md": "**Project Manager - ELV, ICT & Security Systems**\nNovember 2015 to May 2017\n**Qatar Foundation - Doha, Qatar**",
+            "value": "Project Manager - ELV, ICT & Security Systems\nNovember 2015 to May 2017\nQatar Foundation - Doha, Qatar",
+            "bbox": [
+              {
+                "h": 11.011710294397865,
+                "w": 240.97893464623428,
+                "x": 11.45911222876572,
+                "y": 83.23291063262195,
+                "confidence": 0.88,
+                "end_index": 46,
+                "label": "paragraph_title",
+                "start_index": 0
+              },
+              {
+                "h": 11.0,
+                "w": 126.23500000000001,
+                "x": 12.0,
+                "y": 98.517,
+                "confidence": 0.83,
+                "end_index": 74,
+                "label": "text",
+                "start_index": 47
+              },
+              {
+                "h": 10.970126238567076,
+                "w": 155.25873520269627,
+                "x": 11.388362620283917,
+                "y": 115.0875,
+                "confidence": 0.79,
+                "end_index": 109,
+                "label": "paragraph_title",
+                "start_index": 76
+              }
+            ],
+            "type": "text"
+          },
+          {
+            "items": [
+              {
+                "md": "Managed ICT, ELV and Security Systems Projects within Qatar Foundation premises.",
+                "value": "Managed ICT, ELV and Security Systems Projects within Qatar Foundation premises.",
+                "bbox": [
+                  {
+                    "h": 11.0,
+                    "w": 376.244,
+                    "x": 44.0,
+                    "y": 130.677,
+                    "confidence": 0.98,
+                    "end_index": 79,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Identified potential project risks and developed strategies to minimize impact and control deviations from planned milestones.",
+                "value": "Identified potential project risks and developed strategies to minimize impact and control deviations from planned milestones.",
+                "bbox": [
+                  {
+                    "h": 24.877546446265235,
+                    "w": 518.130150593083,
+                    "x": 30.91893524914253,
+                    "y": 147.0102131764482,
+                    "confidence": 0.99,
+                    "end_index": 125,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Designed and implemented ELV Systems, ICT Infrastructure, Data Center Design and Security Systems.",
+                "value": "Designed and implemented ELV Systems, ICT Infrastructure, Data Center Design and Security Systems.",
+                "bbox": [
+                  {
+                    "h": 11.0,
+                    "w": 458.469,
+                    "x": 44.0,
+                    "y": 178.677,
+                    "confidence": 0.98,
+                    "end_index": 97,
+                    "label": "text",
+                    "start_index": 0
+                  },
+                  {
+                    "h": 11.0,
+                    "w": 90.15,
+                    "x": 36.23,
+                    "y": 196.68,
+                    "confidence": 1.0,
+                    "end_index": 97,
+                    "label": "paragraph_title",
+                    "start_index": 81
+                  }
+                ],
+                "type": "text"
+              }
+            ],
+            "md": "* Managed ICT, ELV and Security Systems Projects within Qatar Foundation premises.\n* Identified potential project risks and developed strategies to minimize impact and control deviations from planned milestones.\n* Designed and implemented ELV Systems, ICT Infrastructure, Data Center Design and Security Systems.",
+            "ordered": false,
+            "bbox": [
+              {
+                "h": 77.0,
+                "w": 518.13,
+                "x": 30.92,
+                "y": 130.68,
+                "confidence": 0.99,
+                "end_index": 311,
+                "label": "list",
+                "start_index": 0
+              }
+            ],
+            "type": "list"
+          },
+          {
+            "md": "**ELV Security Systems Engineer**\nAugust 2012 to November 2015\n**Zener Electronics & Electricals - Abu Dhabi, UAE**",
+            "value": "ELV Security Systems Engineer\nAugust 2012 to November 2015\nZener Electronics & Electricals - Abu Dhabi, UAE",
+            "bbox": [
+              {
+                "h": 11.149455268673773,
+                "w": 161.6823213456317,
+                "x": 11.386155574147294,
+                "y": 197.49089891387194,
+                "confidence": 0.86,
+                "end_index": 30,
+                "label": "paragraph_title",
+                "start_index": 0
+              },
+              {
+                "h": 10.87740806021342,
+                "w": 139.80392537931118,
+                "x": 10.914367005883193,
+                "y": 213.2739522198933,
+                "confidence": 0.84,
+                "end_index": 61,
+                "label": "text",
+                "start_index": 31
+              },
+              {
+                "h": 9.640591892149386,
+                "w": 241.68005102390197,
+                "x": 10.99284924763005,
+                "y": 229.47098323170732,
+                "confidence": 0.8,
+                "end_index": 114,
+                "label": "paragraph_title",
+                "start_index": 63
+              }
+            ],
+            "type": "text"
+          },
+          {
+            "items": [
+              {
+                "md": "Designed and implemented data networks, CCTV and access control design schematics.",
+                "value": "Designed and implemented data networks, CCTV and access control design schematics.",
+                "bbox": [
+                  {
+                    "h": 11.0,
+                    "w": 384.911,
+                    "x": 44.0,
+                    "y": 244.677,
+                    "confidence": 0.98,
+                    "end_index": 81,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Investigated technically sound solutions for small business technologies.",
+                "value": "Investigated technically sound solutions for small business technologies.",
+                "bbox": [
+                  {
+                    "h": 11.0,
+                    "w": 319.092,
+                    "x": 44.0,
+                    "y": 260.517,
+                    "confidence": 0.98,
+                    "end_index": 72,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Successfully led a Project Team for design, installation, commissioning, testing and maintenance of CCTV (IP & Analog), Access - Control System (Wired/Wireless), Fire Alarm Systems, PAS.",
+                "value": "Successfully led a Project Team for design, installation, commissioning, testing and maintenance of CCTV (IP & Analog), Access - Control System (Wired/Wireless), Fire Alarm Systems, PAS.",
+                "bbox": [
+                  {
+                    "h": 27.08000000000004,
+                    "w": 532.879,
+                    "x": 43.808,
+                    "y": 276.597,
+                    "confidence": 0.99,
+                    "end_index": 185,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Provided outstanding customer service and a positive support experience.",
+                "value": "Provided outstanding customer service and a positive support experience.",
+                "bbox": [
+                  {
+                    "h": 11.0,
+                    "w": 324.61,
+                    "x": 44.0,
+                    "y": 308.517,
+                    "confidence": 0.98,
+                    "end_index": 71,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              }
+            ],
+            "md": "* Designed and implemented data networks, CCTV and access control design schematics.\n* Investigated technically sound solutions for small business technologies.\n* Successfully led a Project Team for design, installation, commissioning, testing and maintenance of CCTV (IP & Analog), Access - Control System (Wired/Wireless), Fire Alarm Systems, PAS.\n* Provided outstanding customer service and a positive support experience.",
+            "ordered": false,
+            "bbox": [
+              {
+                "h": 74.84,
+                "w": 532.88,
+                "x": 43.81,
+                "y": 244.68,
+                "confidence": 0.98,
+                "end_index": 423,
+                "label": "list",
+                "start_index": 0
+              }
+            ],
+            "type": "list"
+          },
+          {
+            "level": 3,
+            "md": "### Computer Skills",
+            "value": "Computer Skills",
+            "bbox": [
+              {
+                "h": 12.968023770960379,
+                "w": 93.14175080834364,
+                "x": 11.286889745200552,
+                "y": 329.78283226943597,
+                "confidence": 0.97,
+                "end_index": 18,
+                "label": "paragraph_title",
+                "start_index": 0
+              }
+            ],
+            "type": "heading"
+          },
+          {
+            "items": [
+              {
+                "md": "Aconex",
+                "value": "Aconex",
+                "bbox": [
+                  {
+                    "h": 11.0,
+                    "w": 33.0,
+                    "x": 43.768,
+                    "y": 353.637,
+                    "confidence": 0.96,
+                    "end_index": 5,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "BIM 360",
+                "value": "BIM 360",
+                "bbox": [
+                  {
+                    "h": 11.0,
+                    "w": 39.120000000000005,
+                    "x": 328.6,
+                    "y": 353.637,
+                    "confidence": 0.96,
+                    "end_index": 6,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "AutoCAD",
+                "value": "AutoCAD",
+                "bbox": [
+                  {
+                    "h": 11.0,
+                    "w": 42.0,
+                    "x": 43.768,
+                    "y": 369.717,
+                    "confidence": 0.96,
+                    "end_index": 6,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "MS Office",
+                "value": "MS Office",
+                "bbox": [
+                  {
+                    "h": 11.0,
+                    "w": 43.29399999999998,
+                    "x": 328.6,
+                    "y": 369.717,
+                    "confidence": 0.8,
+                    "end_index": 8,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Visio",
+                "value": "Visio",
+                "bbox": [
+                  {
+                    "h": 13.0,
+                    "w": 23.845999999999997,
+                    "x": 43.779,
+                    "y": 383.628,
+                    "confidence": 0.96,
+                    "end_index": 4,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Network",
+                "value": "Network",
+                "bbox": [
+                  {
+                    "h": 11.0,
+                    "w": 38.0,
+                    "x": 328.6,
+                    "y": 385.557,
+                    "confidence": 0.96,
+                    "end_index": 6,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "MS Project",
+                "value": "MS Project",
+                "bbox": [
+                  {
+                    "h": 13.0,
+                    "w": 54.345000000000006,
+                    "x": 43.96,
+                    "y": 399.708,
+                    "confidence": 0.97,
+                    "end_index": 9,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Revizto",
+                "value": "Revizto",
+                "bbox": [
+                  {
+                    "h": 8.0,
+                    "w": 46.0,
+                    "x": 315.0,
+                    "y": 402.0,
+                    "confidence": 0.96,
+                    "end_index": 6,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Everbridge Control Center",
+                "value": "Everbridge Control Center",
+                "bbox": [
+                  {
+                    "h": 13.0,
+                    "w": 122.8,
+                    "x": 43.96,
+                    "y": 415.79,
+                    "confidence": 1.0,
+                    "end_index": 24,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Genetec Security Center",
+                "value": "Genetec Security Center",
+                "bbox": [
+                  {
+                    "h": 13.0,
+                    "w": 117.28499999999997,
+                    "x": 328.6,
+                    "y": 415.788,
+                    "confidence": 0.95,
+                    "end_index": 22,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              }
+            ],
+            "md": "* Aconex\n* BIM 360\n* AutoCAD\n* MS Office\n* Visio\n* Network\n* MS Project\n* Revizto\n* Everbridge Control Center\n* Genetec Security Center",
+            "ordered": false,
+            "bbox": [
+              {
+                "h": 75.15,
+                "w": 122.99,
+                "x": 43.77,
+                "y": 353.64,
+                "confidence": 0.97,
+                "end_index": 48,
+                "label": "list",
+                "start_index": 0
+              },
+              {
+                "h": 75.15,
+                "w": 130.89,
+                "x": 315.0,
+                "y": 353.64,
+                "confidence": 0.93,
+                "end_index": 134,
+                "label": "list",
+                "start_index": 49
+              }
+            ],
+            "type": "list"
+          },
+          {
+            "level": 3,
+            "md": "### Education",
+            "value": "Education",
+            "bbox": [
+              {
+                "h": 9.936502477134152,
+                "w": 58.40586136980754,
+                "x": 11.326947974228277,
+                "y": 438.971904535061,
+                "confidence": 0.94,
+                "end_index": 12,
+                "label": "paragraph_title",
+                "start_index": 0
+              }
+            ],
+            "type": "heading"
+          },
+          {
+            "md": "**MBA: Operations Management**, January 2019\n**SRM University**\n**Master of Engineering: Computer Science**, January 2012\n**Kannur University**\n**Bachelor of Engineering: Computer Science**, January 2010\n**Anna University**",
+            "value": "MBA: Operations Management, January 2019\nSRM University\nMaster of Engineering: Computer Science, January 2012\nKannur University\nBachelor of Engineering: Computer Science, January 2010\nAnna University",
+            "bbox": [
+              {
+                "h": 11.0,
+                "w": 225.76,
+                "x": 12.0,
+                "y": 462.6,
+                "confidence": 1.0,
+                "end_index": 43,
+                "label": "text",
+                "start_index": 0
+              },
+              {
+                "h": 11.0,
+                "w": 81.23,
+                "x": 12.0,
+                "y": 478.68,
+                "confidence": 1.0,
+                "end_index": 62,
+                "label": "text",
+                "start_index": 45
+              },
+              {
+                "h": 11.0,
+                "w": 114.58,
+                "x": 12.0,
+                "y": 496.68,
+                "confidence": 1.0,
+                "end_index": 87,
+                "label": "text",
+                "start_index": 64
+              },
+              {
+                "h": 78.92,
+                "w": 281.16,
+                "x": 12.0,
+                "y": 462.6,
+                "confidence": 0.93,
+                "end_index": 120,
+                "label": "key-value-region",
+                "start_index": 64
+              },
+              {
+                "h": 11.0,
+                "w": 62.36,
+                "x": 230.8,
+                "y": 496.68,
+                "confidence": 1.0,
+                "end_index": 120,
+                "label": "text",
+                "start_index": 109
+              },
+              {
+                "h": 11.0,
+                "w": 96.45,
+                "x": 12.0,
+                "y": 512.52,
+                "confidence": 1.0,
+                "end_index": 142,
+                "label": "text",
+                "start_index": 122
+              },
+              {
+                "h": 11.0,
+                "w": 124.72,
+                "x": 12.0,
+                "y": 530.52,
+                "confidence": 1.0,
+                "end_index": 169,
+                "label": "text",
+                "start_index": 144
+              },
+              {
+                "h": 11.0,
+                "w": 161.89,
+                "x": 142.41,
+                "y": 530.52,
+                "confidence": 1.0,
+                "end_index": 202,
+                "label": "text",
+                "start_index": 171
+              },
+              {
+                "h": 11.0,
+                "w": 84.14,
+                "x": 11.74,
+                "y": 546.6,
+                "confidence": 1.0,
+                "end_index": 222,
+                "label": "text",
+                "start_index": 204
+              }
+            ],
+            "type": "text"
+          },
+          {
+            "level": 3,
+            "md": "### Personal Information",
+            "value": "Personal Information",
+            "bbox": [
+              {
+                "h": 10.049452648628012,
+                "w": 123.9387689655583,
+                "x": 11.257771085413491,
+                "y": 567.9737338033536,
+                "confidence": 0.92,
+                "end_index": 23,
+                "label": "paragraph_title",
+                "start_index": 0
+              }
+            ],
+            "type": "heading"
+          },
+          {
+            "md": "**Marital Status**: Married",
+            "value": "Marital Status: Married",
+            "bbox": [
+              {
+                "h": 8.823459889481697,
+                "w": 104.82305268078316,
+                "x": 11.56562782845846,
+                "y": 592.3604539824695,
+                "confidence": 0.91,
+                "end_index": 26,
+                "label": "key-value-region",
+                "start_index": 0
+              },
+              {
+                "h": 11.0,
+                "w": 68.1,
+                "x": 12.0,
+                "y": 591.72,
+                "confidence": 1.0,
+                "end_index": 18,
+                "label": "text",
+                "start_index": 0
+              }
+            ],
+            "type": "text"
+          }
+        ],
+        "page_height": 792.0,
+        "page_number": 3,
+        "page_width": 612.0,
+        "success": true
+      }
+    ]
+  },
+  "job_metadata": {
+    "state_transitions": {
+      "pending_at": "2026-05-12T14:43:26.314421Z",
+      "throttled_at": "2026-05-12T14:43:26.508622Z",
+      "running_at": "2026-05-12T14:43:26.620983Z",
+      "completed_at": "2026-05-12T14:43:39.750818Z",
+      "failed_at": null,
+      "cancelled_at": null
+    },
+    "pdf-pages": 3,
+    "pdf-real-pages": 3,
+    "pdf-rawTextLength": 9365,
+    "pdf-mdLength": 8599,
+    "pdf-time": 9425,
+    "pdf-ocrTime": 0,
+    "pdf-image-convertTime": 0,
+    "pdf-pdfToHTMLTime": 0,
+    "pdf-llmTime": 6657,
+    "pdf-inputTokens": 34443,
+    "pdf-outputTokens": 2547,
+    "pdf-image-ocr-count": 0,
+    "pdf-image-ocr-failed-count": 0,
+    "pdf-image-ocr-success-count": 3,
+    "pdf-image-ocr-empty-count": 3,
+    "pdf-image-ocr-hadText-count": 0,
+    "pdf-image-ocr-pixels": 23740800,
+    "pdf-multimodal-time": 0,
+    "pdf-multimodal-pdf2Image": 0,
+    "pdf-model": null,
+    "pdf-high-res-ocr": 3,
+    "model_invocations": [
+      {
+        "page_number": 3,
+        "model": "gemini-3.0-flash",
+        "task": "parse_page_with_agent",
+        "reason": "primary",
+        "attempt": 1,
+        "status": "success",
+        "input_tokens": 10976,
+        "output_tokens": 661
+      },
+      {
+        "page_number": 1,
+        "model": "gemini-3.0-flash",
+        "task": "parse_page_with_agent",
+        "reason": "primary",
+        "attempt": 1,
+        "status": "success",
+        "input_tokens": 12015,
+        "output_tokens": 880
+      },
+      {
+        "page_number": 2,
+        "model": "gemini-3.0-flash",
+        "task": "parse_page_with_agent",
+        "reason": "primary",
+        "attempt": 1,
+        "status": "success",
+        "input_tokens": 11452,
+        "output_tokens": 1006
+      }
+    ]
+  },
+  "markdown": null,
+  "markdown_full": "# SHEMEER BADARUDEEN\n\n## Security Design & Operations, PMP|PSP|CPP\n\n**Address**: Al Mamzar, Street 15C, Dubai.\n**Phone**: UAE: +971 52 12 666 56, India: +91 9656360596 - **Email**: shemeerbadar12@gmail.com\n**Date of Birth**: 12 Dec 1988 **Driving License**: United Arab Emirates, Qatar, KSA, India | UAE Golden Visa\n\n# Professional Summary\n\nAccomplished Security Systems Design & Operations Manager with over 14+ years of experience leading end-to-end security infrastructure for iconic projects such as EXPO 2020, Red Sea Global ultra-luxury developments, and major financial institutions. Demonstrated expertise in both the design and operational management of complex systems, including VMS, ACS, and PSIM platforms, within high-risk, mission-critical environments. Skilled in bridging design intent with operational efficiency, ensuring reliable, scalable, and compliant security solutions. Adept at managing cross-functional teams, coordinating with consultants, operators, and contractors, and driving value through risk mitigation, vendor oversight, and lifecycle maintenance strategies. Proven success in delivering integrated security systems across the hospitality, government, and critical infrastructure sectors.\n\n# Skills\n\n* Operations Management\n* Security Projects & Implementation\n* Security Policies & Procedures\n* Security Compliance & Governance\n* Crisis and Disaster Management\n* Network\n* Threat & Risk Assessment\n* Command Control Center\n* Budget oversight\n* Audit coordination\n* Operational risk management\n* Asset Protection\n\n# Certifications\n\n* Project Management & Planning, **PMP**, PMI\n* Physical Security Professional, **PSP**, ASIS.\n* Certified Protection Professional, **CPP**, ASIS\n* Cisco Certified Network Administration, **CCNA**, Cisco.\n* Physical Security Information Management System, **PSIM**, CNL/Vid-sys/Control Pro/Prism.\n* Milestone Technical Configuration, Milestone.\n* SIRA Certified Engineer.\n* Control Pro, Siemens.\n* Security Screening System – Nuctech.\n* Explosive Trace Detector, Siemens.\n* Lenel/Hirsch/Honeywell/Salto/RBH/Si-Pass/Bosh - Access Control Trainings.\n* Dell/Resilient/HP/Pelco/Genetec/Milestone.\n* Bosch/Genetec/Milestone/Control Pro/Cloud IVS, SMS Solutions.\n* Seagate/Veracity/Promise, Storage Solutions.\n\n# Experience\n\n**Senior Manager - Security Design & Operations**\n\nOctober 2023 to Present\n\n**RED SEA GLOBAL - Riyadh**\n\n* Successfully led and developed a high-performing team of professionals at Amaala, fostering a culture of excellence and accountability.\n* Visionary Senior Manager at Red Sea Global, driving ICT and Security innovations in ultra-luxury developments.\n* Established clear performance metrics and KPIs to drive team productivity and align with organizational goals.\n* Proven ability to lead complex, multi-stakeholder projects from concept through to operational readiness.\n* Expert in Smart City technologies, integrated security, and ICT systems tailored for high-end hospitality and wellness environments.\n\n---\n\n* Delivered future-ready, sustainable ICT infrastructure for elite assets such as Rosewood, Four Seasons, Marina and Six Senses\n* Effectively engaged with key stakeholders including operators, consultants, and contractors across all project phases.\n* Built and nurtured strategic partnerships with vendors and suppliers, securing favorable terms and ensuring seamless project delivery.\n* Developed and managed budgets, ensuring financial control and timely delivery of initiatives.\n* Spearheaded the strategic direction and oversight of the security delivery team, ensuring alignment with Red Sea Global overarching security objectives.\n* Championed compliance with internal security policies, procedures, and industry regulations, ensuring rigorous implementation of security controls.\n* Partnered with internal incident response teams and external stakeholders to identify, anticipate, and mitigate emerging threats proactively.\n* Designed and executed comprehensive security delivery plans, managing project timelines, resource allocation, and risk mitigation strategies.\n* Managed security budgets, ensuring cost-effective deployment of solutions without compromising quality or effectiveness.\n* Conducted detailed security audits and risk assessments; identified critical gaps and implemented corrective actions to strengthen the security posture.\n\n**Design & Operations Manager - Security**\nApril 2022 to October 2023\n**Museum of the Future - Dubai**\n\n* Manage and oversee new projects, installation, maintenance, and upgrade of security systems, such as Access control, CCTV, and alarm systems.\n* Ensure that security policies and procedures are followed and adhered to by all staff and visitors.\n* Ensure that security systems are functioning properly and that any issues are resolved in a timely manner.\n* Conduct regular risk assessments of the museum's premises and identify potential security threats.\n* Conduct trainings for strategic steering committee for promoting risk culture within the organization internally and site wide.\n* Develop and implement security measures to mitigate identified risks.\n* Hire, train, and supervise security staff, including security guards and technicians.\n* Develop and implement staff schedules to ensure that all areas of the museum are properly staffed.\n* Collaborate with other museum departments, such as operations, facilities, and IT, to ensure that security systems and procedures are integrated and aligned with the museum's overall objectives.\n* Developed departmental objectives, budgets, policies, procedures, and strategies.\n\n**Manager Security Systems**\nJune 2019 to April 2022\n**Expo 2020 - Expo city, UAE**\n\n* To build and deliver security systems projects in Expo 2020, Including CCTV, ACS, ANPR, UVSS, ESTS, Command and control, video Analytics, RSA, VSA, IACS, Accreditation etc.\n* Manage and oversee the security design and integrations with different stakeholders, international participates for Expo2020.\n* Verify integrations of several systems and sub systems to Expo Command Center for incident response and efficient operation.\n* Coordination with government entities such as SIRA, Dubai Police, State Security for security design approvals.\n* Select, implement, and manage security countermeasures to reduce the risk of loss of information and data.\n* Design policies, training, procedures, and methods for the protection of employees, including executive and VVIP protection.\n* Executed project schedule and milestones within the allocated budget and specified timeline.\n\n**Senior Project Lead - Security Systems**\nMay 2017 to June 2019\n**Abu Dhabi Islamic Bank - UAE**\n\n* Managed technical activities, tendering/quotation evaluation and dealt with clients as well as consultants.\n\n---\n\n* Successfully led a Project Team for design, installation, commissioning, testing and maintenance of CCTV (IP & Analog), Access - Control System (Wired/ Wireless), Fire Alarm Systems, PAS.\n* Prepared required documents such as AutoCAD designs, material lists, data sheets for clients, consultants and ministry.\n* Coordinating efforts to restore critical systems and providing business continuity during crisis.\n\n**Project Manager - ELV, ICT & Security Systems**\nNovember 2015 to May 2017\n**Qatar Foundation - Doha, Qatar**\n* Managed ICT, ELV and Security Systems Projects within Qatar Foundation premises.\n* Identified potential project risks and developed strategies to minimize impact and control deviations from planned milestones.\n* Designed and implemented ELV Systems, ICT Infrastructure, Data Center Design and Security Systems.\n\n**ELV Security Systems Engineer**\nAugust 2012 to November 2015\n**Zener Electronics & Electricals - Abu Dhabi, UAE**\n* Designed and implemented data networks, CCTV and access control design schematics.\n* Investigated technically sound solutions for small business technologies.\n* Successfully led a Project Team for design, installation, commissioning, testing and maintenance of CCTV (IP & Analog), Access - Control System (Wired/Wireless), Fire Alarm Systems, PAS.\n* Provided outstanding customer service and a positive support experience.\n\n### Computer Skills\n\n* Aconex\n* BIM 360\n* AutoCAD\n* MS Office\n* Visio\n* Network\n* MS Project\n* Revizto\n* Everbridge Control Center\n* Genetec Security Center\n\n### Education\n\n**MBA: Operations Management**, January 2019\n**SRM University**\n**Master of Engineering: Computer Science**, January 2012\n**Kannur University**\n**Bachelor of Engineering: Computer Science**, January 2010\n**Anna University**\n\n### Personal Information\n\n**Marital Status**: Married",
+  "metadata": {
+    "pages": [
+      {
+        "page_number": 1,
+        "confidence": 1.0,
+        "cost_optimized": false,
+        "original_orientation_angle": 0,
+        "printed_page_number": null,
+        "slide_section_name": null,
+        "speaker_notes": null,
+        "triggered_auto_mode": false
+      },
+      {
+        "page_number": 2,
+        "confidence": 1.0,
+        "cost_optimized": false,
+        "original_orientation_angle": 0,
+        "printed_page_number": null,
+        "slide_section_name": null,
+        "speaker_notes": null,
+        "triggered_auto_mode": false
+      },
+      {
+        "page_number": 3,
+        "confidence": 1.0,
+        "cost_optimized": false,
+        "original_orientation_angle": 0,
+        "printed_page_number": null,
+        "slide_section_name": null,
+        "speaker_notes": null,
+        "triggered_auto_mode": false
+      }
+    ]
+  },
+  "raw_parameters": null,
+  "result_content_metadata": null,
+  "text": null,
+  "text_full": "SHEMEER BADARUDEEN\nSecurity Design & Operations, PMP|PSP|CPP\n\nAddress: Al Mamzar, Street 15C, Dubai.\nAddress: Riyadh\nPhone:UAE: +971 52 12 666 56, India: +91 9656360596 - Email: shemeerbadar12@gmail.com\nPhone: KSA: +966 56 321 123 0/ UAE: +971 52 12 666 56 - Email: shemeerbadar12@gmail.com\nDate of Birth: 12 Dec 1988 Driving License: United Arab Emirates, Qatar, KSA, India | UAE Golden Visa\nDate of Birth: 12 Dec 1988 Driving License: United Arab Emirates, Qatar, KSA, India | UAE Golden Visa\nProfessional Summary\n\nAccomplished Security Systems Design & Operations Manager with over 14+ years of experience leading end-to-end security\ninfrastructure for iconic projects such as EXPO 2020, Red Sea Global ultra-luxury developments, and major financial institutions.\nDemonstrated expertise in both the design and operational management of complex systems, including VMS, ACS, and PSIM\nplatforms, within high-risk, mission-critical environments. Skilled in bridging design intent with operational efficiency, ensuring\nreliable, scalable, and compliant security solutions. Adept at managing cross-functional teams, coordinating with consultants,\noperators, and contractors, and driving value through risk mitigation, vendor oversight, and lifecycle maintenance strategies. Proven\nsuccess in delivering integrated security systems across the hospitality, government, and critical infrastructure sectors.\nSkills\n •    Operations Management                                  •  Security Projects & Implementation\n •    Security Policies & Procedures                         •  Security Compliance & Governance\n •    Crisis and Disaster Management                         •  Network\n •    Threat & Risk Assessment                               •  Command Control Center\n •    Budget oversight                                       •  Audit coordination\n •    Operational risk management                            •  Asset Protection\nCertifications\n •    Project Management & Planning, PMP, PMI                •  Physical Security Professional, PSP, ASIS.\n •    Certified Protection Professional, CPP, ASIS           •  Cisco Certified Network Administration, CCNA, Cisco.\n •    Physical Security Information Management System,       •  Milestone Technical Configuration, Milestone.\n      PSIM, CNL/Vid-sys/Control Pro/Prism.\n •    SIRA Certified Engineer.                               •  Control Pro, Siemens.\n •    Security Screening System – Nuctech.                   •  Explosive Trace Detector, Siemens.\n •    Lenel/Hirsch/Honeywell/Salto/RBH/Si-Pass/Bosh -        •  Dell/Resilient/HP/Pelco/Genetec/Milestone.\n      Access Control Trainings.\n •    Bosch/Genetec/Milestone/Control Pro/Cloud IVS, SMS     •  Seagate/Veracity/Promise, Storage Solutions.\n      Solutions.\nExperience\nSenior Manager - Security Design & Operations\nOctober 2023 to Present\nRED SEA GLOBAL - Riyadh\n •    Successfully led and developed a high-performing team of professionals at Amaala, fostering a culture of excellence and\n      accountability.\n •    Visionary Senior Manager at Red Sea Global, driving ICT and Security innovations in ultra-luxury developments.\n •    Established clear performance metrics and KPIs to drive team productivity and align with organizational goals.\n •    Proven ability to lead complex, multi-stakeholder projects from concept through to operational readiness.\n •    Expert in Smart City technologies, integrated security, and ICT systems tailored for high-end hospitality and wellness\n      environments.\n\n---\n\n •  Delivered future-ready, sustainable ICT infrastructure for elite assets such as Rosewood, Four Seasons, Marina and Six Senses\n •  Effectively engaged with key stakeholders including operators, consultants, and contractors across all project phases.\n •  Built and nurtured strategic partnerships with vendors and suppliers, securing favorable terms and ensuring seamless project\n    delivery.\n •  Developed and managed budgets, ensuring financial control and timely delivery of initiatives.\n •  Spearheaded the strategic direction and oversight of the security delivery team, ensuring alignment with Red Sea Global\n    overarching security objectives.\n •  Championed compliance with internal security policies, procedures, and industry regulations, ensuring rigorous\n    implementation of security controls.\n •  Partnered with internal incident response teams and external stakeholders to identify, anticipate, and mitigate emerging\n    threats proactively.\n •  Designed and executed comprehensive security delivery plans, managing project timelines, resource allocation, and risk\n    mitigation strategies.\n •  Managed security budgets, ensuring cost-effective deployment of solutions without compromising quality or effectiveness.\n •  Conducted detailed security audits and risk assessments; identified critical gaps and implemented corrective actions to\n    strengthen the security posture.\nDesign & Operations Manager - Security\nApril 2022 to October 2023\nMuseum of the Future - Dubai\n •  Manage and oversee new projects, installation, maintenance, and upgrade of security systems, such as Access control, CCTV,\n    and alarm systems.\n •  Ensure that security policies and procedures are followed and adhered to by all staff and visitors.\n •  Ensure that security systems are functioning properly and that any issues are resolved in a timely manner.\n •  Conduct regular risk assessments of the museum's premises and identify potential security threats.\n •  Conduct trainings for strategic steering committee for promoting risk culture within the organization internally and site wide.\n •  Develop and implement security measures to mitigate identified risks.\n •  Hire, train, and supervise security staff, including security guards and technicians.\n •  Develop and implement staff schedules to ensure that all areas of the museum are properly staffed.\n •  Collaborate with other museum departments, such as operations, facilities, and IT, to ensure that security systems and\n    procedures are integrated and aligned with the museum's overall objectives.\n •  Developed departmental objectives, budgets, policies, procedures, and strategies.\nManager Security Systems\nJune 2019 to April 2022\nExpo 2020 - Expo city, UAE\n •  To build and deliver security systems projects in Expo 2020, Including CCTV, ACS, ANPR, UVSS, ESTS, Command and\n    control, video Analytics, RSA, VSA, IACS, Accreditation etc.\n •  Manage and oversee the security design and integrations with different stakeholders, international participates for Expo2020.\n •  Verify integrations of several systems and sub systems to Expo Command Center for incident response and efficient\n    operation.\n •  Coordination with government entities such as SIRA, Dubai Police, State Security for security design approvals.\n •  Select, implement, and manage security countermeasures to reduce the risk of loss of information and data.\n •  Design policies, training, procedures, and methods for the protection of employees, including executive and VVIP protection.\n •  Executed project schedule and milestones within the allocated budget and specified timeline.\nSenior Project Lead - Security Systems\nMay 2017 to June 2019\nAbu Dhabi Islamic Bank - UAE\n •  Managed technical activities, tendering/quotation evaluation and dealt with clients as well as consultants.\n\n---\n\n •  Successfully led a Project Team for design, installation, commissioning, testing and maintenance of CCTV (IP & Analog),\n    Access - Control System (Wired/ Wireless), Fire Alarm Systems, PAS.\n •  Prepared required documents such as AutoCAD designs, material lists, data sheets for clients, consultants and ministry.\n •  Coordinating efforts to restore critical systems and providing business continuity during crisis.\nProject Manager - ELV, ICT & Security Systems\nNovember 2015 to May 2017\nQatar Foundation - Doha, Qatar\n •  Managed ICT, ELV and Security Systems Projects within Qatar Foundation premises.\n •  Identified potential project risks and developed strategies to minimize impact and control deviations from planned\n    milestones.\n •  Designed and implemented ELV Systems, ICT Infrastructure, Data Center Design and Security Systems.\nELV Security Systems Engineer\nAugust 2012 to November 2015\nZener Electronics & Electricals - Abu Dhabi, UAE\n •  Designed and implemented data networks, CCTV and access control design schematics.\n •  Investigated technically sound solutions for small business technologies.\n •  Successfully led a Project Team for design, installation, commissioning, testing and maintenance of CCTV (IP & Analog),\n    Access - Control System (Wired/Wireless), Fire Alarm Systems, PAS.\n •  Provided outstanding customer service and a positive support experience.\nComputer Skills\n •  Aconex                                              •  BIM 360\n •  AutoCAD                                             •  MS Office\n •  Visio                                               •  Network\n •  MS Project                                          •  Revizto\n •  Everbridge Control Center                           •  Genetec Security Center\nEducation\nMBA: Operations Management, January 2019\nSRM University\nMaster of Engineering: Computer Science, January 2012\nKannur University\nBachelor of Engineering: Computer Science, January 2010\nAnna University\nPersonal Information\n\nMarital Status: Married",
+  "debug": null
+}

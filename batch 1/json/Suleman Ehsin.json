@@ -1,0 +1,1774 @@
+{
+  "job": {
+    "id": "pjb-l1m46myfu2ter1q3rh0ycwyy1cue",
+    "project_id": "949fd88b-381a-4ae5-b3b9-bf7fcc9b74b8",
+    "status": "COMPLETED",
+    "created_at": "2026-05-12T14:41:16.373069Z",
+    "error_message": null,
+    "name": "Ehsin-Resume.pdf",
+    "tier": "agentic",
+    "updated_at": "2026-05-12T14:41:24.101294Z"
+  },
+  "images_content_metadata": null,
+  "items": {
+    "pages": [
+      {
+        "items": [
+          {
+            "md": "\\*\\*SULEMAN EHSIN ICT Engineer | LC / ELV Systems | ISP | OSP | Security Systems | Design & Supervision",
+            "value": "**SULEMAN EHSIN ICT Engineer | LC / ELV Systems | ISP | OSP | Security Systems | Design & Supervision",
+            "bbox": [
+              {
+                "h": 26.284,
+                "w": 528.42,
+                "x": 31.08,
+                "y": 24.708,
+                "confidence": 1.0,
+                "end_index": 102,
+                "label": "text",
+                "start_index": 0
+              }
+            ],
+            "type": "text"
+          },
+          {
+            "md": "Phone\\*\\* : +966-502257052 **Email** : ",
+            "value": "Phone** : +966-502257052 Email : ",
+            "bbox": [
+              {
+                "h": 12.0,
+                "w": 150.06,
+                "x": 28.32,
+                "y": 65.423,
+                "confidence": 0.59,
+                "end_index": 38,
+                "label": "text",
+                "start_index": 0
+              }
+            ],
+            "type": "text"
+          },
+          {
+            "md": "<Suleman.ehsin@gmail.com>",
+            "text": "Suleman.ehsin@gmail.com",
+            "url": "mailto:Suleman.ehsin@gmail.com",
+            "bbox": [
+              {
+                "h": 23.074901242139862,
+                "w": 515.8204936514504,
+                "x": 28.026858570824597,
+                "y": 64.39934368598752,
+                "confidence": 0.52,
+                "end_index": 24,
+                "label": "text",
+                "start_index": 0
+              }
+            ],
+            "type": "link"
+          },
+          {
+            "md": " **Address** : Riyadh, Saudi Arabia **SEC** : 1097934 **LinkedIn** : ",
+            "value": " Address : Riyadh, Saudi Arabia SEC : 1097934 LinkedIn : ",
+            "bbox": [
+              {
+                "h": 23.074901242139862,
+                "w": 515.8204936514504,
+                "x": 28.026858570824597,
+                "y": 64.39934368598752,
+                "confidence": 0.64,
+                "end_index": 68,
+                "label": "text",
+                "start_index": 0
+              }
+            ],
+            "type": "text"
+          },
+          {
+            "md": "[www.linkedin.com/in/suleman-ehsin-23258795](http://www.linkedin.com/in/suleman-ehsin-23258795)",
+            "text": "www.linkedin.com/in/suleman-ehsin-23258795",
+            "url": "http://www.linkedin.com/in/suleman-ehsin-23258795",
+            "bbox": [
+              {
+                "h": 12.0,
+                "w": 260.17,
+                "x": 28.32,
+                "y": 78.143,
+                "confidence": 0.55,
+                "end_index": 94,
+                "label": "text",
+                "start_index": 0
+              }
+            ],
+            "type": "link"
+          },
+          {
+            "level": 2,
+            "md": "## SUMMARY",
+            "value": "SUMMARY",
+            "bbox": [
+              {
+                "h": 11.588702467011235,
+                "w": 79.54552926323123,
+                "x": 27.957373927269913,
+                "y": 95.96650889326887,
+                "confidence": 0.89,
+                "end_index": 9,
+                "label": "paragraph_title",
+                "start_index": 0
+              }
+            ],
+            "type": "heading"
+          },
+          {
+            "md": "ICT Engineer with 11+ years of experience in FTTx, ELV, ITS, and smart infrastructure projects. Involved in design, supervision, coordination, and site execution across infrastructure and building systems. Experienced in supporting end-to-end project delivery from design stage through installation, testing, commissioning, and handover. Worked closely with consultants, contractors, and vendors to ensure compliance with authority standards and alignment between design and site execution. Focused on delivering practical engineering solutions with consistent quality and timely completion.",
+            "value": "ICT Engineer with 11+ years of experience in FTTx, ELV, ITS, and smart infrastructure projects. Involved in design, supervision, coordination, and site execution across infrastructure and building systems. Experienced in supporting end-to-end project delivery from design stage through installation, testing, commissioning, and handover. Worked closely with consultants, contractors, and vendors to ensure compliance with authority standards and alignment between design and site execution. Focused on delivering practical engineering solutions with consistent quality and timely completion.",
+            "bbox": [
+              {
+                "h": 88.70358018828603,
+                "w": 536.7894524369402,
+                "x": 27.71671092291111,
+                "y": 115.38923923399389,
+                "confidence": 0.98,
+                "end_index": 590,
+                "label": "text",
+                "start_index": 0
+              }
+            ],
+            "type": "text"
+          },
+          {
+            "level": 2,
+            "md": "## KEY SKILLS",
+            "value": "KEY SKILLS",
+            "bbox": [
+              {
+                "h": 11.451625113138343,
+                "w": 90.49735299861256,
+                "x": 30.583963994170396,
+                "y": 212.12935734446455,
+                "confidence": 0.92,
+                "end_index": 12,
+                "label": "paragraph_title",
+                "start_index": 0
+              }
+            ],
+            "type": "heading"
+          },
+          {
+            "items": [
+              {
+                "md": "FTTx, ELV & ITS Systems",
+                "value": "FTTx, ELV & ITS Systems",
+                "bbox": [
+                  {
+                    "h": 10.78477384241614,
+                    "w": 156.3448135253906,
+                    "x": 40.58082418659489,
+                    "y": 231.49382071146152,
+                    "confidence": 0.92,
+                    "end_index": 22,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Smart Infrastructure & ICT Networks",
+                "value": "Smart Infrastructure & ICT Networks",
+                "bbox": [
+                  {
+                    "h": 11.093012784632256,
+                    "w": 218.54832978069027,
+                    "x": 40.57766095387529,
+                    "y": 244.37683307926827,
+                    "confidence": 0.93,
+                    "end_index": 34,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Design & Engineering Support",
+                "value": "Design & Engineering Support",
+                "bbox": [
+                  {
+                    "h": 11.062367092225626,
+                    "w": 182.12484519787301,
+                    "x": 40.74036557766053,
+                    "y": 257.240444038205,
+                    "confidence": 0.92,
+                    "end_index": 27,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Site Supervision & Commissioning",
+                "value": "Site Supervision & Commissioning",
+                "bbox": [
+                  {
+                    "h": 11.108799959508367,
+                    "w": 204.36165693835747,
+                    "x": 40.81081294421684,
+                    "y": 270.08636030988,
+                    "confidence": 0.92,
+                    "end_index": 31,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Utility Coordination & Interface Management",
+                "value": "Utility Coordination & Interface Management",
+                "bbox": [
+                  {
+                    "h": 11.199557390910813,
+                    "w": 259.84041549548635,
+                    "x": 40.71389734988328,
+                    "y": 282.9759987733422,
+                    "confidence": 0.92,
+                    "end_index": 42,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "BOQ, Estimation & Technical Submittals",
+                "value": "BOQ, Estimation & Technical Submittals",
+                "bbox": [
+                  {
+                    "h": 10.988350591892146,
+                    "w": 239.00276857820836,
+                    "x": 40.66836986858088,
+                    "y": 296.33591433641385,
+                    "confidence": 0.92,
+                    "end_index": 37,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Design Review & Technical Documentation",
+                "value": "Design Review & Technical Documentation",
+                "bbox": [
+                  {
+                    "h": 11.00659745379196,
+                    "w": 248.77607517298256,
+                    "x": 40.72170561017292,
+                    "y": 308.93925025009526,
+                    "confidence": 0.92,
+                    "end_index": 38,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Multidisciplinary Coordination",
+                "value": "Multidisciplinary Coordination",
+                "bbox": [
+                  {
+                    "h": 11.515225591892147,
+                    "w": 182.43275240746476,
+                    "x": 40.700547886694935,
+                    "y": 321.9784025462081,
+                    "confidence": 0.91,
+                    "end_index": 29,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Testing, Commissioning & Handover",
+                "value": "Testing, Commissioning & Handover",
+                "bbox": [
+                  {
+                    "h": 11.411266166873128,
+                    "w": 214.6447719458603,
+                    "x": 40.53550965784584,
+                    "y": 334.279021264053,
+                    "confidence": 0.91,
+                    "end_index": 32,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Operations & Maintenance Support",
+                "value": "Operations & Maintenance Support",
+                "bbox": [
+                  {
+                    "h": 11.074113352705817,
+                    "w": 209.44146263814787,
+                    "x": 40.61578389743712,
+                    "y": 347.7341618533251,
+                    "confidence": 0.92,
+                    "end_index": 31,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Standards Compliance (BICSI, TIA, NEC, HCIS, MOI)",
+                "value": "Standards Compliance (BICSI, TIA, NEC, HCIS, MOI)",
+                "bbox": [
+                  {
+                    "h": 11.243656065405899,
+                    "w": 301.96631249642724,
+                    "x": 40.455821037776296,
+                    "y": 360.83952490829836,
+                    "confidence": 0.93,
+                    "end_index": 48,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              }
+            ],
+            "md": "* FTTx, ELV & ITS Systems\n* Smart Infrastructure & ICT Networks\n* Design & Engineering Support\n* Site Supervision & Commissioning\n* Utility Coordination & Interface Management\n* BOQ, Estimation & Technical Submittals\n* Design Review & Technical Documentation\n* Multidisciplinary Coordination\n* Testing, Commissioning & Handover\n* Operations & Maintenance Support\n* Standards Compliance (BICSI, TIA, NEC, HCIS, MOI)",
+            "ordered": false,
+            "bbox": [
+              {
+                "h": 140.59,
+                "w": 301.97,
+                "x": 40.46,
+                "y": 231.49,
+                "confidence": 0.92,
+                "end_index": 413,
+                "label": "list",
+                "start_index": 0
+              }
+            ],
+            "type": "list"
+          },
+          {
+            "level": 2,
+            "md": "## EXPERIENCE",
+            "value": "EXPERIENCE",
+            "bbox": [
+              {
+                "h": 10.873347674113939,
+                "w": 97.80051645076098,
+                "x": 27.924106745575692,
+                "y": 380.862105147199,
+                "confidence": 0.91,
+                "end_index": 12,
+                "label": "paragraph_title",
+                "start_index": 0
+              }
+            ],
+            "type": "heading"
+          },
+          {
+            "level": 2,
+            "md": "## Dar Al Riyadh: Telecom Design Engineer 11/2024 – Present: Riyadh, KSA",
+            "value": "Dar Al Riyadh: Telecom Design Engineer 11/2024 – Present: Riyadh, KSA",
+            "bbox": [
+              {
+                "h": 23.432584913300268,
+                "w": 251.2878327937428,
+                "x": 30.218087106695407,
+                "y": 399.81610196741616,
+                "confidence": 0.89,
+                "end_index": 71,
+                "label": "paragraph_title",
+                "start_index": 0
+              }
+            ],
+            "type": "heading"
+          },
+          {
+            "items": [
+              {
+                "md": "Led the planning and design of FTTx networks in compliance with Communications, Space & Technology Commission, BICSI, Ministry of Interior, Ministry of Municipal and Rural Affairs and Housing, STC standards, and Saudi Highway Code requirements.",
+                "value": "Led the planning and design of FTTx networks in compliance with Communications, Space & Technology Commission, BICSI, Ministry of Interior, Ministry of Municipal and Rural Affairs and Housing, STC standards, and Saudi Highway Code requirements.",
+                "bbox": [
+                  {
+                    "h": 37.2149642721037,
+                    "w": 523.9910261629431,
+                    "x": 40.15347277712938,
+                    "y": 434.2747108422256,
+                    "confidence": 0.97,
+                    "end_index": 243,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Designed open-access duct networks to support multiple service providers, reducing civil costs and improving infrastructure efficiency.",
+                "value": "Designed open-access duct networks to support multiple service providers, reducing civil costs and improving infrastructure efficiency.",
+                "bbox": [
+                  {
+                    "h": 24.691844274009128,
+                    "w": 523.8443462187976,
+                    "x": 40.4185543409394,
+                    "y": 472.82051638719514,
+                    "confidence": 0.96,
+                    "end_index": 134,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Optimized duct configurations (main, mini, micro) for high-capacity fiber networks (24–144 cores+), ensuring future readiness.",
+                "value": "Optimized duct configurations (main, mini, micro) for high-capacity fiber networks (24–144 cores+), ensuring future readiness.",
+                "bbox": [
+                  {
+                    "h": 23.909914788967228,
+                    "w": 523.6446499618902,
+                    "x": 40.50829609613186,
+                    "y": 498.6387969226372,
+                    "confidence": 0.96,
+                    "end_index": 125,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Developed redundant network topologies (ring, star, hybrid) to enhance resilience and service continuity.",
+                "value": "Developed redundant network topologies (ring, star, hybrid) to enhance resilience and service continuity.",
+                "bbox": [
+                  {
+                    "h": 24.430264088700433,
+                    "w": 523.7453987021842,
+                    "x": 40.35920712622666,
+                    "y": 524.4700786609185,
+                    "confidence": 0.96,
+                    "end_index": 104,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Managed OSP/infrastructure coordination, including tie-ins with buildings and ISPs, ROW/corridor planning, and utility interface alignment.",
+                "value": "Managed OSP/infrastructure coordination, including tie-ins with buildings and ISPs, ROW/corridor planning, and utility interface alignment.",
+                "bbox": [
+                  {
+                    "h": 23.8497779511243,
+                    "w": 523.8769811975991,
+                    "x": 40.41807519769436,
+                    "y": 550.4224372379954,
+                    "confidence": 0.96,
+                    "end_index": 138,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Performed clash detection and resolution using Autodesk Civil 3D, BIM, and Autodesk Navisworks to ensure constructability and coordination.",
+                "value": "Performed clash detection and resolution using Autodesk Civil 3D, BIM, and Autodesk Navisworks to ensure constructability and coordination.",
+                "bbox": [
+                  {
+                    "h": 24.019797541920763,
+                    "w": 524.0600405362757,
+                    "x": 40.48243123392245,
+                    "y": 575.9388288395579,
+                    "confidence": 0.96,
+                    "end_index": 138,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Directed and reviewed subconsultant deliverables, providing technical comments, validating design submissions, and ensuring compliance with project standards and timelines.",
+                "value": "Directed and reviewed subconsultant deliverables, providing technical comments, validating design submissions, and ensuring compliance with project standards and timelines.",
+                "bbox": [
+                  {
+                    "h": 23.91558712842989,
+                    "w": 523.8298831912157,
+                    "x": 40.45289294016768,
+                    "y": 601.9744151938834,
+                    "confidence": 0.96,
+                    "end_index": 171,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Coordinated with vendors, contractors, and service providers, maintaining technical alignment and smooth execution.",
+                "value": "Coordinated with vendors, contractors, and service providers, maintaining technical alignment and smooth execution.",
+                "bbox": [
+                  {
+                    "h": 23.864385480182936,
+                    "w": 523.8289648333293,
+                    "x": 40.41253399479563,
+                    "y": 627.9320445288682,
+                    "confidence": 0.96,
+                    "end_index": 114,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Designed and supported fiber installation methodologies, including cable blowing and pulling, ensuring efficient deployment and minimal signal loss.",
+                "value": "Designed and supported fiber installation methodologies, including cable blowing and pulling, ensuring efficient deployment and minimal signal loss.",
+                "bbox": [
+                  {
+                    "h": 24.105485006192765,
+                    "w": 523.4937952603968,
+                    "x": 40.35828433182879,
+                    "y": 653.6578107136052,
+                    "confidence": 0.96,
+                    "end_index": 147,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Designed and integrated LC & ELV systems, including CCTV, Access Control, Fire Alarm, PA, Structured Cabling, Wi-Fi, IoT (LoRa WAN), Variable Message Signs (VMS), and security systems.",
+                "value": "Designed and integrated LC & ELV systems, including CCTV, Access Control, Fire Alarm, PA, Structured Cabling, Wi-Fi, IoT (LoRa WAN), Variable Message Signs (VMS), and security systems.",
+                "bbox": [
+                  {
+                    "h": 37.06572652677212,
+                    "w": 524.0291801620856,
+                    "x": 40.44358513898152,
+                    "y": 679.4521469488376,
+                    "confidence": 0.97,
+                    "end_index": 183,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Delivered advanced security solutions, including VMS (Video Management Systems), intrusion detection, and external physical security systems (barriers, gates, access control).",
+                "value": "Delivered advanced security solutions, including VMS (Video Management Systems), intrusion detection, and external physical security systems (barriers, gates, access control).",
+                "bbox": [
+                  {
+                    "h": 24.234794266863528,
+                    "w": 523.7125418978063,
+                    "x": 40.441717367628144,
+                    "y": 718.1588863019246,
+                    "confidence": 0.96,
+                    "end_index": 174,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Integrated smart systems such as weather stations, irrigation controllers, and IoT-based monitoring solutions.",
+                "value": "Integrated smart systems such as weather stations, irrigation controllers, and IoT-based monitoring solutions.",
+                "bbox": [
+                  {
+                    "h": 23.92105867711505,
+                    "w": 523.8577533566358,
+                    "x": 40.44695688774295,
+                    "y": 744.167667087462,
+                    "confidence": 0.96,
+                    "end_index": 109,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Contributed to value engineering, optimizing cost while maintaining performance and compliance.",
+                "value": "Contributed to value engineering, optimizing cost while maintaining performance and compliance.",
+                "bbox": [
+                  {
+                    "h": 23.945806140434456,
+                    "w": 523.8658011885481,
+                    "x": 40.362352612900146,
+                    "y": 770.0067294683689,
+                    "confidence": 0.96,
+                    "end_index": 94,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Prepared and reviewed BOQs and material take-offs to improve cost control and procurement accuracy.",
+                "value": "Prepared and reviewed BOQs and material take-offs to improve cost control and procurement accuracy.",
+                "bbox": [
+                  {
+                    "h": 24.733909941882608,
+                    "w": 524.3995268349253,
+                    "x": 40.27724701225466,
+                    "y": 795.5437523223133,
+                    "confidence": 0.94,
+                    "end_index": 98,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              }
+            ],
+            "md": "* Led the planning and design of FTTx networks in compliance with Communications, Space & Technology Commission, BICSI, Ministry of Interior, Ministry of Municipal and Rural Affairs and Housing, STC standards, and Saudi Highway Code requirements.\n* Designed open-access duct networks to support multiple service providers, reducing civil costs and improving infrastructure efficiency.\n* Optimized duct configurations (main, mini, micro) for high-capacity fiber networks (24–144 cores+), ensuring future readiness.\n* Developed redundant network topologies (ring, star, hybrid) to enhance resilience and service continuity.\n* Managed OSP/infrastructure coordination, including tie-ins with buildings and ISPs, ROW/corridor planning, and utility interface alignment.\n* Performed clash detection and resolution using Autodesk Civil 3D, BIM, and Autodesk Navisworks to ensure constructability and coordination.\n* Directed and reviewed subconsultant deliverables, providing technical comments, validating design submissions, and ensuring compliance with project standards and timelines.\n* Coordinated with vendors, contractors, and service providers, maintaining technical alignment and smooth execution.\n* Designed and supported fiber installation methodologies, including cable blowing and pulling, ensuring efficient deployment and minimal signal loss.\n* Designed and integrated LC & ELV systems, including CCTV, Access Control, Fire Alarm, PA, Structured Cabling, Wi-Fi, IoT (LoRa WAN), Variable Message Signs (VMS), and security systems.\n* Delivered advanced security solutions, including VMS (Video Management Systems), intrusion detection, and external physical security systems (barriers, gates, access control).\n* Integrated smart systems such as weather stations, irrigation controllers, and IoT-based monitoring solutions.\n* Contributed to value engineering, optimizing cost while maintaining performance and compliance.\n* Prepared and reviewed BOQs and material take-offs to improve cost control and procurement accuracy.",
+            "ordered": false,
+            "bbox": [
+              {
+                "h": 386.0,
+                "w": 524.52,
+                "x": 40.15,
+                "y": 434.27,
+                "confidence": 0.96,
+                "end_index": 2026,
+                "label": "list",
+                "start_index": 0
+              }
+            ],
+            "type": "list"
+          }
+        ],
+        "page_height": 843.0,
+        "page_number": 1,
+        "page_width": 596.04,
+        "success": true
+      },
+      {
+        "items": [
+          {
+            "items": [
+              {
+                "md": "Coordinated with multidisciplinary teams to ensure seamless system integration.",
+                "value": "Coordinated with multidisciplinary teams to ensure seamless system integration.",
+                "bbox": [
+                  {
+                    "h": 11.370557405425284,
+                    "w": 454.25941975752664,
+                    "x": 40.526787476181404,
+                    "y": 18.843594834862685,
+                    "confidence": 0.96,
+                    "end_index": 78,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Produced technical documentation (drawings, SLDs, specifications, submittals) aligned with project requirements.",
+                "value": "Produced technical documentation (drawings, SLDs, specifications, submittals) aligned with project requirements.",
+                "bbox": [
+                  {
+                    "h": 24.16638422151891,
+                    "w": 524.0323700138744,
+                    "x": 40.22882692543588,
+                    "y": 32.21303697911704,
+                    "confidence": 0.98,
+                    "end_index": 111,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Liaised with clients and consultants to resolve technical issues and maintain progress.",
+                "value": "Liaised with clients and consultants to resolve technical issues and maintain progress.",
+                "bbox": [
+                  {
+                    "h": 11.66665948635195,
+                    "w": 485.23727277296115,
+                    "x": 40.36071997665777,
+                    "y": 57.67249498320788,
+                    "confidence": 0.96,
+                    "end_index": 86,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Applied future-proof design practices to support scalability and long-term expansion.",
+                "value": "Applied future-proof design practices to support scalability and long-term expansion.",
+                "bbox": [
+                  {
+                    "h": 11.899827776653016,
+                    "w": 476.4267113623642,
+                    "x": 40.36583527444979,
+                    "y": 70.63104860631431,
+                    "confidence": 0.96,
+                    "end_index": 84,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              }
+            ],
+            "md": "* Coordinated with multidisciplinary teams to ensure seamless system integration.\n* Produced technical documentation (drawings, SLDs, specifications, submittals) aligned with project requirements.\n* Liaised with clients and consultants to resolve technical issues and maintain progress.\n* Applied future-proof design practices to support scalability and long-term expansion.",
+            "ordered": false,
+            "bbox": [
+              {
+                "h": 63.69,
+                "w": 524.03,
+                "x": 40.23,
+                "y": 18.84,
+                "confidence": 0.97,
+                "end_index": 373,
+                "label": "list",
+                "start_index": 0
+              }
+            ],
+            "type": "list"
+          },
+          {
+            "level": 2,
+            "md": "## National Engineering Services, Pakistan: Senior Engineer (Scada & Telecom) 06/2022 – 10/2024: Lahore, Pakistan",
+            "value": "National Engineering Services, Pakistan: Senior Engineer (Scada & Telecom) 06/2022 – 10/2024: Lahore, Pakistan",
+            "bbox": [
+              {
+                "h": 24.87772006151153,
+                "w": 437.95041740335597,
+                "x": 30.371430691156153,
+                "y": 93.84009063720703,
+                "confidence": 0.93,
+                "end_index": 112,
+                "label": "paragraph_title",
+                "start_index": 0
+              }
+            ],
+            "type": "heading"
+          },
+          {
+            "items": [
+              {
+                "md": "Led the complete project lifecycle for IT, Telecom (OFC), ELV, ICT, and Security systems— managing tender-stage design, site supervision, testing, and commissioning with a focus on quality and performance.",
+                "value": "Led the complete project lifecycle for IT, Telecom (OFC), ELV, ICT, and Security systems— managing tender-stage design, site supervision, testing, and commissioning with a focus on quality and performance.",
+                "bbox": [
+                  {
+                    "h": 37.435947072098884,
+                    "w": 525.1411385384908,
+                    "x": 39.92679365710747,
+                    "y": 126.35914217320884,
+                    "confidence": 0.99,
+                    "end_index": 204,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Performed capacity planning and fiber core allocation for new and existing networks to optimize resource utilization.",
+                "value": "Performed capacity planning and fiber core allocation for new and existing networks to optimize resource utilization.",
+                "bbox": [
+                  {
+                    "h": 24.773340230802198,
+                    "w": 524.367952182379,
+                    "x": 40.35606163955316,
+                    "y": 164.99900564798494,
+                    "confidence": 0.98,
+                    "end_index": 116,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Conducted detailed assessments and redesigns of existing OFC routes to integrate new service demands, civil constraints, or infrastructure developments.",
+                "value": "Conducted detailed assessments and redesigns of existing OFC routes to integrate new service demands, civil constraints, or infrastructure developments.",
+                "bbox": [
+                  {
+                    "h": 24.3618571807117,
+                    "w": 524.8702673271365,
+                    "x": 40.37860355462795,
+                    "y": 191.25905099264006,
+                    "confidence": 0.98,
+                    "end_index": 151,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Led the rerouting of legacy fiber networks to support new installations, ensuring compliance with technical standards and right-of-way regulations.",
+                "value": "Led the rerouting of legacy fiber networks to support new installations, ensuring compliance with technical standards and right-of-way regulations.",
+                "bbox": [
+                  {
+                    "h": 24.498733743807176,
+                    "w": 524.7335828434642,
+                    "x": 40.43472098894817,
+                    "y": 216.7443325731231,
+                    "confidence": 0.98,
+                    "end_index": 146,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Collaborated with field teams and civil engineers to optimize rerouting plans, minimizing trenching costs and avoiding utility conflicts.",
+                "value": "Collaborated with field teams and civil engineers to optimize rerouting plans, minimizing trenching costs and avoiding utility conflicts.",
+                "bbox": [
+                  {
+                    "h": 24.473383908155487,
+                    "w": 525.2581160379549,
+                    "x": 40.2386316159132,
+                    "y": 242.84035695145772,
+                    "confidence": 0.98,
+                    "end_index": 136,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Oversaw system installations on-site, enforcing adherence to technical requirements, best practices, and quality benchmarks.",
+                "value": "Oversaw system installations on-site, enforcing adherence to technical requirements, best practices, and quality benchmarks.",
+                "bbox": [
+                  {
+                    "h": 24.256655362757257,
+                    "w": 525.4674395248785,
+                    "x": 40.15697318472513,
+                    "y": 268.4122672029821,
+                    "confidence": 0.98,
+                    "end_index": 123,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Conducted comprehensive design reviews submitted by sub-consultants and contractors, ensuring full alignment with project specifications, codes, and international standards.",
+                "value": "Conducted comprehensive design reviews submitted by sub-consultants and contractors, ensuring full alignment with project specifications, codes, and international standards.",
+                "bbox": [
+                  {
+                    "h": 24.599505615234374,
+                    "w": 525.0666539464439,
+                    "x": 40.332845374726084,
+                    "y": 294.3450235804116,
+                    "confidence": 0.98,
+                    "end_index": 172,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Evaluated and approved contractor proposals, material submittals, and method statements, optimizing project workflows and ensuring technical compliance.",
+                "value": "Evaluated and approved contractor proposals, material submittals, and method statements, optimizing project workflows and ensuring technical compliance.",
+                "bbox": [
+                  {
+                    "h": 24.575109535775514,
+                    "w": 524.7469766717677,
+                    "x": 40.36911829298065,
+                    "y": 320.3366618533251,
+                    "confidence": 0.98,
+                    "end_index": 151,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Collaborated seamlessly with EPC contractors, OEMs, and product vendors, gathering critical inputs for system selection, integration, and implementation.",
+                "value": "Collaborated seamlessly with EPC contractors, OEMs, and product vendors, gathering critical inputs for system selection, integration, and implementation.",
+                "bbox": [
+                  {
+                    "h": 24.279921994092987,
+                    "w": 524.6712853485851,
+                    "x": 40.3882707132479,
+                    "y": 346.1248990686928,
+                    "confidence": 0.98,
+                    "end_index": 152,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Managed technical data, project schedules, and specification packages ensuring seamless integration of ICT and ELV systems within the overall infrastructure.",
+                "value": "Managed technical data, project schedules, and specification packages ensuring seamless integration of ICT and ELV systems within the overall infrastructure.",
+                "bbox": [
+                  {
+                    "h": 24.24523538729038,
+                    "w": 524.4713007184284,
+                    "x": 40.34130136569884,
+                    "y": 372.02856588224085,
+                    "confidence": 0.98,
+                    "end_index": 156,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Maintained strong communication with stakeholders, project teams, and contractors to prioritize deliverables and drive timely, coordinated execution.",
+                "value": "Maintained strong communication with stakeholders, project teams, and contractors to prioritize deliverables and drive timely, coordinated execution.",
+                "bbox": [
+                  {
+                    "h": 24.518009658441304,
+                    "w": 524.066602136826,
+                    "x": 40.26533054228992,
+                    "y": 397.85392429258764,
+                    "confidence": 0.98,
+                    "end_index": 148,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Prepared and presented detailed progress reports to senior management, ensuring strategic alignment and transparency across project phases.",
+                "value": "Prepared and presented detailed progress reports to senior management, ensuring strategic alignment and transparency across project phases.",
+                "bbox": [
+                  {
+                    "h": 24.36028850276293,
+                    "w": 524.1335047306712,
+                    "x": 40.35633226675638,
+                    "y": 423.65307950647866,
+                    "confidence": 0.98,
+                    "end_index": 138,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Developed high-quality technical documentation, including pre-qualification packages, bidding documents, evaluation matrices, BOQs, specifications, and cost estimates.",
+                "value": "Developed high-quality technical documentation, including pre-qualification packages, bidding documents, evaluation matrices, BOQs, specifications, and cost estimates.",
+                "bbox": [
+                  {
+                    "h": 24.46193883384147,
+                    "w": 524.7120036513909,
+                    "x": 40.32480197932546,
+                    "y": 449.4026393983422,
+                    "confidence": 0.98,
+                    "end_index": 166,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Produced technical drawings and schematics, such as conceptual layouts, data flow diagrams, and system architecture workflows, to support design validation and implementation.",
+                "value": "Produced technical drawings and schematics, such as conceptual layouts, data flow diagrams, and system architecture workflows, to support design validation and implementation.",
+                "bbox": [
+                  {
+                    "h": 24.591047303734783,
+                    "w": 524.178051742926,
+                    "x": 40.19026033072122,
+                    "y": 475.3146892268483,
+                    "confidence": 0.98,
+                    "end_index": 174,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Contributed to a national ITS strategy for motorway and highway networks, improving safety, traffic efficiency, and operational control.",
+                "value": "Contributed to a national ITS strategy for motorway and highway networks, improving safety, traffic efficiency, and operational control.",
+                "bbox": [
+                  {
+                    "h": 24.42966171636815,
+                    "w": 524.5343612932903,
+                    "x": 40.22347649253287,
+                    "y": 501.29059052258003,
+                    "confidence": 0.98,
+                    "end_index": 135,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Designed and integrated Traffic Control Centers, electronic tolling, traffic management systems, and speed enforcement camera networks.",
+                "value": "Designed and integrated Traffic Control Centers, electronic tolling, traffic management systems, and speed enforcement camera networks.",
+                "bbox": [
+                  {
+                    "h": 24.72868938166924,
+                    "w": 525.0057495161847,
+                    "x": 40.20507384271389,
+                    "y": 526.9653056521532,
+                    "confidence": 0.98,
+                    "end_index": 134,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Delivered Weigh-in-Motion (WIM), RFID vehicle identification, Automatic Vehicle Classification (AVC), VMS, emergency roadside phones, and panic alarm systems.",
+                "value": "Delivered Weigh-in-Motion (WIM), RFID vehicle identification, Automatic Vehicle Classification (AVC), VMS, emergency roadside phones, and panic alarm systems.",
+                "bbox": [
+                  {
+                    "h": 24.485933331745436,
+                    "w": 525.5879351779845,
+                    "x": 40.304478320014766,
+                    "y": 552.5389226252857,
+                    "confidence": 0.98,
+                    "end_index": 157,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Supported smart city infrastructure, including smart bins, smart benches, environmental sensors, and smart weather stations.",
+                "value": "Supported smart city infrastructure, including smart bins, smart benches, environmental sensors, and smart weather stations.",
+                "bbox": [
+                  {
+                    "h": 24.280223180259128,
+                    "w": 525.094288976753,
+                    "x": 40.21797078172637,
+                    "y": 578.5875101824505,
+                    "confidence": 0.98,
+                    "end_index": 123,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              }
+            ],
+            "md": "* Led the complete project lifecycle for IT, Telecom (OFC), ELV, ICT, and Security systems— managing tender-stage design, site supervision, testing, and commissioning with a focus on quality and performance.\n* Performed capacity planning and fiber core allocation for new and existing networks to optimize resource utilization.\n* Conducted detailed assessments and redesigns of existing OFC routes to integrate new service demands, civil constraints, or infrastructure developments.\n* Led the rerouting of legacy fiber networks to support new installations, ensuring compliance with technical standards and right-of-way regulations.\n* Collaborated with field teams and civil engineers to optimize rerouting plans, minimizing trenching costs and avoiding utility conflicts.\n* Oversaw system installations on-site, enforcing adherence to technical requirements, best practices, and quality benchmarks.\n* Conducted comprehensive design reviews submitted by sub-consultants and contractors, ensuring full alignment with project specifications, codes, and international standards.\n* Evaluated and approved contractor proposals, material submittals, and method statements, optimizing project workflows and ensuring technical compliance.\n* Collaborated seamlessly with EPC contractors, OEMs, and product vendors, gathering critical inputs for system selection, integration, and implementation.\n* Managed technical data, project schedules, and specification packages ensuring seamless integration of ICT and ELV systems within the overall infrastructure.\n* Maintained strong communication with stakeholders, project teams, and contractors to prioritize deliverables and drive timely, coordinated execution.\n* Prepared and presented detailed progress reports to senior management, ensuring strategic alignment and transparency across project phases.\n* Developed high-quality technical documentation, including pre-qualification packages, bidding documents, evaluation matrices, BOQs, specifications, and cost estimates.\n* Produced technical drawings and schematics, such as conceptual layouts, data flow diagrams, and system architecture workflows, to support design validation and implementation.\n* Contributed to a national ITS strategy for motorway and highway networks, improving safety, traffic efficiency, and operational control.\n* Designed and integrated Traffic Control Centers, electronic tolling, traffic management systems, and speed enforcement camera networks.\n* Delivered Weigh-in-Motion (WIM), RFID vehicle identification, Automatic Vehicle Classification (AVC), VMS, emergency roadside phones, and panic alarm systems.\n* Supported smart city infrastructure, including smart bins, smart benches, environmental sensors, and smart weather stations.",
+            "ordered": false,
+            "bbox": [
+              {
+                "h": 476.51,
+                "w": 525.97,
+                "x": 39.93,
+                "y": 126.36,
+                "confidence": 0.98,
+                "end_index": 2752,
+                "label": "list",
+                "start_index": 0
+              }
+            ],
+            "type": "list"
+          },
+          {
+            "level": 2,
+            "md": "## Innovative Pvt Ltd: Senior Engineer Field Operations 02/2019 – 01/2022: Islamabad, Pakistan",
+            "value": "Innovative Pvt Ltd: Senior Engineer Field Operations 02/2019 – 01/2022: Islamabad, Pakistan",
+            "bbox": [
+              {
+                "h": 24.441508372237006,
+                "w": 306.12839694928425,
+                "x": 30.197756792617426,
+                "y": 614.5688661156631,
+                "confidence": 0.96,
+                "end_index": 93,
+                "label": "paragraph_title",
+                "start_index": 0
+              }
+            ],
+            "type": "heading"
+          },
+          {
+            "items": [
+              {
+                "md": "Directed installation, configuration, and maintenance of electromechanical and automation systems, including ATMs, sorting systems, binding machines, and integrated electronic equipment.",
+                "value": "Directed installation, configuration, and maintenance of electromechanical and automation systems, including ATMs, sorting systems, binding machines, and integrated electronic equipment.",
+                "bbox": [
+                  {
+                    "h": 37.73471119950457,
+                    "w": 526.0766036132812,
+                    "x": 39.962676162347556,
+                    "y": 646.4736170922256,
+                    "confidence": 0.98,
+                    "end_index": 185,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Led testing, commissioning, and integration of Fire Alarm, Intrusion Detection, Access Control systems, and network infrastructure components including firewalls, switches, and routers.",
+                "value": "Led testing, commissioning, and integration of Fire Alarm, Intrusion Detection, Access Control systems, and network infrastructure components including firewalls, switches, and routers.",
+                "bbox": [
+                  {
+                    "h": 24.58813583746184,
+                    "w": 525.1381483297208,
+                    "x": 40.265077661132814,
+                    "y": 685.3632266458651,
+                    "confidence": 0.98,
+                    "end_index": 184,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Managed end-to-end system integration, ensuring seamless interoperability between hardware, software, and network-based systems.",
+                "value": "Managed end-to-end system integration, ensuring seamless interoperability between hardware, software, and network-based systems.",
+                "bbox": [
+                  {
+                    "h": 24.132491365758426,
+                    "w": 525.7965931881789,
+                    "x": 40.21312167462605,
+                    "y": 711.4123663776677,
+                    "confidence": 0.98,
+                    "end_index": 127,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Performed preventive and corrective maintenance on network and electronic systems, ensuring high availability, reliability, and minimum downtime.",
+                "value": "Performed preventive and corrective maintenance on network and electronic systems, ensuring high availability, reliability, and minimum downtime.",
+                "bbox": [
+                  {
+                    "h": 24.810662216558754,
+                    "w": 525.3949824185999,
+                    "x": 40.3054898446432,
+                    "y": 737.1796460556402,
+                    "confidence": 0.98,
+                    "end_index": 144,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Coordinated with logistics and inventory teams to control spare parts, optimize stock levels, and ensure timely replacement of critical components.",
+                "value": "Coordinated with logistics and inventory teams to control spare parts, optimize stock levels, and ensure timely replacement of critical components.",
+                "bbox": [
+                  {
+                    "h": 24.480913562309457,
+                    "w": 524.7699223093916,
+                    "x": 40.23980285495665,
+                    "y": 762.9087754858995,
+                    "confidence": 0.98,
+                    "end_index": 146,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Worked closely with vendors and service providers to resolve technical issues, implement system updates, and ensure compatibility across platforms.",
+                "value": "Worked closely with vendors and service providers to resolve technical issues, implement system updates, and ensure compatibility across platforms.",
+                "bbox": [
+                  {
+                    "h": 24.3803173828125,
+                    "w": 524.555558945372,
+                    "x": 40.24753125803878,
+                    "y": 788.9804539824695,
+                    "confidence": 0.98,
+                    "end_index": 146,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Conducted system performance checks and troubleshooting, maintaining operational efficiency",
+                "value": "Conducted system performance checks and troubleshooting, maintaining operational efficiency",
+                "bbox": [
+                  {
+                    "h": 12.119731326219451,
+                    "w": 524.2432462798328,
+                    "x": 40.23143559421446,
+                    "y": 814.4627613495618,
+                    "confidence": 0.94,
+                    "end_index": 90,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              }
+            ],
+            "md": "* Directed installation, configuration, and maintenance of electromechanical and automation systems, including ATMs, sorting systems, binding machines, and integrated electronic equipment.\n* Led testing, commissioning, and integration of Fire Alarm, Intrusion Detection, Access Control systems, and network infrastructure components including firewalls, switches, and routers.\n* Managed end-to-end system integration, ensuring seamless interoperability between hardware, software, and network-based systems.\n* Performed preventive and corrective maintenance on network and electronic systems, ensuring high availability, reliability, and minimum downtime.\n* Coordinated with logistics and inventory teams to control spare parts, optimize stock levels, and ensure timely replacement of critical components.\n* Worked closely with vendors and service providers to resolve technical issues, implement system updates, and ensure compatibility across platforms.\n* Conducted system performance checks and troubleshooting, maintaining operational efficiency",
+            "ordered": false,
+            "bbox": [
+              {
+                "h": 180.11,
+                "w": 526.08,
+                "x": 39.96,
+                "y": 646.47,
+                "confidence": 0.97,
+                "end_index": 1048,
+                "label": "list",
+                "start_index": 0
+              }
+            ],
+            "type": "list"
+          }
+        ],
+        "page_height": 843.0,
+        "page_number": 2,
+        "page_width": 596.04,
+        "success": true
+      },
+      {
+        "items": [
+          {
+            "md": "across deployed infrastructure.",
+            "value": "across deployed infrastructure.",
+            "bbox": [
+              {
+                "h": 12.020129688542065,
+                "w": 167.25864963081176,
+                "x": 58.65298938881479,
+                "y": 20.39343453011862,
+                "confidence": 0.84,
+                "end_index": 30,
+                "label": "text",
+                "start_index": 0
+              }
+            ],
+            "type": "text"
+          },
+          {
+            "items": [
+              {
+                "md": "Provided technical support and training to operational teams, improving system handling and reducing response time for issues.",
+                "value": "Provided technical support and training to operational teams, improving system handling and reducing response time for issues.",
+                "bbox": [
+                  {
+                    "h": 24.391436172113185,
+                    "w": 523.5614076960866,
+                    "x": 40.41301313804068,
+                    "y": 33.16561666349085,
+                    "confidence": 0.95,
+                    "end_index": 125,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              }
+            ],
+            "md": "* Provided technical support and training to operational teams, improving system handling and reducing response time for issues.",
+            "ordered": false,
+            "bbox": [
+              {
+                "h": 24.39,
+                "w": 523.56,
+                "x": 40.41,
+                "y": 33.17,
+                "confidence": 0.95,
+                "end_index": 127,
+                "label": "list",
+                "start_index": 0
+              }
+            ],
+            "type": "list"
+          },
+          {
+            "level": 2,
+            "md": "## Frontier Works Organization: Technical Support Engineer 02/2014 – 01/2019: Rawalpindi, Pakistan",
+            "value": "Frontier Works Organization: Technical Support Engineer 02/2014 – 01/2019: Rawalpindi, Pakistan",
+            "bbox": [
+              {
+                "h": 24.21820392887766,
+                "w": 332.71456938550995,
+                "x": 30.028916473388673,
+                "y": 71.86032111935499,
+                "confidence": 0.87,
+                "end_index": 97,
+                "label": "paragraph_title",
+                "start_index": 0
+              }
+            ],
+            "type": "heading"
+          },
+          {
+            "items": [
+              {
+                "md": "Managed seamless operation and integration of complex ELV, ICT, and security systems, including Access Control, CCTV/IP Cameras, LAN/WAN networks, NVRs, Optical Fiber, Firewalls, Switches, Routers, PoE devices, Video Conferencing, Public Address systems, Automatic Barriers, UVSS, APS, and VMS platforms.",
+                "value": "Managed seamless operation and integration of complex ELV, ICT, and security systems, including Access Control, CCTV/IP Cameras, LAN/WAN networks, NVRs, Optical Fiber, Firewalls, Switches, Routers, PoE devices, Video Conferencing, Public Address systems, Automatic Barriers, UVSS, APS, and VMS platforms.",
+                "bbox": [
+                  {
+                    "h": 50.09341492443551,
+                    "w": 524.2455355197814,
+                    "x": 40.08700052490234,
+                    "y": 104.26502230760528,
+                    "confidence": 0.97,
+                    "end_index": 303,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Demonstrated expertise in deployment and maintenance of Intelligent Transportation Systems (ITS) and Electronic Toll Collection (ETTM) hardware and software systems.",
+                "value": "Demonstrated expertise in deployment and maintenance of Intelligent Transportation Systems (ITS) and Electronic Toll Collection (ETTM) hardware and software systems.",
+                "bbox": [
+                  {
+                    "h": 24.889711035751727,
+                    "w": 523.9192567159513,
+                    "x": 40.34013012665539,
+                    "y": 155.51321009193978,
+                    "confidence": 0.95,
+                    "end_index": 164,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Configured and administered multi-platform IT environments, including Windows (XP–10), Windows Server (2008/2012), Linux systems, and virtualized infrastructures.",
+                "value": "Configured and administered multi-platform IT environments, including Windows (XP–10), Windows Server (2008/2012), Linux systems, and virtualized infrastructures.",
+                "bbox": [
+                  {
+                    "h": 24.780229864353114,
+                    "w": 524.163539913717,
+                    "x": 40.242074348859084,
+                    "y": 181.3216895275581,
+                    "confidence": 0.95,
+                    "end_index": 161,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Managed network configuration and IP addressing across heterogeneous environments, including remote installation, updates, and system maintenance.",
+                "value": "Managed network configuration and IP addressing across heterogeneous environments, including remote installation, updates, and system maintenance.",
+                "bbox": [
+                  {
+                    "h": 24.453982499285434,
+                    "w": 524.1665434320216,
+                    "x": 40.255894082269435,
+                    "y": 207.44337747713416,
+                    "confidence": 0.95,
+                    "end_index": 145,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Ensured high system availability and operational reliability through proactive monitoring, troubleshooting, and performance optimization.",
+                "value": "Ensured high system availability and operational reliability through proactive monitoring, troubleshooting, and performance optimization.",
+                "bbox": [
+                  {
+                    "h": 24.395527284203535,
+                    "w": 523.6862422574671,
+                    "x": 40.22329903207174,
+                    "y": 233.10847974823741,
+                    "confidence": 0.96,
+                    "end_index": 136,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Coordinated with clients and senior management to align operational activities with project milestones and business objectives.",
+                "value": "Coordinated with clients and senior management to align operational activities with project milestones and business objectives.",
+                "bbox": [
+                  {
+                    "h": 24.4048891542016,
+                    "w": 523.989127336009,
+                    "x": 40.28239780213891,
+                    "y": 259.21705355016195,
+                    "confidence": 0.95,
+                    "end_index": 126,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Prepared structured maintenance reports and schedules, improving visibility, planning efficiency, and resource management.",
+                "value": "Prepared structured maintenance reports and schedules, improving visibility, planning efficiency, and resource management.",
+                "bbox": [
+                  {
+                    "h": 24.80634521484375,
+                    "w": 524.4125213771913,
+                    "x": 40.255024526009905,
+                    "y": 284.7305838831459,
+                    "confidence": 0.95,
+                    "end_index": 121,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Supported continuous improvement of technical operations and system performance, ensuring long-term stability and efficiency.",
+                "value": "Supported continuous improvement of technical operations and system performance, ensuring long-term stability and efficiency.",
+                "bbox": [
+                  {
+                    "h": 24.955582960175267,
+                    "w": 524.3143103214915,
+                    "x": 40.29673217088653,
+                    "y": 310.9534076374333,
+                    "confidence": 0.95,
+                    "end_index": 124,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              }
+            ],
+            "md": "* Managed seamless operation and integration of complex ELV, ICT, and security systems, including Access Control, CCTV/IP Cameras, LAN/WAN networks, NVRs, Optical Fiber, Firewalls, Switches, Routers, PoE devices, Video Conferencing, Public Address systems, Automatic Barriers, UVSS, APS, and VMS platforms.\n* Demonstrated expertise in deployment and maintenance of Intelligent Transportation Systems (ITS) and Electronic Toll Collection (ETTM) hardware and software systems.\n* Configured and administered multi-platform IT environments, including Windows (XP–10), Windows Server (2008/2012), Linux systems, and virtualized infrastructures.\n* Managed network configuration and IP addressing across heterogeneous environments, including remote installation, updates, and system maintenance.\n* Ensured high system availability and operational reliability through proactive monitoring, troubleshooting, and performance optimization.\n* Coordinated with clients and senior management to align operational activities with project milestones and business objectives.\n* Prepared structured maintenance reports and schedules, improving visibility, planning efficiency, and resource management.\n* Supported continuous improvement of technical operations and system performance, ensuring long-term stability and efficiency.",
+            "ordered": false,
+            "bbox": [
+              {
+                "h": 231.64,
+                "w": 524.58,
+                "x": 40.09,
+                "y": 104.27,
+                "confidence": 0.95,
+                "end_index": 1310,
+                "label": "list",
+                "start_index": 0
+              }
+            ],
+            "type": "list"
+          },
+          {
+            "level": 2,
+            "md": "## TRAINING / COURSES",
+            "value": "TRAINING / COURSES",
+            "bbox": [
+              {
+                "h": 10.236313833841468,
+                "w": 159.64522983621737,
+                "x": 27.451369823176684,
+                "y": 346.5192521555831,
+                "confidence": 0.87,
+                "end_index": 20,
+                "label": "paragraph_title",
+                "start_index": 0
+              }
+            ],
+            "type": "heading"
+          },
+          {
+            "md": "<u>CCNA MCSE DATA ANALYSIS PYTHON LINUX</u>",
+            "value": "<u>CCNA MCSE DATA ANALYSIS PYTHON LINUX</u>",
+            "bbox": [
+              {
+                "h": 10.91619140625,
+                "w": 264.30101062651846,
+                "x": 35.989595973614946,
+                "y": 367.88655332983996,
+                "confidence": 0.8,
+                "end_index": 42,
+                "label": "text",
+                "start_index": 0
+              }
+            ],
+            "type": "text"
+          },
+          {
+            "level": 2,
+            "md": "## SOFTWARES TOOLS",
+            "value": "SOFTWARES TOOLS",
+            "bbox": [
+              {
+                "h": 10.012557611232854,
+                "w": 149.31071118789302,
+                "x": 27.861713865698835,
+                "y": 386.7168881300019,
+                "confidence": 0.84,
+                "end_index": 17,
+                "label": "paragraph_title",
+                "start_index": 0
+              }
+            ],
+            "type": "heading"
+          },
+          {
+            "md": "<u>MS OFFICE AUTOCAD ENVI SNAP ARCMAP CIVIL 3D REVIT EKAHAU EASE FOCUS</u>",
+            "value": "<u>MS OFFICE AUTOCAD ENVI SNAP ARCMAP CIVIL 3D REVIT EKAHAU EASE FOCUS</u>",
+            "bbox": [
+              {
+                "h": 11.117835544493152,
+                "w": 461.32379684969277,
+                "x": 35.329684848096896,
+                "y": 408.10153260766003,
+                "confidence": 0.84,
+                "end_index": 73,
+                "label": "text",
+                "start_index": 0
+              }
+            ],
+            "type": "text"
+          },
+          {
+            "level": 2,
+            "md": "## EDUCATION",
+            "value": "EDUCATION",
+            "bbox": [
+              {
+                "h": 10.098872546684456,
+                "w": 91.60731050831865,
+                "x": 27.714565869587222,
+                "y": 426.84575326314786,
+                "confidence": 0.87,
+                "end_index": 11,
+                "label": "paragraph_title",
+                "start_index": 0
+              }
+            ],
+            "type": "heading"
+          },
+          {
+            "level": 2,
+            "md": "## Postgraduate Diploma in BIM (In Progress)",
+            "value": "Postgraduate Diploma in BIM (In Progress)",
+            "bbox": [
+              {
+                "h": 11.563791861185218,
+                "w": 242.97756791515815,
+                "x": 37.31496608231707,
+                "y": 446.14425685975607,
+                "confidence": 0.83,
+                "end_index": 43,
+                "label": "paragraph_title",
+                "start_index": 0
+              }
+            ],
+            "type": "heading"
+          },
+          {
+            "md": "Brains Institute, Peshawar, Pakistan",
+            "value": "Brains Institute, Peshawar, Pakistan",
+            "bbox": [
+              {
+                "h": 9.951893697599075,
+                "w": 145.66451095030249,
+                "x": 38.49100099472418,
+                "y": 459.1858186451982,
+                "confidence": 0.86,
+                "end_index": 35,
+                "label": "text",
+                "start_index": 0
+              }
+            ],
+            "type": "text"
+          },
+          {
+            "level": 2,
+            "md": "## Master of Science in Computer System Engineering (2021-2023)",
+            "value": "Master of Science in Computer System Engineering (2021-2023)",
+            "bbox": [
+              {
+                "h": 11.59712313024005,
+                "w": 369.95801224722516,
+                "x": 37.90987122266816,
+                "y": 481.11904862566695,
+                "confidence": 0.82,
+                "end_index": 62,
+                "label": "paragraph_title",
+                "start_index": 0
+              }
+            ],
+            "type": "heading"
+          },
+          {
+            "md": "University of Engineering and Technology Peshawar, Pakistan",
+            "value": "University of Engineering and Technology Peshawar, Pakistan",
+            "bbox": [
+              {
+                "h": 10.327221858326954,
+                "w": 248.70293928044015,
+                "x": 38.58957584436928,
+                "y": 494.30372403772867,
+                "confidence": 0.88,
+                "end_index": 58,
+                "label": "text",
+                "start_index": 0
+              }
+            ],
+            "type": "text"
+          },
+          {
+            "level": 2,
+            "md": "## Bachelor of Science in Electrical (Communication) (2009 – 2014)",
+            "value": "Bachelor of Science in Electrical (Communication) (2009 – 2014)",
+            "bbox": [
+              {
+                "h": 11.84881436975995,
+                "w": 372.40850164378094,
+                "x": 37.75873702094845,
+                "y": 515.6306662657203,
+                "confidence": 0.84,
+                "end_index": 65,
+                "label": "paragraph_title",
+                "start_index": 0
+              }
+            ],
+            "type": "heading"
+          },
+          {
+            "md": "University of Engineering and Technology Peshawar, Pakistan",
+            "value": "University of Engineering and Technology Peshawar, Pakistan",
+            "bbox": [
+              {
+                "h": 10.406684808498477,
+                "w": 248.62271827898724,
+                "x": 38.400500596060404,
+                "y": 528.961718154535,
+                "confidence": 0.89,
+                "end_index": 58,
+                "label": "text",
+                "start_index": 0
+              }
+            ],
+            "type": "text"
+          }
+        ],
+        "page_height": 843.0,
+        "page_number": 3,
+        "page_width": 596.04,
+        "success": true
+      },
+      {
+        "items": [],
+        "page_height": 843.0,
+        "page_number": 4,
+        "page_width": 596.04,
+        "success": true
+      }
+    ]
+  },
+  "job_metadata": {
+    "state_transitions": {
+      "pending_at": "2026-05-12T14:41:16.366781Z",
+      "throttled_at": "2026-05-12T14:41:16.560735Z",
+      "running_at": "2026-05-12T14:41:16.680694Z",
+      "completed_at": "2026-05-12T14:41:24.102559Z",
+      "failed_at": null,
+      "cancelled_at": null
+    },
+    "pdf-pages": 4,
+    "pdf-real-pages": 4,
+    "pdf-rawTextLength": 10657,
+    "pdf-mdLength": 9946,
+    "pdf-time": 2600,
+    "pdf-ocrTime": 0,
+    "pdf-image-convertTime": 0,
+    "pdf-pdfToHTMLTime": 0,
+    "pdf-llmTime": 7,
+    "pdf-inputTokens": 0,
+    "pdf-outputTokens": 0,
+    "pdf-image-ocr-count": 0,
+    "pdf-image-ocr-failed-count": 0,
+    "pdf-image-ocr-success-count": 4,
+    "pdf-image-ocr-empty-count": 4,
+    "pdf-image-ocr-hadText-count": 0,
+    "pdf-image-ocr-pixels": 28966400,
+    "pdf-multimodal-time": 0,
+    "pdf-multimodal-pdf2Image": 0,
+    "pdf-model": null,
+    "pdf-high-res-ocr": 4
+  },
+  "markdown": null,
+  "markdown_full": "**SULEMAN EHSIN ICT Engineer | LC / ELV Systems | ISP | OSP | Security Systems | Design & Supervision\n\nPhone** : +966-502257052 **Email** : Suleman.ehsin@gmail.com **Address** : Riyadh, Saudi Arabia **SEC** : 1097934 **LinkedIn** : www.linkedin.com/in/suleman-ehsin-23258795\n\n## SUMMARY\n\nICT Engineer with 11+ years of experience in FTTx, ELV, ITS, and smart infrastructure projects. Involved in design, supervision, coordination, and site execution across infrastructure and building systems. Experienced in supporting end-to-end project delivery from design stage through installation, testing, commissioning, and handover. Worked closely with consultants, contractors, and vendors to ensure compliance with authority standards and alignment between design and site execution. Focused on delivering practical engineering solutions with consistent quality and timely completion.\n\n## KEY SKILLS\n\n- FTTx, ELV & ITS Systems\n- Smart Infrastructure & ICT Networks\n- Design & Engineering Support\n- Site Supervision & Commissioning\n- Utility Coordination & Interface Management\n- BOQ, Estimation & Technical Submittals\n- Design Review & Technical Documentation\n- Multidisciplinary Coordination\n- Testing, Commissioning & Handover\n- Operations & Maintenance Support\n- Standards Compliance (BICSI, TIA, NEC, HCIS, MOI)\n\n## EXPERIENCE\n\n## Dar Al Riyadh: Telecom Design Engineer 11/2024 – Present: Riyadh, KSA\n\n- Led the planning and design of FTTx networks in compliance with Communications, Space & Technology Commission, BICSI, Ministry of Interior, Ministry of Municipal and Rural Affairs and Housing, STC standards, and Saudi Highway Code requirements.\n- Designed open-access duct networks to support multiple service providers, reducing civil costs and improving infrastructure efficiency.\n- Optimized duct configurations (main, mini, micro) for high-capacity fiber networks (24–144 cores+), ensuring future readiness.\n- Developed redundant network topologies (ring, star, hybrid) to enhance resilience and service continuity.\n- Managed OSP/infrastructure coordination, including tie-ins with buildings and ISPs, ROW/corridor planning, and utility interface alignment.\n- Performed clash detection and resolution using Autodesk Civil 3D, BIM, and Autodesk Navisworks to ensure constructability and coordination.\n- Directed and reviewed subconsultant deliverables, providing technical comments, validating design submissions, and ensuring compliance with project standards and timelines.\n- Coordinated with vendors, contractors, and service providers, maintaining technical alignment and smooth execution.\n- Designed and supported fiber installation methodologies, including cable blowing and pulling, ensuring efficient deployment and minimal signal loss.\n- Designed and integrated LC & ELV systems, including CCTV, Access Control, Fire Alarm, PA, Structured Cabling, Wi-Fi, IoT (LoRa WAN), Variable Message Signs (VMS), and security systems.\n- Delivered advanced security solutions, including VMS (Video Management Systems), intrusion detection, and external physical security systems (barriers, gates, access control).\n- Integrated smart systems such as weather stations, irrigation controllers, and IoT-based monitoring solutions.\n- Contributed to value engineering, optimizing cost while maintaining performance and compliance.\n- Prepared and reviewed BOQs and material take-offs to improve cost control and procurement accuracy.\n\n---\n\n- Coordinated with multidisciplinary teams to ensure seamless system integration.\n- Produced technical documentation (drawings, SLDs, specifications, submittals) aligned with project requirements.\n- Liaised with clients and consultants to resolve technical issues and maintain progress.\n- Applied future-proof design practices to support scalability and long-term expansion.\n\n## National Engineering Services, Pakistan: Senior Engineer (Scada & Telecom) 06/2022 – 10/2024: Lahore, Pakistan\n\n- Led the complete project lifecycle for IT, Telecom (OFC), ELV, ICT, and Security systems— managing tender-stage design, site supervision, testing, and commissioning with a focus on quality and performance.\n- Performed capacity planning and fiber core allocation for new and existing networks to optimize resource utilization.\n- Conducted detailed assessments and redesigns of existing OFC routes to integrate new service demands, civil constraints, or infrastructure developments.\n- Led the rerouting of legacy fiber networks to support new installations, ensuring compliance with technical standards and right-of-way regulations.\n- Collaborated with field teams and civil engineers to optimize rerouting plans, minimizing trenching costs and avoiding utility conflicts.\n- Oversaw system installations on-site, enforcing adherence to technical requirements, best practices, and quality benchmarks.\n- Conducted comprehensive design reviews submitted by sub-consultants and contractors, ensuring full alignment with project specifications, codes, and international standards.\n- Evaluated and approved contractor proposals, material submittals, and method statements, optimizing project workflows and ensuring technical compliance.\n- Collaborated seamlessly with EPC contractors, OEMs, and product vendors, gathering critical inputs for system selection, integration, and implementation.\n- Managed technical data, project schedules, and specification packages ensuring seamless integration of ICT and ELV systems within the overall infrastructure.\n- Maintained strong communication with stakeholders, project teams, and contractors to prioritize deliverables and drive timely, coordinated execution.\n- Prepared and presented detailed progress reports to senior management, ensuring strategic alignment and transparency across project phases.\n- Developed high-quality technical documentation, including pre-qualification packages, bidding documents, evaluation matrices, BOQs, specifications, and cost estimates.\n- Produced technical drawings and schematics, such as conceptual layouts, data flow diagrams, and system architecture workflows, to support design validation and implementation.\n- Contributed to a national ITS strategy for motorway and highway networks, improving safety, traffic efficiency, and operational control.\n- Designed and integrated Traffic Control Centers, electronic tolling, traffic management systems, and speed enforcement camera networks.\n- Delivered Weigh-in-Motion (WIM), RFID vehicle identification, Automatic Vehicle Classification (AVC), VMS, emergency roadside phones, and panic alarm systems.\n- Supported smart city infrastructure, including smart bins, smart benches, environmental sensors, and smart weather stations.\n\n## Innovative Pvt Ltd: Senior Engineer Field Operations 02/2019 – 01/2022: Islamabad, Pakistan\n\n- Directed installation, configuration, and maintenance of electromechanical and automation systems, including ATMs, sorting systems, binding machines, and integrated electronic equipment.\n- Led testing, commissioning, and integration of Fire Alarm, Intrusion Detection, Access Control systems, and network infrastructure components including firewalls, switches, and routers.\n- Managed end-to-end system integration, ensuring seamless interoperability between hardware, software, and network-based systems.\n- Performed preventive and corrective maintenance on network and electronic systems, ensuring high availability, reliability, and minimum downtime.\n- Coordinated with logistics and inventory teams to control spare parts, optimize stock levels, and ensure timely replacement of critical components.\n- Worked closely with vendors and service providers to resolve technical issues, implement system updates, and ensure compatibility across platforms.\n- Conducted system performance checks and troubleshooting, maintaining operational efficiency\n\n---\n\nacross deployed infrastructure.\n\n- Provided technical support and training to operational teams, improving system handling and reducing response time for issues.\n\n## Frontier Works Organization: Technical Support Engineer 02/2014 – 01/2019: Rawalpindi, Pakistan\n\n- Managed seamless operation and integration of complex ELV, ICT, and security systems, including Access Control, CCTV/IP Cameras, LAN/WAN networks, NVRs, Optical Fiber, Firewalls, Switches, Routers, PoE devices, Video Conferencing, Public Address systems, Automatic Barriers, UVSS, APS, and VMS platforms.\n- Demonstrated expertise in deployment and maintenance of Intelligent Transportation Systems (ITS) and Electronic Toll Collection (ETTM) hardware and software systems.\n- Configured and administered multi-platform IT environments, including Windows (XP–10), Windows Server (2008/2012), Linux systems, and virtualized infrastructures.\n- Managed network configuration and IP addressing across heterogeneous environments, including remote installation, updates, and system maintenance.\n- Ensured high system availability and operational reliability through proactive monitoring, troubleshooting, and performance optimization.\n- Coordinated with clients and senior management to align operational activities with project milestones and business objectives.\n- Prepared structured maintenance reports and schedules, improving visibility, planning efficiency, and resource management.\n- Supported continuous improvement of technical operations and system performance, ensuring long-term stability and efficiency.\n\n## TRAINING / COURSES\n\n<u>CCNA MCSE DATA ANALYSIS PYTHON LINUX</u>\n\n## SOFTWARES TOOLS\n\n<u>MS OFFICE AUTOCAD ENVI SNAP ARCMAP CIVIL 3D REVIT EKAHAU EASE FOCUS</u>\n\n## EDUCATION\n\n## Postgraduate Diploma in BIM (In Progress)\n\nBrains Institute, Peshawar, Pakistan\n\n## Master of Science in Computer System Engineering (2021-2023)\n\nUniversity of Engineering and Technology Peshawar, Pakistan\n\n## Bachelor of Science in Electrical (Communication) (2009 – 2014)\n\nUniversity of Engineering and Technology Peshawar, Pakistan\n\n---\n\nNO_CONTENT_HERE",
+  "metadata": {
+    "pages": [
+      {
+        "page_number": 1,
+        "confidence": 1.0,
+        "cost_optimized": false,
+        "original_orientation_angle": 0,
+        "printed_page_number": null,
+        "slide_section_name": null,
+        "speaker_notes": null,
+        "triggered_auto_mode": false
+      },
+      {
+        "page_number": 2,
+        "confidence": 1.0,
+        "cost_optimized": false,
+        "original_orientation_angle": 0,
+        "printed_page_number": null,
+        "slide_section_name": null,
+        "speaker_notes": null,
+        "triggered_auto_mode": false
+      },
+      {
+        "page_number": 3,
+        "confidence": 1.0,
+        "cost_optimized": false,
+        "original_orientation_angle": 0,
+        "printed_page_number": null,
+        "slide_section_name": null,
+        "speaker_notes": null,
+        "triggered_auto_mode": false
+      },
+      {
+        "page_number": 4,
+        "confidence": 1.0,
+        "cost_optimized": false,
+        "original_orientation_angle": 0,
+        "printed_page_number": null,
+        "slide_section_name": null,
+        "speaker_notes": null,
+        "triggered_auto_mode": false
+      }
+    ]
+  },
+  "raw_parameters": null,
+  "result_content_metadata": null,
+  "text": null,
+  "text_full": " SULEMAN EHSIN\n ICT Engineer | LC / ELV Systems | ISP | OSP | Security Systems | Design & Supervision\n\nPhone: +966-502257052 Email: Suleman.ehsin@gmail.com  Address: Riyadh, Saudi Arabia   SEC: 1097934\nLinkedIn: www.linkedin.com/in/suleman-ehsin-23258795\nSUMMARY\nICT Engineer with 11+ years of experience in FTTx, ELV, ITS, and smart infrastructure projects.\nInvolved in design, supervision, coordination, and site execution across infrastructure and building\nsystems. Experienced in supporting end-to-end project delivery from design stage            through\ninstallation, testing, commissioning, and handover. Worked closely with consultants, contractors,\nand vendors to ensure compliance with authority standards and alignment between design and site\nexecution. Focused on delivering practical engineering solutions with consistent quality and timely\ncompletion.\n KEY SKILLS\n •     FTTx, ELV & ITS Systems\n •     Smart Infrastructure & ICT Networks\n •     Design & Engineering Support\n •     Site Supervision & Commissioning\n •     Utility Coordination & Interface Management\n •     BOQ, Estimation & Technical Submittals\n •     Design Review & Technical Documentation\n •     Multidisciplinary Coordination\n •     Testing, Commissioning & Handover\n •     Operations & Maintenance Support\n •     Standards Compliance (BICSI, TIA, NEC, HCIS, MOI)\nEXPERIENCE\n Dar Al Riyadh: Telecom Design Engineer\n 11/2024 – Present: Riyadh, KSA\n •     Led the planning and design of FTTx networks in compliance with Communications, Space &\n       Technology Commission, BICSI, Ministry of Interior, Ministry of Municipal and Rural Affairs\n       and Housing, STC standards, and Saudi Highway Code requirements.\n •     Designed open-access duct networks to support multiple service providers, reducing civil costs\n       and improving infrastructure efficiency.\n •     Optimized duct configurations (main, mini, micro) for high-capacity fiber networks (24–144\n       cores+), ensuring future readiness.\n •     Developed redundant network topologies (ring, star, hybrid) to enhance resilience and service\n       continuity.\n •     Managed OSP/infrastructure     coordination,   including  tie-ins  with  buildings and ISPs,\n       ROW/corridor planning, and utility interface alignment.\n •     Performed clash detection and resolution using Autodesk Civil 3D, BIM, and Autodesk\n       Navisworks to ensure constructability and coordination.\n •     Directed and reviewed subconsultant deliverables, providing technical comments, validating\n       design submissions, and ensuring compliance with project standards and timelines.\n •     Coordinated with vendors, contractors, and service providers, maintaining technical alignment\n       and smooth execution.\n •     Designed and supported fiber installation methodologies, including cable blowing and pulling,\n       ensuring efficient deployment and minimal signal loss.\n •     Designed and integrated LC & ELV systems, including CCTV, Access Control, Fire Alarm, PA,\n       Structured Cabling, Wi-Fi, IoT (LoRa WAN), Variable Message Signs (VMS), and security\n       systems.\n •     Delivered advanced security solutions, including VMS (Video Management Systems), intrusion\n       detection, and external physical security systems (barriers, gates, access control).\n •     Integrated smart systems such as weather stations, irrigation controllers, and IoT-based\n       monitoring solutions.\n •     Contributed to value engineering, optimizing cost while maintaining performance and\n       compliance.\n •     Prepared and reviewed BOQs and material take-offs to improve cost control and procurement\n       accuracy.\n\n---\n\n •     Coordinated with multidisciplinary teams to ensure seamless system integration.\n •     Produced technical documentation (drawings, SLDs, specifications, submittals) aligned with\n       project requirements.\n •     Liaised with clients and consultants to resolve technical issues and maintain progress.\n •     Applied future-proof design practices to support scalability and long-term expansion.\nNational Engineering Services, Pakistan: Senior Engineer (Scada & Telecom)\n06/2022 – 10/2024: Lahore, Pakistan\n •     Led the complete project lifecycle for IT, Telecom (OFC), ELV, ICT, and Security systems—\n       managing tender-stage design, site supervision, testing, and commissioning with a focus on\n       quality and performance.\n •     Performed capacity planning and fiber core allocation for new and existing networks to optimize\n       resource utilization.\n •     Conducted detailed assessments and redesigns of existing OFC routes to integrate new service\n       demands, civil constraints, or infrastructure developments.\n •     Led the rerouting of legacy fiber networks to support new installations, ensuring compliance\n       with technical standards and right-of-way regulations.\n •     Collaborated with field teams and civil engineers to optimize rerouting plans, minimizing\n       trenching costs and avoiding utility conflicts.\n •     Oversaw system installations on-site, enforcing adherence to technical requirements, best\n       practices, and quality benchmarks.\n •     Conducted comprehensive design reviews submitted by sub-consultants and contractors,\n       ensuring full alignment with project specifications, codes, and international standards.\n •     Evaluated and approved contractor proposals, material submittals, and method statements,\n       optimizing project workflows and ensuring technical compliance.\n •     Collaborated seamlessly with EPC contractors, OEMs, and product vendors, gathering critical\n       inputs for system selection, integration, and implementation.\n •     Managed technical data, project schedules, and specification packages ensuring seamless\n       integration of ICT and ELV systems within the overall infrastructure.\n •     Maintained strong communication with stakeholders, project teams, and contractors to\n       prioritize deliverables and drive timely, coordinated execution.\n •     Prepared and presented detailed progress reports to senior management, ensuring strategic\n       alignment and transparency across project phases.\n •     Developed high-quality technical documentation, including pre-qualification packages, bidding\n       documents, evaluation matrices, BOQs, specifications, and cost estimates.\n •     Produced technical drawings and schematics, such as conceptual layouts, data flow diagrams,\n       and system architecture workflows, to support design validation and implementation.\n •     Contributed to a national ITS strategy for motorway and highway networks, improving safety,\n       traffic efficiency, and operational control.\n •     Designed and integrated Traffic Control Centers, electronic tolling, traffic management\n       systems, and speed enforcement camera networks.\n •     Delivered Weigh-in-Motion (WIM), RFID vehicle identification, Automatic Vehicle Classification\n       (AVC), VMS, emergency roadside phones, and panic alarm systems.\n •     Supported smart city infrastructure, including smart bins, smart benches, environmental\n       sensors, and smart weather stations.\nInnovative Pvt Ltd: Senior Engineer Field Operations\n02/2019 – 01/2022: Islamabad, Pakistan\n •     Directed installation, configuration, and maintenance of electromechanical and automation\n       systems, including ATMs, sorting systems, binding machines, and integrated electronic\n       equipment.\n •     Led testing, commissioning, and integration of Fire Alarm, Intrusion Detection, Access Control\n       systems, and network infrastructure components including firewalls, switches, and routers.\n •     Managed end-to-end system integration, ensuring seamless interoperability between hardware,\n       software, and network-based systems.\n •     Performed preventive and corrective maintenance on network and electronic systems, ensuring\n       high availability, reliability, and minimum downtime.\n •     Coordinated with logistics and inventory teams to control spare parts, optimize stock levels,\n       and ensure timely replacement of critical components.\n •     Worked closely with vendors and service providers to resolve technical issues, implement\n       system updates, and ensure compatibility across platforms.\n •     Conducted system performance checks and troubleshooting, maintaining operational efficiency\n\n---\n\n         across deployed infrastructure.\n   •     Provided technical support and training to operational teams, improving system handling and\n         reducing response time for issues.\n Frontier Works Organization: Technical Support Engineer\n 02/2014 – 01/2019: Rawalpindi, Pakistan\n   •     Managed seamless operation and integration of complex ELV, ICT, and security systems,\n         including Access Control, CCTV/IP Cameras, LAN/WAN networks, NVRs, Optical Fiber,\n         Firewalls, Switches, Routers, PoE devices, Video Conferencing, Public Address systems,\n         Automatic Barriers, UVSS, APS, and VMS platforms.\n   •     Demonstrated expertise in deployment and maintenance of Intelligent Transportation Systems\n         (ITS) and Electronic Toll Collection (ETTM) hardware and software systems.\n   •     Configured and administered multi-platform IT environments, including Windows (XP–10),\n         Windows Server (2008/2012), Linux systems, and virtualized infrastructures.\n   •     Managed network configuration and IP addressing across heterogeneous environments,\n         including remote installation, updates, and system maintenance.\n   •     Ensured high system availability and operational reliability through proactive monitoring,\n         troubleshooting, and performance optimization.\n   •     Coordinated with clients and senior management to align operational activities with project\n         milestones and business objectives.\n   •     Prepared structured maintenance reports and schedules, improving visibility, planning\n         efficiency, and resource management.\n   •     Supported continuous improvement of technical operations and system performance, ensuring\n         long-term stability and efficiency.\nTRAINING / COURSES\n CCNA    MCSE  DATA ANALYSIS          PYTHON  LINUX\nSOFTWARES TOOLS\n MS OFFICE AUTOCAD          ENVI      SNAP ARCMAP CIVIL 3D REVIT EKAHAU  EASE FOCUS\nEDUCATION\n Postgraduate Diploma in BIM (In Progress)\n  Brains Institute, Peshawar, Pakistan\n  Master of Science in Computer System Engineering (2021-2023)\n  University of Engineering and Technology Peshawar, Pakistan\n  Bachelor of Science in Electrical (Communication) (2009 – 2014)\n  University of Engineering and Technology Peshawar, Pakistan\n\n---\n\nNO_CONTENT_HERE",
+  "debug": null
+}

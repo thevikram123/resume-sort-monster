@@ -1,0 +1,115 @@
+ CSM
+ ERTIFIED
+
+S. Sandeep
+Scrum Master – Ernst & Young LLP
+E-Mail: sabunkarsandeep@gmail.com                                            Mobile# 91 9000174009
+
+PROFESSIONAL SUMMARY:
+
+Detail oriented, self-motivated professional with over 13+ years of accomplished IT Industry experience with a strong record of Project
+Management, Stakeholder management, Training, Customer Support, Banking Operations, and Quality/Audit & Compliance. Experienced
+in Leading, Directing, and Successfully Closing Projects within defined budget and deadlines through Scrum adoption.
+
+FUNCTIONAL SKILLS:
+Project Management        Facilitation & Coaching      Stakeholder Management
+Conflict Resolution       Backlog Management           Test Case Design & Execution
+Agile Principles          Sprint Ceremonies            Manual Testing
+
+PROFESSIONAL SUMMARY: -
+ x         5+ years of experience playing as Scrum Master for software development teams diligently applying Scrum principles, practices,
+           and theory
+ x         Experience on managing products using Agile/Scrum Framework
+ x         Experienced in actively conducting Sprint planning, Daily Scrum, Reviews, Retrospective, Scrum of Scrums meetings by
+           maintaining collaboration with all levels
+ x         Skilled in leading the team, tracking and execution of all phases
+ x         Execution of releasing high quality products on time within budget
+ x         Solid collaborative communication and team building skills with acumen in training and supporting end-users and technical
+           staff to achieve performance activities
+
+TRAININGS AND CERTIFICATIONS: -
+ x         Agile Delivery Foundation
+ x         Certified Scrum Master (CSM)
+ x         Scrum Fundamentals Certified
+
+SKILL SET:-
+Tools                   Jira, Confluence and Jira Align
+Operating Systems       Windows XP, Unix
+Domains                 Financial, CRM, SAP, Learning and Development, Banking, Customer Support.
+
+Ernst & Young LLP
+Designation: Scrum Master (Aug 2022 – Apr 2025)
+Roles and Responsibilities
+ x         Facilitated all Scrum ceremonies including Sprint Planning, Daily Standups, Sprint Reviews, and Retrospectives for cross-
+           functional Agile teams of 7–10 members
+ x         Coached development teams and stakeholders on Agile principles and Scrum framework, improving team maturity and
+           collaboration
+ x         Provided timely status reports to the stakeholders, including sprint scope, issues, risks, mitigation plan and upcoming activities
+ x         Led Agile transformation initiatives, helping teams transition from Waterfall to Scrum delivery models
+ x         Promoted self-organizing teams by empowering team members to take ownership of sprint goals and deliverables.
+ x         Improved team velocity by 20–30% through backlog refinement, improved sprint planning, and better story estimation.
+ x         Trained the cross-functional team to use JIRA for keeping a track of the tasks and generate work progress graphs.
+
+
+INFOSYS HYD
+Designation: Scrum Master (Sep 2020- Aug 2022)
+
+x     Facilitated various scrum ceremonies like sprint planning meetings, daily scrum, sprint review, product backlog refinement
+      meetings and sprint retrospective meetings.
+
+---
+
+ x     Participated in Backlog Refinement meeting along with the product owner in prioritizing at higher level to ensure that the
+       product backlog meets the DEEP criteria and moving the user stories to sprint backlog which ensured the Definition of Ready
+       (Acceptance criteria).
+ x     Getting ready for each sprint and release planning meeting by working with the team to break down feature stories into small
+       deliverable User Stories that are appropriately sized for each sprint.
+
+INFOSYS HYD
+Designation: Manual Tester (May 2017 – Sep 2020)
+Roles and Responsibilities:
+
+ x     Created detailed test cases based on business requirements and functional specifications.
+ x     Performed functional, regression, smoke, and UI testing on web and mobile applications.
+ x     Identified, documented, and tracked bugs using JIRA, and collaborated with developers to resolve them.
+ x     Participated in daily stand-up meetings as part of the Agile team.
+ x     Maintained traceability matrices and ensured comprehensive test coverage.
+
+INFOSYS HYD
+Designation: Software Intern (Dec 2016 – May 2017)
+
+ x     Assisted in manual testing of a CRM application.
+ x     Reported bugs and inconsistencies in test environments.
+ x     Supported senior testers in creating reusable test cases and documentation
+
+UDS Hyderabad
+
+Designation: Technical specialist (Sep 2012 – Oct 2016)
+
+       x     Managed and resolved technical issues related to internet protocols, ensuring minimal downtime and optimal
+             performance.
+       x     Provided expert support for cable and phone services, assisting customers with installations, configurations, and
+             troubleshooting.
+       x     Collaborated with cross-functional teams to implement new technologies and improve existing systems.
+       x     Documented technical procedures and created user guides to enhance knowledge sharing and customer education.
+
+WORK EXPERIENCE: -
+Company Name                                                  Designation        Duration
+                Ernst & young LLP
+                                             Scrum Master                     Aug 2022- April 2025
+                 Infosys Limited             Scrum Master                      Sep 2020- Aug 2022
+                   Infosys BPM                                Manual Tester    May 2017- Sep 2020
+
+                   Infosys BPM             Software Intern                     Dec 2016- May 2017
+
+             Updater Services Limited    Technical Specialist                 Sep 2012 – Oct 2016
+
+
+EDUCATION DETAILS: -
+x  Bachelor of Technology (Electronics and communications Engineering) from JNTU Hyderabad, India, 2011.
+
+
+DECLARATION: -
+
+I hereby declare that the above-mentioned information is correct up to my knowledge and I bear the responsibility for the correctness of
+the above-mentioned particulars.

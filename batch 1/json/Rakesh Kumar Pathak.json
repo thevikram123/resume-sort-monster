@@ -1,0 +1,1335 @@
+{
+  "job": {
+    "id": "pjb-i8yk8b4t7x4yb6ulf20xyfby4slh",
+    "project_id": "949fd88b-381a-4ae5-b3b9-bf7fcc9b74b8",
+    "status": "COMPLETED",
+    "created_at": "2026-05-12T14:42:05.763888Z",
+    "error_message": null,
+    "name": "Rakesh Pathak _ Resume_Sr. Project Manager _10+ Year Exp.pdf",
+    "tier": "agentic",
+    "updated_at": "2026-05-12T14:42:22.680551Z"
+  },
+  "images_content_metadata": null,
+  "items": {
+    "pages": [
+      {
+        "items": [
+          {
+            "level": 1,
+            "md": "# Rakesh Kumar Pathak",
+            "value": "Rakesh Kumar Pathak",
+            "bbox": [
+              {
+                "h": 23.335303820130882,
+                "w": 219.96777290039068,
+                "x": 187.46573129882816,
+                "y": 25.276998967538226,
+                "confidence": 0.83,
+                "end_index": 20,
+                "label": "doc_title",
+                "start_index": 0
+              }
+            ],
+            "type": "heading"
+          },
+          {
+            "md": "+91 8884330001 | ",
+            "value": "+91 8884330001 | ",
+            "bbox": [
+              {
+                "h": 12.0,
+                "w": 82.826,
+                "x": 134.18,
+                "y": 63.209,
+                "confidence": 0.54,
+                "end_index": 16,
+                "label": "paragraph_title",
+                "start_index": 0
+              }
+            ],
+            "type": "text"
+          },
+          {
+            "md": "<rakesh.pathak8886@gmail.com>",
+            "text": "rakesh.pathak8886@gmail.com",
+            "url": "mailto:rakesh.pathak8886@gmail.com",
+            "bbox": [
+              {
+                "h": 23.85407497647913,
+                "w": 433.8301268554688,
+                "x": 133.69311269531252,
+                "y": 61.7281816370522,
+                "confidence": 0.54,
+                "end_index": 28,
+                "label": "paragraph_title",
+                "start_index": 0
+              }
+            ],
+            "type": "link"
+          },
+          {
+            "md": " \\| linkedin.com/in/rakesh-pathak-15179a2a1/\nBengaluru, Karnataka – India",
+            "value": " | linkedin.com/in/rakesh-pathak-15179a2a1/\nBengaluru, Karnataka – India",
+            "bbox": [
+              {
+                "h": 23.608999999999995,
+                "w": 340.21000000000004,
+                "x": 226.49,
+                "y": 64.2,
+                "confidence": 0.73,
+                "end_index": 72,
+                "label": "paragraph_title",
+                "start_index": 0
+              }
+            ],
+            "type": "text"
+          },
+          {
+            "level": 2,
+            "md": "## Profile Summery",
+            "value": "Profile Summery",
+            "bbox": [
+              {
+                "h": 14.27340431592987,
+                "w": 103.56481503295899,
+                "x": 28.247601397705083,
+                "y": 89.45448437291587,
+                "confidence": 0.84,
+                "end_index": 17,
+                "label": "paragraph_title",
+                "start_index": 0
+              }
+            ],
+            "type": "heading"
+          },
+          {
+            "md": "Senior Project Manager with 10+ years of experience delivering Integrated Security, ELV/ICT, and Command & Control Center solutions for enterprise and critical infrastructure clients. Proven expertise in ELV solution architecture consistently delivering ELV projects on time and within budget.",
+            "value": "Senior Project Manager with 10+ years of experience delivering Integrated Security, ELV/ICT, and Command & Control Center solutions for enterprise and critical infrastructure clients. Proven expertise in ELV solution architecture consistently delivering ELV projects on time and within budget.",
+            "bbox": [
+              {
+                "h": 31.651272064953307,
+                "w": 538.8183831115723,
+                "x": 28.444021087646487,
+                "y": 109.08228930961795,
+                "confidence": 0.92,
+                "end_index": 292,
+                "label": "text",
+                "start_index": 0
+              }
+            ],
+            "type": "text"
+          },
+          {
+            "level": 2,
+            "md": "## Skills",
+            "value": "Skills",
+            "bbox": [
+              {
+                "h": 16.714909664991417,
+                "w": 33.22809034423828,
+                "x": 28.361657043457036,
+                "y": 143.2748213075219,
+                "confidence": 0.75,
+                "end_index": 8,
+                "label": "paragraph_title",
+                "start_index": 0
+              }
+            ],
+            "type": "heading"
+          },
+          {
+            "md": "**Tools:** Auto CAD | ACC | Revit | MS Project | Zoho Projects & CRM | Click Up\n**Domain Expertise:** Command & Control Centers | Physical Security | VMS | Video Analytics | Cyber Security\n**Project Management:** Risk Management | Budgeting & Cost Estimation | BOQ & Procurement | Vendor Management | Cost Control | Stakeholder Management | Governance & Compliance.",
+            "value": "Tools: Auto CAD | ACC | Revit | MS Project | Zoho Projects & CRM | Click Up\nDomain Expertise: Command & Control Centers | Physical Security | VMS | Video Analytics | Cyber Security\nProject Management: Risk Management | Budgeting & Cost Estimation | BOQ & Procurement | Vendor Management | Cost Control | Stakeholder Management | Governance & Compliance.",
+            "bbox": [
+              {
+                "h": 50.18962983934356,
+                "w": 538.9557045227051,
+                "x": 28.144058660888675,
+                "y": 164.0010610964891,
+                "confidence": 0.91,
+                "end_index": 364,
+                "label": "text",
+                "start_index": 0
+              },
+              {
+                "h": 39.44,
+                "w": 327.5,
+                "x": 28.56,
+                "y": 165.92,
+                "confidence": 0.91,
+                "end_index": 78,
+                "label": "text",
+                "start_index": 0
+              },
+              {
+                "h": 11.0,
+                "w": 83.34,
+                "x": 28.56,
+                "y": 180.2,
+                "confidence": 1.0,
+                "end_index": 100,
+                "label": "paragraph_title",
+                "start_index": 80
+              },
+              {
+                "h": 50.36,
+                "w": 461.9,
+                "x": 28.56,
+                "y": 165.92,
+                "confidence": 0.91,
+                "end_index": 187,
+                "label": "text",
+                "start_index": 80
+              },
+              {
+                "h": 11.0,
+                "w": 96.73,
+                "x": 28.56,
+                "y": 194.36,
+                "confidence": 1.0,
+                "end_index": 211,
+                "label": "paragraph_title",
+                "start_index": 189
+              },
+              {
+                "h": 50.36,
+                "w": 541.0,
+                "x": 28.56,
+                "y": 165.92,
+                "confidence": 0.91,
+                "end_index": 364,
+                "label": "text",
+                "start_index": 189
+              }
+            ],
+            "type": "text"
+          },
+          {
+            "level": 2,
+            "md": "## Work Experience",
+            "value": "Work Experience",
+            "bbox": [
+              {
+                "h": 13.69262656011814,
+                "w": 106.53385548706056,
+                "x": 28.099397076416018,
+                "y": 218.1812252751048,
+                "confidence": 0.84,
+                "end_index": 17,
+                "label": "paragraph_title",
+                "start_index": 0
+              }
+            ],
+            "type": "heading"
+          },
+          {
+            "md": "**IIRIS Consulting, Bangalore** **January 2025 - Present**\n**Sr. Manager – Security Design**",
+            "value": "IIRIS Consulting, Bangalore January 2025 - Present\nSr. Manager – Security Design",
+            "bbox": [
+              {
+                "h": 208.79,
+                "w": 542.0,
+                "x": 28.32,
+                "y": 239.241,
+                "confidence": 0.54,
+                "end_index": 91,
+                "label": "text",
+                "start_index": 0
+              }
+            ],
+            "type": "text"
+          },
+          {
+            "items": [
+              {
+                "md": "Led end‑to‑end project and program management for large, multidisciplinary security engagements, achieving 95–100% on‑time delivery while maintaining budgets within ±5% variance.",
+                "value": "Led end‑to‑end project and program management for large, multidisciplinary security engagements, achieving 95–100% on‑time delivery while maintaining budgets within ±5% variance.",
+                "bbox": [
+                  {
+                    "h": 219.59,
+                    "w": 522.36,
+                    "x": 47.64,
+                    "y": 239.241,
+                    "confidence": 0.56,
+                    "end_index": 177,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Managed cross‑functional consulting and delivery teams for Access Control, CCTV, Video Analytics, Physical Security, and Integrated Security Systems, improving delivery efficiency by 20–25% through standardized execution frameworks.",
+                "value": "Managed cross‑functional consulting and delivery teams for Access Control, CCTV, Video Analytics, Physical Security, and Integrated Security Systems, improving delivery efficiency by 20–25% through standardized execution frameworks.",
+                "bbox": [
+                  {
+                    "h": 21.920000000000016,
+                    "w": 522.53,
+                    "x": 46.539,
+                    "y": 294.471,
+                    "confidence": 0.57,
+                    "end_index": 231,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Conducted enterprise‑level Security Risk Assessments and threat analyses, enabling clients to reduce identified high‑risk vulnerabilities by 30–40% through targeted mitigation strategies.",
+                "value": "Conducted enterprise‑level Security Risk Assessments and threat analyses, enabling clients to reduce identified high‑risk vulnerabilities by 30–40% through targeted mitigation strategies.",
+                "bbox": [
+                  {
+                    "h": 205.07000000000002,
+                    "w": 522.464,
+                    "x": 47.136,
+                    "y": 253.761,
+                    "confidence": 0.56,
+                    "end_index": 186,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Translated complex business and operational requirements into scalable security architectures, reducing design rework and change requests by 25%.",
+                "value": "Translated complex business and operational requirements into scalable security architectures, reducing design rework and change requests by 25%.",
+                "bbox": [
+                  {
+                    "h": 221.060344632479,
+                    "w": 540.0665345947266,
+                    "x": 27.71403083496094,
+                    "y": 236.7461575302496,
+                    "confidence": 0.55,
+                    "end_index": 144,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Coordinated with vendors, integrators, and clients across the full project lifecycle, accelerating procurement and deployment timelines by 15–20%.",
+                "value": "Coordinated with vendors, integrators, and clients across the full project lifecycle, accelerating procurement and deployment timelines by 15–20%.",
+                "bbox": [
+                  {
+                    "h": 188.48000000000002,
+                    "w": 523.2579999999999,
+                    "x": 46.302,
+                    "y": 270.351,
+                    "confidence": 0.55,
+                    "end_index": 145,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Working as a key liaison between technical teams and senior leadership, improving stakeholder alignment and reducing escalation cycles by 30%.",
+                "value": "Working as a key liaison between technical teams and senior leadership, improving stakeholder alignment and reducing escalation cycles by 30%.",
+                "bbox": [
+                  {
+                    "h": 188.48000000000002,
+                    "w": 522.16,
+                    "x": 47.4,
+                    "y": 270.351,
+                    "confidence": 0.55,
+                    "end_index": 141,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Standardized processes, governance models, documentation, and reporting, delivering 20–30% improvement in operational consistency and scalability across engagements.",
+                "value": "Standardized processes, governance models, documentation, and reporting, delivering 20–30% improvement in operational consistency and scalability across engagements.",
+                "bbox": [
+                  {
+                    "h": 21.91999999999996,
+                    "w": 523.798,
+                    "x": 46.416,
+                    "y": 413.271,
+                    "confidence": 0.56,
+                    "end_index": 164,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Supported business development and solution positioning, contributing to 10–15% revenue uplift in repeat engagements through improved delivery quality and client satisfaction.",
+                "value": "Supported business development and solution positioning, contributing to 10–15% revenue uplift in repeat engagements through improved delivery quality and client satisfaction.",
+                "bbox": [
+                  {
+                    "h": 188.48000000000002,
+                    "w": 522.106,
+                    "x": 47.496,
+                    "y": 270.351,
+                    "confidence": 0.56,
+                    "end_index": 174,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              }
+            ],
+            "md": "* Led end‑to‑end project and program management for large, multidisciplinary security engagements, achieving 95–100% on‑time delivery while maintaining budgets within ±5% variance.\n* Managed cross‑functional consulting and delivery teams for Access Control, CCTV, Video Analytics, Physical Security, and Integrated Security Systems, improving delivery efficiency by 20–25% through standardized execution frameworks.\n* Conducted enterprise‑level Security Risk Assessments and threat analyses, enabling clients to reduce identified high‑risk vulnerabilities by 30–40% through targeted mitigation strategies.\n* Translated complex business and operational requirements into scalable security architectures, reducing design rework and change requests by 25%.\n* Coordinated with vendors, integrators, and clients across the full project lifecycle, accelerating procurement and deployment timelines by 15–20%.\n* Working as a key liaison between technical teams and senior leadership, improving stakeholder alignment and reducing escalation cycles by 30%.\n* Standardized processes, governance models, documentation, and reporting, delivering 20–30% improvement in operational consistency and scalability across engagements.\n* Supported business development and solution positioning, contributing to 10–15% revenue uplift in repeat engagements through improved delivery quality and client satisfaction.",
+            "ordered": false,
+            "bbox": [
+              {
+                "h": 222.08,
+                "w": 542.5,
+                "x": 27.71,
+                "y": 236.75,
+                "confidence": 0.56,
+                "end_index": 1392,
+                "label": "list",
+                "start_index": 0
+              }
+            ],
+            "type": "list"
+          },
+          {
+            "md": "**Krupa Communications, Bangalore** **August 2018 - January 2025**\n**Project Manager**",
+            "value": "Krupa Communications, Bangalore August 2018 - January 2025\nProject Manager",
+            "bbox": [
+              {
+                "h": 188.8269284822789,
+                "w": 540.8098958496093,
+                "x": 27.17904008789063,
+                "y": 473.12844523628047,
+                "confidence": 0.52,
+                "end_index": 85,
+                "label": "text",
+                "start_index": 0
+              }
+            ],
+            "type": "text"
+          },
+          {
+            "items": [
+              {
+                "md": "Directed end-to-end delivery of 20+ ELV/IBMS turnkey projects (Access Control, CCTV, Fire Alarm), achieving a 95%+ on-time completion rate and 100% functional sign-off.",
+                "value": "Directed end-to-end delivery of 20+ ELV/IBMS turnkey projects (Access Control, CCTV, Fire Alarm), achieving a 95%+ on-time completion rate and 100% functional sign-off.",
+                "bbox": [
+                  {
+                    "h": 21.920000000000016,
+                    "w": 517.3580000000001,
+                    "x": 46.68,
+                    "y": 506.291,
+                    "confidence": 0.54,
+                    "end_index": 167,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Optimized BOQ tracking and material procurement, delivering 10–12% budget savings, while reducing billing closure time by 30% through streamlined PO and invoicing workflows.",
+                "value": "Optimized BOQ tracking and material procurement, delivering 10–12% budget savings, while reducing billing closure time by 30% through streamlined PO and invoicing workflows.",
+                "bbox": [
+                  {
+                    "h": 145.78999999999996,
+                    "w": 523.879,
+                    "x": 46.188,
+                    "y": 517.211,
+                    "confidence": 0.54,
+                    "end_index": 172,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Reduced schedule overruns by 15–20% and site idle time by 18% by strengthening resource planning, material logistics, and site clearances.",
+                "value": "Reduced schedule overruns by 15–20% and site idle time by 18% by strengthening resource planning, material logistics, and site clearances.",
+                "bbox": [
+                  {
+                    "h": 21.91999999999996,
+                    "w": 523.4399999999999,
+                    "x": 46.08,
+                    "y": 551.291,
+                    "confidence": 0.53,
+                    "end_index": 137,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Collaborated with architects and MEP consultants to evaluate Design Change Requests (DCRs), limiting rework to under 3% and maintaining zero major audit non-conformities.",
+                "value": "Collaborated with architects and MEP consultants to evaluate Design Change Requests (DCRs), limiting rework to under 3% and maintaining zero major audit non-conformities.",
+                "bbox": [
+                  {
+                    "h": 145.76000000000005,
+                    "w": 523.332,
+                    "x": 46.188,
+                    "y": 506.291,
+                    "confidence": 0.54,
+                    "end_index": 169,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Supervised cross-functional site teams of 15–30 engineers and technicians, driving a 20% productivity increase and a 15% improvement in quality scores through targeted technical training.",
+                "value": "Supervised cross-functional site teams of 15–30 engineers and technicians, driving a 20% productivity increase and a 15% improvement in quality scores through targeted technical training.",
+                "bbox": [
+                  {
+                    "h": 21.91999999999996,
+                    "w": 522.3829999999999,
+                    "x": 46.653,
+                    "y": 596.171,
+                    "confidence": 0.55,
+                    "end_index": 186,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Managed end-to-end project documentation, including shop/as-built drawings, MIS dashboards, DPRs, and complete HOTO (Handover/Takeover) documentation for seamless client closeouts.",
+                "value": "Managed end-to-end project documentation, including shop/as-built drawings, MIS dashboards, DPRs, and complete HOTO (Handover/Takeover) documentation for seamless client closeouts.",
+                "bbox": [
+                  {
+                    "h": 173.14999999999998,
+                    "w": 541.459,
+                    "x": 28.32,
+                    "y": 489.851,
+                    "confidence": 0.54,
+                    "end_index": 179,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Proactively resolved on-site technical snags and defects, reducing unplanned downtime by 20% and boosting client retention by 25%+ through reliable, communicative project management",
+                "value": "Proactively resolved on-site technical snags and defects, reducing unplanned downtime by 20% and boosting client retention by 25%+ through reliable, communicative project management",
+                "bbox": [
+                  {
+                    "h": 188.8269284822789,
+                    "w": 540.8098958496093,
+                    "x": 27.17904008789063,
+                    "y": 473.12844523628047,
+                    "confidence": 0.55,
+                    "end_index": 180,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              }
+            ],
+            "md": "* Directed end-to-end delivery of 20+ ELV/IBMS turnkey projects (Access Control, CCTV, Fire Alarm), achieving a 95%+ on-time completion rate and 100% functional sign-off.\n* Optimized BOQ tracking and material procurement, delivering 10–12% budget savings, while reducing billing closure time by 30% through streamlined PO and invoicing workflows.\n* Reduced schedule overruns by 15–20% and site idle time by 18% by strengthening resource planning, material logistics, and site clearances.\n* Collaborated with architects and MEP consultants to evaluate Design Change Requests (DCRs), limiting rework to under 3% and maintaining zero major audit non-conformities.\n* Supervised cross-functional site teams of 15–30 engineers and technicians, driving a 20% productivity increase and a 15% improvement in quality scores through targeted technical training.\n* Managed end-to-end project documentation, including shop/as-built drawings, MIS dashboards, DPRs, and complete HOTO (Handover/Takeover) documentation for seamless client closeouts.\n* Proactively resolved on-site technical snags and defects, reducing unplanned downtime by 20% and boosting client retention by 25%+ through reliable, communicative project management",
+            "ordered": false,
+            "bbox": [
+              {
+                "h": 189.87,
+                "w": 542.89,
+                "x": 27.18,
+                "y": 473.13,
+                "confidence": 0.54,
+                "end_index": 1216,
+                "label": "list",
+                "start_index": 0
+              }
+            ],
+            "type": "list"
+          },
+          {
+            "md": "**Anjaneya Innovation Pvt Ltd, Bangalore** **August 2017 - July 2018**\n**Network Engineer**",
+            "value": "Anjaneya Innovation Pvt Ltd, Bangalore August 2017 - July 2018\nNetwork Engineer",
+            "bbox": [
+              {
+                "h": 11.0,
+                "w": 182.45,
+                "x": 28.32,
+                "y": 675.16,
+                "confidence": 1.0,
+                "end_index": 41,
+                "label": "paragraph_title",
+                "start_index": 0
+              },
+              {
+                "h": 11.0,
+                "w": 538.64,
+                "x": 28.32,
+                "y": 675.16,
+                "confidence": 0.68,
+                "end_index": 69,
+                "label": "paragraph_title",
+                "start_index": 0
+              },
+              {
+                "h": 11.0,
+                "w": 81.053,
+                "x": 28.32,
+                "y": 686.081,
+                "confidence": 0.68,
+                "end_index": 90,
+                "label": "paragraph_title",
+                "start_index": 71
+              }
+            ],
+            "type": "text"
+          },
+          {
+            "items": [
+              {
+                "md": "Engineered and deployed core network infrastructure, including the installation and configuration of Fortinet and Sophos Firewalls, Routers, Access Points, and Endpoint Security solutions.",
+                "value": "Engineered and deployed core network infrastructure, including the installation and configuration of Fortinet and Sophos Firewalls, Routers, Access Points, and Endpoint Security solutions.",
+                "bbox": [
+                  {
+                    "h": 105.79599999999994,
+                    "w": 541.228,
+                    "x": 28.32,
+                    "y": 686.081,
+                    "confidence": 0.58,
+                    "end_index": 187,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Implemented advanced security policies and VPN tunnels using FortiGate and Sophos XG/XGS series to ensure robust perimeter defense and secure remote access.",
+                "value": "Implemented advanced security policies and VPN tunnels using FortiGate and Sophos XG/XGS series to ensure robust perimeter defense and secure remote access.",
+                "bbox": [
+                  {
+                    "h": 129.55600000000004,
+                    "w": 522.028,
+                    "x": 47.52,
+                    "y": 675.161,
+                    "confidence": 0.47,
+                    "end_index": 155,
+                    "label": "paragraph_title",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Executed routine system maintenance and hardware lifecycle management for Fortinet and Sophos ecosystems to maintain high availability and optimal performance.",
+                "value": "Executed routine system maintenance and hardware lifecycle management for Fortinet and Sophos ecosystems to maintain high availability and optimal performance.",
+                "bbox": [
+                  {
+                    "h": 105.79599999999994,
+                    "w": 523.4369999999999,
+                    "x": 46.32,
+                    "y": 698.921,
+                    "confidence": 0.47,
+                    "end_index": 158,
+                    "label": "paragraph_title",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Utilized vendor-specific diagnostic tools Forti Analyzer and Sophos Central to troubleshoot and resolve complex hardware, software, and connectivity issues.",
+                "value": "Utilized vendor-specific diagnostic tools Forti Analyzer and Sophos Central to troubleshoot and resolve complex hardware, software, and connectivity issues.",
+                "bbox": [
+                  {
+                    "h": 105.79599999999994,
+                    "w": 522.957,
+                    "x": 46.8,
+                    "y": 698.921,
+                    "confidence": 0.47,
+                    "end_index": 155,
+                    "label": "paragraph_title",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Collaborated with Project Managers to deliver large-scale installations.",
+                "value": "Collaborated with Project Managers to deliver large-scale installations.",
+                "bbox": [
+                  {
+                    "h": 11.0,
+                    "w": 293.49,
+                    "x": 46.32,
+                    "y": 793.717,
+                    "confidence": 0.44,
+                    "end_index": 71,
+                    "label": "paragraph_title",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              }
+            ],
+            "md": "* Engineered and deployed core network infrastructure, including the installation and configuration of Fortinet and Sophos Firewalls, Routers, Access Points, and Endpoint Security solutions.\n* Implemented advanced security policies and VPN tunnels using FortiGate and Sophos XG/XGS series to ensure robust perimeter defense and secure remote access.\n* Executed routine system maintenance and hardware lifecycle management for Fortinet and Sophos ecosystems to maintain high availability and optimal performance.\n* Utilized vendor-specific diagnostic tools Forti Analyzer and Sophos Central to troubleshoot and resolve complex hardware, software, and connectivity issues.\n* Collaborated with Project Managers to deliver large-scale installations.",
+            "ordered": false,
+            "bbox": [
+              {
+                "h": 129.56,
+                "w": 541.44,
+                "x": 28.32,
+                "y": 675.16,
+                "confidence": 0.49,
+                "end_index": 744,
+                "label": "list",
+                "start_index": 0
+              }
+            ],
+            "type": "list"
+          }
+        ],
+        "page_height": 842.04,
+        "page_number": 1,
+        "page_width": 595.32,
+        "success": true
+      },
+      {
+        "items": [
+          {
+            "md": "**Thattva Innovations Pvt Ltd, Bangalore**  June 2015 - July 2017\n*Field Engineer*",
+            "value": "Thattva Innovations Pvt Ltd, Bangalore  June 2015 - July 2017\nField Engineer",
+            "bbox": [
+              {
+                "h": 10.999999999999996,
+                "w": 179.179,
+                "x": 40.32,
+                "y": 28.621,
+                "confidence": 0.83,
+                "end_index": 39,
+                "label": "paragraph_title",
+                "start_index": 0
+              },
+              {
+                "h": 9.826976611476988,
+                "w": 97.7067319335937,
+                "x": 469.38817470703134,
+                "y": 29.412967480171012,
+                "confidence": 0.76,
+                "end_index": 64,
+                "label": "header",
+                "start_index": 40
+              },
+              {
+                "h": 9.965536831590605,
+                "w": 66.2213872192383,
+                "x": 48.22720426025391,
+                "y": 40.025436228980084,
+                "confidence": 0.69,
+                "end_index": 81,
+                "label": "paragraph_title",
+                "start_index": 66
+              }
+            ],
+            "type": "text"
+          },
+          {
+            "items": [
+              {
+                "md": "Performed RF testing and validation of Docomo 3G and GSM wireless dongles.",
+                "value": "Performed RF testing and validation of Docomo 3G and GSM wireless dongles.",
+                "bbox": [
+                  {
+                    "h": 9.77402507830364,
+                    "w": 340.18665527343757,
+                    "x": 39.622123535156256,
+                    "y": 53.02345976324313,
+                    "confidence": 0.9,
+                    "end_index": 73,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Achieved 95% Turnaround Time (TAT) within SLA, ensuring timely issue resolution.",
+                "value": "Achieved 95% Turnaround Time (TAT) within SLA, ensuring timely issue resolution.",
+                "bbox": [
+                  {
+                    "h": 9.970970811499622,
+                    "w": 357.237902307129,
+                    "x": 39.7725035522461,
+                    "y": 65.6253856478063,
+                    "confidence": 0.88,
+                    "end_index": 79,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Delivered high-quality testing outcomes, resulting in 98% positive client feedback",
+                "value": "Delivered high-quality testing outcomes, resulting in 98% positive client feedback",
+                "bbox": [
+                  {
+                    "h": 9.965373874869002,
+                    "w": 346.08770947265634,
+                    "x": 39.87693251953126,
+                    "y": 78.74316983731896,
+                    "confidence": 0.87,
+                    "end_index": 81,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Documented test results, issue reports, and corrective actions",
+                "value": "Documented test results, issue reports, and corrective actions",
+                "bbox": [
+                  {
+                    "h": 9.809411757157495,
+                    "w": 266.2091074951172,
+                    "x": 39.703364282226566,
+                    "y": 91.59938968595178,
+                    "confidence": 0.88,
+                    "end_index": 61,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              }
+            ],
+            "md": "* Performed RF testing and validation of Docomo 3G and GSM wireless dongles.\n* Achieved 95% Turnaround Time (TAT) within SLA, ensuring timely issue resolution.\n* Delivered high-quality testing outcomes, resulting in 98% positive client feedback\n* Documented test results, issue reports, and corrective actions",
+            "ordered": false,
+            "bbox": [
+              {
+                "h": 48.39,
+                "w": 357.39,
+                "x": 39.62,
+                "y": 53.02,
+                "confidence": 0.88,
+                "end_index": 308,
+                "label": "list",
+                "start_index": 0
+              }
+            ],
+            "type": "list"
+          },
+          {
+            "level": 2,
+            "md": "## Project Work",
+            "value": "Project Work",
+            "bbox": [
+              {
+                "h": 12.865646268221225,
+                "w": 80.30508931274414,
+                "x": 29.243126239013677,
+                "y": 114.07109652546208,
+                "confidence": 0.92,
+                "end_index": 14,
+                "label": "paragraph_title",
+                "start_index": 0
+              }
+            ],
+            "type": "heading"
+          },
+          {
+            "items": [
+              {
+                "md": "**IPR Nigeria – Integrated Campus Security (2026):** Led the complete design and implementation of an integrated surveillance ecosystem for a 5,000‑acre industrial campus. Directed architecture of a centralized Command & Control Center with AI‑enabled CCTV, thermal imaging, and intelligent analytics. Delivered a scalable security model improving situational awareness and incident response.",
+                "value": "IPR Nigeria – Integrated Campus Security (2026): Led the complete design and implementation of an integrated surveillance ecosystem for a 5,000‑acre industrial campus. Directed architecture of a centralized Command & Control Center with AI‑enabled CCTV, thermal imaging, and intelligent analytics. Delivered a scalable security model improving situational awareness and incident response.",
+                "bbox": [
+                  {
+                    "h": 42.273280049542684,
+                    "w": 527.911143713379,
+                    "x": 39.5175527709961,
+                    "y": 133.6856706298828,
+                    "confidence": 0.96,
+                    "end_index": 391,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "**Bharat Petroleum (BPCL) – National‑Level Risk Assessment (2026):** Managed multi‑phase threat and vulnerability assessments across 20+ critical energy installations (refineries, LPG plants, storage sites). Developed mitigation plans aligned with MHA and Homeland Security guidelines. Strengthened security posture, compliance, and resilience for vital national assets.",
+                "value": "Bharat Petroleum (BPCL) – National‑Level Risk Assessment (2026): Managed multi‑phase threat and vulnerability assessments across 20+ critical energy installations (refineries, LPG plants, storage sites). Developed mitigation plans aligned with MHA and Homeland Security guidelines. Strengthened security posture, compliance, and resilience for vital national assets.",
+                "bbox": [
+                  {
+                    "h": 41.99264350466843,
+                    "w": 527.8143850708009,
+                    "x": 39.718354870605474,
+                    "y": 179.81271418873857,
+                    "confidence": 0.96,
+                    "end_index": 369,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "**Zepto HQ – Enterprise Security Operations Center (SOC) Deployment (2025–2026):** Oversaw end‑to‑end design and delivery of Zepto’s centralized SOC and Command Center. Produced DPR, RFP, BOQ, and led vendor onboarding. Implemented ISO‑aligned SOPs and trained operators. Integrated 1,500+ stores with AI detection and SOS systems, reducing response times and improving operational control. Achieved first go‑live within 90 days from concept design to delivery.",
+                "value": "Zepto HQ – Enterprise Security Operations Center (SOC) Deployment (2025–2026): Oversaw end‑to‑end design and delivery of Zepto’s centralized SOC and Command Center. Produced DPR, RFP, BOQ, and led vendor onboarding. Implemented ISO‑aligned SOPs and trained operators. Integrated 1,500+ stores with AI detection and SOS systems, reducing response times and improving operational control. Achieved first go‑live within 90 days from concept design to delivery.",
+                "bbox": [
+                  {
+                    "h": 53.993854505287736,
+                    "w": 527.808252355957,
+                    "x": 39.73590223388672,
+                    "y": 225.69042142840127,
+                    "confidence": 0.97,
+                    "end_index": 460,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "**Exide Energy – Greenfield Security Master Planning (2024–2025):** Directed security architecture for a 160‑acre greenfield giga‑factory including risk and mitigation, AI‑based surveillance, access control, and anti‑drone detection compliant with Drone Rules 2021. Optimized design to deliver 30% cost savings against client budget while ensuring future‑ready security infrastructure.",
+                "value": "Exide Energy – Greenfield Security Master Planning (2024–2025): Directed security architecture for a 160‑acre greenfield giga‑factory including risk and mitigation, AI‑based surveillance, access control, and anti‑drone detection compliant with Drone Rules 2021. Optimized design to deliver 30% cost savings against client budget while ensuring future‑ready security infrastructure.",
+                "bbox": [
+                  {
+                    "h": 42.59137157012198,
+                    "w": 528.0171723266603,
+                    "x": 39.68079642333984,
+                    "y": 283.0365463998189,
+                    "confidence": 0.96,
+                    "end_index": 384,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "**Lafarge Africa Plc – Fleet Management Command Center (2025):** Led the design and deployment of a centralized fleet command center for 3,500+ trucks. Integrated GPS tracking, geo‑fencing, driver behavior analysis, speed monitoring, and route optimization dashboards. Enhanced fleet safety, operational visibility, and logistics efficiency.",
+                "value": "Lafarge Africa Plc – Fleet Management Command Center (2025): Led the design and deployment of a centralized fleet command center for 3,500+ trucks. Integrated GPS tracking, geo‑fencing, driver behavior analysis, speed monitoring, and route optimization dashboards. Enhanced fleet safety, operational visibility, and logistics efficiency.",
+                "bbox": [
+                  {
+                    "h": 32.44774184451218,
+                    "w": 527.402788623047,
+                    "x": 39.96908276367188,
+                    "y": 329.27047703291726,
+                    "confidence": 0.95,
+                    "end_index": 340,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "**SATS Food Solutions – ELV Systems Execution (2023–2024):** Managed full ELV systems implementation (Fire Alarm, IBMS, PAVA) for one of Asia’s largest frozen food storage facilities. Coordinated with PMC (Vestian Global) to ensure on‑time, budget‑compliant.",
+                "value": "SATS Food Solutions – ELV Systems Execution (2023–2024): Managed full ELV systems implementation (Fire Alarm, IBMS, PAVA) for one of Asia’s largest frozen food storage facilities. Coordinated with PMC (Vestian Global) to ensure on‑time, budget‑compliant.",
+                "bbox": [
+                  {
+                    "h": 31.962983203124995,
+                    "w": 527.587731628418,
+                    "x": 39.38338634033204,
+                    "y": 364.8735624130621,
+                    "confidence": 0.95,
+                    "end_index": 257,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              }
+            ],
+            "md": "* **IPR Nigeria – Integrated Campus Security (2026):** Led the complete design and implementation of an integrated surveillance ecosystem for a 5,000‑acre industrial campus. Directed architecture of a centralized Command & Control Center with AI‑enabled CCTV, thermal imaging, and intelligent analytics. Delivered a scalable security model improving situational awareness and incident response.\n* **Bharat Petroleum (BPCL) – National‑Level Risk Assessment (2026):** Managed multi‑phase threat and vulnerability assessments across 20+ critical energy installations (refineries, LPG plants, storage sites). Developed mitigation plans aligned with MHA and Homeland Security guidelines. Strengthened security posture, compliance, and resilience for vital national assets.\n* **Zepto HQ – Enterprise Security Operations Center (SOC) Deployment (2025–2026):** Oversaw end‑to‑end design and delivery of Zepto’s centralized SOC and Command Center. Produced DPR, RFP, BOQ, and led vendor onboarding. Implemented ISO‑aligned SOPs and trained operators. Integrated 1,500+ stores with AI detection and SOS systems, reducing response times and improving operational control. Achieved first go‑live within 90 days from concept design to delivery.\n* **Exide Energy – Greenfield Security Master Planning (2024–2025):** Directed security architecture for a 160‑acre greenfield giga‑factory including risk and mitigation, AI‑based surveillance, access control, and anti‑drone detection compliant with Drone Rules 2021. Optimized design to deliver 30% cost savings against client budget while ensuring future‑ready security infrastructure.\n* **Lafarge Africa Plc – Fleet Management Command Center (2025):** Led the design and deployment of a centralized fleet command center for 3,500+ trucks. Integrated GPS tracking, geo‑fencing, driver behavior analysis, speed monitoring, and route optimization dashboards. Enhanced fleet safety, operational visibility, and logistics efficiency.\n* **SATS Food Solutions – ELV Systems Execution (2023–2024):** Managed full ELV systems implementation (Fire Alarm, IBMS, PAVA) for one of Asia’s largest frozen food storage facilities. Coordinated with PMC (Vestian Global) to ensure on‑time, budget‑compliant.",
+            "ordered": false,
+            "bbox": [
+              {
+                "h": 263.15,
+                "w": 528.31,
+                "x": 39.38,
+                "y": 133.69,
+                "confidence": 0.96,
+                "end_index": 2223,
+                "label": "list",
+                "start_index": 0
+              }
+            ],
+            "type": "list"
+          },
+          {
+            "level": 2,
+            "md": "## Achievements",
+            "value": "Achievements",
+            "bbox": [
+              {
+                "h": 12.775606411966471,
+                "w": 88.03328486938477,
+                "x": 27.679948626708985,
+                "y": 415.5366316692073,
+                "confidence": 0.92,
+                "end_index": 14,
+                "label": "paragraph_title",
+                "start_index": 0
+              }
+            ],
+            "type": "heading"
+          },
+          {
+            "items": [
+              {
+                "md": "Achieved promotion to Senior Manager in 6 months after delivering key projects on schedule and reducing project costs by 20%.",
+                "value": "Achieved promotion to Senior Manager in 6 months after delivering key projects on schedule and reducing project costs by 20%.",
+                "bbox": [
+                  {
+                    "h": 20.30215118854804,
+                    "w": 527.3938022460937,
+                    "x": 39.45827724609376,
+                    "y": 433.41368599704646,
+                    "confidence": 0.91,
+                    "end_index": 124,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Delivered a Command & Control Center go live in 90 days (fastest in the organization), integrating 1,500+ sites, Impact: 40% faster incident detection, 25–35% reduction in response times",
+                "value": "Delivered a Command & Control Center go live in 90 days (fastest in the organization), integrating 1,500+ sites, Impact: 40% faster incident detection, 25–35% reduction in response times",
+                "bbox": [
+                  {
+                    "h": 21.04403046636811,
+                    "w": 527.7316953369141,
+                    "x": 39.45233063964844,
+                    "y": 457.1393824147294,
+                    "confidence": 0.91,
+                    "end_index": 185,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Successfully implemented a CRM platform for project delivery, Impact: 100% portfolio visibility, 20–25% improvement in project tracking accuracy, 15–20% reduction in management reporting effort.",
+                "value": "Successfully implemented a CRM platform for project delivery, Impact: 100% portfolio visibility, 20–25% improvement in project tracking accuracy, 15–20% reduction in management reporting effort.",
+                "bbox": [
+                  {
+                    "h": 20.86046598704269,
+                    "w": 527.6401743164063,
+                    "x": 39.443353125,
+                    "y": 481.5313461914062,
+                    "confidence": 0.89,
+                    "end_index": 193,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Delivered management dashboards and KPI frameworks, enabling data driven leadership decisions, improved forecasting accuracy, and stronger accountability across delivery teams.",
+                "value": "Delivered management dashboards and KPI frameworks, enabling data driven leadership decisions, improved forecasting accuracy, and stronger accountability across delivery teams.",
+                "bbox": [
+                  {
+                    "h": 21.07486689214942,
+                    "w": 526.987350366211,
+                    "x": 39.54263752441407,
+                    "y": 505.7672224990472,
+                    "confidence": 0.91,
+                    "end_index": 175,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              }
+            ],
+            "md": "* Achieved promotion to Senior Manager in 6 months after delivering key projects on schedule and reducing project costs by 20%.\n* Delivered a Command & Control Center go live in 90 days (fastest in the organization), integrating 1,500+ sites, Impact: 40% faster incident detection, 25–35% reduction in response times\n* Successfully implemented a CRM platform for project delivery, Impact: 100% portfolio visibility, 20–25% improvement in project tracking accuracy, 15–20% reduction in management reporting effort.\n* Delivered management dashboards and KPI frameworks, enabling data driven leadership decisions, improved forecasting accuracy, and stronger accountability across delivery teams.",
+            "ordered": false,
+            "bbox": [
+              {
+                "h": 93.43,
+                "w": 527.74,
+                "x": 39.44,
+                "y": 433.41,
+                "confidence": 0.91,
+                "end_index": 691,
+                "label": "list",
+                "start_index": 0
+              }
+            ],
+            "type": "list"
+          },
+          {
+            "level": 2,
+            "md": "## Awards and Certificates",
+            "value": "Awards and Certificates",
+            "bbox": [
+              {
+                "h": 12.631703091654032,
+                "w": 148.071231628418,
+                "x": 27.55548863525391,
+                "y": 541.1478844893292,
+                "confidence": 0.94,
+                "end_index": 25,
+                "label": "paragraph_title",
+                "start_index": 0
+              }
+            ],
+            "type": "heading"
+          },
+          {
+            "items": [
+              {
+                "md": "Value catalyst of the year award (IIRIS) - 2025",
+                "value": "Value catalyst of the year award (IIRIS) - 2025",
+                "bbox": [
+                  {
+                    "h": 10.247671324790355,
+                    "w": 201.569207409668,
+                    "x": 39.628517687988285,
+                    "y": 558.8626840629763,
+                    "confidence": 0.92,
+                    "end_index": 46,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "**Google Cloud Certification:** Certified Google Cloud platform (GCP).",
+                "value": "Google Cloud Certification: Certified Google Cloud platform (GCP).",
+                "bbox": [
+                  {
+                    "h": 10.4266730159108,
+                    "w": 297.295001550293,
+                    "x": 39.99013516845704,
+                    "y": 573.5707566310975,
+                    "confidence": 0.9,
+                    "end_index": 69,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Ravel Certified commissioning Engineer.",
+                "value": "Ravel Certified commissioning Engineer.",
+                "bbox": [
+                  {
+                    "h": 10.30327717225603,
+                    "w": 176.9658809692383,
+                    "x": 39.9922178100586,
+                    "y": 586.7624792992568,
+                    "confidence": 0.89,
+                    "end_index": 38,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Pursuing the Project Management Professional (PMP)®",
+                "value": "Pursuing the Project Management Professional (PMP)®",
+                "bbox": [
+                  {
+                    "h": 10.357428944359743,
+                    "w": 251.85842625732428,
+                    "x": 39.75707427978516,
+                    "y": 599.9361513767149,
+                    "confidence": 0.89,
+                    "end_index": 50,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              }
+            ],
+            "md": "* Value catalyst of the year award (IIRIS) - 2025\n* **Google Cloud Certification:** Certified Google Cloud platform (GCP).\n* Ravel Certified commissioning Engineer.\n* Pursuing the Project Management Professional (PMP)®",
+            "ordered": false,
+            "bbox": [
+              {
+                "h": 51.43,
+                "w": 297.66,
+                "x": 39.63,
+                "y": 558.86,
+                "confidence": 0.9,
+                "end_index": 217,
+                "label": "list",
+                "start_index": 0
+              }
+            ],
+            "type": "list"
+          },
+          {
+            "level": 2,
+            "md": "## Education",
+            "value": "Education",
+            "bbox": [
+              {
+                "h": 12.36811432688644,
+                "w": 61.46339529418945,
+                "x": 28.651629437255863,
+                "y": 626.5967735613566,
+                "confidence": 0.89,
+                "end_index": 11,
+                "label": "paragraph_title",
+                "start_index": 0
+              }
+            ],
+            "type": "heading"
+          },
+          {
+            "md": "**Punjab Technical University – Jalandhar Punjab**  July 2011 - May 2015\nB.Tech. in Electronics and Communication Engineering",
+            "value": "Punjab Technical University – Jalandhar Punjab  July 2011 - May 2015\nB.Tech. in Electronics and Communication Engineering",
+            "bbox": [
+              {
+                "h": 72.47000000000003,
+                "w": 538.6560000000001,
+                "x": 28.68,
+                "y": 645.491,
+                "confidence": 0.67,
+                "end_index": 124,
+                "label": "table",
+                "start_index": 0
+              }
+            ],
+            "type": "text"
+          },
+          {
+            "md": "**A.N. College, (BSEB) - Patna**  June 2009 - April 2011\n10+2 Intermediate - Science",
+            "value": "A.N. College, (BSEB) - Patna  June 2009 - April 2011\n10+2 Intermediate - Science",
+            "bbox": [
+              {
+                "h": 9.312951569645547,
+                "w": 118.87106984252931,
+                "x": 29.138032598876958,
+                "y": 690.9847348084984,
+                "confidence": 0.45,
+                "end_index": 83,
+                "label": "text",
+                "start_index": 0
+              }
+            ],
+            "type": "text"
+          },
+          {
+            "md": "**Raj High School, (BSEB) - Patna**  April 2008 - May 2009\n10th Matriculation-SLC",
+            "value": "Raj High School, (BSEB) - Patna  April 2008 - May 2009\n10th Matriculation-SLC",
+            "bbox": [
+              {
+                "h": 8.896985735041952,
+                "w": 95.97338477783204,
+                "x": 29.355334094238284,
+                "y": 723.6618194359755,
+                "confidence": 0.67,
+                "end_index": 80,
+                "label": "text",
+                "start_index": 0
+              }
+            ],
+            "type": "text"
+          }
+        ],
+        "page_height": 842.04,
+        "page_number": 2,
+        "page_width": 595.32,
+        "success": true
+      }
+    ]
+  },
+  "job_metadata": {
+    "state_transitions": {
+      "pending_at": "2026-05-12T14:42:05.757931Z",
+      "throttled_at": "2026-05-12T14:42:05.994669Z",
+      "running_at": "2026-05-12T14:42:06.135809Z",
+      "completed_at": "2026-05-12T14:42:22.682138Z",
+      "failed_at": null,
+      "cancelled_at": null
+    },
+    "pdf-pages": 2,
+    "pdf-real-pages": 2,
+    "pdf-rawTextLength": 8950,
+    "pdf-mdLength": 8392,
+    "pdf-time": 12022,
+    "pdf-ocrTime": 0,
+    "pdf-image-convertTime": 0,
+    "pdf-pdfToHTMLTime": 0,
+    "pdf-llmTime": 9849,
+    "pdf-inputTokens": 22558,
+    "pdf-outputTokens": 2237,
+    "pdf-image-ocr-count": 1,
+    "pdf-image-ocr-failed-count": 0,
+    "pdf-image-ocr-success-count": 3,
+    "pdf-image-ocr-empty-count": 3,
+    "pdf-image-ocr-hadText-count": 0,
+    "pdf-image-ocr-pixels": 15061050,
+    "pdf-multimodal-time": 0,
+    "pdf-multimodal-pdf2Image": 0,
+    "pdf-model": null,
+    "pdf-high-res-ocr": 2,
+    "model_invocations": [
+      {
+        "page_number": 1,
+        "model": "gemini-3.0-flash",
+        "task": "parse_page_with_agent",
+        "reason": "primary",
+        "attempt": 1,
+        "status": "success",
+        "input_tokens": 10948,
+        "output_tokens": 1090
+      },
+      {
+        "page_number": 2,
+        "model": "gemini-3.0-flash",
+        "task": "parse_page_with_agent",
+        "reason": "primary",
+        "attempt": 1,
+        "status": "success",
+        "input_tokens": 11610,
+        "output_tokens": 1147
+      }
+    ]
+  },
+  "markdown": null,
+  "markdown_full": "# Rakesh Kumar Pathak\n\n+91 8884330001 | rakesh.pathak8886@gmail.com | linkedin.com/in/rakesh-pathak-15179a2a1/\nBengaluru, Karnataka – India\n\n## Profile Summery\n\nSenior Project Manager with 10+ years of experience delivering Integrated Security, ELV/ICT, and Command & Control Center solutions for enterprise and critical infrastructure clients. Proven expertise in ELV solution architecture consistently delivering ELV projects on time and within budget.\n\n## Skills\n\n**Tools:** Auto CAD | ACC | Revit | MS Project | Zoho Projects & CRM | Click Up\n**Domain Expertise:** Command & Control Centers | Physical Security | VMS | Video Analytics | Cyber Security\n**Project Management:** Risk Management | Budgeting & Cost Estimation | BOQ & Procurement | Vendor Management | Cost Control | Stakeholder Management | Governance & Compliance.\n\n## Work Experience\n\n**IIRIS Consulting, Bangalore** **January 2025 - Present**\n**Sr. Manager – Security Design**\n* Led end‑to‑end project and program management for large, multidisciplinary security engagements, achieving 95–100% on‑time delivery while maintaining budgets within ±5% variance.\n* Managed cross‑functional consulting and delivery teams for Access Control, CCTV, Video Analytics, Physical Security, and Integrated Security Systems, improving delivery efficiency by 20–25% through standardized execution frameworks.\n* Conducted enterprise‑level Security Risk Assessments and threat analyses, enabling clients to reduce identified high‑risk vulnerabilities by 30–40% through targeted mitigation strategies.\n* Translated complex business and operational requirements into scalable security architectures, reducing design rework and change requests by 25%.\n* Coordinated with vendors, integrators, and clients across the full project lifecycle, accelerating procurement and deployment timelines by 15–20%.\n* Working as a key liaison between technical teams and senior leadership, improving stakeholder alignment and reducing escalation cycles by 30%.\n* Standardized processes, governance models, documentation, and reporting, delivering 20–30% improvement in operational consistency and scalability across engagements.\n* Supported business development and solution positioning, contributing to 10–15% revenue uplift in repeat engagements through improved delivery quality and client satisfaction.\n\n**Krupa Communications, Bangalore** **August 2018 - January 2025**\n**Project Manager**\n* Directed end-to-end delivery of 20+ ELV/IBMS turnkey projects (Access Control, CCTV, Fire Alarm), achieving a 95%+ on-time completion rate and 100% functional sign-off.\n* Optimized BOQ tracking and material procurement, delivering 10–12% budget savings, while reducing billing closure time by 30% through streamlined PO and invoicing workflows.\n* Reduced schedule overruns by 15–20% and site idle time by 18% by strengthening resource planning, material logistics, and site clearances.\n* Collaborated with architects and MEP consultants to evaluate Design Change Requests (DCRs), limiting rework to under 3% and maintaining zero major audit non-conformities.\n* Supervised cross-functional site teams of 15–30 engineers and technicians, driving a 20% productivity increase and a 15% improvement in quality scores through targeted technical training.\n* Managed end-to-end project documentation, including shop/as-built drawings, MIS dashboards, DPRs, and complete HOTO (Handover/Takeover) documentation for seamless client closeouts.\n* Proactively resolved on-site technical snags and defects, reducing unplanned downtime by 20% and boosting client retention by 25%+ through reliable, communicative project management\n\n**Anjaneya Innovation Pvt Ltd, Bangalore** **August 2017 - July 2018**\n**Network Engineer**\n* Engineered and deployed core network infrastructure, including the installation and configuration of Fortinet and Sophos Firewalls, Routers, Access Points, and Endpoint Security solutions.\n* Implemented advanced security policies and VPN tunnels using FortiGate and Sophos XG/XGS series to ensure robust perimeter defense and secure remote access.\n* Executed routine system maintenance and hardware lifecycle management for Fortinet and Sophos ecosystems to maintain high availability and optimal performance.\n* Utilized vendor-specific diagnostic tools Forti Analyzer and Sophos Central to troubleshoot and resolve complex hardware, software, and connectivity issues.\n* Collaborated with Project Managers to deliver large-scale installations.\n\n---\n\n**Thattva Innovations Pvt Ltd, Bangalore**  June 2015 - July 2017\n*Field Engineer*\n* Performed RF testing and validation of Docomo 3G and GSM wireless dongles.\n* Achieved 95% Turnaround Time (TAT) within SLA, ensuring timely issue resolution.\n* Delivered high-quality testing outcomes, resulting in 98% positive client feedback\n* Documented test results, issue reports, and corrective actions\n\n## Project Work\n* **IPR Nigeria – Integrated Campus Security (2026):** Led the complete design and implementation of an integrated surveillance ecosystem for a 5,000‑acre industrial campus. Directed architecture of a centralized Command & Control Center with AI‑enabled CCTV, thermal imaging, and intelligent analytics. Delivered a scalable security model improving situational awareness and incident response.\n* **Bharat Petroleum (BPCL) – National‑Level Risk Assessment (2026):** Managed multi‑phase threat and vulnerability assessments across 20+ critical energy installations (refineries, LPG plants, storage sites). Developed mitigation plans aligned with MHA and Homeland Security guidelines. Strengthened security posture, compliance, and resilience for vital national assets.\n* **Zepto HQ – Enterprise Security Operations Center (SOC) Deployment (2025–2026):** Oversaw end‑to‑end design and delivery of Zepto’s centralized SOC and Command Center. Produced DPR, RFP, BOQ, and led vendor onboarding. Implemented ISO‑aligned SOPs and trained operators. Integrated 1,500+ stores with AI detection and SOS systems, reducing response times and improving operational control. Achieved first go‑live within 90 days from concept design to delivery.\n* **Exide Energy – Greenfield Security Master Planning (2024–2025):** Directed security architecture for a 160‑acre greenfield giga‑factory including risk and mitigation, AI‑based surveillance, access control, and anti‑drone detection compliant with Drone Rules 2021. Optimized design to deliver 30% cost savings against client budget while ensuring future‑ready security infrastructure.\n* **Lafarge Africa Plc – Fleet Management Command Center (2025):** Led the design and deployment of a centralized fleet command center for 3,500+ trucks. Integrated GPS tracking, geo‑fencing, driver behavior analysis, speed monitoring, and route optimization dashboards. Enhanced fleet safety, operational visibility, and logistics efficiency.\n* **SATS Food Solutions – ELV Systems Execution (2023–2024):** Managed full ELV systems implementation (Fire Alarm, IBMS, PAVA) for one of Asia’s largest frozen food storage facilities. Coordinated with PMC (Vestian Global) to ensure on‑time, budget‑compliant.\n\n## Achievements\n* Achieved promotion to Senior Manager in 6 months after delivering key projects on schedule and reducing project costs by 20%.\n* Delivered a Command & Control Center go live in 90 days (fastest in the organization), integrating 1,500+ sites, Impact: 40% faster incident detection, 25–35% reduction in response times\n* Successfully implemented a CRM platform for project delivery, Impact: 100% portfolio visibility, 20–25% improvement in project tracking accuracy, 15–20% reduction in management reporting effort.\n* Delivered management dashboards and KPI frameworks, enabling data driven leadership decisions, improved forecasting accuracy, and stronger accountability across delivery teams.\n\n## Awards and Certificates\n* Value catalyst of the year award (IIRIS) - 2025\n* **Google Cloud Certification:** Certified Google Cloud platform (GCP).\n* Ravel Certified commissioning Engineer.\n* Pursuing the Project Management Professional (PMP)®\n\n## Education\n**Punjab Technical University – Jalandhar Punjab**  July 2011 - May 2015\nB.Tech. in Electronics and Communication Engineering\n\n**A.N. College, (BSEB) - Patna**  June 2009 - April 2011\n10+2 Intermediate - Science\n\n**Raj High School, (BSEB) - Patna**  April 2008 - May 2009\n10th Matriculation-SLC",
+  "metadata": {
+    "pages": [
+      {
+        "page_number": 1,
+        "confidence": 0.998,
+        "cost_optimized": false,
+        "original_orientation_angle": 0,
+        "printed_page_number": null,
+        "slide_section_name": null,
+        "speaker_notes": null,
+        "triggered_auto_mode": false
+      },
+      {
+        "page_number": 2,
+        "confidence": 0.996,
+        "cost_optimized": false,
+        "original_orientation_angle": 0,
+        "printed_page_number": null,
+        "slide_section_name": null,
+        "speaker_notes": null,
+        "triggered_auto_mode": false
+      }
+    ]
+  },
+  "raw_parameters": null,
+  "result_content_metadata": null,
+  "text": null,
+  "text_full": "                                    Rakesh Kumar Pathak\n                +91 8884330001             rakesh.pathak8886@gmail.com      linkedin.com/in/rakesh-pathak-15179a2a1/\n                                           Bengaluru, Karnataka – India\nProfile Summery\n Senior Project Manager with 10+ years of experience delivering Integrated Security, ELV/ICT, and Command & Control Center\n solutions for enterprise and critical infrastructure clients. Proven expertise in ELV solution architecture consistently delivering ELV\n projects on time and within budget.\n Skills\nTools: Auto CAD | ACC | Revit | MS Project | Zoho Projects & CRM | Click Up\nDomain Expertise: Command & Control Centers | Physical Security | VMS | Video Analytics | Cyber Security\nProject Management: Risk Management | Budgeting & Cost Estimation | BOQ & Procurement | Vendor Management | Cost\n Control | Stakeholder Management | Governance & Compliance.\nWork Experience\nIIRIS Consulting, Bangalore                                                 January 2025 - Present\n Sr. Manager – Security Design\n  • Led end‑to‑end project and program management for large, multidisciplinary security engagements, achieving 95–100%\n  on‑time delivery while maintaining budgets within ±5% variance.\n  • Managed cross‑functional consulting and delivery teams for Access Control, CCTV, Video Analytics, Physical Security, and\n  Integrated Security Systems, improving delivery efficiency by 20–25% through standardized execution frameworks.\n  • Conducted enterprise‑level Security Risk Assessments and threat analyses, enabling clients to reduce identified high‑risk\n  vulnerabilities by 30–40% through targeted mitigation strategies.\n  • Translated complex business and operational requirements into scalable security architectures, reducing design rework and\n  change requests by 25%.\n  • Coordinated with vendors, integrators, and clients across the full project lifecycle, accelerating procurement and deployment\n  timelines by 15–20%.\n  • Working as a key liaison between technical teams and senior leadership, improving stakeholder alignment and reducing\n  escalation cycles by 30%.\n  • Standardized processes, governance models, documentation, and reporting, delivering 20–30% improvement in operational\n  consistency and scalability across engagements.\n  • Supported business development and solution positioning, contributing to 10–15% revenue uplift in repeat engagements\n  through improved delivery quality and client satisfaction.\n\nKrupa Communications, Bangalore                                             August 2018 - January 2025\nProject Manager\n  • Directed end-to-end delivery of 20+ ELV/IBMS turnkey projects (Access Control, CCTV, Fire Alarm), achieving a 95%+ on-\n  time completion rate and 100% functional sign-off.\n  • Optimized BOQ tracking and material procurement, delivering 10–12% budget savings, while reducing billing closure time by\n  30% through streamlined PO and invoicing workflows.\n  • Reduced schedule overruns by 15–20% and site idle time by 18% by strengthening resource planning, material logistics, and\n  site clearances.\n  • Collaborated with architects and MEP consultants to evaluate Design Change Requests (DCRs), limiting rework to under 3%\n  and maintaining zero major audit non-conformities.\n  • Supervised cross-functional site teams of 15–30 engineers and technicians, driving a 20% productivity increase and a 15%\n  improvement in quality scores through targeted technical training.\n  • Managed end-to-end project documentation, including shop/as-built drawings, MIS dashboards, DPRs, and complete HOTO\n  (Handover/Takeover) documentation for seamless client closeouts.\n  • Proactively resolved on-site technical snags and defects, reducing unplanned downtime by 20% and boosting client retention\n  by 25%+ through reliable, communicative project management\n\nAnjaneya Innovation Pvt Ltd, Bangalore                                      August 2017 - July 2018\nNetwork Engineer\n  • Engineered and deployed core network infrastructure, including the installation and configuration of Fortinet and Sophos\n  Firewalls, Routers, Access Points, and Endpoint Security solutions.\n  • Implemented advanced security policies and VPN tunnels using FortiGate and Sophos XG/XGS series to ensure robust\n  perimeter defense and secure remote access.\n  • Executed routine system maintenance and hardware lifecycle management for Fortinet and Sophos ecosystems to maintain\n  high availability and optimal performance.\n  • Utilized vendor-specific diagnostic tools Forti Analyzer and Sophos Central to troubleshoot and resolve complex hardware,\n  software, and connectivity issues.\n  • Collaborated with Project Managers to deliver large-scale installations.\n\n---\n\n Thattva Innovations Pvt Ltd, Bangalore                                                                     June 2015 - July 2017\n     Field Engineer\n • Performed RF testing and validation of Docomo 3G and GSM wireless dongles.\n •  Achieved 95% Turnaround Time (TAT) within SLA, ensuring timely issue resolution.\n •  Delivered high-quality testing outcomes, resulting in 98% positive client feedback\n •  Documented test results, issue reports, and corrective actions\n\nProject Work\n • IPR Nigeria –     Integrated Campus Security (2026): Led the complete design and implementation of an integrated\n     surveillance ecosystem for a 5,000‑acre industrial campus. Directed architecture of a centralized Command & Control Center\n     with AI‑enabled CCTV, thermal imaging, and intelligent analytics. Delivered a scalable security model improving situational\n     awareness and incident response.\n • Bharat Petroleum (BPCL) – National‑Level Risk Assessment (2026): Managed multi‑phase threat and vulnerability\n     assessments across 20+ critical energy installations (refineries, LPG plants, storage sites). Developed mitigation plans\n     aligned with MHA and Homeland Security guidelines. Strengthened security posture, compliance, and resili ence for vital\n     national assets.\n • Zepto HQ – Enterprise Security Operations Center (SOC) Deployment (2025–2026): Oversaw end‑to‑end design and\n     delivery of Zepto’s centralized SOC and Command Center. Produced DPR, RFP, BOQ, and led vendor onboarding.\n     Implemented ISO‑aligned SOPs and trained operators. Integrated 1,500+ stores with AI detection and SOS systems,\n     reducing response times and improving operational control. Achieved first go‑live within 90 days from concept design to\n     delivery.\n • Exide Energy – Greenfield Security Master Planning (2024–2025): Directed security architecture for a 160‑acre greenfield\n     giga‑factory including risk and mitigation, AI‑based surveillance, access control, and anti‑drone detection compliant with\n     Drone Rules 2021. Optimized design to deliver 30% cost savings against client budget while ensuring future‑ready security\n     infrastructure.\n • Lafarge Africa PIc – Fleet Management Command Center (2025): Led the design and deployment of a centralized fleet\n     command center for 3,500+ trucks. Integrated GPS tracking, geo‑fencing, driver behavior analysis, speed monitoring, and\n     route optimization dashboards. Enhanced fleet safety, operational visibility, and logistics efficiency.\n • SATS Food Solutions – ELV Systems Execution (2023–2024): Managed full ELV systems implementation (Fire Alarm,\n     IBMS, PAVA) for one of Asia’s largest frozen food storage facilities. Coordinated with PMC (Vestian Global) to ensure on‑time,\n     budget‑compliant.\n\nAchievements\n • Achieved promotion to Senior Manager in 6 months after delivering key projects on schedule and reducing project costs by\n 20%.\n • Delivered a Command & Control Center go live in 90 days (fastest in the organization), integrating 1,500+ sites, Impact: 40%\n faster incident detection, 25–35% reduction in response times\n • Successfully implemented a CRM platform for project delivery, Impact: 100% portfolio visibility, 20–25% improvement in\n project tracking accuracy, 15–20% reduction in management reporting effort.\n •  Delivered management dashboards and KPI frameworks, enabling data driven leadership decisions, improved forecasting\n accuracy, and stronger accountability across delivery teams.\n\nAwards and Certificates\n •  Value catalyst of the year award (IIRIS) - 2025\n • Google Cloud Certification: Certified Google Cloud platform (GCP).\n •  Ravel Certified commissioning Engineer.\n • Pursuing the Project Management Professional (PMP)®\n\nEducation\nPunjab Technical University – Jalandhar Punjab                                          July 2011 - May 2015\nB.Tech. in Electronics and Communication Engineering\nA.N. College, (BSEB) - Patna                                                          June 2009 - April 2011\n10+2 Intermediate - Science\nRaj High School, (BSEB) - Patna                                                                             April 2008 - May 2009\n10th Matriculation-SLC",
+  "debug": null
+}

@@ -1,0 +1,295 @@
+
+
+<table>
+  <tbody>
+    <tr>
+        <td rowspan="3"><img src="page_1_image_1_v2.jpg" alt="Mukesh Kumar photo"></td>
+<td>Staff Name</td>
+<td>Mukesh Kumar - PMP</td>
+        <td colspan="2"></td>
+    </tr>
+<tr>
+        <td>Date of Birth</td>
+<td>20ᵗʰ February 1981</td>
+        <td colspan="2"></td>
+    </tr>
+<tr>
+        <td>Education</td>
+<td>* Post Graduate Certificate in Cyber Security Management &amp; Data Science from IIM Nagpur<br/>* Post Graduate Diploma in Management with IT Project Management from Prin. L.N. Welingkar Institute of Management Development &amp; Research<br/>* Master’s in computer application | Indira Gandhi National Open University<br/>* Bachelor’s in computer application | Indira Gandhi National Open University</td>
+        <td colspan="2"></td>
+    </tr>
+<tr>
+        <td>Summary of key trainings, certifications &amp; Award</td>
+        <td colspan="2"><strong>Training/Certification:</strong><br/>* PMP(Id-4181762)<br/>* Prince2<br/>* PMEC<br/>* Lean Six Sigma White Belt<br/>* Oracle Certified Foundations Associate<br/><strong>Awards:</strong><br/>‘Kudos’ Award by KPMG India Services LLP<br/>‘Best Performer’ Award by SCS Tech Pvt. Ltd.<br/>‘Eagle VIII Achievers’ Award by Datamatics Global Solution Limited</td>
+        <td colspan="2"></td>
+    </tr>
+<tr>
+        <th rowspan="7">EmploymentRecord</th>
+        <th>From</th>
+        <th>To</th>
+        <th>Company</th>
+        <th>Position Held</th>
+    </tr>
+<tr>
+        <td>June 2023</td>
+<td>Till Date</td>
+<td>KPMG Assurance and Consulting Services LLP</td>
+<td>Specialist</td>
+    </tr>
+<tr>
+        <td>October 2021</td>
+<td>June 2023</td>
+<td>Arceus Infotech Pvt Ltd.</td>
+<td>General Manager</td>
+    </tr>
+<tr>
+        <td>October 2018</td>
+<td>October 2021</td>
+<td>SCS Tech India Pvt. Ltd.</td>
+<td>General Manager</td>
+    </tr>
+<tr>
+        <td>June 2017</td>
+<td>October 2018</td>
+<td>KPMG (TPA)</td>
+<td>Consultant</td>
+    </tr>
+<tr>
+        <td>February 2013</td>
+<td>May 2017</td>
+<td>Datamatics Global Services Ltd.</td>
+<td>Manager</td>
+    </tr>
+<tr>
+        <td>December 2007</td>
+<td>January 2013</td>
+<td>Sify Software Limited</td>
+<td>Project Coordinator</td>
+    </tr>
+<tr>
+        <td>Brief Profile</td>
+        <td colspan="2">With over 17+ years of experience in IT leadership, I specialize in Technology Consulting, Project Management and Pre-Sales. Throughout my career, I have driven business success by delivering strategic technology solutions across diverse industries. My approach emphasizes thorough project analysis, optimizing infrastructure, and adopting automation to address dynamic business demands.</td>
+        <td colspan="2"></td>
+    </tr>
+<tr>
+        <td>Countries of Work Experience</td>
+        <td colspan="2">India</td>
+        <td colspan="2"></td>
+    </tr>
+<tr>
+        <td>Languages</td>
+        <td colspan="2">English, Hindi,</td>
+        <td colspan="2"></td>
+    </tr>
+<tr>
+        <td colspan="3">Work Undertaken that Best Illustrates Capability to Handle the Task Assigned</td>
+        <td colspan="2"></td>
+    </tr>
+  </tbody>
+</table>
+
+
+
+---
+
+**Name of assignment of project:** PMU Consultant for Maharashtra Housing and Area Development Authority (MHADA)
+
+**Duration:** April 2025 – Till Date
+
+**Location:** Mumbai, Maharashtra
+
+**Client: Maharashtra Housing and Area Development Authority (MHADA)**
+
+**Main Project Feature:**
+
+The Maharashtra Housing and Area Development Authority (MHADA) is undertaking a digital transformation to modernize its operations. The initiative includes a cloud-hosted, integrated system for land and project management, vendor and visitor services, and mobile access. It will feature GIS-based dashboards for spatial analysis and decision-making. This transformation aims to improve efficiency, transparency, and citizen-centric service delivery across MHADA’s departments. KPMG has been selected as the IT consulting firm to support MHADA and assist in the formulation of IT procurement, execution of projects, and provision of consultancy on ICT-related services.
+
+**Position held:** Specialist
+
+**Activities Performed:**
+
+* PMU Consultant Activities focus on project execution, coordination, and stakeholder engagement for diverse projects.
+    - Monitor progress of IDTS modules (Land Management, CMS, etc.).
+    - Ensure alignment with functional and technical requirements.
+    - Conduct demonstrations for stakeholders and collect feedback.
+    - Provide regular updates to MHADA leadership.
+    - Manage issue resolution and escalation.
+    - Evaluating resource utilization (VMs, Storage, Security applications on AWS Cloud.
+    - Oversee the migration of operational applications to the Azure cloud platform.
+    - Ensure stakeholder engagement, validate post-migration performance, and support training and adoption of the new system.
+    - Reviewing document, ensuring compliance with standards, and maintaining updated documentation throughout the project lifecycle.
+    - Monitoring and optimization of resource utilization with future planning.
+    - Coordinate with support teams to respond to system outages, hardware failures, or security breaches.
+
+**Name of assignment of project:** Consultant for **Gujarat Informatics Limited** (Department of Science and Technology, Government of Gujarat)
+
+**Duration:** June 2023 – March 2025
+
+**Location:** Gandhinagar, Gujarat
+
+**Client: Gujarat Informatics Limited**
+
+**Main Project Feature:**
+
+---
+
+Gujarat Informatics Ltd. (GIL) is established as the nodal agency for IT development in the State of Gujarat under Department of Science and Technology (GoG). The company has a clear objective to promote IT and accelerate the process of E- Governance in the state. Along with the announcement of the IT policy, the Government has enabled GIL to effectively implement IT projects in the state. KPMG, selected as IT Consulting firm to support GIL and assist in formulation of IT/ITeS Policy, ESDM Policy, Start-up Policy, eGovernance Policy, IT Procurement through drafting RFP, DPR, EoI, managing bid process, contract management service and consultancy on distinct ICT related services.
+
+**Position held**: Specialist
+
+**Activities Performed:**
+
+* Develop comprehensive scopes and innovative solutions, standardize technical specifications for bidding processes, and create detailed RFPs for diverse projects.
+    - Colocation of datacenter assets
+    - Managed Security Service at Data Centre
+    - Ticketing solution for Tourism
+    - Digital monitoring of Agriculture, Crops and Production estimation
+    - ePOS machine and ePoS electronic Weighing machine
+    - AI/ML solution on CCTV & Videos for predictive analysis to benefit citizen’s
+    - Forest Monitoring through Satellite and IoT
+    - Enterprise Email Solution
+    - Upgrading Data Centre
+* Review and analyze RFP, DPR, and EoI documents to ensure a comprehensive understanding of project requirements, technical and financial feasibility, and vendor qualifications.
+* Cyber Security: Identify challenges in existing policies, draft updated policies, share findings, and outline tasks for red team exercises and security services at data centers.
+
+**Name of assignment of project**: SITC ERP and ICCC for Diu Smart City
+**Duration**: Jan 2022 to June 2023
+**Location**: Mumbai
+**Client**: Diu Smart City
+**Project Cost**: 80 Cr
+**Main project features:**
+
+To establish a collaborative framework where input from different functional departments of Diu Municipal Corporation (DMC) and other stakeholders such as Transport, Hospitals, Fire, Police, etc. can be assimilated and analysed on a single platform and further this aggregated city level information can be converted to actionable intelligence, which would be propagated to relevant stakeholders and citizens. The solution comprises of:
+
+* Enterprise Resource Planning (ERP)
+* Integrated Command and Control Centre (ICCC)
+* Data Centre (DC) & Disaster Recovery (DR)
+* City Surveillance
+* Parking Management
+* Smart Kiosk
+
+---
+
+* Variable Messaging Display (VMD)
+* Smart Poles with Environmental Sensors and Public address system
+
+**Position held: Project Manager**
+
+**Activities Performed:**
+
+* Orchestrated RFP/RFQ response processes, ensuring compliance with functional and technical requirements, and devising comprehensive solutions covering hardware, software, and services.
+* Recognizing and managing project risks, with a focus on strategizing for disaster recovery to ensure seamless delivery and operation.
+* Assessing OEMs/Vendors, leading contract negotiations, and procuring essential software and infrastructure for projects.
+* Project Kickoff, Site survey, Drafting HLD and Planning for execution of ERP and ICCC solution at Diu Smart City.
+
+**Name of assignment of project:** Hybrid Security Operation Center for Govt of Maharashtra
+**Duration:** Sept 2019 to June 2021
+**Location:** Mumbai
+**Client:** Government of Maharashtra
+**Project Cost:** 35 Cr
+
+**Main project features:**
+
+DIT, Maharashtra wants to set-up state-of-art scalable hybrid SOC to reduce the time between detection and response and minimize the business impact of any cyber-attack with continual advanced security monitoring. DIT also wants to establish the SOC under the principle of dual incident monitoring wherein each incident would be monitored parallelly at two layers so that no critical incident is missed by DIT as an organization. Hybrid SOC will provide the advanced cyber threat monitoring functionality spanning across the SDC and multiple GCC’s. SOC operation set-up including expert monitoring environment for 24x7 monitoring, state of the art analytics and forensic tools, GRC tool, DLP, CASB, global security OEM advanced incident response service and threat intelligence to detect advanced attacks.
+
+.
+
+**Position held: General Manager**
+
+**Activities Performed:**
+
+▪ Efficiently oversaw project vendors, involving in-depth technical understanding, alignment with client requirements, and coordination of software and infrastructure delivery plans, contract negotiations, onboarding procedures, and risk mitigation strategies.
+▪ Collaborated with diverse stakeholders to compile comprehensive project proposals. Managed the entire RFP/RFQ process, ensuring both functional and technical compliance, and meticulously prepared solutions and proposals.
+▪ Proactively analyzed customer requirements to identify suitable technical solutions that addressed both customer needs and company objectives.
+▪ Headed a project team, with responsibilities encompassing team leadership, risk evaluation, disaster recovery planning, enhancing team efficiency, and providing regular updates to business owners and stakeholders.
+▪ Successfully implemented a Hybrid Security Operations Center (SOC) for the State of Maharashtra, enhancing workload monitoring for State Data Centers and the Government
+
+---
+
+Community Cloud through a unified dashboard. This involved deploying components like SIEM, GRC, DLP, and CASB to bolster government and citizen data security against cyber threats and malware.
+
+**Name of assignment of project**: Implementation of HMIS across **MCGM Health Care Centers**
+
+**Duration**: June 2017 to Sep 2018
+
+**Location**: Mumbai
+
+**Client**: Municipal Corporation of Greater Mumbai (MCGM)
+
+**Project Cost**: 97 Cr
+
+Main project features:
+
+The project aimed at alleviated HMIS processes for patients and streamlining administrative burdens, ensuring transparency and data security while providing convenient access to patient information and serving as a decision support tool for top management. MCGM Health Care comprises of major hospitals, Specialized hospital and Dispensaries across Mumbai.
+
+**Position held**: Consultant
+
+Activities Performed:
+
+* Led PMO role in Procurement and implementation Health Care Management System (HMIS) for MCGM hospitals & health care units in Mumbai. This involved custom web application development and infrastructure setup.
+* Evaluated application wireframes, modules, and integrations to ensure HMIS met quality and performance standards. Oversaw key project milestones and reporting.
+* Facilitated User Acceptance Testing (UAT) and load testing for HMIS application in a test environment.
+* Played a vital role in process implementation and improvement, including monitoring SLAs, payments, and audit compliance.
+* Conducted requirement gathering, re-engineered business processes, and provided TO-BE process recommendations for procuring infrastructure and third-party software for HMIS.
+* Drafted Request for Proposal (RFP) for procurement of infrastructure and software license for Major Hospitals, specialty hospital and 5 health care units. Assisted the client in addressing pre bid queries, corrigendum, technical and commercial evaluations, bid negotiations and onboarding.
+
+**Name of assignment of project**: Digitization and Archival of Government Record for **MMRDA**.
+
+**Duration**: April 2013 to July 2016
+
+**Location**: Mumbai
+
+**Client**: Mumbai Metropolitan Region Development Authority (MMRDA)
+
+Main project features:
+
+The project was designed to give users quick access to documents based on their roles and help make decisions faster. It also lets departments add comments and track document versions.
+
+**Position held**: Assistant Manager
+
+Activities Performed:
+
+* Worked with clients to gather requirements and deliver customized application solutions.
+* Coordinated with the development team to adapt open-source COTS tools to project needs.
+* Set up and improved operational processes for better efficiency and results.
+* Handled vendor onboarding and managed daily operations effectively.
+
+---
+
+* Collaborated with the team to deliver projects on time, analyzed risks, and took action to reduce them.
+
+**Name of assignment of project:** Digitization and Archival of Government Record for **GOM**.
+
+**Duration:** Feb 2011 to June 2014
+
+**Location: Mumbai**
+
+**Client:** DIT, Government of Maharashtra
+
+**Main project features:**
+
+DIT Maharashtra implemented a Document Management System (DMS) for scanning, storing, and retrieving official records at Mantralaya and other government offices. Building on this, the government decided to start scanning and digitizing of records and files in all government offices across the state.
+
+**Position held:** Project Coordinator
+
+**Activities Performed:**
+
+* Collected client requirements and delivered tailored application solutions.
+* Worked with the internal team to deploy complete solutions, including software, hardware, and connectivity.
+* Managed project planning and execution; ensured smooth operations at government offices, and addressed risks to keep projects on track.
+* Provided regular status reports and updates to government authorities.
+* Trained stakeholders on how to use the application effectively.
+* On-boarded vendors and oversaw day-to-day operations efficiently.
+* Handled invoicing and followed up on collections to ensure timely payments
+
+**Certification**
+
+I, certify that to the best of my knowledge and belief, this CV correctly describes myself, my qualifications, and my experience. I understand that any willful misstatement described herein may lead to my disqualification or dismissal, if engaged.
+
+Additionally, I also certify that I shall be available for the entire duration of the contract.
+
+![signature: Mukesh](page_6_image_1_v2.jpg)
+
+**Signature of staff member**
+
+**Date: <u>01/10/2025</u>**

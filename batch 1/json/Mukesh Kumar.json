@@ -1,0 +1,2908 @@
+{
+  "job": {
+    "id": "pjb-slsv5rj9ancabwapuhngdtnbr91t",
+    "project_id": "949fd88b-381a-4ae5-b3b9-bf7fcc9b74b8",
+    "status": "COMPLETED",
+    "created_at": "2026-05-12T14:44:39.769840Z",
+    "error_message": null,
+    "name": "WB_Mukesh_Kumar.pdf",
+    "tier": "agentic",
+    "updated_at": "2026-05-12T14:45:02.699875Z"
+  },
+  "images_content_metadata": null,
+  "items": {
+    "pages": [
+      {
+        "items": [
+          {
+            "csv": "\"Mukesh Kumar photo\",\"Staff Name\",\"Mukesh Kumar - PMP\",,\n,\"Date of Birth\",\"20ᵗʰ February 1981\",,\n,\"Education\",\"* Post Graduate Certificate in Cyber Security Management & Data Science from IIM Nagpur<br/>* Post Graduate Diploma in Management with IT Project Management from Prin. L.N. Welingkar Institute of Management Development & Research<br/>* Master’s in computer application | Indira Gandhi National Open University<br/>* Bachelor’s in computer application | Indira Gandhi National Open University\",,\n\"Summary of key trainings, certifications & Award\",\"Training/Certification:<br/>* PMP(Id-4181762)<br/>* Prince2<br/>* PMEC<br/>* Lean Six Sigma White Belt<br/>* Oracle Certified Foundations Associate<br/>Awards:<br/>‘Kudos’ Award by KPMG India Services LLP<br/>‘Best Performer’ Award by SCS Tech Pvt. Ltd.<br/>‘Eagle VIII Achievers’ Award by Datamatics Global Solution Limited\",,,\n\"EmploymentRecord\",\"From\",\"To\",\"Company\",\"Position Held\"\n,\"June 2023\",\"Till Date\",\"KPMG Assurance and Consulting Services LLP\",\"Specialist\"\n,\"October 2021\",\"June 2023\",\"Arceus Infotech Pvt Ltd.\",\"General Manager\"\n,\"October 2018\",\"October 2021\",\"SCS Tech India Pvt. Ltd.\",\"General Manager\"\n,\"June 2017\",\"October 2018\",\"KPMG (TPA)\",\"Consultant\"\n,\"February 2013\",\"May 2017\",\"Datamatics Global Services Ltd.\",\"Manager\"\n,\"December 2007\",\"January 2013\",\"Sify Software Limited\",\"Project Coordinator\"\n\"Brief Profile\",\"With over 17+ years of experience in IT leadership, I specialize in Technology Consulting, Project Management and Pre-Sales. Throughout my career, I have driven business success by delivering strategic technology solutions across diverse industries. My approach emphasizes thorough project analysis, optimizing infrastructure, and adopting automation to address dynamic business demands.\",,,\n\"Countries of Work Experience\",\"India\",,,\n\"Languages\",\"English, Hindi,\",,,\n\"Work Undertaken that Best Illustrates Capability to Handle the Task Assigned\",,,,",
+            "html": "<table>\n    <tr>\n        <td rowspan=\"3\"><img src=\"page_1_image_1_v2.jpg\" alt=\"Mukesh Kumar photo\" /></td>\n        <td>Staff Name</td>\n        <td>Mukesh Kumar - PMP</td>\n        <td colspan=\"2\"></td>\n    </tr>\n    <tr>\n        <td>Date of Birth</td>\n        <td>20ᵗʰ February 1981</td>\n        <td colspan=\"2\"></td>\n    </tr>\n    <tr>\n        <td>Education</td>\n        <td>* Post Graduate Certificate in Cyber Security Management &#x26; Data Science from IIM Nagpur<br />* Post Graduate Diploma in Management with IT Project Management from Prin. L.N. Welingkar Institute of Management Development &#x26; Research<br />* Master’s in computer application | Indira Gandhi National Open University<br />* Bachelor’s in computer application | Indira Gandhi National Open University</td>\n        <td colspan=\"2\"></td>\n    </tr>\n    <tr>\n        <td>Summary of key trainings, certifications &#x26; Award</td>\n        <td colspan=\"2\"><strong>Training/Certification:</strong><br />* PMP(Id-4181762)<br />* Prince2<br />* PMEC<br />* Lean Six Sigma White Belt<br />* Oracle Certified Foundations Associate<br /><strong>Awards:</strong><br />‘Kudos’ Award by KPMG India Services LLP<br />‘Best Performer’ Award by SCS Tech Pvt. Ltd.<br />‘Eagle VIII Achievers’ Award by Datamatics Global Solution Limited</td>\n        <td colspan=\"2\"></td>\n    </tr>\n    <tr>\n        <th rowspan=\"7\">EmploymentRecord</th>\n        <th>From</th>\n        <th>To</th>\n        <th>Company</th>\n        <th>Position Held</th>\n    </tr>\n    <tr>\n        <td>June 2023</td>\n        <td>Till Date</td>\n        <td>KPMG Assurance and Consulting Services LLP</td>\n        <td>Specialist</td>\n    </tr>\n    <tr>\n        <td>October 2021</td>\n        <td>June 2023</td>\n        <td>Arceus Infotech Pvt Ltd.</td>\n        <td>General Manager</td>\n    </tr>\n    <tr>\n        <td>October 2018</td>\n        <td>October 2021</td>\n        <td>SCS Tech India Pvt. Ltd.</td>\n        <td>General Manager</td>\n    </tr>\n    <tr>\n        <td>June 2017</td>\n        <td>October 2018</td>\n        <td>KPMG (TPA)</td>\n        <td>Consultant</td>\n    </tr>\n    <tr>\n        <td>February 2013</td>\n        <td>May 2017</td>\n        <td>Datamatics Global Services Ltd.</td>\n        <td>Manager</td>\n    </tr>\n    <tr>\n        <td>December 2007</td>\n        <td>January 2013</td>\n        <td>Sify Software Limited</td>\n        <td>Project Coordinator</td>\n    </tr>\n    <tr>\n        <td>Brief Profile</td>\n        <td colspan=\"2\">With over 17+ years of experience in IT leadership, I specialize in Technology Consulting, Project Management and Pre-Sales. Throughout my career, I have driven business success by delivering strategic technology solutions across diverse industries. My approach emphasizes thorough project analysis, optimizing infrastructure, and adopting automation to address dynamic business demands.</td>\n        <td colspan=\"2\"></td>\n    </tr>\n    <tr>\n        <td>Countries of Work Experience</td>\n        <td colspan=\"2\">India</td>\n        <td colspan=\"2\"></td>\n    </tr>\n    <tr>\n        <td>Languages</td>\n        <td colspan=\"2\">English, Hindi,</td>\n        <td colspan=\"2\"></td>\n    </tr>\n    <tr>\n        <td colspan=\"3\">Work Undertaken that Best Illustrates Capability to Handle the Task Assigned</td>\n        <td colspan=\"2\"></td>\n    </tr>\n</table>",
+            "md": "| ![Mukesh Kumar photo](page_1_image_1_v2.jpg)                                 | Staff Name                                                                                                                                                                                                                                                                                                                                                                                          | Mukesh Kumar - PMP                                                                                                                                                                                                                                                                                                                                                                                            |                                            |                     |\n| ---------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------ | ------------------- |\n|                                                                              | Date of Birth                                                                                                                                                                                                                                                                                                                                                                                       | 20ᵗʰ February 1981                                                                                                                                                                                                                                                                                                                                                                                            |                                            |                     |\n|                                                                              | Education                                                                                                                                                                                                                                                                                                                                                                                           | \\* Post Graduate Certificate in Cyber Security Management & Data Science from IIM Nagpur<br/>\\* Post Graduate Diploma in Management with IT Project Management from Prin. L.N. Welingkar Institute of Management Development & Research<br/>\\* Master’s in computer application \\| Indira Gandhi National Open University<br/>\\* Bachelor’s in computer application \\| Indira Gandhi National Open University |                                            |                     |\n| Summary of key trainings, certifications & Award                             | **Training/Certification:**<br/>\\* PMP(Id-4181762)<br/>\\* Prince2<br/>\\* PMEC<br/>\\* Lean Six Sigma White Belt<br/>\\* Oracle Certified Foundations Associate<br/>**Awards:**<br/>‘Kudos’ Award by KPMG India Services LLP<br/>‘Best Performer’ Award by SCS Tech Pvt. Ltd.<br/>‘Eagle VIII Achievers’ Award by Datamatics Global Solution Limited                                                   |                                                                                                                                                                                                                                                                                                                                                                                                               |                                            |                     |\n| EmploymentRecord                                                             | From                                                                                                                                                                                                                                                                                                                                                                                                | To                                                                                                                                                                                                                                                                                                                                                                                                            | Company                                    | Position Held       |\n|                                                                              | June 2023                                                                                                                                                                                                                                                                                                                                                                                           | Till Date                                                                                                                                                                                                                                                                                                                                                                                                     | KPMG Assurance and Consulting Services LLP | Specialist          |\n|                                                                              | October 2021                                                                                                                                                                                                                                                                                                                                                                                        | June 2023                                                                                                                                                                                                                                                                                                                                                                                                     | Arceus Infotech Pvt Ltd.                   | General Manager     |\n|                                                                              | October 2018                                                                                                                                                                                                                                                                                                                                                                                        | October 2021                                                                                                                                                                                                                                                                                                                                                                                                  | SCS Tech India Pvt. Ltd.                   | General Manager     |\n|                                                                              | June 2017                                                                                                                                                                                                                                                                                                                                                                                           | October 2018                                                                                                                                                                                                                                                                                                                                                                                                  | KPMG (TPA)                                 | Consultant          |\n|                                                                              | February 2013                                                                                                                                                                                                                                                                                                                                                                                       | May 2017                                                                                                                                                                                                                                                                                                                                                                                                      | Datamatics Global Services Ltd.            | Manager             |\n|                                                                              | December 2007                                                                                                                                                                                                                                                                                                                                                                                       | January 2013                                                                                                                                                                                                                                                                                                                                                                                                  | Sify Software Limited                      | Project Coordinator |\n| Brief Profile                                                                | With over 17+ years of experience in IT leadership, I specialize in Technology Consulting, Project Management and Pre-Sales. Throughout my career, I have driven business success by delivering strategic technology solutions across diverse industries. My approach emphasizes thorough project analysis, optimizing infrastructure, and adopting automation to address dynamic business demands. |                                                                                                                                                                                                                                                                                                                                                                                                               |                                            |                     |\n| Countries of Work Experience                                                 | India                                                                                                                                                                                                                                                                                                                                                                                               |                                                                                                                                                                                                                                                                                                                                                                                                               |                                            |                     |\n| Languages                                                                    | English, Hindi,                                                                                                                                                                                                                                                                                                                                                                                     |                                                                                                                                                                                                                                                                                                                                                                                                               |                                            |                     |\n| Work Undertaken that Best Illustrates Capability to Handle the Task Assigned |                                                                                                                                                                                                                                                                                                                                                                                                     |                                                                                                                                                                                                                                                                                                                                                                                                               |                                            |                     |",
+            "rows": [
+              [
+                "Mukesh Kumar photo",
+                "Staff Name",
+                "Mukesh Kumar - PMP",
+                "",
+                ""
+              ],
+              [
+                "",
+                "Date of Birth",
+                "20ᵗʰ February 1981",
+                "",
+                ""
+              ],
+              [
+                "",
+                "Education",
+                "* Post Graduate Certificate in Cyber Security Management & Data Science from IIM Nagpur<br/>* Post Graduate Diploma in Management with IT Project Management from Prin. L.N. Welingkar Institute of Management Development & Research<br/>* Master’s in computer application | Indira Gandhi National Open University<br/>* Bachelor’s in computer application | Indira Gandhi National Open University",
+                "",
+                ""
+              ],
+              [
+                "Summary of key trainings, certifications & Award",
+                "Training/Certification:<br/>* PMP(Id-4181762)<br/>* Prince2<br/>* PMEC<br/>* Lean Six Sigma White Belt<br/>* Oracle Certified Foundations Associate<br/>Awards:<br/>‘Kudos’ Award by KPMG India Services LLP<br/>‘Best Performer’ Award by SCS Tech Pvt. Ltd.<br/>‘Eagle VIII Achievers’ Award by Datamatics Global Solution Limited",
+                "",
+                "",
+                ""
+              ],
+              [
+                "EmploymentRecord",
+                "From",
+                "To",
+                "Company",
+                "Position Held"
+              ],
+              [
+                "",
+                "June 2023",
+                "Till Date",
+                "KPMG Assurance and Consulting Services LLP",
+                "Specialist"
+              ],
+              [
+                "",
+                "October 2021",
+                "June 2023",
+                "Arceus Infotech Pvt Ltd.",
+                "General Manager"
+              ],
+              [
+                "",
+                "October 2018",
+                "October 2021",
+                "SCS Tech India Pvt. Ltd.",
+                "General Manager"
+              ],
+              [
+                "",
+                "June 2017",
+                "October 2018",
+                "KPMG (TPA)",
+                "Consultant"
+              ],
+              [
+                "",
+                "February 2013",
+                "May 2017",
+                "Datamatics Global Services Ltd.",
+                "Manager"
+              ],
+              [
+                "",
+                "December 2007",
+                "January 2013",
+                "Sify Software Limited",
+                "Project Coordinator"
+              ],
+              [
+                "Brief Profile",
+                "With over 17+ years of experience in IT leadership, I specialize in Technology Consulting, Project Management and Pre-Sales. Throughout my career, I have driven business success by delivering strategic technology solutions across diverse industries. My approach emphasizes thorough project analysis, optimizing infrastructure, and adopting automation to address dynamic business demands.",
+                "",
+                "",
+                ""
+              ],
+              [
+                "Countries of Work Experience",
+                "India",
+                "",
+                "",
+                ""
+              ],
+              [
+                "Languages",
+                "English, Hindi,",
+                "",
+                "",
+                ""
+              ],
+              [
+                "Work Undertaken that Best Illustrates Capability to Handle the Task Assigned",
+                "",
+                "",
+                "",
+                ""
+              ]
+            ],
+            "bbox": [
+              {
+                "h": 179.61724758241232,
+                "w": 340.65968940548777,
+                "x": 198.91322861089938,
+                "y": 71.03922631240472,
+                "confidence": 0.71,
+                "end_index": 15006,
+                "label": "table",
+                "start_index": 0
+              },
+              {
+                "h": 123.651,
+                "w": 110.825,
+                "x": 79.626,
+                "y": 80.53,
+                "confidence": 1.0,
+                "end_index": 45,
+                "label": "image",
+                "start_index": 2
+              },
+              {
+                "h": 22.3,
+                "w": 255.18,
+                "x": 279.37,
+                "y": 186.48,
+                "confidence": 1.0,
+                "end_index": 3597,
+                "label": "text",
+                "start_index": 3524
+              },
+              {
+                "h": 34.93,
+                "w": 110.63,
+                "x": 76.98,
+                "y": 296.67,
+                "confidence": 1.0,
+                "end_index": 3801,
+                "label": "paragraph_title",
+                "start_index": 3754
+              },
+              {
+                "h": 10.73,
+                "w": 103.52,
+                "x": 203.86,
+                "y": 254.21,
+                "confidence": 1.0,
+                "end_index": 3859,
+                "label": "paragraph_title",
+                "start_index": 3833
+              },
+              {
+                "h": 10.59,
+                "w": 98.27,
+                "x": 221.57,
+                "y": 272.61,
+                "confidence": 1.0,
+                "end_index": 3882,
+                "label": "text",
+                "start_index": 3868
+              },
+              {
+                "h": 8.85,
+                "w": 52.6,
+                "x": 221.71,
+                "y": 284.62,
+                "confidence": 1.0,
+                "end_index": 3897,
+                "label": "text",
+                "start_index": 3891
+              },
+              {
+                "h": 8.85,
+                "w": 47.19,
+                "x": 221.46,
+                "y": 297.18,
+                "confidence": 1.0,
+                "end_index": 3909,
+                "label": "text",
+                "start_index": 3906
+              },
+              {
+                "h": 10.46,
+                "w": 139.02,
+                "x": 221.37,
+                "y": 309.67,
+                "confidence": 1.0,
+                "end_index": 3942,
+                "label": "text",
+                "start_index": 3918
+              },
+              {
+                "h": 8.81,
+                "w": 194.86,
+                "x": 221.54,
+                "y": 321.57,
+                "confidence": 1.0,
+                "end_index": 3988,
+                "label": "text",
+                "start_index": 3951
+              },
+              {
+                "h": 10.63,
+                "w": 198.85,
+                "x": 203.79,
+                "y": 344.54,
+                "confidence": 1.0,
+                "end_index": 4049,
+                "label": "text",
+                "start_index": 4010
+              },
+              {
+                "h": 10.11,
+                "w": 207.66,
+                "x": 203.94,
+                "y": 356.29,
+                "confidence": 1.0,
+                "end_index": 4098,
+                "label": "text",
+                "start_index": 4055
+              },
+              {
+                "h": 10.66,
+                "w": 303.92,
+                "x": 203.65,
+                "y": 367.3,
+                "confidence": 1.0,
+                "end_index": 4169,
+                "label": "text",
+                "start_index": 4104
+              }
+            ],
+            "merged_from_pages": null,
+            "merged_into_page": null,
+            "parse_concerns": null,
+            "type": "table"
+          }
+        ],
+        "page_height": 792.0,
+        "page_number": 1,
+        "page_width": 612.0,
+        "success": true
+      },
+      {
+        "items": [
+          {
+            "md": "**Name of assignment of project:** PMU Consultant for Maharashtra Housing and Area Development Authority (MHADA)",
+            "value": "Name of assignment of project: PMU Consultant for Maharashtra Housing and Area Development Authority (MHADA)",
+            "bbox": [
+              {
+                "h": 21.424537085556402,
+                "w": 443.3877564965225,
+                "x": 76.28244310332506,
+                "y": 73.11414336413873,
+                "confidence": 0.9,
+                "end_index": 111,
+                "label": "text",
+                "start_index": 0
+              }
+            ],
+            "type": "text"
+          },
+          {
+            "md": "**Duration:** April 2025 – Till Date",
+            "value": "Duration: April 2025 – Till Date",
+            "bbox": [
+              {
+                "h": 10.296000000000006,
+                "w": 138.92400000000004,
+                "x": 77.724,
+                "y": 121.968,
+                "confidence": 0.96,
+                "end_index": 35,
+                "label": "text",
+                "start_index": 0
+              },
+              {
+                "h": 11.0,
+                "w": 92.73,
+                "x": 124.22,
+                "y": 121.21,
+                "confidence": 1.0,
+                "end_index": 35,
+                "label": "text",
+                "start_index": 14
+              }
+            ],
+            "type": "text"
+          },
+          {
+            "md": "**Location:** Mumbai, Maharashtra",
+            "value": "Location: Mumbai, Maharashtra",
+            "bbox": [
+              {
+                "h": 9.50399999999999,
+                "w": 146.88,
+                "x": 77.724,
+                "y": 140.976,
+                "confidence": 0.97,
+                "end_index": 32,
+                "label": "text",
+                "start_index": 0
+              },
+              {
+                "h": 11.0,
+                "w": 99.32,
+                "x": 125.42,
+                "y": 140.05,
+                "confidence": 1.0,
+                "end_index": 32,
+                "label": "text",
+                "start_index": 14
+              }
+            ],
+            "type": "text"
+          },
+          {
+            "md": "**Client: Maharashtra Housing and Area Development Authority (MHADA)**",
+            "value": "Client: Maharashtra Housing and Area Development Authority (MHADA)",
+            "bbox": [
+              {
+                "h": 29.960000000000008,
+                "w": 341.059,
+                "x": 77.664,
+                "y": 140.046,
+                "confidence": 0.68,
+                "end_index": 69,
+                "label": "key-value-region",
+                "start_index": 0
+              },
+              {
+                "h": 11.0,
+                "w": 307.22,
+                "x": 111.5,
+                "y": 159.01,
+                "confidence": 1.0,
+                "end_index": 69,
+                "label": "text",
+                "start_index": 10
+              }
+            ],
+            "type": "text"
+          },
+          {
+            "md": "**Main Project Feature:**",
+            "value": "Main Project Feature:",
+            "bbox": [
+              {
+                "h": 10.524538991044196,
+                "w": 101.01185070503047,
+                "x": 77.71462700076219,
+                "y": 178.69230004287348,
+                "confidence": 0.85,
+                "end_index": 24,
+                "label": "text",
+                "start_index": 0
+              }
+            ],
+            "type": "text"
+          },
+          {
+            "md": "The Maharashtra Housing and Area Development Authority (MHADA) is undertaking a digital transformation to modernize its operations. The initiative includes a cloud-hosted, integrated system for land and project management, vendor and visitor services, and mobile access. It will feature GIS-based dashboards for spatial analysis and decision-making. This transformation aims to improve efficiency, transparency, and citizen-centric service delivery across MHADA’s departments. KPMG has been selected as the IT consulting firm to support MHADA and assist in the formulation of IT procurement, execution of projects, and provision of consultancy on ICT-related services.",
+            "value": "The Maharashtra Housing and Area Development Authority (MHADA) is undertaking a digital transformation to modernize its operations. The initiative includes a cloud-hosted, integrated system for land and project management, vendor and visitor services, and mobile access. It will feature GIS-based dashboards for spatial analysis and decision-making. This transformation aims to improve efficiency, transparency, and citizen-centric service delivery across MHADA’s departments. KPMG has been selected as the IT consulting firm to support MHADA and assist in the formulation of IT procurement, execution of projects, and provision of consultancy on ICT-related services.",
+            "bbox": [
+              {
+                "h": 79.97258860518292,
+                "w": 457.5466020388719,
+                "x": 76.782392578125,
+                "y": 203.96343892911585,
+                "confidence": 0.99,
+                "end_index": 667,
+                "label": "text",
+                "start_index": 0
+              }
+            ],
+            "type": "text"
+          },
+          {
+            "md": "**Position held:** Specialist",
+            "value": "Position held: Specialist",
+            "bbox": [
+              {
+                "h": 11.0,
+                "w": 69.09,
+                "x": 77.66,
+                "y": 297.4,
+                "confidence": 1.0,
+                "end_index": 17,
+                "label": "text",
+                "start_index": 0
+              },
+              {
+                "h": 11.0,
+                "w": 43.0,
+                "x": 146.54,
+                "y": 297.4,
+                "confidence": 1.0,
+                "end_index": 28,
+                "label": "text",
+                "start_index": 19
+              }
+            ],
+            "type": "text"
+          },
+          {
+            "md": "**Activities Performed:**",
+            "value": "Activities Performed:",
+            "bbox": [
+              {
+                "h": 8.697681974085379,
+                "w": 100.29102807021722,
+                "x": 77.14558718797637,
+                "y": 317.2516120426829,
+                "confidence": 0.96,
+                "end_index": 24,
+                "label": "paragraph_title",
+                "start_index": 0
+              }
+            ],
+            "type": "text"
+          },
+          {
+            "items": [
+              {
+                "md": "PMU Consultant Activities focus on project execution, coordination, and stakeholder engagement for diverse projects.",
+                "value": "PMU Consultant Activities focus on project execution, coordination, and stakeholder engagement for diverse projects.",
+                "bbox": [
+                  {
+                    "h": 24.19999999999999,
+                    "w": 372.553,
+                    "x": 112.7,
+                    "y": 337.596,
+                    "confidence": 0.99,
+                    "end_index": 115,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "items": [
+                  {
+                    "md": "Monitor progress of IDTS modules (Land Management, CMS, etc.).",
+                    "value": "Monitor progress of IDTS modules (Land Management, CMS, etc.).",
+                    "bbox": [
+                      {
+                        "h": 11.0,
+                        "w": 297.01200000000006,
+                        "x": 131.66,
+                        "y": 365.916,
+                        "confidence": 0.98,
+                        "end_index": 61,
+                        "label": "text",
+                        "start_index": 0
+                      }
+                    ],
+                    "type": "text"
+                  },
+                  {
+                    "md": "Ensure alignment with functional and technical requirements.",
+                    "value": "Ensure alignment with functional and technical requirements.",
+                    "bbox": [
+                      {
+                        "h": 11.0,
+                        "w": 269.264,
+                        "x": 131.66,
+                        "y": 381.036,
+                        "confidence": 0.97,
+                        "end_index": 59,
+                        "label": "text",
+                        "start_index": 0
+                      }
+                    ],
+                    "type": "text"
+                  },
+                  {
+                    "md": "Conduct demonstrations for stakeholders and collect feedback.",
+                    "value": "Conduct demonstrations for stakeholders and collect feedback.",
+                    "bbox": [
+                      {
+                        "h": 10.402875857469475,
+                        "w": 296.58871796398626,
+                        "x": 113.35904618426068,
+                        "y": 396.6607702934451,
+                        "confidence": 0.97,
+                        "end_index": 60,
+                        "label": "text",
+                        "start_index": 0
+                      }
+                    ],
+                    "type": "text"
+                  },
+                  {
+                    "md": "Provide regular updates to MHADA leadership.",
+                    "value": "Provide regular updates to MHADA leadership.",
+                    "bbox": [
+                      {
+                        "h": 11.0,
+                        "w": 207.88199999999998,
+                        "x": 131.66,
+                        "y": 411.296,
+                        "confidence": 0.98,
+                        "end_index": 43,
+                        "label": "text",
+                        "start_index": 0
+                      }
+                    ],
+                    "type": "text"
+                  },
+                  {
+                    "md": "Manage issue resolution and escalation.",
+                    "value": "Manage issue resolution and escalation.",
+                    "bbox": [
+                      {
+                        "h": 11.0,
+                        "w": 178.46599999999998,
+                        "x": 131.66,
+                        "y": 426.416,
+                        "confidence": 0.97,
+                        "end_index": 38,
+                        "label": "text",
+                        "start_index": 0
+                      }
+                    ],
+                    "type": "text"
+                  },
+                  {
+                    "md": "Evaluating resource utilization (VMs, Storage, Security applications on AWS Cloud.",
+                    "value": "Evaluating resource utilization (VMs, Storage, Security applications on AWS Cloud.",
+                    "bbox": [
+                      {
+                        "h": 10.491349561737835,
+                        "w": 385.63625583555637,
+                        "x": 113.46319871855944,
+                        "y": 442.0792840129573,
+                        "confidence": 0.98,
+                        "end_index": 81,
+                        "label": "text",
+                        "start_index": 0
+                      }
+                    ],
+                    "type": "text"
+                  },
+                  {
+                    "md": "Oversee the migration of operational applications to the Azure cloud platform.",
+                    "value": "Oversee the migration of operational applications to the Azure cloud platform.",
+                    "bbox": [
+                      {
+                        "h": 10.477955887957311,
+                        "w": 359.68131127334226,
+                        "x": 113.50693877429497,
+                        "y": 457.2061180449695,
+                        "confidence": 0.98,
+                        "end_index": 77,
+                        "label": "text",
+                        "start_index": 0
+                      }
+                    ],
+                    "type": "text"
+                  },
+                  {
+                    "md": "Ensure stakeholder engagement, validate post-migration performance, and support training and adoption of the new system.",
+                    "value": "Ensure stakeholder engagement, validate post-migration performance, and support training and adoption of the new system.",
+                    "bbox": [
+                      {
+                        "h": 23.603426067073215,
+                        "w": 386.2805766482469,
+                        "x": 113.36358326981707,
+                        "y": 472.23216939786585,
+                        "confidence": 0.99,
+                        "end_index": 119,
+                        "label": "text",
+                        "start_index": 0
+                      }
+                    ],
+                    "type": "text"
+                  },
+                  {
+                    "md": "Reviewing document, ensuring compliance with standards, and maintaining updated documentation throughout the project lifecycle.",
+                    "value": "Reviewing document, ensuring compliance with standards, and maintaining updated documentation throughout the project lifecycle.",
+                    "bbox": [
+                      {
+                        "h": 24.200000000000045,
+                        "w": 375.043,
+                        "x": 131.66,
+                        "y": 499.976,
+                        "confidence": 0.99,
+                        "end_index": 126,
+                        "label": "text",
+                        "start_index": 0
+                      }
+                    ],
+                    "type": "text"
+                  },
+                  {
+                    "md": "Monitoring and optimization of resource utilization with future planning.",
+                    "value": "Monitoring and optimization of resource utilization with future planning.",
+                    "bbox": [
+                      {
+                        "h": 10.416128048780582,
+                        "w": 329.39672982564787,
+                        "x": 113.3673915062881,
+                        "y": 528.9069812309451,
+                        "confidence": 0.98,
+                        "end_index": 72,
+                        "label": "text",
+                        "start_index": 0
+                      }
+                    ],
+                    "type": "text"
+                  },
+                  {
+                    "md": "Coordinate with support teams to respond to system outages, hardware failures, or security breaches.",
+                    "value": "Coordinate with support teams to respond to system outages, hardware failures, or security breaches.",
+                    "bbox": [
+                      {
+                        "h": 23.431760670731695,
+                        "w": 384.61102026962647,
+                        "x": 113.38393638052591,
+                        "y": 544.0950771722561,
+                        "confidence": 0.98,
+                        "end_index": 99,
+                        "label": "text",
+                        "start_index": 0
+                      }
+                    ],
+                    "type": "text"
+                  }
+                ],
+                "md": "* Monitor progress of IDTS modules (Land Management, CMS, etc.).\n* Ensure alignment with functional and technical requirements.\n* Conduct demonstrations for stakeholders and collect feedback.\n* Provide regular updates to MHADA leadership.\n* Manage issue resolution and escalation.\n* Evaluating resource utilization (VMs, Storage, Security applications on AWS Cloud.\n* Oversee the migration of operational applications to the Azure cloud platform.\n* Ensure stakeholder engagement, validate post-migration performance, and support training and adoption of the new system.\n* Reviewing document, ensuring compliance with standards, and maintaining updated documentation throughout the project lifecycle.\n* Monitoring and optimization of resource utilization with future planning.\n* Coordinate with support teams to respond to system outages, hardware failures, or security breaches.",
+                "ordered": false,
+                "bbox": [
+                  {
+                    "h": 201.61,
+                    "w": 393.34,
+                    "x": 113.36,
+                    "y": 365.92,
+                    "confidence": 0.98,
+                    "end_index": 877,
+                    "label": "list",
+                    "start_index": 0
+                  }
+                ],
+                "type": "list"
+              }
+            ],
+            "md": "* PMU Consultant Activities focus on project execution, coordination, and stakeholder engagement for diverse projects.\n  * Monitor progress of IDTS modules (Land Management, CMS, etc.).\n  * Ensure alignment with functional and technical requirements.\n  * Conduct demonstrations for stakeholders and collect feedback.\n  * Provide regular updates to MHADA leadership.\n  * Manage issue resolution and escalation.\n  * Evaluating resource utilization (VMs, Storage, Security applications on AWS Cloud.\n  * Oversee the migration of operational applications to the Azure cloud platform.\n  * Ensure stakeholder engagement, validate post-migration performance, and support training and adoption of the new system.\n  * Reviewing document, ensuring compliance with standards, and maintaining updated documentation throughout the project lifecycle.\n  * Monitoring and optimization of resource utilization with future planning.\n  * Coordinate with support teams to respond to system outages, hardware failures, or security breaches.",
+            "ordered": false,
+            "bbox": [
+              {
+                "h": 229.93,
+                "w": 394.0,
+                "x": 112.7,
+                "y": 337.6,
+                "confidence": 0.99,
+                "end_index": 1018,
+                "label": "list",
+                "start_index": 0
+              }
+            ],
+            "type": "list"
+          },
+          {
+            "md": "**Name of assignment of project:** Consultant for **Gujarat Informatics Limited** (Department of Science and Technology, Government of Gujarat)",
+            "value": "Name of assignment of project: Consultant for Gujarat Informatics Limited (Department of Science and Technology, Government of Gujarat)",
+            "bbox": [
+              {
+                "h": 21.426718273628126,
+                "w": 417.52627771889297,
+                "x": 76.11074448004001,
+                "y": 570.7883860518292,
+                "confidence": 0.94,
+                "end_index": 142,
+                "label": "text",
+                "start_index": 0
+              }
+            ],
+            "type": "text"
+          },
+          {
+            "md": "**Duration:** June 2023 – March 2025",
+            "value": "Duration: June 2023 – March 2025",
+            "bbox": [
+              {
+                "h": 8.711999999999989,
+                "w": 156.67200000000003,
+                "x": 77.724,
+                "y": 619.344,
+                "confidence": 0.96,
+                "end_index": 35,
+                "label": "text",
+                "start_index": 0
+              },
+              {
+                "h": 11.0,
+                "w": 110.43,
+                "x": 124.24,
+                "y": 618.69,
+                "confidence": 1.0,
+                "end_index": 35,
+                "label": "text",
+                "start_index": 14
+              }
+            ],
+            "type": "text"
+          },
+          {
+            "md": "**Location:** Gandhinagar, Gujarat",
+            "value": "Location: Gandhinagar, Gujarat",
+            "bbox": [
+              {
+                "h": 10.29600000000005,
+                "w": 143.82,
+                "x": 77.724,
+                "y": 638.3520000000001,
+                "confidence": 0.97,
+                "end_index": 33,
+                "label": "text",
+                "start_index": 0
+              },
+              {
+                "h": 11.0,
+                "w": 96.19,
+                "x": 125.42,
+                "y": 637.53,
+                "confidence": 1.0,
+                "end_index": 33,
+                "label": "text",
+                "start_index": 14
+              }
+            ],
+            "type": "text"
+          },
+          {
+            "md": "**Client: Gujarat Informatics Limited**",
+            "value": "Client: Gujarat Informatics Limited",
+            "bbox": [
+              {
+                "h": 10.29600000000005,
+                "w": 163.404,
+                "x": 77.724,
+                "y": 657.36,
+                "confidence": 0.96,
+                "end_index": 38,
+                "label": "text",
+                "start_index": 0
+              },
+              {
+                "h": 11.0,
+                "w": 129.36,
+                "x": 111.49,
+                "y": 656.49,
+                "confidence": 1.0,
+                "end_index": 38,
+                "label": "text",
+                "start_index": 10
+              }
+            ],
+            "type": "text"
+          },
+          {
+            "md": "**Main Project Feature:**",
+            "value": "Main Project Feature:",
+            "bbox": [
+              {
+                "h": 10.409855659298772,
+                "w": 101.33105927258003,
+                "x": 77.3982245021913,
+                "y": 676.2765834603658,
+                "confidence": 0.92,
+                "end_index": 24,
+                "label": "text",
+                "start_index": 0
+              }
+            ],
+            "type": "text"
+          }
+        ],
+        "page_height": 792.0,
+        "page_number": 2,
+        "page_width": 612.0,
+        "success": true
+      },
+      {
+        "items": [
+          {
+            "md": "Gujarat Informatics Ltd. (GIL) is established as the nodal agency for IT development in the State of Gujarat under Department of Science and Technology (GoG). The company has a clear objective to promote IT and accelerate the process of E- Governance in the state. Along with the announcement of the IT policy, the Government has enabled GIL to effectively implement IT projects in the state. KPMG, selected as IT Consulting firm to support GIL and assist in formulation of IT/ITeS Policy, ESDM Policy, Start-up Policy, eGovernance Policy, IT Procurement through drafting RFP, DPR, EoI, managing bid process, contract management service and consultancy on distinct ICT related services.",
+            "value": "Gujarat Informatics Ltd. (GIL) is established as the nodal agency for IT development in the State of Gujarat under Department of Science and Technology (GoG). The company has a clear objective to promote IT and accelerate the process of E- Governance in the state. Along with the announcement of the IT policy, the Government has enabled GIL to effectively implement IT projects in the state. KPMG, selected as IT Consulting firm to support GIL and assist in formulation of IT/ITeS Policy, ESDM Policy, Start-up Policy, eGovernance Policy, IT Procurement through drafting RFP, DPR, EoI, managing bid process, contract management service and consultancy on distinct ICT related services.",
+            "bbox": [
+              {
+                "h": 79.70910108612804,
+                "w": 457.58075772913486,
+                "x": 76.9429853634718,
+                "y": 79.46064607945884,
+                "confidence": 0.99,
+                "end_index": 685,
+                "label": "text",
+                "start_index": 0
+              }
+            ],
+            "type": "text"
+          },
+          {
+            "md": "**Position held**: Specialist",
+            "value": "Position held: Specialist",
+            "bbox": [
+              {
+                "h": 11.0,
+                "w": 69.09,
+                "x": 77.66,
+                "y": 172.93,
+                "confidence": 1.0,
+                "end_index": 17,
+                "label": "text",
+                "start_index": 0
+              },
+              {
+                "h": 11.0,
+                "w": 43.0,
+                "x": 146.54,
+                "y": 172.93,
+                "confidence": 1.0,
+                "end_index": 28,
+                "label": "text",
+                "start_index": 19
+              }
+            ],
+            "type": "text"
+          },
+          {
+            "md": "**Activities Performed:**",
+            "value": "Activities Performed:",
+            "bbox": [
+              {
+                "h": 8.703388433689035,
+                "w": 100.20980695026675,
+                "x": 77.19000142911585,
+                "y": 192.4910499237805,
+                "confidence": 0.96,
+                "end_index": 24,
+                "label": "paragraph_title",
+                "start_index": 0
+              }
+            ],
+            "type": "text"
+          },
+          {
+            "items": [
+              {
+                "md": "Develop comprehensive scopes and innovative solutions, standardize technical specifications for bidding processes, and create detailed RFPs for diverse projects.",
+                "value": "Develop comprehensive scopes and innovative solutions, standardize technical specifications for bidding processes, and create detailed RFPs for diverse projects.",
+                "bbox": [
+                  {
+                    "h": 23.590504001524387,
+                    "w": 431.4193302210366,
+                    "x": 94.35206507240854,
+                    "y": 213.96929139672258,
+                    "confidence": 0.99,
+                    "end_index": 160,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "items": [
+                  {
+                    "md": "Colocation of datacenter assets",
+                    "value": "Colocation of datacenter assets",
+                    "bbox": [
+                      {
+                        "h": 8.717866806402455,
+                        "w": 157.904443716654,
+                        "x": 112.39862352324694,
+                        "y": 242.2475104801829,
+                        "confidence": 0.97,
+                        "end_index": 30,
+                        "label": "text",
+                        "start_index": 0
+                      }
+                    ],
+                    "type": "text"
+                  },
+                  {
+                    "md": "Managed Security Service at Data Centre",
+                    "value": "Managed Security Service at Data Centre",
+                    "bbox": [
+                      {
+                        "h": 11.0,
+                        "w": 184.36,
+                        "x": 130.7,
+                        "y": 256.596,
+                        "confidence": 0.98,
+                        "end_index": 38,
+                        "label": "text",
+                        "start_index": 0
+                      }
+                    ],
+                    "type": "text"
+                  },
+                  {
+                    "md": "Ticketing solution for Tourism",
+                    "value": "Ticketing solution for Tourism",
+                    "bbox": [
+                      {
+                        "h": 11.0,
+                        "w": 130.32099999999997,
+                        "x": 130.7,
+                        "y": 271.716,
+                        "confidence": 0.97,
+                        "end_index": 29,
+                        "label": "text",
+                        "start_index": 0
+                      }
+                    ],
+                    "type": "text"
+                  },
+                  {
+                    "md": "Digital monitoring of Agriculture, Crops and Production estimation",
+                    "value": "Digital monitoring of Agriculture, Crops and Production estimation",
+                    "bbox": [
+                      {
+                        "h": 11.0,
+                        "w": 288.75100000000003,
+                        "x": 130.7,
+                        "y": 286.836,
+                        "confidence": 0.98,
+                        "end_index": 65,
+                        "label": "text",
+                        "start_index": 0
+                      }
+                    ],
+                    "type": "text"
+                  },
+                  {
+                    "md": "ePOS machine and ePoS electronic Weighing machine",
+                    "value": "ePOS machine and ePoS electronic Weighing machine",
+                    "bbox": [
+                      {
+                        "h": 10.708737376143304,
+                        "w": 262.57032464748477,
+                        "x": 112.20730063833841,
+                        "y": 302.3415763147866,
+                        "confidence": 0.98,
+                        "end_index": 48,
+                        "label": "text",
+                        "start_index": 0
+                      }
+                    ],
+                    "type": "text"
+                  },
+                  {
+                    "md": "AI/ML solution on CCTV & Videos for predictive analysis to benefit citizen’s",
+                    "value": "AI/ML solution on CCTV & Videos for predictive analysis to benefit citizen’s",
+                    "bbox": [
+                      {
+                        "h": 10.45642697217991,
+                        "w": 349.2053082721989,
+                        "x": 112.29351437452362,
+                        "y": 317.5295543540396,
+                        "confidence": 0.98,
+                        "end_index": 75,
+                        "label": "text",
+                        "start_index": 0
+                      }
+                    ],
+                    "type": "text"
+                  },
+                  {
+                    "md": "Forest Monitoring through Satellite and IoT",
+                    "value": "Forest Monitoring through Satellite and IoT",
+                    "bbox": [
+                      {
+                        "h": 11.0,
+                        "w": 188.858,
+                        "x": 130.7,
+                        "y": 332.076,
+                        "confidence": 0.98,
+                        "end_index": 42,
+                        "label": "text",
+                        "start_index": 0
+                      }
+                    ],
+                    "type": "text"
+                  },
+                  {
+                    "md": "Enterprise Email Solution",
+                    "value": "Enterprise Email Solution",
+                    "bbox": [
+                      {
+                        "h": 11.0,
+                        "w": 112.04500000000002,
+                        "x": 130.7,
+                        "y": 347.196,
+                        "confidence": 0.97,
+                        "end_index": 24,
+                        "label": "text",
+                        "start_index": 0
+                      }
+                    ],
+                    "type": "text"
+                  },
+                  {
+                    "md": "Upgrading Data Centre",
+                    "value": "Upgrading Data Centre",
+                    "bbox": [
+                      {
+                        "h": 11.0,
+                        "w": 102.708,
+                        "x": 130.7,
+                        "y": 362.316,
+                        "confidence": 0.98,
+                        "end_index": 20,
+                        "label": "text",
+                        "start_index": 0
+                      }
+                    ],
+                    "type": "text"
+                  }
+                ],
+                "md": "* Colocation of datacenter assets\n* Managed Security Service at Data Centre\n* Ticketing solution for Tourism\n* Digital monitoring of Agriculture, Crops and Production estimation\n* ePOS machine and ePoS electronic Weighing machine\n* AI/ML solution on CCTV & Videos for predictive analysis to benefit citizen’s\n* Forest Monitoring through Satellite and IoT\n* Enterprise Email Solution\n* Upgrading Data Centre",
+                "ordered": false,
+                "bbox": [
+                  {
+                    "h": 131.07,
+                    "w": 349.29,
+                    "x": 112.21,
+                    "y": 242.25,
+                    "confidence": 0.98,
+                    "end_index": 405,
+                    "label": "list",
+                    "start_index": 0
+                  }
+                ],
+                "type": "list"
+              },
+              {
+                "md": "Review and analyze RFP, DPR, and EoI documents to ensure a comprehensive understanding of project requirements, technical and financial feasibility, and vendor qualifications.",
+                "value": "Review and analyze RFP, DPR, and EoI documents to ensure a comprehensive understanding of project requirements, technical and financial feasibility, and vendor qualifications.",
+                "bbox": [
+                  {
+                    "h": 23.55541634908538,
+                    "w": 438.25115156964563,
+                    "x": 95.33747814643672,
+                    "y": 377.9124566501525,
+                    "confidence": 0.99,
+                    "end_index": 174,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Cyber Security: Identify challenges in existing policies, draft updated policies, share findings, and outline tasks for red team exercises and security services at data centers.",
+                "value": "Cyber Security: Identify challenges in existing policies, draft updated policies, share findings, and outline tasks for red team exercises and security services at data centers.",
+                "bbox": [
+                  {
+                    "h": 23.664735137195088,
+                    "w": 426.5286890839368,
+                    "x": 95.09008854563642,
+                    "y": 406.2719574123476,
+                    "confidence": 0.98,
+                    "end_index": 176,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              }
+            ],
+            "md": "* Develop comprehensive scopes and innovative solutions, standardize technical specifications for bidding processes, and create detailed RFPs for diverse projects.\n  * Colocation of datacenter assets\n  * Managed Security Service at Data Centre\n  * Ticketing solution for Tourism\n  * Digital monitoring of Agriculture, Crops and Production estimation\n  * ePOS machine and ePoS electronic Weighing machine\n  * AI/ML solution on CCTV & Videos for predictive analysis to benefit citizen’s\n  * Forest Monitoring through Satellite and IoT\n  * Enterprise Email Solution\n  * Upgrading Data Centre\n* Review and analyze RFP, DPR, and EoI documents to ensure a comprehensive understanding of project requirements, technical and financial feasibility, and vendor qualifications.\n* Cyber Security: Identify challenges in existing policies, draft updated policies, share findings, and outline tasks for red team exercises and security services at data centers.",
+            "ordered": false,
+            "bbox": [
+              {
+                "h": 215.97,
+                "w": 439.24,
+                "x": 94.35,
+                "y": 213.97,
+                "confidence": 0.99,
+                "end_index": 945,
+                "label": "list",
+                "start_index": 0
+              }
+            ],
+            "type": "list"
+          },
+          {
+            "md": "**Name of assignment of project**: SITC ERP and ICCC for Diu Smart City\n**Duration**: Jan 2022 to June 2023\n**Location**: Mumbai\n**Client**: Diu Smart City\n**Project Cost**: 80 Cr\n**Main project features:**",
+            "value": "Name of assignment of project: SITC ERP and ICCC for Diu Smart City\nDuration: Jan 2022 to June 2023\nLocation: Mumbai\nClient: Diu Smart City\nProject Cost: 80 Cr\nMain project features:",
+            "bbox": [
+              {
+                "h": 10.758091177591462,
+                "w": 149.23162246331935,
+                "x": 77.46044999285442,
+                "y": 433.031904535061,
+                "confidence": 0.8,
+                "end_index": 30,
+                "label": "text",
+                "start_index": 0
+              },
+              {
+                "h": 10.598404630335379,
+                "w": 180.6442254192073,
+                "x": 228.52407107469512,
+                "y": 432.96941644435975,
+                "confidence": 0.81,
+                "end_index": 70,
+                "label": "text",
+                "start_index": 31
+              },
+              {
+                "h": 87.24955078125,
+                "w": 148.8320036204268,
+                "x": 77.24583126905488,
+                "y": 450.7007540967988,
+                "confidence": 0.79,
+                "end_index": 202,
+                "label": "key-value-region",
+                "start_index": 72
+              }
+            ],
+            "type": "text"
+          },
+          {
+            "md": "To establish a collaborative framework where input from different functional departments of Diu Municipal Corporation (DMC) and other stakeholders such as Transport, Hospitals, Fire, Police, etc. can be assimilated and analysed on a single platform and further this aggregated city level information can be converted to actionable intelligence, which would be propagated to relevant stakeholders and citizens. The solution comprises of:",
+            "value": "To establish a collaborative framework where input from different functional departments of Diu Municipal Corporation (DMC) and other stakeholders such as Transport, Hospitals, Fire, Police, etc. can be assimilated and analysed on a single platform and further this aggregated city level information can be converted to actionable intelligence, which would be propagated to relevant stakeholders and citizens. The solution comprises of:",
+            "bbox": [
+              {
+                "h": 63.53855087652444,
+                "w": 457.9039203029726,
+                "x": 76.57521722560975,
+                "y": 546.8015896532012,
+                "confidence": 0.99,
+                "end_index": 435,
+                "label": "text",
+                "start_index": 0
+              }
+            ],
+            "type": "text"
+          },
+          {
+            "items": [
+              {
+                "md": "Enterprise Resource Planning (ERP)",
+                "value": "Enterprise Resource Planning (ERP)",
+                "bbox": [
+                  {
+                    "h": 11.0,
+                    "w": 162.376,
+                    "x": 113.66,
+                    "y": 622.286,
+                    "confidence": 0.98,
+                    "end_index": 33,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Integrated Command and Control Centre (ICCC)",
+                "value": "Integrated Command and Control Centre (ICCC)",
+                "bbox": [
+                  {
+                    "h": 11.0,
+                    "w": 214.71200000000002,
+                    "x": 113.66,
+                    "y": 637.286,
+                    "confidence": 0.98,
+                    "end_index": 43,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Data Centre (DC) & Disaster Recovery (DR)",
+                "value": "Data Centre (DC) & Disaster Recovery (DR)",
+                "bbox": [
+                  {
+                    "h": 11.0,
+                    "w": 195.36999999999998,
+                    "x": 113.66,
+                    "y": 652.406,
+                    "confidence": 0.98,
+                    "end_index": 40,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "City Surveillance",
+                "value": "City Surveillance",
+                "bbox": [
+                  {
+                    "h": 11.0,
+                    "w": 73.92000000000002,
+                    "x": 113.66,
+                    "y": 667.526,
+                    "confidence": 0.98,
+                    "end_index": 16,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Parking Management",
+                "value": "Parking Management",
+                "bbox": [
+                  {
+                    "h": 11.0,
+                    "w": 94.613,
+                    "x": 113.66,
+                    "y": 682.646,
+                    "confidence": 0.98,
+                    "end_index": 17,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Smart Kiosk",
+                "value": "Smart Kiosk",
+                "bbox": [
+                  {
+                    "h": 11.0,
+                    "w": 53.382000000000005,
+                    "x": 113.66,
+                    "y": 697.762,
+                    "confidence": 0.97,
+                    "end_index": 10,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              }
+            ],
+            "md": "* Enterprise Resource Planning (ERP)\n* Integrated Command and Control Centre (ICCC)\n* Data Centre (DC) & Disaster Recovery (DR)\n* City Surveillance\n* Parking Management\n* Smart Kiosk",
+            "ordered": false,
+            "bbox": [
+              {
+                "h": 86.48,
+                "w": 214.71,
+                "x": 113.66,
+                "y": 622.29,
+                "confidence": 0.98,
+                "end_index": 181,
+                "label": "list",
+                "start_index": 0
+              }
+            ],
+            "type": "list"
+          }
+        ],
+        "page_height": 792.0,
+        "page_number": 3,
+        "page_width": 612.0,
+        "success": true
+      },
+      {
+        "items": [
+          {
+            "items": [
+              {
+                "md": "Variable Messaging Display (VMD)",
+                "value": "Variable Messaging Display (VMD)",
+                "bbox": [
+                  {
+                    "h": 11.0,
+                    "w": 158.12300000000002,
+                    "x": 113.66,
+                    "y": 74.766,
+                    "confidence": 0.98,
+                    "end_index": 31,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Smart Poles with Environmental Sensors and Public address system",
+                "value": "Smart Poles with Environmental Sensors and Public address system",
+                "bbox": [
+                  {
+                    "h": 10.58858928401296,
+                    "w": 320.9890729801829,
+                    "x": 95.41574742759146,
+                    "y": 90.66304526724467,
+                    "confidence": 0.98,
+                    "end_index": 63,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              }
+            ],
+            "md": "* Variable Messaging Display (VMD)\n* Smart Poles with Environmental Sensors and Public address system",
+            "ordered": false,
+            "bbox": [
+              {
+                "h": 26.49,
+                "w": 320.99,
+                "x": 95.42,
+                "y": 74.77,
+                "confidence": 0.98,
+                "end_index": 100,
+                "label": "list",
+                "start_index": 0
+              }
+            ],
+            "type": "list"
+          },
+          {
+            "md": "**Position held: Project Manager**",
+            "value": "Position held: Project Manager",
+            "bbox": [
+              {
+                "h": 11.0,
+                "w": 69.09,
+                "x": 77.66,
+                "y": 115.81,
+                "confidence": 1.0,
+                "end_index": 15,
+                "label": "text",
+                "start_index": 0
+              },
+              {
+                "h": 11.0,
+                "w": 77.57,
+                "x": 146.47,
+                "y": 115.81,
+                "confidence": 1.0,
+                "end_index": 33,
+                "label": "text",
+                "start_index": 17
+              }
+            ],
+            "type": "text"
+          },
+          {
+            "md": "**Activities Performed:**",
+            "value": "Activities Performed:",
+            "bbox": [
+              {
+                "h": 8.37914598418446,
+                "w": 100.28364847322788,
+                "x": 77.03449236613947,
+                "y": 135.87744104897104,
+                "confidence": 0.94,
+                "end_index": 24,
+                "label": "paragraph_title",
+                "start_index": 0
+              }
+            ],
+            "type": "text"
+          },
+          {
+            "items": [
+              {
+                "md": "Orchestrated RFP/RFQ response processes, ensuring compliance with functional and technical requirements, and devising comprehensive solutions covering hardware, software, and services.",
+                "value": "Orchestrated RFP/RFQ response processes, ensuring compliance with functional and technical requirements, and devising comprehensive solutions covering hardware, software, and services.",
+                "bbox": [
+                  {
+                    "h": 34.764577219893305,
+                    "w": 423.9870738852896,
+                    "x": 95.21057641006098,
+                    "y": 156.81065667873477,
+                    "confidence": 0.98,
+                    "end_index": 183,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Recognizing and managing project risks, with a focus on strategizing for disaster recovery to ensure seamless delivery and operation.",
+                "value": "Recognizing and managing project risks, with a focus on strategizing for disaster recovery to ensure seamless delivery and operation.",
+                "bbox": [
+                  {
+                    "h": 23.45446860708842,
+                    "w": 426.12317567406626,
+                    "x": 95.31389987852516,
+                    "y": 198.4861101848323,
+                    "confidence": 0.99,
+                    "end_index": 132,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Assessing OEMs/Vendors, leading contract negotiations, and procuring essential software and infrastructure for projects.",
+                "value": "Assessing OEMs/Vendors, leading contract negotiations, and procuring essential software and infrastructure for projects.",
+                "bbox": [
+                  {
+                    "h": 22.63276200457316,
+                    "w": 438.6988835627858,
+                    "x": 95.26462968035442,
+                    "y": 226.61678663300307,
+                    "confidence": 0.98,
+                    "end_index": 119,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Project Kickoff, Site survey, Drafting HLD and Planning for execution of ERP and ICCC solution at Diu Smart City.",
+                "value": "Project Kickoff, Site survey, Drafting HLD and Planning for execution of ERP and ICCC solution at Diu Smart City.",
+                "bbox": [
+                  {
+                    "h": 22.96090701219509,
+                    "w": 402.5347676495808,
+                    "x": 95.1370537585747,
+                    "y": 260.7369819455031,
+                    "confidence": 0.98,
+                    "end_index": 112,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              }
+            ],
+            "md": "* Orchestrated RFP/RFQ response processes, ensuring compliance with functional and technical requirements, and devising comprehensive solutions covering hardware, software, and services.\n* Recognizing and managing project risks, with a focus on strategizing for disaster recovery to ensure seamless delivery and operation.\n* Assessing OEMs/Vendors, leading contract negotiations, and procuring essential software and infrastructure for projects.\n* Project Kickoff, Site survey, Drafting HLD and Planning for execution of ERP and ICCC solution at Diu Smart City.",
+            "ordered": false,
+            "bbox": [
+              {
+                "h": 126.89,
+                "w": 438.83,
+                "x": 95.14,
+                "y": 156.81,
+                "confidence": 0.98,
+                "end_index": 560,
+                "label": "list",
+                "start_index": 0
+              }
+            ],
+            "type": "list"
+          },
+          {
+            "md": "**Name of assignment of project:** Hybrid Security Operation Center for Govt of Maharashtra\n**Duration:** Sept 2019 to June 2021\n**Location:** Mumbai\n**Client:** Government of Maharashtra\n**Project Cost:** 35 Cr",
+            "value": "Name of assignment of project: Hybrid Security Operation Center for Govt of Maharashtra\nDuration: Sept 2019 to June 2021\nLocation: Mumbai\nClient: Government of Maharashtra\nProject Cost: 35 Cr",
+            "bbox": [
+              {
+                "h": 10.409030344893303,
+                "w": 148.38051805449695,
+                "x": 77.92484529820884,
+                "y": 287.18804925685976,
+                "confidence": 0.76,
+                "end_index": 31,
+                "label": "text",
+                "start_index": 0
+              },
+              {
+                "h": 10.387359946646374,
+                "w": 269.03248285060977,
+                "x": 227.92641482469512,
+                "y": 287.1137237995427,
+                "confidence": 0.79,
+                "end_index": 90,
+                "label": "text",
+                "start_index": 32
+              },
+              {
+                "h": 68.237490234375,
+                "w": 167.86502286585366,
+                "x": 76.81105456840702,
+                "y": 305.4021958365091,
+                "confidence": 0.72,
+                "end_index": 210,
+                "label": "key-value-region",
+                "start_index": 92
+              }
+            ],
+            "type": "text"
+          },
+          {
+            "md": "**Main project features:**",
+            "value": "Main project features:",
+            "bbox": [
+              {
+                "h": 10.515943931021317,
+                "w": 103.25098442263719,
+                "x": 77.51406595369664,
+                "y": 381.8865341558689,
+                "confidence": 0.92,
+                "end_index": 25,
+                "label": "paragraph_title",
+                "start_index": 0
+              }
+            ],
+            "type": "text"
+          },
+          {
+            "md": "DIT, Maharashtra wants to set-up state-of-art scalable hybrid SOC to reduce the time between detection and response and minimize the business impact of any cyber-attack with continual advanced security monitoring. DIT also wants to establish the SOC under the principle of dual incident monitoring wherein each incident would be monitored parallelly at two layers so that no critical incident is missed by DIT as an organization. Hybrid SOC will provide the advanced cyber threat monitoring functionality spanning across the SDC and multiple GCC’s. SOC operation set-up including expert monitoring environment for 24x7 monitoring, state of the art analytics and forensic tools, GRC tool, DLP, CASB, global security OEM advanced incident response service and threat intelligence to detect advanced attacks.",
+            "value": "DIT, Maharashtra wants to set-up state-of-art scalable hybrid SOC to reduce the time between detection and response and minimize the business impact of any cyber-attack with continual advanced security monitoring. DIT also wants to establish the SOC under the principle of dual incident monitoring wherein each incident would be monitored parallelly at two layers so that no critical incident is missed by DIT as an organization. Hybrid SOC will provide the advanced cyber threat monitoring functionality spanning across the SDC and multiple GCC’s. SOC operation set-up including expert monitoring environment for 24x7 monitoring, state of the art analytics and forensic tools, GRC tool, DLP, CASB, global security OEM advanced incident response service and threat intelligence to detect advanced attacks.",
+            "bbox": [
+              {
+                "h": 90.77133241234755,
+                "w": 457.80583543730944,
+                "x": 76.92909167778201,
+                "y": 401.05257479039636,
+                "confidence": 0.99,
+                "end_index": 804,
+                "label": "text",
+                "start_index": 0
+              }
+            ],
+            "type": "text"
+          },
+          {
+            "md": ".",
+            "value": ".",
+            "bbox": [
+              {
+                "h": 11.11,
+                "w": 2.77,
+                "x": 77.66,
+                "y": 491.94,
+                "confidence": 0.4,
+                "end_index": 0,
+                "label": "text",
+                "start_index": 0
+              }
+            ],
+            "type": "text"
+          },
+          {
+            "md": "**Position held: General Manager**",
+            "value": "Position held: General Manager",
+            "bbox": [
+              {
+                "h": 11.0,
+                "w": 69.09,
+                "x": 77.66,
+                "y": 510.9,
+                "confidence": 1.0,
+                "end_index": 15,
+                "label": "text",
+                "start_index": 0
+              },
+              {
+                "h": 11.0,
+                "w": 81.05,
+                "x": 146.37,
+                "y": 510.9,
+                "confidence": 1.0,
+                "end_index": 33,
+                "label": "text",
+                "start_index": 17
+              }
+            ],
+            "type": "text"
+          },
+          {
+            "md": "**Activities Performed:**",
+            "value": "Activities Performed:",
+            "bbox": [
+              {
+                "h": 8.58760861280491,
+                "w": 100.27527581935975,
+                "x": 77.07673828125,
+                "y": 530.6712204649391,
+                "confidence": 0.95,
+                "end_index": 24,
+                "label": "paragraph_title",
+                "start_index": 0
+              }
+            ],
+            "type": "text"
+          },
+          {
+            "md": "▪ Efficiently oversaw project vendors, involving in-depth technical understanding, alignment with client requirements, and coordination of software and infrastructure delivery plans, contract negotiations, onboarding procedures, and risk mitigation strategies.\n▪ Collaborated with diverse stakeholders to compile comprehensive project proposals. Managed the entire RFP/RFQ process, ensuring both functional and technical compliance, and meticulously prepared solutions and proposals.\n▪ Proactively analyzed customer requirements to identify suitable technical solutions that addressed both customer needs and company objectives.\n▪ Headed a project team, with responsibilities encompassing team leadership, risk evaluation, disaster recovery planning, enhancing team efficiency, and providing regular updates to business owners and stakeholders.\n▪ Successfully implemented a Hybrid Security Operations Center (SOC) for the State of Maharashtra, enhancing workload monitoring for State Data Centers and the Government",
+            "value": "▪ Efficiently oversaw project vendors, involving in-depth technical understanding, alignment with client requirements, and coordination of software and infrastructure delivery plans, contract negotiations, onboarding procedures, and risk mitigation strategies.\n▪ Collaborated with diverse stakeholders to compile comprehensive project proposals. Managed the entire RFP/RFQ process, ensuring both functional and technical compliance, and meticulously prepared solutions and proposals.\n▪ Proactively analyzed customer requirements to identify suitable technical solutions that addressed both customer needs and company objectives.\n▪ Headed a project team, with responsibilities encompassing team leadership, risk evaluation, disaster recovery planning, enhancing team efficiency, and providing regular updates to business owners and stakeholders.\n▪ Successfully implemented a Hybrid Security Operations Center (SOC) for the State of Maharashtra, enhancing workload monitoring for State Data Centers and the Government",
+            "bbox": [
+              {
+                "h": 10.751323599466462,
+                "w": 61.68548637576218,
+                "x": 77.47223001619665,
+                "y": 362.6882590987043,
+                "confidence": 0.72,
+                "end_index": 1014,
+                "label": "text",
+                "start_index": 0
+              },
+              {
+                "h": 35.87,
+                "w": 423.56,
+                "x": 113.66,
+                "y": 549.18,
+                "confidence": 1.0,
+                "end_index": 259,
+                "label": "text",
+                "start_index": 2
+              },
+              {
+                "h": 35.72,
+                "w": 423.68,
+                "x": 113.66,
+                "y": 586.53,
+                "confidence": 1.0,
+                "end_index": 482,
+                "label": "text",
+                "start_index": 263
+              },
+              {
+                "h": 11.0,
+                "w": 37.0,
+                "x": 77.66,
+                "y": 362.08,
+                "confidence": 0.72,
+                "end_index": 843,
+                "label": "text",
+                "start_index": 629
+              }
+            ],
+            "type": "text"
+          }
+        ],
+        "page_height": 792.0,
+        "page_number": 4,
+        "page_width": 612.0,
+        "success": true
+      },
+      {
+        "items": [
+          {
+            "md": "Community Cloud through a unified dashboard. This involved deploying components like SIEM, GRC, DLP, and CASB to bolster government and citizen data security against cyber threats and malware.",
+            "value": "Community Cloud through a unified dashboard. This involved deploying components like SIEM, GRC, DLP, and CASB to bolster government and citizen data security against cyber threats and malware.",
+            "bbox": [
+              {
+                "h": 32.96499094893292,
+                "w": 421.2060408727134,
+                "x": 112.78713652820122,
+                "y": 73.7293680926067,
+                "confidence": 0.98,
+                "end_index": 191,
+                "label": "text",
+                "start_index": 0
+              }
+            ],
+            "type": "text"
+          },
+          {
+            "md": "**Name of assignment of project**: Implementation of HMIS across **MCGM Health Care Centers**",
+            "value": "Name of assignment of project: Implementation of HMIS across MCGM Health Care Centers",
+            "bbox": [
+              {
+                "h": 11.0,
+                "w": 151.62,
+                "x": 77.66,
+                "y": 118.09,
+                "confidence": 1.0,
+                "end_index": 33,
+                "label": "text",
+                "start_index": 0
+              },
+              {
+                "h": 11.0,
+                "w": 277.58,
+                "x": 229.85,
+                "y": 118.09,
+                "confidence": 1.0,
+                "end_index": 92,
+                "label": "text",
+                "start_index": 35
+              }
+            ],
+            "type": "text"
+          },
+          {
+            "md": "**Duration**: June 2017 to Sep 2018",
+            "value": "Duration: June 2017 to Sep 2018",
+            "bbox": [
+              {
+                "h": 11.0,
+                "w": 149.748,
+                "x": 77.664,
+                "y": 137.046,
+                "confidence": 0.96,
+                "end_index": 34,
+                "label": "text",
+                "start_index": 0
+              },
+              {
+                "h": 11.0,
+                "w": 103.17,
+                "x": 124.24,
+                "y": 137.05,
+                "confidence": 1.0,
+                "end_index": 34,
+                "label": "text",
+                "start_index": 14
+              }
+            ],
+            "type": "text"
+          },
+          {
+            "md": "**Location**: Mumbai",
+            "value": "Location: Mumbai",
+            "bbox": [
+              {
+                "h": 8.711999999999989,
+                "w": 85.068,
+                "x": 77.724,
+                "y": 156.816,
+                "confidence": 0.96,
+                "end_index": 19,
+                "label": "text",
+                "start_index": 0
+              }
+            ],
+            "type": "text"
+          },
+          {
+            "md": "**Client**: Municipal Corporation of Greater Mumbai (MCGM)",
+            "value": "Client: Municipal Corporation of Greater Mumbai (MCGM)",
+            "bbox": [
+              {
+                "h": 29.840000000000003,
+                "w": 257.829,
+                "x": 77.664,
+                "y": 156.006,
+                "confidence": 0.6,
+                "end_index": 57,
+                "label": "key-value-region",
+                "start_index": 0
+              },
+              {
+                "h": 11.0,
+                "w": 223.99,
+                "x": 111.5,
+                "y": 174.85,
+                "confidence": 1.0,
+                "end_index": 57,
+                "label": "text",
+                "start_index": 12
+              }
+            ],
+            "type": "text"
+          },
+          {
+            "md": "**Project Cost**: 97 Cr",
+            "value": "Project Cost: 97 Cr",
+            "bbox": [
+              {
+                "h": 11.087999999999994,
+                "w": 89.35199999999999,
+                "x": 77.724,
+                "y": 194.04,
+                "confidence": 0.97,
+                "end_index": 22,
+                "label": "text",
+                "start_index": 0
+              },
+              {
+                "h": 11.0,
+                "w": 64.56,
+                "x": 77.66,
+                "y": 193.81,
+                "confidence": 1.0,
+                "end_index": 16,
+                "label": "text",
+                "start_index": 0
+              }
+            ],
+            "type": "text"
+          },
+          {
+            "md": "Main project features:",
+            "value": "Main project features:",
+            "bbox": [
+              {
+                "h": 10.416010146722545,
+                "w": 103.23154237328505,
+                "x": 77.5610584984756,
+                "y": 213.5754513624238,
+                "confidence": 0.9,
+                "end_index": 21,
+                "label": "paragraph_title",
+                "start_index": 0
+              }
+            ],
+            "type": "text"
+          },
+          {
+            "md": "The project aimed at alleviated HMIS processes for patients and streamlining administrative burdens, ensuring transparency and data security while providing convenient access to patient information and serving as a decision support tool for top management. MCGM Health Care comprises of major hospitals, Specialized hospital and Dispensaries across Mumbai.",
+            "value": "The project aimed at alleviated HMIS processes for patients and streamlining administrative burdens, ensuring transparency and data security while providing convenient access to patient information and serving as a decision support tool for top management. MCGM Health Care comprises of major hospitals, Specialized hospital and Dispensaries across Mumbai.",
+            "bbox": [
+              {
+                "h": 43.44888910060977,
+                "w": 447.6407047923018,
+                "x": 76.79660513528964,
+                "y": 232.3249911871189,
+                "confidence": 0.99,
+                "end_index": 355,
+                "label": "text",
+                "start_index": 0
+              }
+            ],
+            "type": "text"
+          },
+          {
+            "md": "**Position held**: Consultant",
+            "value": "Position held: Consultant",
+            "bbox": [
+              {
+                "h": 11.0,
+                "w": 69.09,
+                "x": 77.66,
+                "y": 283.36,
+                "confidence": 1.0,
+                "end_index": 17,
+                "label": "text",
+                "start_index": 0
+              },
+              {
+                "h": 11.0,
+                "w": 48.0,
+                "x": 146.42,
+                "y": 283.36,
+                "confidence": 1.0,
+                "end_index": 28,
+                "label": "text",
+                "start_index": 19
+              }
+            ],
+            "type": "text"
+          },
+          {
+            "md": "Activities Performed:",
+            "value": "Activities Performed:",
+            "bbox": [
+              {
+                "h": 8.693201695884152,
+                "w": 100.40150337033154,
+                "x": 77.03686112566693,
+                "y": 303.11697098894814,
+                "confidence": 0.96,
+                "end_index": 20,
+                "label": "paragraph_title",
+                "start_index": 0
+              }
+            ],
+            "type": "text"
+          },
+          {
+            "items": [
+              {
+                "md": "Led PMO role in Procurement and implementation Health Care Management System (HMIS) for MCGM hospitals & health care units in Mumbai. This involved custom web application development and infrastructure setup.",
+                "value": "Led PMO role in Procurement and implementation Health Care Management System (HMIS) for MCGM hospitals & health care units in Mumbai. This involved custom web application development and infrastructure setup.",
+                "bbox": [
+                  {
+                    "h": 35.030281297637224,
+                    "w": 439.23781279773243,
+                    "x": 95.12915485661203,
+                    "y": 322.42373951981705,
+                    "confidence": 0.99,
+                    "end_index": 207,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Evaluated application wireframes, modules, and integrations to ensure HMIS met quality and performance standards. Oversaw key project milestones and reporting.",
+                "value": "Evaluated application wireframes, modules, and integrations to ensure HMIS met quality and performance standards. Oversaw key project milestones and reporting.",
+                "bbox": [
+                  {
+                    "h": 22.91478372713415,
+                    "w": 438.91539729420737,
+                    "x": 95.30838795731707,
+                    "y": 359.6654389767531,
+                    "confidence": 0.99,
+                    "end_index": 158,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Facilitated User Acceptance Testing (UAT) and load testing for HMIS application in a test environment.",
+                "value": "Facilitated User Acceptance Testing (UAT) and load testing for HMIS application in a test environment.",
+                "bbox": [
+                  {
+                    "h": 21.02820931783538,
+                    "w": 439.0311020865091,
+                    "x": 95.31188643292684,
+                    "y": 384.37806402439026,
+                    "confidence": 0.98,
+                    "end_index": 101,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Played a vital role in process implementation and improvement, including monitoring SLAs, payments, and audit compliance.",
+                "value": "Played a vital role in process implementation and improvement, including monitoring SLAs, payments, and audit compliance.",
+                "bbox": [
+                  {
+                    "h": 22.697608136432923,
+                    "w": 438.75101449361665,
+                    "x": 95.26293510623094,
+                    "y": 409.3871655868902,
+                    "confidence": 0.98,
+                    "end_index": 120,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Conducted requirement gathering, re-engineered business processes, and provided TO-BE process recommendations for procuring infrastructure and third-party software for HMIS.",
+                "value": "Conducted requirement gathering, re-engineered business processes, and provided TO-BE process recommendations for procuring infrastructure and third-party software for HMIS.",
+                "bbox": [
+                  {
+                    "h": 22.93407250381094,
+                    "w": 439.2596144959985,
+                    "x": 95.15385372999238,
+                    "y": 433.9174433117378,
+                    "confidence": 0.99,
+                    "end_index": 172,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Drafted Request for Proposal (RFP) for procurement of infrastructure and software license for Major Hospitals, specialty hospital and 5 health care units. Assisted the client in addressing pre bid queries, corrigendum, technical and commercial evaluations, bid negotiations and onboarding.",
+                "value": "Drafted Request for Proposal (RFP) for procurement of infrastructure and software license for Major Hospitals, specialty hospital and 5 health care units. Assisted the client in addressing pre bid queries, corrigendum, technical and commercial evaluations, bid negotiations and onboarding.",
+                "bbox": [
+                  {
+                    "h": 35.839999999999975,
+                    "w": 423.00700000000006,
+                    "x": 113.66,
+                    "y": 458.216,
+                    "confidence": 0.99,
+                    "end_index": 288,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              }
+            ],
+            "md": "* Led PMO role in Procurement and implementation Health Care Management System (HMIS) for MCGM hospitals & health care units in Mumbai. This involved custom web application development and infrastructure setup.\n* Evaluated application wireframes, modules, and integrations to ensure HMIS met quality and performance standards. Oversaw key project milestones and reporting.\n* Facilitated User Acceptance Testing (UAT) and load testing for HMIS application in a test environment.\n* Played a vital role in process implementation and improvement, including monitoring SLAs, payments, and audit compliance.\n* Conducted requirement gathering, re-engineered business processes, and provided TO-BE process recommendations for procuring infrastructure and third-party software for HMIS.\n* Drafted Request for Proposal (RFP) for procurement of infrastructure and software license for Major Hospitals, specialty hospital and 5 health care units. Assisted the client in addressing pre bid queries, corrigendum, technical and commercial evaluations, bid negotiations and onboarding.",
+            "ordered": false,
+            "bbox": [
+              {
+                "h": 171.63,
+                "w": 441.54,
+                "x": 95.13,
+                "y": 322.42,
+                "confidence": 0.99,
+                "end_index": 1068,
+                "label": "list",
+                "start_index": 0
+              }
+            ],
+            "type": "list"
+          },
+          {
+            "md": "**Name of assignment of project**: Digitization and Archival of Government Record for **MMRDA**.",
+            "value": "Name of assignment of project: Digitization and Archival of Government Record for MMRDA.",
+            "bbox": [
+              {
+                "h": 11.0,
+                "w": 151.62,
+                "x": 77.66,
+                "y": 503.46,
+                "confidence": 1.0,
+                "end_index": 33,
+                "label": "text",
+                "start_index": 0
+              },
+              {
+                "h": 11.0,
+                "w": 272.09,
+                "x": 229.85,
+                "y": 503.46,
+                "confidence": 1.0,
+                "end_index": 95,
+                "label": "text",
+                "start_index": 35
+              }
+            ],
+            "type": "text"
+          },
+          {
+            "md": "**Duration**: April 2013 to July 2016",
+            "value": "Duration: April 2013 to July 2016",
+            "bbox": [
+              {
+                "h": 11.0,
+                "w": 148.154,
+                "x": 77.664,
+                "y": 522.416,
+                "confidence": 0.96,
+                "end_index": 36,
+                "label": "text",
+                "start_index": 0
+              },
+              {
+                "h": 11.0,
+                "w": 101.58,
+                "x": 124.24,
+                "y": 522.42,
+                "confidence": 1.0,
+                "end_index": 36,
+                "label": "text",
+                "start_index": 14
+              }
+            ],
+            "type": "text"
+          },
+          {
+            "md": "**Location**: Mumbai",
+            "value": "Location: Mumbai",
+            "bbox": [
+              {
+                "h": 8.711999999999989,
+                "w": 85.068,
+                "x": 77.724,
+                "y": 542.5200000000001,
+                "confidence": 0.96,
+                "end_index": 19,
+                "label": "text",
+                "start_index": 0
+              }
+            ],
+            "type": "text"
+          },
+          {
+            "md": "**Client**: Mumbai Metropolitan Region Development Authority (MMRDA)",
+            "value": "Client: Mumbai Metropolitan Region Development Authority (MMRDA)",
+            "bbox": [
+              {
+                "h": 29.840000000000032,
+                "w": 331.33000000000004,
+                "x": 77.664,
+                "y": 541.376,
+                "confidence": 0.69,
+                "end_index": 67,
+                "label": "key-value-region",
+                "start_index": 0
+              },
+              {
+                "h": 11.0,
+                "w": 297.51,
+                "x": 111.49,
+                "y": 560.22,
+                "confidence": 1.0,
+                "end_index": 67,
+                "label": "text",
+                "start_index": 12
+              }
+            ],
+            "type": "text"
+          },
+          {
+            "md": "Main project features:",
+            "value": "Main project features:",
+            "bbox": [
+              {
+                "h": 10.522051257621987,
+                "w": 103.30657738662347,
+                "x": 77.51269936166159,
+                "y": 580.0742578125,
+                "confidence": 0.9,
+                "end_index": 21,
+                "label": "paragraph_title",
+                "start_index": 0
+              }
+            ],
+            "type": "text"
+          },
+          {
+            "md": "The project was designed to give users quick access to documents based on their roles and help make decisions faster. It also lets departments add comments and track document versions.",
+            "value": "The project was designed to give users quick access to documents based on their roles and help make decisions faster. It also lets departments add comments and track document versions.",
+            "bbox": [
+              {
+                "h": 20.640547351371875,
+                "w": 455.3235121117569,
+                "x": 76.98073974609375,
+                "y": 599.0646479611281,
+                "confidence": 0.98,
+                "end_index": 183,
+                "label": "text",
+                "start_index": 0
+              }
+            ],
+            "type": "text"
+          },
+          {
+            "md": "**Position held**: Assistant Manager",
+            "value": "Position held: Assistant Manager",
+            "bbox": [
+              {
+                "h": 11.0,
+                "w": 69.09,
+                "x": 77.66,
+                "y": 627.93,
+                "confidence": 1.0,
+                "end_index": 17,
+                "label": "text",
+                "start_index": 0
+              },
+              {
+                "h": 11.0,
+                "w": 82.29,
+                "x": 146.54,
+                "y": 627.93,
+                "confidence": 1.0,
+                "end_index": 35,
+                "label": "text",
+                "start_index": 19
+              }
+            ],
+            "type": "text"
+          },
+          {
+            "md": "Activities Performed:",
+            "value": "Activities Performed:",
+            "bbox": [
+              {
+                "h": 8.765640720274442,
+                "w": 100.19632324218749,
+                "x": 77.17815763147865,
+                "y": 647.6343535632622,
+                "confidence": 0.96,
+                "end_index": 20,
+                "label": "paragraph_title",
+                "start_index": 0
+              }
+            ],
+            "type": "text"
+          },
+          {
+            "items": [
+              {
+                "md": "Worked with clients to gather requirements and deliver customized application solutions.",
+                "value": "Worked with clients to gather requirements and deliver customized application solutions.",
+                "bbox": [
+                  {
+                    "h": 10.31289300685971,
+                    "w": 398.797812619093,
+                    "x": 95.62177484279725,
+                    "y": 667.1819959984757,
+                    "confidence": 0.98,
+                    "end_index": 87,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Coordinated with the development team to adapt open-source COTS tools to project needs.",
+                "value": "Coordinated with the development team to adapt open-source COTS tools to project needs.",
+                "bbox": [
+                  {
+                    "h": 9.998094512195088,
+                    "w": 414.31657667206554,
+                    "x": 95.3285224133003,
+                    "y": 679.5877920160061,
+                    "confidence": 0.97,
+                    "end_index": 86,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Set up and improved operational processes for better efficiency and results.",
+                "value": "Set up and improved operational processes for better efficiency and results.",
+                "bbox": [
+                  {
+                    "h": 10.606139005335379,
+                    "w": 345.1269421088986,
+                    "x": 95.48149872570504,
+                    "y": 691.9838257431403,
+                    "confidence": 0.97,
+                    "end_index": 75,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Handled vendor onboarding and managed daily operations effectively.",
+                "value": "Handled vendor onboarding and managed daily operations effectively.",
+                "bbox": [
+                  {
+                    "h": 11.0,
+                    "w": 303.446,
+                    "x": 113.66,
+                    "y": 703.522,
+                    "confidence": 0.98,
+                    "end_index": 66,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              }
+            ],
+            "md": "* Worked with clients to gather requirements and deliver customized application solutions.\n* Coordinated with the development team to adapt open-source COTS tools to project needs.\n* Set up and improved operational processes for better efficiency and results.\n* Handled vendor onboarding and managed daily operations effectively.",
+            "ordered": false,
+            "bbox": [
+              {
+                "h": 47.34,
+                "w": 414.32,
+                "x": 95.33,
+                "y": 667.18,
+                "confidence": 0.98,
+                "end_index": 328,
+                "label": "list",
+                "start_index": 0
+              }
+            ],
+            "type": "list"
+          }
+        ],
+        "page_height": 792.0,
+        "page_number": 5,
+        "page_width": 612.0,
+        "success": true
+      },
+      {
+        "items": [
+          {
+            "items": [
+              {
+                "md": "Collaborated with the team to deliver projects on time, analyzed risks, and took action to reduce them.",
+                "value": "Collaborated with the team to deliver projects on time, analyzed risks, and took action to reduce them.",
+                "bbox": [
+                  {
+                    "h": 20.371978253620437,
+                    "w": 438.8678490020008,
+                    "x": 95.37269977848703,
+                    "y": 73.62814917587652,
+                    "confidence": 0.98,
+                    "end_index": 102,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              }
+            ],
+            "md": "* Collaborated with the team to deliver projects on time, analyzed risks, and took action to reduce them.",
+            "ordered": false,
+            "bbox": [
+              {
+                "h": 20.37,
+                "w": 438.87,
+                "x": 95.37,
+                "y": 73.63,
+                "confidence": 0.98,
+                "end_index": 104,
+                "label": "list",
+                "start_index": 0
+              }
+            ],
+            "type": "list"
+          },
+          {
+            "md": "**Name of assignment of project:** Digitization and Archival of Government Record for **GOM**.",
+            "value": "Name of assignment of project: Digitization and Archival of Government Record for GOM.",
+            "bbox": [
+              {
+                "h": 11.0,
+                "w": 151.62,
+                "x": 77.66,
+                "y": 105.73,
+                "confidence": 1.0,
+                "end_index": 33,
+                "label": "text",
+                "start_index": 0
+              },
+              {
+                "h": 11.0,
+                "w": 257.09,
+                "x": 229.85,
+                "y": 105.73,
+                "confidence": 1.0,
+                "end_index": 93,
+                "label": "text",
+                "start_index": 35
+              }
+            ],
+            "type": "text"
+          },
+          {
+            "md": "**Duration:** Feb 2011 to June 2014",
+            "value": "Duration: Feb 2011 to June 2014",
+            "bbox": [
+              {
+                "h": 8.711999999999989,
+                "w": 149.32800000000003,
+                "x": 77.724,
+                "y": 125.136,
+                "confidence": 0.96,
+                "end_index": 34,
+                "label": "text",
+                "start_index": 0
+              },
+              {
+                "h": 11.0,
+                "w": 102.62,
+                "x": 124.24,
+                "y": 124.69,
+                "confidence": 1.0,
+                "end_index": 34,
+                "label": "text",
+                "start_index": 14
+              }
+            ],
+            "type": "text"
+          },
+          {
+            "md": "**Location: Mumbai**",
+            "value": "Location: Mumbai",
+            "bbox": [
+              {
+                "h": 8.711999999999989,
+                "w": 85.068,
+                "x": 77.724,
+                "y": 144.144,
+                "confidence": 0.96,
+                "end_index": 19,
+                "label": "text",
+                "start_index": 0
+              }
+            ],
+            "type": "text"
+          },
+          {
+            "md": "**Client:** DIT, Government of Maharashtra",
+            "value": "Client: DIT, Government of Maharashtra",
+            "bbox": [
+              {
+                "h": 9.50399999999999,
+                "w": 180.54000000000002,
+                "x": 77.724,
+                "y": 163.152,
+                "confidence": 0.96,
+                "end_index": 41,
+                "label": "text",
+                "start_index": 0
+              },
+              {
+                "h": 11.0,
+                "w": 146.57,
+                "x": 111.49,
+                "y": 162.49,
+                "confidence": 1.0,
+                "end_index": 41,
+                "label": "text",
+                "start_index": 12
+              }
+            ],
+            "type": "text"
+          },
+          {
+            "md": "**Main project features:**",
+            "value": "Main project features:",
+            "bbox": [
+              {
+                "h": 10.630662633384151,
+                "w": 103.41419195407775,
+                "x": 77.51590629763719,
+                "y": 182.36022127477133,
+                "confidence": 0.91,
+                "end_index": 25,
+                "label": "paragraph_title",
+                "start_index": 0
+              }
+            ],
+            "type": "text"
+          },
+          {
+            "md": "DIT Maharashtra implemented a Document Management System (DMS) for scanning, storing, and retrieving official records at Mantralaya and other government offices. Building on this, the government decided to start scanning and digitizing of records and files in all government offices across the state.",
+            "value": "DIT Maharashtra implemented a Document Management System (DMS) for scanning, storing, and retrieving official records at Mantralaya and other government offices. Building on this, the government decided to start scanning and digitizing of records and files in all government offices across the state.",
+            "bbox": [
+              {
+                "h": 32.24055354420731,
+                "w": 453.3164075004764,
+                "x": 76.92352509289253,
+                "y": 201.06323694740854,
+                "confidence": 0.98,
+                "end_index": 299,
+                "label": "text",
+                "start_index": 0
+              }
+            ],
+            "type": "text"
+          },
+          {
+            "md": "**Position held:** Project Coordinator",
+            "value": "Position held: Project Coordinator",
+            "bbox": [
+              {
+                "h": 11.0,
+                "w": 69.09,
+                "x": 77.66,
+                "y": 241.12,
+                "confidence": 1.0,
+                "end_index": 17,
+                "label": "text",
+                "start_index": 0
+              },
+              {
+                "h": 11.0,
+                "w": 85.82,
+                "x": 146.54,
+                "y": 241.12,
+                "confidence": 1.0,
+                "end_index": 37,
+                "label": "text",
+                "start_index": 19
+              }
+            ],
+            "type": "text"
+          },
+          {
+            "md": "**Activities Performed:**",
+            "value": "Activities Performed:",
+            "bbox": [
+              {
+                "h": 8.7050390625,
+                "w": 100.09431170207698,
+                "x": 77.16471947646723,
+                "y": 260.78631216653963,
+                "confidence": 0.96,
+                "end_index": 24,
+                "label": "paragraph_title",
+                "start_index": 0
+              }
+            ],
+            "type": "text"
+          },
+          {
+            "items": [
+              {
+                "md": "Collected client requirements and delivered tailored application solutions.",
+                "value": "Collected client requirements and delivered tailored application solutions.",
+                "bbox": [
+                  {
+                    "h": 11.0,
+                    "w": 314.996,
+                    "x": 113.66,
+                    "y": 279.396,
+                    "confidence": 0.98,
+                    "end_index": 74,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Worked with the internal team to deploy complete solutions, including software, hardware, and connectivity.",
+                "value": "Worked with the internal team to deploy complete solutions, including software, hardware, and connectivity.",
+                "bbox": [
+                  {
+                    "h": 22.480904153963447,
+                    "w": 438.9802648628048,
+                    "x": 95.08536013719512,
+                    "y": 292.712255859375,
+                    "confidence": 0.99,
+                    "end_index": 106,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Managed project planning and execution; ensured smooth operations at government offices, and addressed risks to keep projects on track.",
+                "value": "Managed project planning and execution; ensured smooth operations at government offices, and addressed risks to keep projects on track.",
+                "bbox": [
+                  {
+                    "h": 22.627574314024386,
+                    "w": 439.0462803687119,
+                    "x": 95.08603432259909,
+                    "y": 317.3521824980945,
+                    "confidence": 0.99,
+                    "end_index": 134,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Provided regular status reports and updates to government authorities.",
+                "value": "Provided regular status reports and updates to government authorities.",
+                "bbox": [
+                  {
+                    "h": 10.593806450076228,
+                    "w": 323.81370027867763,
+                    "x": 95.22423321979801,
+                    "y": 342.06178925304874,
+                    "confidence": 0.97,
+                    "end_index": 69,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Trained stakeholders on how to use the application effectively.",
+                "value": "Trained stakeholders on how to use the application effectively.",
+                "bbox": [
+                  {
+                    "h": 11.0,
+                    "w": 269.26300000000003,
+                    "x": 113.66,
+                    "y": 353.916,
+                    "confidence": 0.97,
+                    "end_index": 62,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "On-boarded vendors and oversaw day-to-day operations efficiently.",
+                "value": "On-boarded vendors and oversaw day-to-day operations efficiently.",
+                "bbox": [
+                  {
+                    "h": 11.0,
+                    "w": 291.172,
+                    "x": 113.66,
+                    "y": 366.276,
+                    "confidence": 0.97,
+                    "end_index": 64,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              },
+              {
+                "md": "Handled invoicing and followed up on collections to ensure timely payments",
+                "value": "Handled invoicing and followed up on collections to ensure timely payments",
+                "bbox": [
+                  {
+                    "h": 10.292071503429911,
+                    "w": 352.6631960985137,
+                    "x": 95.27331209508384,
+                    "y": 379.60123856707315,
+                    "confidence": 0.97,
+                    "end_index": 73,
+                    "label": "text",
+                    "start_index": 0
+                  }
+                ],
+                "type": "text"
+              }
+            ],
+            "md": "* Collected client requirements and delivered tailored application solutions.\n* Worked with the internal team to deploy complete solutions, including software, hardware, and connectivity.\n* Managed project planning and execution; ensured smooth operations at government offices, and addressed risks to keep projects on track.\n* Provided regular status reports and updates to government authorities.\n* Trained stakeholders on how to use the application effectively.\n* On-boarded vendors and oversaw day-to-day operations efficiently.\n* Handled invoicing and followed up on collections to ensure timely payments",
+            "ordered": false,
+            "bbox": [
+              {
+                "h": 110.5,
+                "w": 439.05,
+                "x": 95.09,
+                "y": 279.4,
+                "confidence": 0.98,
+                "end_index": 608,
+                "label": "list",
+                "start_index": 0
+              }
+            ],
+            "type": "list"
+          },
+          {
+            "md": "**Certification**",
+            "value": "Certification",
+            "bbox": [
+              {
+                "h": 8.756680163871987,
+                "w": 58.628529320693595,
+                "x": 79.83125029773247,
+                "y": 400.2593297446646,
+                "confidence": 0.96,
+                "end_index": 16,
+                "label": "paragraph_title",
+                "start_index": 0
+              }
+            ],
+            "type": "text"
+          },
+          {
+            "md": "I, certify that to the best of my knowledge and belief, this CV correctly describes myself, my qualifications, and my experience. I understand that any willful misstatement described herein may lead to my disqualification or dismissal, if engaged.",
+            "value": "I, certify that to the best of my knowledge and belief, this CV correctly describes myself, my qualifications, and my experience. I understand that any willful misstatement described herein may lead to my disqualification or dismissal, if engaged.",
+            "bbox": [
+              {
+                "h": 34.84800000000001,
+                "w": 445.536,
+                "x": 79.56,
+                "y": 420.552,
+                "confidence": 0.87,
+                "end_index": 246,
+                "label": "text",
+                "start_index": 0
+              }
+            ],
+            "type": "text"
+          },
+          {
+            "md": "Additionally, I also certify that I shall be available for the entire duration of the contract.",
+            "value": "Additionally, I also certify that I shall be available for the entire duration of the contract.",
+            "bbox": [
+              {
+                "h": 10.776059451219474,
+                "w": 414.86502649818976,
+                "x": 79.52045082650534,
+                "y": 484.6347113185976,
+                "confidence": 0.94,
+                "end_index": 94,
+                "label": "text",
+                "start_index": 0
+              }
+            ],
+            "type": "text"
+          },
+          {
+            "caption": "signature: Mukesh",
+            "md": "![signature: Mukesh](page_6_image_1_v2.jpg)",
+            "url": "page_6_image_1_v2.jpg",
+            "bbox": [
+              {
+                "h": 39.075430163871985,
+                "w": 128.39788133574694,
+                "x": 82.33039181592987,
+                "y": 523.6811375762195,
+                "confidence": 0.95,
+                "end_index": 42,
+                "label": "image",
+                "start_index": 0
+              }
+            ],
+            "type": "image"
+          },
+          {
+            "md": "**Signature of staff member**",
+            "value": "Signature of staff member",
+            "bbox": [
+              {
+                "h": 10.819305926067075,
+                "w": 124.79883366282394,
+                "x": 77.74513844559831,
+                "y": 564.2545841272866,
+                "confidence": 0.9,
+                "end_index": 28,
+                "label": "caption",
+                "start_index": 0
+              }
+            ],
+            "type": "text"
+          },
+          {
+            "md": "**Date: <u>01/10/2025</u>**",
+            "value": "Date: <u>01/10/2025</u>",
+            "bbox": [
+              {
+                "h": 10.29600000000005,
+                "w": 78.33600000000007,
+                "x": 437.58,
+                "y": 564.696,
+                "confidence": 0.95,
+                "end_index": 26,
+                "label": "text",
+                "start_index": 0
+              }
+            ],
+            "type": "text"
+          }
+        ],
+        "page_height": 792.0,
+        "page_number": 6,
+        "page_width": 612.0,
+        "success": true
+      }
+    ]
+  },
+  "job_metadata": {
+    "state_transitions": {
+      "pending_at": "2026-05-12T14:44:39.763262Z",
+      "throttled_at": "2026-05-12T14:44:40.004587Z",
+      "running_at": "2026-05-12T14:44:40.134257Z",
+      "completed_at": "2026-05-12T14:45:02.701129Z",
+      "failed_at": null,
+      "cancelled_at": null
+    },
+    "pdf-pages": 6,
+    "pdf-real-pages": 6,
+    "pdf-rawTextLength": 16277,
+    "pdf-mdLength": 15422,
+    "pdf-time": 15994,
+    "pdf-ocrTime": 0,
+    "pdf-image-convertTime": 0,
+    "pdf-pdfToHTMLTime": 0,
+    "pdf-llmTime": 13245,
+    "pdf-inputTokens": 66198,
+    "pdf-outputTokens": 4328,
+    "pdf-image-ocr-count": 6,
+    "pdf-image-ocr-failed-count": 0,
+    "pdf-image-ocr-success-count": 14,
+    "pdf-image-ocr-empty-count": 12,
+    "pdf-image-ocr-hadText-count": 2,
+    "pdf-image-ocr-pixels": 57393118,
+    "pdf-multimodal-time": 0,
+    "pdf-multimodal-pdf2Image": 0,
+    "pdf-model": null,
+    "pdf-high-res-ocr": 6,
+    "model_invocations": [
+      {
+        "page_number": 6,
+        "model": "gemini-3.0-flash",
+        "task": "parse_page_with_agent",
+        "reason": "primary",
+        "attempt": 1,
+        "status": "success",
+        "input_tokens": 10806,
+        "output_tokens": 552
+      },
+      {
+        "page_number": 3,
+        "model": "gemini-3.0-flash",
+        "task": "parse_page_with_agent",
+        "reason": "primary",
+        "attempt": 1,
+        "status": "success",
+        "input_tokens": 11131,
+        "output_tokens": 758
+      },
+      {
+        "page_number": 2,
+        "model": "gemini-3.0-flash",
+        "task": "parse_page_with_agent",
+        "reason": "primary",
+        "attempt": 1,
+        "status": "success",
+        "input_tokens": 10959,
+        "output_tokens": 661
+      },
+      {
+        "page_number": 5,
+        "model": "gemini-3.0-flash",
+        "task": "parse_page_with_agent",
+        "reason": "primary",
+        "attempt": 1,
+        "status": "success",
+        "input_tokens": 11574,
+        "output_tokens": 828
+      },
+      {
+        "page_number": 4,
+        "model": "gemini-3.0-flash",
+        "task": "parse_page_with_agent",
+        "reason": "primary",
+        "attempt": 1,
+        "status": "success",
+        "input_tokens": 11092,
+        "output_tokens": 680
+      },
+      {
+        "page_number": 1,
+        "model": "gemini-3.0-flash",
+        "task": "parse_page_with_agent",
+        "reason": "primary",
+        "attempt": 1,
+        "status": "success",
+        "input_tokens": 10636,
+        "output_tokens": 849
+      }
+    ]
+  },
+  "markdown": null,
+  "markdown_full": "\n\n<table>\n  <tbody>\n    <tr>\n        <td rowspan=\"3\"><img src=\"page_1_image_1_v2.jpg\" alt=\"Mukesh Kumar photo\"></td>\n<td>Staff Name</td>\n<td>Mukesh Kumar - PMP</td>\n        <td colspan=\"2\"></td>\n    </tr>\n<tr>\n        <td>Date of Birth</td>\n<td>20ᵗʰ February 1981</td>\n        <td colspan=\"2\"></td>\n    </tr>\n<tr>\n        <td>Education</td>\n<td>* Post Graduate Certificate in Cyber Security Management &amp; Data Science from IIM Nagpur<br/>* Post Graduate Diploma in Management with IT Project Management from Prin. L.N. Welingkar Institute of Management Development &amp; Research<br/>* Master’s in computer application | Indira Gandhi National Open University<br/>* Bachelor’s in computer application | Indira Gandhi National Open University</td>\n        <td colspan=\"2\"></td>\n    </tr>\n<tr>\n        <td>Summary of key trainings, certifications &amp; Award</td>\n        <td colspan=\"2\"><strong>Training/Certification:</strong><br/>* PMP(Id-4181762)<br/>* Prince2<br/>* PMEC<br/>* Lean Six Sigma White Belt<br/>* Oracle Certified Foundations Associate<br/><strong>Awards:</strong><br/>‘Kudos’ Award by KPMG India Services LLP<br/>‘Best Performer’ Award by SCS Tech Pvt. Ltd.<br/>‘Eagle VIII Achievers’ Award by Datamatics Global Solution Limited</td>\n        <td colspan=\"2\"></td>\n    </tr>\n<tr>\n        <th rowspan=\"7\">EmploymentRecord</th>\n        <th>From</th>\n        <th>To</th>\n        <th>Company</th>\n        <th>Position Held</th>\n    </tr>\n<tr>\n        <td>June 2023</td>\n<td>Till Date</td>\n<td>KPMG Assurance and Consulting Services LLP</td>\n<td>Specialist</td>\n    </tr>\n<tr>\n        <td>October 2021</td>\n<td>June 2023</td>\n<td>Arceus Infotech Pvt Ltd.</td>\n<td>General Manager</td>\n    </tr>\n<tr>\n        <td>October 2018</td>\n<td>October 2021</td>\n<td>SCS Tech India Pvt. Ltd.</td>\n<td>General Manager</td>\n    </tr>\n<tr>\n        <td>June 2017</td>\n<td>October 2018</td>\n<td>KPMG (TPA)</td>\n<td>Consultant</td>\n    </tr>\n<tr>\n        <td>February 2013</td>\n<td>May 2017</td>\n<td>Datamatics Global Services Ltd.</td>\n<td>Manager</td>\n    </tr>\n<tr>\n        <td>December 2007</td>\n<td>January 2013</td>\n<td>Sify Software Limited</td>\n<td>Project Coordinator</td>\n    </tr>\n<tr>\n        <td>Brief Profile</td>\n        <td colspan=\"2\">With over 17+ years of experience in IT leadership, I specialize in Technology Consulting, Project Management and Pre-Sales. Throughout my career, I have driven business success by delivering strategic technology solutions across diverse industries. My approach emphasizes thorough project analysis, optimizing infrastructure, and adopting automation to address dynamic business demands.</td>\n        <td colspan=\"2\"></td>\n    </tr>\n<tr>\n        <td>Countries of Work Experience</td>\n        <td colspan=\"2\">India</td>\n        <td colspan=\"2\"></td>\n    </tr>\n<tr>\n        <td>Languages</td>\n        <td colspan=\"2\">English, Hindi,</td>\n        <td colspan=\"2\"></td>\n    </tr>\n<tr>\n        <td colspan=\"3\">Work Undertaken that Best Illustrates Capability to Handle the Task Assigned</td>\n        <td colspan=\"2\"></td>\n    </tr>\n  </tbody>\n</table>\n\n\n\n---\n\n**Name of assignment of project:** PMU Consultant for Maharashtra Housing and Area Development Authority (MHADA)\n\n**Duration:** April 2025 – Till Date\n\n**Location:** Mumbai, Maharashtra\n\n**Client: Maharashtra Housing and Area Development Authority (MHADA)**\n\n**Main Project Feature:**\n\nThe Maharashtra Housing and Area Development Authority (MHADA) is undertaking a digital transformation to modernize its operations. The initiative includes a cloud-hosted, integrated system for land and project management, vendor and visitor services, and mobile access. It will feature GIS-based dashboards for spatial analysis and decision-making. This transformation aims to improve efficiency, transparency, and citizen-centric service delivery across MHADA’s departments. KPMG has been selected as the IT consulting firm to support MHADA and assist in the formulation of IT procurement, execution of projects, and provision of consultancy on ICT-related services.\n\n**Position held:** Specialist\n\n**Activities Performed:**\n\n* PMU Consultant Activities focus on project execution, coordination, and stakeholder engagement for diverse projects.\n    - Monitor progress of IDTS modules (Land Management, CMS, etc.).\n    - Ensure alignment with functional and technical requirements.\n    - Conduct demonstrations for stakeholders and collect feedback.\n    - Provide regular updates to MHADA leadership.\n    - Manage issue resolution and escalation.\n    - Evaluating resource utilization (VMs, Storage, Security applications on AWS Cloud.\n    - Oversee the migration of operational applications to the Azure cloud platform.\n    - Ensure stakeholder engagement, validate post-migration performance, and support training and adoption of the new system.\n    - Reviewing document, ensuring compliance with standards, and maintaining updated documentation throughout the project lifecycle.\n    - Monitoring and optimization of resource utilization with future planning.\n    - Coordinate with support teams to respond to system outages, hardware failures, or security breaches.\n\n**Name of assignment of project:** Consultant for **Gujarat Informatics Limited** (Department of Science and Technology, Government of Gujarat)\n\n**Duration:** June 2023 – March 2025\n\n**Location:** Gandhinagar, Gujarat\n\n**Client: Gujarat Informatics Limited**\n\n**Main Project Feature:**\n\n---\n\nGujarat Informatics Ltd. (GIL) is established as the nodal agency for IT development in the State of Gujarat under Department of Science and Technology (GoG). The company has a clear objective to promote IT and accelerate the process of E- Governance in the state. Along with the announcement of the IT policy, the Government has enabled GIL to effectively implement IT projects in the state. KPMG, selected as IT Consulting firm to support GIL and assist in formulation of IT/ITeS Policy, ESDM Policy, Start-up Policy, eGovernance Policy, IT Procurement through drafting RFP, DPR, EoI, managing bid process, contract management service and consultancy on distinct ICT related services.\n\n**Position held**: Specialist\n\n**Activities Performed:**\n\n* Develop comprehensive scopes and innovative solutions, standardize technical specifications for bidding processes, and create detailed RFPs for diverse projects.\n    - Colocation of datacenter assets\n    - Managed Security Service at Data Centre\n    - Ticketing solution for Tourism\n    - Digital monitoring of Agriculture, Crops and Production estimation\n    - ePOS machine and ePoS electronic Weighing machine\n    - AI/ML solution on CCTV & Videos for predictive analysis to benefit citizen’s\n    - Forest Monitoring through Satellite and IoT\n    - Enterprise Email Solution\n    - Upgrading Data Centre\n* Review and analyze RFP, DPR, and EoI documents to ensure a comprehensive understanding of project requirements, technical and financial feasibility, and vendor qualifications.\n* Cyber Security: Identify challenges in existing policies, draft updated policies, share findings, and outline tasks for red team exercises and security services at data centers.\n\n**Name of assignment of project**: SITC ERP and ICCC for Diu Smart City\n**Duration**: Jan 2022 to June 2023\n**Location**: Mumbai\n**Client**: Diu Smart City\n**Project Cost**: 80 Cr\n**Main project features:**\n\nTo establish a collaborative framework where input from different functional departments of Diu Municipal Corporation (DMC) and other stakeholders such as Transport, Hospitals, Fire, Police, etc. can be assimilated and analysed on a single platform and further this aggregated city level information can be converted to actionable intelligence, which would be propagated to relevant stakeholders and citizens. The solution comprises of:\n\n* Enterprise Resource Planning (ERP)\n* Integrated Command and Control Centre (ICCC)\n* Data Centre (DC) & Disaster Recovery (DR)\n* City Surveillance\n* Parking Management\n* Smart Kiosk\n\n---\n\n* Variable Messaging Display (VMD)\n* Smart Poles with Environmental Sensors and Public address system\n\n**Position held: Project Manager**\n\n**Activities Performed:**\n\n* Orchestrated RFP/RFQ response processes, ensuring compliance with functional and technical requirements, and devising comprehensive solutions covering hardware, software, and services.\n* Recognizing and managing project risks, with a focus on strategizing for disaster recovery to ensure seamless delivery and operation.\n* Assessing OEMs/Vendors, leading contract negotiations, and procuring essential software and infrastructure for projects.\n* Project Kickoff, Site survey, Drafting HLD and Planning for execution of ERP and ICCC solution at Diu Smart City.\n\n**Name of assignment of project:** Hybrid Security Operation Center for Govt of Maharashtra\n**Duration:** Sept 2019 to June 2021\n**Location:** Mumbai\n**Client:** Government of Maharashtra\n**Project Cost:** 35 Cr\n\n**Main project features:**\n\nDIT, Maharashtra wants to set-up state-of-art scalable hybrid SOC to reduce the time between detection and response and minimize the business impact of any cyber-attack with continual advanced security monitoring. DIT also wants to establish the SOC under the principle of dual incident monitoring wherein each incident would be monitored parallelly at two layers so that no critical incident is missed by DIT as an organization. Hybrid SOC will provide the advanced cyber threat monitoring functionality spanning across the SDC and multiple GCC’s. SOC operation set-up including expert monitoring environment for 24x7 monitoring, state of the art analytics and forensic tools, GRC tool, DLP, CASB, global security OEM advanced incident response service and threat intelligence to detect advanced attacks.\n\n.\n\n**Position held: General Manager**\n\n**Activities Performed:**\n\n▪ Efficiently oversaw project vendors, involving in-depth technical understanding, alignment with client requirements, and coordination of software and infrastructure delivery plans, contract negotiations, onboarding procedures, and risk mitigation strategies.\n▪ Collaborated with diverse stakeholders to compile comprehensive project proposals. Managed the entire RFP/RFQ process, ensuring both functional and technical compliance, and meticulously prepared solutions and proposals.\n▪ Proactively analyzed customer requirements to identify suitable technical solutions that addressed both customer needs and company objectives.\n▪ Headed a project team, with responsibilities encompassing team leadership, risk evaluation, disaster recovery planning, enhancing team efficiency, and providing regular updates to business owners and stakeholders.\n▪ Successfully implemented a Hybrid Security Operations Center (SOC) for the State of Maharashtra, enhancing workload monitoring for State Data Centers and the Government\n\n---\n\nCommunity Cloud through a unified dashboard. This involved deploying components like SIEM, GRC, DLP, and CASB to bolster government and citizen data security against cyber threats and malware.\n\n**Name of assignment of project**: Implementation of HMIS across **MCGM Health Care Centers**\n\n**Duration**: June 2017 to Sep 2018\n\n**Location**: Mumbai\n\n**Client**: Municipal Corporation of Greater Mumbai (MCGM)\n\n**Project Cost**: 97 Cr\n\nMain project features:\n\nThe project aimed at alleviated HMIS processes for patients and streamlining administrative burdens, ensuring transparency and data security while providing convenient access to patient information and serving as a decision support tool for top management. MCGM Health Care comprises of major hospitals, Specialized hospital and Dispensaries across Mumbai.\n\n**Position held**: Consultant\n\nActivities Performed:\n\n* Led PMO role in Procurement and implementation Health Care Management System (HMIS) for MCGM hospitals & health care units in Mumbai. This involved custom web application development and infrastructure setup.\n* Evaluated application wireframes, modules, and integrations to ensure HMIS met quality and performance standards. Oversaw key project milestones and reporting.\n* Facilitated User Acceptance Testing (UAT) and load testing for HMIS application in a test environment.\n* Played a vital role in process implementation and improvement, including monitoring SLAs, payments, and audit compliance.\n* Conducted requirement gathering, re-engineered business processes, and provided TO-BE process recommendations for procuring infrastructure and third-party software for HMIS.\n* Drafted Request for Proposal (RFP) for procurement of infrastructure and software license for Major Hospitals, specialty hospital and 5 health care units. Assisted the client in addressing pre bid queries, corrigendum, technical and commercial evaluations, bid negotiations and onboarding.\n\n**Name of assignment of project**: Digitization and Archival of Government Record for **MMRDA**.\n\n**Duration**: April 2013 to July 2016\n\n**Location**: Mumbai\n\n**Client**: Mumbai Metropolitan Region Development Authority (MMRDA)\n\nMain project features:\n\nThe project was designed to give users quick access to documents based on their roles and help make decisions faster. It also lets departments add comments and track document versions.\n\n**Position held**: Assistant Manager\n\nActivities Performed:\n\n* Worked with clients to gather requirements and deliver customized application solutions.\n* Coordinated with the development team to adapt open-source COTS tools to project needs.\n* Set up and improved operational processes for better efficiency and results.\n* Handled vendor onboarding and managed daily operations effectively.\n\n---\n\n* Collaborated with the team to deliver projects on time, analyzed risks, and took action to reduce them.\n\n**Name of assignment of project:** Digitization and Archival of Government Record for **GOM**.\n\n**Duration:** Feb 2011 to June 2014\n\n**Location: Mumbai**\n\n**Client:** DIT, Government of Maharashtra\n\n**Main project features:**\n\nDIT Maharashtra implemented a Document Management System (DMS) for scanning, storing, and retrieving official records at Mantralaya and other government offices. Building on this, the government decided to start scanning and digitizing of records and files in all government offices across the state.\n\n**Position held:** Project Coordinator\n\n**Activities Performed:**\n\n* Collected client requirements and delivered tailored application solutions.\n* Worked with the internal team to deploy complete solutions, including software, hardware, and connectivity.\n* Managed project planning and execution; ensured smooth operations at government offices, and addressed risks to keep projects on track.\n* Provided regular status reports and updates to government authorities.\n* Trained stakeholders on how to use the application effectively.\n* On-boarded vendors and oversaw day-to-day operations efficiently.\n* Handled invoicing and followed up on collections to ensure timely payments\n\n**Certification**\n\nI, certify that to the best of my knowledge and belief, this CV correctly describes myself, my qualifications, and my experience. I understand that any willful misstatement described herein may lead to my disqualification or dismissal, if engaged.\n\nAdditionally, I also certify that I shall be available for the entire duration of the contract.\n\n![signature: Mukesh](page_6_image_1_v2.jpg)\n\n**Signature of staff member**\n\n**Date: <u>01/10/2025</u>**",
+  "metadata": {
+    "pages": [
+      {
+        "page_number": 1,
+        "confidence": 0.972,
+        "cost_optimized": false,
+        "original_orientation_angle": 0,
+        "printed_page_number": null,
+        "slide_section_name": null,
+        "speaker_notes": null,
+        "triggered_auto_mode": false
+      },
+      {
+        "page_number": 2,
+        "confidence": 1.0,
+        "cost_optimized": false,
+        "original_orientation_angle": 0,
+        "printed_page_number": null,
+        "slide_section_name": null,
+        "speaker_notes": null,
+        "triggered_auto_mode": false
+      },
+      {
+        "page_number": 3,
+        "confidence": 1.0,
+        "cost_optimized": false,
+        "original_orientation_angle": 0,
+        "printed_page_number": null,
+        "slide_section_name": null,
+        "speaker_notes": null,
+        "triggered_auto_mode": false
+      },
+      {
+        "page_number": 4,
+        "confidence": 1.0,
+        "cost_optimized": false,
+        "original_orientation_angle": 0,
+        "printed_page_number": null,
+        "slide_section_name": null,
+        "speaker_notes": null,
+        "triggered_auto_mode": false
+      },
+      {
+        "page_number": 5,
+        "confidence": 1.0,
+        "cost_optimized": false,
+        "original_orientation_angle": 0,
+        "printed_page_number": null,
+        "slide_section_name": null,
+        "speaker_notes": null,
+        "triggered_auto_mode": false
+      },
+      {
+        "page_number": 6,
+        "confidence": 0.968,
+        "cost_optimized": false,
+        "original_orientation_angle": 0,
+        "printed_page_number": null,
+        "slide_section_name": null,
+        "speaker_notes": null,
+        "triggered_auto_mode": false
+      }
+    ]
+  },
+  "raw_parameters": null,
+  "result_content_metadata": null,
+  "text": null,
+  "text_full": "                               Staff Name        Mukesh Kumar - PMP\n                               Date of Birth     20ᵗʰ February 1981\n                               Education         •     Post  Graduate  Certificate        in   Cyber     Security\n                                                       Management & Data Science from IIM Nagpur\n                                                 •     Post Graduate Diploma in Management with IT Project\n                                                       Management from Prin. L.N. Welingkar Institute of\n                                                       Management Development & Research\n                                                 •     Master’s   in  computer application     |  Indira   Gandhi\n                                                       National Open University\n                                                 •     Bachelor’s in computer application | Indira Gandhi\n                                                       National Open University\n\n                               Training/Certification:\n                                •     PMP(Id-4181762)\n                                •     Prince2\nSummary of key                  •     PMEC\ntrainings, certifications       •     Lean Six Sigma White Belt\n& Award                         •     Oracle Certified Foundations Associate\n                               Awards:\n                               ‘Kudos’ Award by KPMG India Services LLP\n                               ‘Best Performer’ Award by SCS Tech Pvt. Ltd.\n                               ‘Eagle VIII Achievers’ Award by Datamatics Global Solution Limited\n                               From              To               Company                      Position Held\n                                                                  KPMG Assurance\nEmploymentRecord              June 2023         Till Date         and Consulting               Specialist\n                                                                  Services LLP\n                              October 2021      June 2023         Arceus Infotech Pvt          General Manager\n                                                                  Ltd.\n                              October 2018      October 2021      SCS Tech India Pvt.          General Manager\n                                                                  Ltd.\n                              June 2017         October 2018      KPMG (TPA)                   Consultant\n                              February 2013     May 2017          Datamatics Global            Manager\n                                                                  Services Ltd.\n                              December 2007 January 2013          Sify Software Limited        Project Coordinator\n                               With over 17+     years of experience in IT leadership, I specialize in\n                               Technology Consulting, Project Management and Pre-Sales. Throughout\nBrief Profile                  my career, I have driven business success by                delivering    strategic\n                               technology solutions across diverse industries. My approach emphasizes\n                               thorough     project    analysis,  optimizing  infrastructure,     and    adopting\n                               automation to address dynamic business demands.\nCountries of Work              India\nExperience\nLanguages                      English, Hindi,\n\nWork Undertaken that Best Illustrates Capability to Handle the Task Assigned\n\n---\n\nName of assignment of project: PMU Consultant for Maharashtra Housing and Area Development\nAuthority (MHADA)\n\n Duration: April 2025 – Till Date\n Location: Mumbai, Maharashtra\n Client: Maharashtra Housing and Area Development Authority (MHADA)\n Main Project Feature:\n\n The Maharashtra Housing and Area Development Authority (MHADA) is undertaking a digital\n transformation to modernize its operations. The initiative includes a cloud-hosted, integrated system for\n land and project management, vendor and visitor services, and mobile access. It will feature GIS-based\n dashboards for spatial analysis and decision-making. This transformation aims to improve efficiency,\n transparency, and citizen-centric service delivery across MHADA’s departments. KPMG has been\n selected as the IT consulting firm to support MHADA and assist in the formulation of IT procurement,\n execution of projects, and provision of consultancy on ICT-related services.\n\n Position held: Specialist\n Activities Performed:\n •     PMU Consultant Activities focus on project execution, coordination, and stakeholder\n       engagement for diverse projects.\n        •     Monitor progress of IDTS modules (Land Management, CMS, etc.).\n        •     Ensure alignment with functional and technical requirements.\n        •     Conduct demonstrations for stakeholders and collect feedback.\n        •     Provide regular updates to MHADA leadership.\n        •     Manage issue resolution and escalation.\n        •     Evaluating resource utilization (VMs, Storage, Security applications on AWS Cloud.\n        •     Oversee the migration of operational applications to the Azure cloud platform.\n        •     Ensure stakeholder engagement, validate post-migration performance, and support\n              training and adoption of the new system.\n        •     Reviewing document, ensuring compliance with standards, and maintaining updated\n              documentation throughout the project lifecycle.\n        •     Monitoring and optimization of resource utilization with future planning.\n        •     Coordinate with support teams to respond to system outages, hardware failures, or\n              security breaches.\nName of assignment of project: Consultant for Gujarat Informatics Limited (Department of\nScience and Technology, Government of Gujarat)\n\n Duration: June 2023 – March 2025\n Location: Gandhinagar, Gujarat\n Client: Gujarat Informatics Limited\n Main Project Feature:\n\n---\n\nGujarat Informatics Ltd. (GIL) is established as the nodal agency for IT development in the State of\nGujarat under Department of Science and Technology (GoG). The company has a clear objective to\npromote IT and accelerate the process of E- Governance in the state. Along with the announcement of\nthe IT policy, the Government has enabled GIL to effectively implement IT projects in the state. KPMG,\nselected as IT Consulting firm to support GIL and assist in formulation of IT/ITeS Policy, ESDM Policy,\nStart-up Policy, eGovernance Policy, IT Procurement through drafting RFP, DPR, EoI, managing bid\nprocess, contract management service and consultancy on distinct ICT related services.\n\nPosition held: Specialist\nActivities Performed:\n•     Develop comprehensive scopes and innovative solutions, standardize technical specifications\n      for bidding processes, and create detailed RFPs for diverse projects.\n      •     Colocation of datacenter assets\n      •     Managed Security Service at Data Centre\n      •     Ticketing solution for Tourism\n      •     Digital monitoring of Agriculture, Crops and Production estimation\n      •     ePOS machine and ePoS electronic Weighing machine\n      •     AI/ML solution on CCTV & Videos for predictive analysis to benefit citizen’s\n      •     Forest Monitoring through Satellite and IoT\n      •     Enterprise Email Solution\n      •     Upgrading Data Centre\n •     Review and analyze RFP, DPR, and EoI documents to ensure a comprehensive understanding\n       of project requirements, technical and financial feasibility, and vendor qualifications.\n •     Cyber Security: Identify challenges in existing policies, draft updated policies, share findings,\n       and outline tasks for red team exercises and security services at data centers.\nName of assignment of project: SITC ERP and ICCC for Diu Smart City\nDuration: Jan 2022 to June 2023\nLocation: Mumbai\nClient: Diu Smart City\nProject Cost: 80 Cr\nMain project features:\nTo establish a collaborative framework where input from different functional departments of Diu Municipal\nCorporation (DMC) and other stakeholders such as Transport, Hospitals,        Fire, Police, etc. can be\nassimilated and analysed on a single platform and further this aggregated city level information can be\nconverted to actionable intelligence, which would be propagated to relevant stakeholders and citizens.\nThe solution comprises of:\n •     Enterprise Resource Planning (ERP)\n •     Integrated Command and Control Centre (ICCC)\n •     Data Centre (DC) & Disaster Recovery (DR)\n •     City Surveillance\n •     Parking Management\n •     Smart Kiosk\n\n---\n\n •     Variable Messaging Display (VMD)\n •     Smart Poles with Environmental Sensors and Public address system\n\nPosition held: Project Manager\nActivities Performed:\n •     Orchestrated RFP/RFQ response processes, ensuring compliance with functional and\n       technical requirements, and devising comprehensive solutions covering hardware, software,\n       and services.\n •     Recognizing and managing project risks, with a focus on strategizing for disaster recovery to\n       ensure seamless delivery and operation.\n •     Assessing OEMs/Vendors, leading contract negotiations, and procuring essential software and\n       infrastructure for projects.\n •     Project Kickoff, Site survey, Drafting HLD and Planning for execution of ERP and ICCC\n       solution at Diu Smart City.\nName of assignment of project: Hybrid Security Operation Center for Govt of Maharashtra\nDuration: Sept 2019 to June 2021\nLocation: Mumbai\nClient: Government of Maharashtra\nProject Cost: 35 Cr\nMain project features:\nDIT, Maharashtra wants to set-up state-of-art scalable hybrid SOC to reduce the time between detection\nand response and minimize the business impact of any cyber-attack with continual advanced security\nmonitoring. DIT also wants to establish the SOC under the principle of dual incident monitoring wherein\neach incident would be monitored parallelly at two layers so that no critical incident is missed by DIT as\nan organization. Hybrid SOC will provide the advanced cyber threat monitoring functionality spanning\nacross the SDC and multiple GCC’s. SOC operation set-up including expert monitoring environment for\n24x7 monitoring, state of the art analytics and forensic tools, GRC tool, DLP, CASB, global security OEM\nadvanced incident response service and threat intelligence to detect advanced attacks.\n.\nPosition held: General Manager\nActivities Performed:\n ▪     Efficiently oversaw project vendors, involving in-depth technical understanding, alignment with\n       client requirements, and coordination of software and infrastructure delivery plans, contract\n       negotiations, onboarding procedures, and risk mitigation strategies.\n ▪     Collaborated with diverse stakeholders to compile comprehensive project proposals. Managed the\n       entire RFP/RFQ process, ensuring both functional and technical compliance, and meticulously\n       prepared solutions and proposals.\n ▪     Proactively analyzed customer requirements to identify suitable technical solutions that addressed\n       both customer needs and company objectives.\n ▪     Headed a project team, with responsibilities encompassing team leadership, risk evaluation,\n       disaster recovery planning, enhancing team efficiency, and providing regular updates to business\n       owners and stakeholders.\n ▪     Successfully implemented a Hybrid Security Operations Center (SOC) for the State of\n       Maharashtra,  enhancing workload monitoring for State Data Centers and the Government\n\n---\n\n       Community Cloud through a unified dashboard. This involved deploying components like SIEM,\n       GRC, DLP, and CASB to bolster government and citizen data security against cyber threats and\n       malware.\nName of assignment of project: Implementation of HMIS across MCGM Health Care Centers\nDuration: June 2017 to Sep 2018\nLocation: Mumbai\nClient: Municipal Corporation of Greater Mumbai (MCGM)\nProject Cost: 97 Cr\nMain project features:\nThe project aimed at alleviated HMIS processes for patients and streamlining administrative burdens,\nensuring transparency and data security while providing convenient access to patient information and\nserving as a decision support tool for top management. MCGM Health Care comprises of major\nhospitals, Specialized hospital and Dispensaries across Mumbai.\nPosition held: Consultant\nActivities Performed:\n ▪     Led PMO role in Procurement and implementation Health Care Management System (HMIS) for\n       MCGM hospitals & health care units in Mumbai. This involved custom web application\n       development and infrastructure setup.\n ▪     Evaluated application wireframes, modules, and integrations to ensure HMIS met quality and\n       performance standards. Oversaw key project milestones and reporting.\n ▪     Facilitated User Acceptance Testing (UAT) and load testing for HMIS application in a test\n       environment.\n ▪     Played a vital role in process implementation and improvement, including monitoring SLAs,\n       payments, and audit compliance.\n ▪     Conducted requirement gathering, re-engineered business processes, and provided TO-BE\n       process recommendations for procuring infrastructure and third-party software for HMIS.\n ▪     Drafted Request for Proposal (RFP) for procurement of infrastructure and software license for\n       Major Hospitals, specialty hospital and 5 health care units. Assisted the client in addressing pre\u0002\n       bid queries, corrigendum, technical and commercial evaluations, bid negotiations and onboarding.\nName of assignment of project: Digitization and Archival of Government Record for MMRDA.\nDuration: April 2013 to July 2016\nLocation: Mumbai\nClient: Mumbai Metropolitan Region Development Authority (MMRDA)\nMain project features:\nThe project was designed to give users quick access to documents based on their roles and help make\ndecisions faster. It also lets departments add comments and track document versions.\nPosition held: Assistant Manager\nActivities Performed:\n ▪     Worked with clients to gather requirements and deliver customized application solutions.\n ▪     Coordinated with the development team to adapt open-source COTS tools to project needs.\n ▪     Set up and improved operational processes for better efficiency and results.\n ▪     Handled vendor onboarding and managed daily operations effectively.\n\n---\n\n  ▪     Collaborated with the team to deliver projects on time, analyzed risks, and took action to reduce\n        them.\nName of assignment of project: Digitization and Archival of Government Record for GOM.\nDuration: Feb 2011 to June 2014\nLocation: Mumbai\nClient: DIT, Government of Maharashtra\nMain project features:\nDIT Maharashtra implemented a Document Management System (DMS) for scanning, storing, and\nretrieving official records at Mantralaya and other government offices. Building on this, the government\ndecided to start scanning and digitizing of records and files in all government offices across the state.\nPosition held: Project Coordinator\nActivities Performed:\n  ▪     Collected client requirements and delivered tailored application solutions.\n  ▪     Worked with the internal team to deploy complete solutions, including software, hardware, and\n        connectivity.\n  ▪     Managed project planning and execution; ensured smooth operations at government offices, and\n        addressed risks to keep projects on track.\n  ▪     Provided regular status reports and updates to government authorities.\n  ▪     Trained stakeholders on how to use the application effectively.\n  ▪     On-boarded vendors and oversaw day-to-day operations efficiently.\n  ▪     Handled invoicing and followed up on collections to ensure timely payments\n Certification\n I, certify that to the best of my knowledge and belief, this CV correctly describes myself, my\n qualifications, and my experience. I understand that any willful misstatement described herein\n may lead to my disqualification or dismissal, if engaged.\n\n\nAdditionally, I also certify that I shall be available for the entire duration of the contract.\n\n\n\n_______________________\nSignature of staff member     Date: 01/\n                              10/2025",
+  "debug": null
+}
